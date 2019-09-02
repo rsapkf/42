@@ -1,5 +1,7 @@
 * Sites/
     * [Project Euler](https://projecteuler.net/)
+    * [Kaggle](https://kaggle.com/)
+    * [HackerRank](https://www.hackerrank.com/)
     * [Ckeckio](https://checkio.org)
     * [JavaScript30](https://www.javascript30.com)
     * [TopCoder](https://www.topcoder.com/)
@@ -11,6 +13,4 @@
     * [PythonChallenge](http://www.pythonchallenge.com/)
     * [CodeSignal](https://codesignal.com/)
     * [HackerEarth](https://hackerearth.com/)
-    * [Kaggle](https://kaggle.com/)
-    * [HackerRank](https://www.hackerrank.com/)
     * [practiceJS](https://practicejs.com/) - some JavaScript coding exercises put into a web app so they can be done on a phone.

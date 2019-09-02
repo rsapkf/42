@@ -21,14 +21,14 @@ More:
 * [Tutanota](https://www.tutanota.com/)
 
 ### Email Clients:
-* [Mozilla Thunderbird]()
+* [Mozilla Thunderbird](https://www.thunderbird.net/)
 
 ### Operating Systems:
 For PC:
 * [Qubes](https://www.qubes-os.org/)
 * [Tails](https://tails.boum.org/)
 * [Whonix](https://www.whonix.org/)
-* Any other Linux distribution- [Ubuntu](https://www.ubuntu.com/), [Mint](https://linuxmint.com/), [Arch](https://www.archlinux.org/), [Fedora](https://getfedora.org/), [CentOS](https://www.centos.org/), [Kali](https://www.kali.org/)
+* [Any other Linux distribution](linux-configuration#distros)
 
 For Mobile:
 * [LineageOS](https://www.lineageos.org/)
