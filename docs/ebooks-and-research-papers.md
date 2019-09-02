@@ -7,7 +7,6 @@ Disclaimer: This list contains some sites that might have concerns over legality
     * [Archive.org](https://archive.org/)
     * [BookLid.org](http://en.booklid.org/)
     * [OpenStax](https://openstax.org/)
-    * [Google Books](https://books.google.com/)
 
 * GitHub/
     * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)

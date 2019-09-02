@@ -1,12 +1,14 @@
 # Table of Contents:
 * [Text Editors](#text-editors)
-	* [Vim](#vim)
-	* [Emacs](#emacs)
-	* [Nano](#nano)
-	* [Sublime Text](#sublime-text) `freemium`
-	* [Atom](#atom)
-	* [VSCode](#vscode)
-	* [Brackets](#brackets)
+	* [Text Based Editors]
+		* [Vim](#vim)
+		* [Emacs](#emacs)
+	* [Graphical Editors]
+		* [Atom](#atom)
+		* [VSCode](#vscode)
+		* [Brackets](#brackets)
+		* [Sublime Text](#sublime-text) `freemium`
+		* [Nano](#nano)
 * [IDEs](#ides)
 	* [Pycharm](#pycharm)
 	* [IntelliJ](#intellij)
@@ -16,6 +18,7 @@
 ---
 
 ## Text Editors:
+### Text Based Editors
 * #### Vim:
 	* Sites/
 		* [VimDocs](http://vimdoc.sourceforge.net/)
@@ -26,25 +29,31 @@
 	* Command Line Tools/
 		* Install Vim and type ```vimtutor``` in your terminal.
 
+	* GitHub/
+		* [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
+
 * #### Emacs:
 	* Sites/
 		* [Official GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
 		* [Emacs is sexy!](https://emacs.sexy/#resources)
 
-* #### Nano:
+### Graphical Editors
+* #### Atom:
 	* Sites/
-		* [Offcial GNU Nano Documentation](https://www.nano-editor.org/docs.php)
+		* [Atom Docs](https://atom.io/docs)
+
+* #### VSCode:
+	* Sites/
+		* [VSCode Docs](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 
 * #### Sublime Text:
 	* Sites/
 		* [Sublime Text Official Documentation](https://www.sublimetext.com/docs/3/)
 		* [Sublime Text Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/)(Recommended by the [Official ST Team](https://www.sublimetext.com/docs/3/))
 
-* #### Atom:
+* #### Nano:
 	* Sites/
-		* [Atom Docs](https://atom.io/docs)
-
-* #### VSCode:
+		* [Offcial GNU Nano Documentation](https://www.nano-editor.org/docs.php)
 
 ---
 
@@ -59,11 +68,11 @@
 
 * #### Eclipse:
 	* Sites/
-		* [Eclipse Documentation]()
+		* [Eclipse Documentation](https://www.eclipse.org/)
 
 * #### Anaconda Python Distribution:
 	* Sites/
-		* [Anaconda Documentation]()
+		* [Anaconda Documentation](https://www.anaconda.com/distribution/)
 
 
 ---
