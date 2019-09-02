@@ -1,21 +1,25 @@
+# Massive Open Online Courses
+
 * Sites/
-    * [edX.org](https://www.edx.org/) - description
-    * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) - description
-    * [CodeAcademy](https://www.codecademy.com/) - description
+    * [edX.org](https://www.edx.org/) 
+    * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) 
+    * [CodeAcademy](https://www.codecademy.com/) 
     * [EXLskills](https://exlskills.com/)
-    * [Lambda School](https://lambdaschool.com/)  paid
-    * [Class-Central](https://www.classcentral.com/) - description
-    * [Coursera](https://www.coursera.org/) - `paid`
-    * [Lynda](https://www.lynda.com/) - `paid`
+    * [Class-Central](https://www.classcentral.com/) 
     * [Cognitive CLass](https://cognitiveclass.ai/)
-    * [LinkedIn Learning](https://www.linkedin.com/learning/) - `paid`
     * [Acedemic Earth](https://www.academicearth.org/)
     * [University of Reddit](http://ureddit.com/)
+    * [OPEN CULTURE](http://www.openculture.com/)
     * [Udacity](https://www.udacity.com/) - `paid`
+    * [Lynda](https://www.lynda.com/) - Moved to [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
+    * [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     * [DataCamp](https://www.datacamp.com/) - `paid`
     * [PluralSight](https://www.pluralsight.com/) - `paid`
-    * [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students - `paid`
-    * [OPEN CULTURE](http://www.openculture.com/)
+    * [Lambda School](https://lambdaschool.com/) `paid`
+    * [Coursera](https://www.coursera.org/) `paid`
+    * [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students `paid`
+
+
 
 * GitHub/
     * [ossu/computer-science](https://github.com/ossu/computer-science)

@@ -207,7 +207,7 @@ Roadmap to Web Development:
 ---
 
 ### DataBases:
-* #### MySQL:
+* #### SQL:
     * Sites/
         * [SQL Tutorial](http://www.sqltutorial.org/)
         * [SQLBolt](https://sqlbolt.com/)

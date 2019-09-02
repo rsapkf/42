@@ -13,3 +13,4 @@
     * [INVIDIOUS](https://invidio.us/) - Alternative Open Source frontend for YouTube
 
 * [The LiveCD List](https://livecdlist.com/about/)
+* [ShareX](https://getsharex.com/) ```Windows Only```

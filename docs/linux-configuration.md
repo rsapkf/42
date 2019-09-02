@@ -1,7 +1,7 @@
 - [ltt Gaming linux](https://www.youtube.com/watch?v=Co6FePZoNgE)
 
 ## Table of Contents
-- [Distros](#distros)
+- [Distros](#distros) 
 - [Desktop Environments](#desktop-environments)
 - [Window Managers](#window-managers)
 - [Program Launchers](#program-launchers)
@@ -16,7 +16,7 @@
 - [YouTube Channels](#youtube-channels)
 
 ### Distros
-- [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/)
+- [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/),
  [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop)
 - [Fedora](https://getfedora.org/)
 - [OpenSUSE](https://opensuse.org/)
@@ -101,6 +101,7 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [w3m](http://w3m.sourceforge.net/)
 
 #### Graphical Applications
+- [VLC](https://www.videolan.org/vlc/)
 - [LibreOffice](https://www.libreoffice.org/)
 - [Transmission](https://transmissionbt.com/)
 - [qBittorrent](https://qbittorrent.org/)
@@ -113,7 +114,8 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [VirtualBox](https://www.virtualbox.org/)
 - [KeePassXC](https://keepassxc.org/)
 - [Pycharm-CE](https://www.jetbrains.com/pycharm/)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
+- [Calibre](https://calibre-ebook.com/)
 
 ### YouTube Channels
 - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith
