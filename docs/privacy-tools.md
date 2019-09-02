@@ -28,7 +28,7 @@ For PC:
 * [Qubes](https://www.qubes-os.org/)
 * [Tails](https://tails.boum.org/)
 * [Whonix](https://www.whonix.org/)
-* [Any other Linux distribution](linux-configuration#distros)
+* [Any other Linux distribution](linux-configuration.md#distros)
 
 For Mobile:
 * [LineageOS](https://www.lineageos.org/)
