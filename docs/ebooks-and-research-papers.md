@@ -16,11 +16,11 @@ Disclaimer: This list contains some sites that might have concerns over legality
 
 ### Research Papers:
 * Sites/
-    * [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) - description
+    * [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
     * [unpaywall.org](https://unpaywall.org/) - [Unpaywall Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/unpaywall/?src=featured)
-    * [arXiv.org](https://arxiv.org/) - description
-    * [lmfdb.org](http://www.lmfdb.org/) - description
-    * [Google Scholar](https://scholar.google.com/) - description
+    * [arXiv.org](https://arxiv.org/)
+    * [lmfdb.org](http://www.lmfdb.org/)
+    * [Google Scholar](https://scholar.google.com/)
 
 * Twitter/
-    * [#ICanHazPDF](https://en.wikipedia.org/wiki/ICanHazPDF) - description
+    * [#ICanHazPDF](https://en.wikipedia.org/wiki/ICanHazPDF)

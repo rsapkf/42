@@ -13,9 +13,9 @@
     * [J Perm](https://www.youtube.com/channel/UCqTVfT9JQqhA6_Hi_h_h97Q)
 
 See Also:
-	* [SpeedCubing.com Wiki](https://www.speedsolving.com/wiki/index.php/Main_Page)
- 	* [List of cubing websites](https://www.speedsolving.com/wiki/index.php/List_of_cubing_websites)
-    * [List of YouTube cubers](https://www.speedsolving.com/wiki/index.php/List_of_cubing_websites)
+* [SpeedCubing.com Wiki](https://www.speedsolving.com/wiki/index.php/Main_Page)
+* [List of cubing websites](https://www.speedsolving.com/wiki/index.php/List_of_cubing_websites)
+* [List of YouTube cubers](https://www.speedsolving.com/wiki/index.php/List_of_cubing_websites)
 
 ## Other 
 * YouTube/
