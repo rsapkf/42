@@ -18,7 +18,6 @@ Roadmap to Web Development:
     - [Back-End Web Frameworks](#back-end-web-frameworks)
 - [DataBases](#databases)
 - [Text Editors and IDEs](#text-editors-and-ides)
-- [Interactive Online Code Editors](#interactive-online-code-editors)
 - [Regular Expressions](#regular-expressions)
 - [Extra Resources](#extra-resources) _**DONOT IGNORE!, EQUALLY AS IMPORATNT**_
 
@@ -69,7 +68,6 @@ Roadmap to Web Development:
         * [Scrimba](https://scrimba.com/) - Interactive way to learn and test HTML, CSS and JavaScript code and lessons on React, Vue and Angular frameworks.
         * [SoloLean](https://www.sololearn.com/) - Learn HTML, CSS, JavaScript, PHP, Ruby, SQL, jQuery, Java, C, C++, C#, Swift on the [Web](https://www.sololearn.com/) or their Mobile App [Google Play](https://play.google.com/store/apps/details?id=com.sololearn) | [App Store](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
         * [LambdaSchool Free Online Web Mini Bootcamp](https://lambdaschool.com/courses/cs/web/bootcamp/) - HTML, CSS, JS
-        * [W3C cheatsheet](https://www.w3.org/2009/cheatsheet/) - Lookup in HTML, JavaScript, CSS, SVG, XPath
 
 
 * #### JavaScript:
@@ -102,7 +100,6 @@ Roadmap to Web Development:
         * [Grid by Example](https://gridbyexample.com/).
         * [HTML periodic table](https://websitesetup.org/html5-periodical-table/)
         * [All The Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
-        * [W3C](https://www.w3.org)
 
     * GitHub/
         * [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
@@ -110,6 +107,7 @@ Roadmap to Web Development:
     * YouTube/
         * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) ([Website](https://www.traversymedia.com/))
         * [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+
 
 ### Back-End Programming Languages
 * #### Python:
@@ -189,7 +187,7 @@ Roadmap to Web Development:
         * [Django cheatsheet](https://duanehilton.com/notes/django)
 
     * YouTube/
-        * [Django Blog Tutorial by Corey Schafer]()
+        * [Django Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 * #### Flask(Python):
     * Sites/
@@ -197,7 +195,7 @@ Roadmap to Web Development:
         * [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
     * YouTube/
-        * [Flask Blog Tutorial by Corey Schafer]()
+        * [Flask Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 
 * #### RubyOnRails(Ruby):
     * Sites/
@@ -216,24 +214,6 @@ Roadmap to Web Development:
 
 ### Text Editors and IDEs:
 See [text-editors-and-ides.md](text-editors-and-ides.md)
-
----
-
-### Interactive Online Code Editors:
-* [Python Tutor](http://pythontutor.com/) - Learn Python, Java, C, C++, JavaScript and Ruby through Web-Based Program Visualization.
-* [Scrimba](https://scrimba.com/c/cKp6LhL) - HTML, CSS, JavaScript
-* [CodePen](https://codepen.io/) - HTML, CSS, JavaScript
-* [SoloLearn](https://code.sololearn.com/#html) - HTML, CSS, JavaScript
-* [JSFiddle](https://jsfiddle.net) - HTML, CSS, JavaScript, CoffeeScript
-* [CodeSandBox](https://codesandbox.io/) - Tailored for Web Application Development in Angular, React, Vue, Node and more.
-* [Ideone](http://ideone.com/) - Bash, Python, C, C++, Java, SQLite, Pascal, Swift, VB.net, Objective-C, Ruby, PHP, Perl, Haskell and 60 other programming languages
-* [3v4l.org](https://3v4l.org/) - PHP
-* [PHPFiddle.org](http://phpfiddle.org/) - PHP
-* [Tehplayground](http://www.tehplayground.com/) - PHP
-* [PHP Sandbox](http://sandbox.onlinephpfunctions.com/) - Test PHP functions online
-* [Codepad](http://codepad.org/) - C, C++, D, Haskell, Lua, OCaml, PHP, Perl, Python, Ruby, Scheme, Tcl
-* [Eval](https://eval.in/) - Ruby, PHP, Python, Perl, Haskell,   OCaml, Racket, Lua,  JavaScript, Slash, x86 Assembly
-* [StackEdit](https://stackedit.io/) - Open Source In-browser Markdown editor.
 
 ---
 
