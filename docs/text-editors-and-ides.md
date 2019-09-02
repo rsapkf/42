@@ -1,9 +1,9 @@
 # Table of Contents:
 * [Text Editors](#text-editors)
-	* [Text Based Editors]
+	* [Text Based Editors](#text-based-editors)
 		* [Vim](#vim)
 		* [Emacs](#emacs)
-	* [Graphical Editors]
+	* [Graphical Editors](#graphical-editors)
 		* [Atom](#atom)
 		* [VSCode](#vscode)
 		* [Brackets](#brackets)
@@ -38,6 +38,10 @@
 		* [Official GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
 		* [Emacs is sexy!](https://emacs.sexy/#resources)
 
+* #### Nano:
+	* Sites/
+		* [Offcial GNU Nano Documentation](https://www.nano-editor.org/docs.php)
+
 ### Graphical Editors
 * #### Atom:
 	* Sites/
@@ -52,18 +56,14 @@
 		* [Sublime Text Official Documentation](https://www.sublimetext.com/docs/3/)
 		* [Sublime Text Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/)(Recommended by the [Official ST Team](https://www.sublimetext.com/docs/3/))
 
-* #### Nano:
-	* Sites/
-		* [Offcial GNU Nano Documentation](https://www.nano-editor.org/docs.php)
-
 ---
 
 ## IDEs:
-* #### Pycharm:
+* #### Pycharm-CE:
 	* Sites/
 		* [Pycharm Documentation](https://www.jetbrains.com/pycharm/documentation/)
 
-* #### IntelliJ:
+* #### IntelliJ-CE:
 	* Sites/
 		* [IntelliJ Documentation](https://www.jetbrains.com/idea/documentation/)
 

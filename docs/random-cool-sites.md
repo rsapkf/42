@@ -3,7 +3,7 @@
     * [Esolangs](https://esolangs.org/wiki/Main_Page)
     * [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
     * [The Is This Prime? game](http://isthisprime.com/game/)
-    * [f*cking homepage](https://fuckinghomepage.com/)
+    * [f cking homepage](https://fuckinghomepage.com/)
     * [Snopes.com](https://www.snopes.com/)
     * [oldweb.today](http://oldweb.today/)
     * [Open Source Game clones](https://osgameclones.com/)
