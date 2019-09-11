@@ -1,5 +1,5 @@
 #### ***IMPORTANT***
->If you are new to web development, **DONOT** proceed ahead without visiting these links:
+>If you are completely new to web development, **DONOT** proceed ahead without visiting these links:
 
 Roadmap to Web Development:
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -183,6 +183,7 @@ Roadmap to Web Development:
 * #### Django(Python):
     * Sites/
         * [Official Django Tutorial](https://www.djangoproject.com/start/)
+        * [Django Girls](https://djangogirls.org/)
         * [Django Tutorial by [sentdex](https://www.youtube.com/user/sentdex)](https://pythonprogramming.net/)
         * [Django cheatsheet](https://duanehilton.com/notes/django)
 
