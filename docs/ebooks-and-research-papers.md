@@ -14,6 +14,11 @@ Disclaimer: This list contains some sites that might have concerns over legality
 * Reddit/
     *  [This](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x) r/learnmath thread.
 
+* IRC/
+    * `#Bookz` on Undernet
+    * `#ebooks` on Undernet
+    * `#ebooks` on IRChighway
+
 ### Research Papers:
 * Sites/
     * [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
