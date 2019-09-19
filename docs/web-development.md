@@ -24,11 +24,11 @@ Roadmap to Web Development:
 ---
 
 ### Offline Documentation:
-* [Devdocs.io](https://devdocs.io)(Recommended)
+* [Devdocs.io](https://devdocs.io)
 * [readthedocs.org](https://readthedocs.org/)
-* [Zeal](https://zealdocs.org/) - Windows only
+* [Zeal](https://zealdocs.org/) - Linux/Windows
 * [Velocity](https://velocity.silverlakesoftware.com/) - Windows only
-* [Dash](https://kapeli.com/dash) - Mac only
+* [Dash](https://kapeli.com/dash) - Mac/iOS
 
 ---
 
@@ -222,6 +222,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 * Sites/
   * [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
   * [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
+  * [Regex Crossword](https://regexcrossword.com/)
 
 * GitHub/
   * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)

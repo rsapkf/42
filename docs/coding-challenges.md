@@ -11,8 +11,11 @@
     * [CodeForces](https://codeforces.com/)
     * [LeetCode](https://leetcode.com/)
     * [edabit](https://edabit.com/)
+    * [Project Lovelace](https://projectlovelace.net/) - free scientific programming problems.
     * [Exercism.io](https://exercism.io/)
     * [PythonChallenge](http://www.pythonchallenge.com/)
     * [CodeSignal](https://codesignal.com/)
     * [HackerEarth](https://hackerearth.com/)
     * [practiceJS](https://practicejs.com/) - some JavaScript coding exercises put into a web app so they can be done on a phone.
+
+---

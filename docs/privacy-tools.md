@@ -15,13 +15,18 @@
 More:
 1. [Cloudwards](https://www.cloudwards.net/top-5/)
 
+---
 
 ### Email Providers:
 * [ProtonMail](https://protonmail.com/)
 * [Tutanota](https://www.tutanota.com/)
 
+---
+
 ### Email Clients:
 * [Mozilla Thunderbird](https://www.thunderbird.net/)
+
+---
 
 ### Operating Systems:
 For PC:
@@ -39,6 +44,8 @@ More:
 1. [Wikipedia List of linux Distros]()
 2. See [DistroWatch](https://distrowatch.com)
 
+---
+
 ### Search Engines:
 * [Startpage](https://www.startpage.com/)
 * [DuckDuckGo](https://duckduckgo.com/)
@@ -51,12 +58,16 @@ More:
 1. [searX wiki on GitHub](https://github.com/asciimoo/searx/wiki/possible-search-engines)
 2. [Wikipedia list of privacy search engines](https://en.wikipedia.org/wiki/List_of_search_engines#Privacy_search_engines)
 
+---
+
 ### Web Browsers:
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Tor](https://www.torproject.org/)
 * [Brave](https://brave.com/)
 * [Vivaldi](https://vivaldi.com/)
 * [Palemoon]()
+
+---
 
 ### More Resources:
 Sites/
