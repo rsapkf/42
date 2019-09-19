@@ -1,5 +1,3 @@
-- [ltt Gaming linux](https://www.youtube.com/watch?v=Co6FePZoNgE)
-
 ## Table of Contents
 - [Distros](#distros) 
 - [Desktop Environments](#desktop-environments)
