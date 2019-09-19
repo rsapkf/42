@@ -15,6 +15,8 @@
 	- [Graphical Applications](#graphical-applications)
 - [YouTube Channels](#youtube-channels)
 
+---
+
 ### Distros
 - [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/),
  [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop)
@@ -32,6 +34,8 @@
 
 See [DistroWatch](https://distrowatch.com)
 
+---
+
 ### Disktop Environments
 - [Gnome](https://www.gnome.org)
 - [KDE](https://kde.org)
@@ -41,6 +45,8 @@ See [DistroWatch](https://distrowatch.com)
 - [LXQt](https://lxqt.org/)
 - [Budgie](https://budgie-desktop.org/)
 - [Pantheon](https://wiki.archlinux.org/index.php/Pantheon)
+
+---
 
 ### Window Managers
 - [i3wm](https://i3wm.org/)
@@ -54,9 +60,13 @@ See [DistroWatch](https://distrowatch.com)
 
 See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/playlist?list=PL5--8gKSku17lbSBHPduj4qG97qxJe0UM)
 
+---
+
 ### Program Launchers
 - [dmenu](https://tools.suckless.org/dmenu/)
 - [rofi](https://github.com/davatorium/rofi)
+
+---
 
 ### Terminals
 - [urxvt(rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
@@ -64,6 +74,8 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
 - [Konsole](https://konsole.kde.org/)
+
+---
 
 ### File Managers
 #### Command Line File Managers
@@ -78,9 +90,13 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [Nemo](https://github.com/linuxmint/nemo)
 - [Thunar](https://docs.xfce.org/xfce/thunar/start)
 
+---
+
 ### Status Bars
 - [i3blocks](https://github.com/vivien/i3blocks)
 - [polybar](https://github.com/polybar/polybar)
+
+---
 
 ### Useful Applications
 #### Terminal Applications
@@ -116,6 +132,8 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [Pycharm-CE](https://www.jetbrains.com/pycharm/)
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
 - [Calibre](https://calibre-ebook.com/)
+
+---
 
 ### YouTube Channels
 - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith

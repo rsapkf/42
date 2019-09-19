@@ -19,6 +19,8 @@ Disclaimer: This list contains some sites that might have concerns over legality
     * `#ebooks` on Undernet
     * `#ebooks` on IRChighway
 
+---
+
 ### Research Papers:
 * Sites/
     * [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)

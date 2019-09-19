@@ -78,6 +78,8 @@
     * [r/environment](https://old.reddit.com/r/environment/)
     * [r/astrophotography](https://www.reddit.com/r/astrophotography/)
 
+---
+
 ## Mathematics
 * YouTube/
     * [Numberphile1](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) - Brady Haran
@@ -100,6 +102,8 @@
 
 * Reddit/
     * [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
+
+---
 
 ## Tech:
 * YouTube/
