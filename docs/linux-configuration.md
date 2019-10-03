@@ -81,6 +81,7 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [nnn](https://github.com/jarun/nnn)
 - [midnight commander](http://midnight-commander.org/)
 - [vifm](https://github.com/vifm/vifm)
+- [fff](https://github.com/dylanaraps/fff)
 
 #### Graphical File Managers
 - [Dolphin](https://kde.org/applications/system/dolphin/)

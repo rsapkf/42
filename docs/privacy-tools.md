@@ -64,8 +64,8 @@ More:
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Tor](https://www.torproject.org/)
 * [Brave](https://brave.com/)
+* [Palemoon](https://www.palemoon.org/)
 * [Vivaldi](https://vivaldi.com/)
-* [Palemoon]()
 
 ---
 

@@ -2,21 +2,21 @@
 
 * Sites/
     * [edX.org](https://www.edx.org/) 
-    * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm) 
+    * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+    * [Coursera](https://www.coursera.org/)
     * [CodeAcademy](https://www.codecademy.com/) 
+    * [Udacity](https://www.udacity.com/)
     * [EXLskills](https://exlskills.com/)
     * [Class-Central](https://www.classcentral.com/) 
     * [Cognitive CLass](https://cognitiveclass.ai/)
     * [Acedemic Earth](https://www.academicearth.org/)
     * [University of Reddit](http://ureddit.com/)
     * [OPEN CULTURE](http://www.openculture.com/)
-    * [Udacity](https://www.udacity.com/) - `paid`
     * [Lynda](https://www.lynda.com/) - Moved to [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     * [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     * [DataCamp](https://www.datacamp.com/) - `paid`
     * [PluralSight](https://www.pluralsight.com/) - `paid`
     * [Lambda School](https://lambdaschool.com/) `paid`
-    * [Coursera](https://www.coursera.org/) `paid`
     * [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students `paid`
 
 
