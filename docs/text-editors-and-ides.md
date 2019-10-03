@@ -3,7 +3,9 @@
 * [Text Editors](#text-editors)
 	* [Text Based Editors](#text-based-editors)
 		* [Vim](#vim)
+		* [neovim](#neovim)
 		* [Emacs](#emacs)
+		* [Spacemacs](#spacemacs)
 	* [Graphical Editors](#graphical-editors)
 		* [Atom](#atom)
 		* [VSCode](#vscode)
@@ -34,10 +36,18 @@
 	* GitHub/
 		* [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
 
+* #### neovim:
+	* Sites/
+
+
 * #### Emacs:
 	* Sites/
 		* [Official GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
 		* [Emacs is sexy!](https://emacs.sexy/#resources)
+
+* #### Spacemacs:
+	* Sites/
+
 
 * #### Nano:
 	* Sites/

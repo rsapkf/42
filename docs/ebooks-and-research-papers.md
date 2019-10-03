@@ -3,10 +3,11 @@ Disclaimer: This list contains some sites that might have concerns over legality
 ### Ebooks:
 * Sites/
     * [Library Genesis](http://libgen.io/)
-    * [freecomputerbooks.com](http://freecomputerbooks.com/)
-    * [Archive.org](https://archive.org/)
-    * [BookLid.org](http://en.booklid.org/)
     * [OpenStax](https://openstax.org/)
+    * [Archive.org](https://archive.org/)
+    * [freecomputerbooks.com](http://freecomputerbooks.com/)
+    * [BookLid.org](http://en.booklid.org/)
+    * [ZLibrary](https://b-ok.cc/)
 
 * GitHub/
     * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
