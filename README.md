@@ -1,4 +1,4 @@
-# Spinbrain Project
+## Spinbrain Project
 
 This is a personal collection of sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things. Most sources here are from my browser bookmarks. Feel free to [contribute](CONTRIBUTING.md) by adding more resources!
 
