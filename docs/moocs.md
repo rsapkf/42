@@ -6,7 +6,6 @@
     * [Coursera](https://www.coursera.org/)
     * [CodeAcademy](https://www.codecademy.com/) 
     * [Udacity](https://www.udacity.com/)
-    * [EXLskills](https://exlskills.com/)
     * [Class-Central](https://www.classcentral.com/) 
     * [Cognitive CLass](https://cognitiveclass.ai/)
     * [Acedemic Earth](https://www.academicearth.org/)
@@ -18,6 +17,7 @@
     * [PluralSight](https://www.pluralsight.com/) - `paid`
     * [Lambda School](https://lambdaschool.com/) `paid`
     * [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students `paid`
+    * [EXLskills](https://exlskills.com/) `paid`
 
 
 
