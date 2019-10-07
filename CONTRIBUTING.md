@@ -20,7 +20,7 @@ If you would like to improve this project by adding/suggesting edits to the cont
 
 ## Quality Matters
 
-* **Free** means *entirely* free, not [freemium](), free trial or limited functionality resources. If some resource is freemium or offers a free trial only, mention it with a ```freemium``` tag at the end.
+* **Free** means *entirely* free, not [freemium](https://en.wikipedia.org/wiki/Freemium), free trial or limited functionality resources. If some resource is freemium or offers a free trial only, mention it with a ```freemium``` tag at the end.
 
 * Your contribution may be denied if the resource does not satisfy necessary curation.
 
