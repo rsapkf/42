@@ -122,7 +122,6 @@
     * [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ) - ThioJoe
     * [Captain Disillusion](https://www.youtube.com/channel/UCEOXxzW2vU0P-0THehuIIeg) - Captain Disillusion :)
     * [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)
-    * [TechGumbo](https://www.youtube.com/channel/UCaSM4GqhbaVmRT7fmmFmR1w)
     * [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw)
     * [Google](https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA)
     * [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
@@ -154,7 +153,6 @@
     * [HowToGeek](https://www.howtogeek.com/)
     * [Wait But Why](https://waitbutwhy.com/)
     * [secretGeekWiki](http://wiki.secretgeek.net/About)
-    * [No Moods, Ads or Cutesy F\*cking Icons](https://www.rifters.com/crawl/)
     * [It's FOSS](https://itsfoss.com/)
     * [Logical Increments](http://www.logicalincrements.com/) - PC building guides
 
@@ -178,4 +176,3 @@
     * [HowStuffWorks](https://www.howstuffworks.com/)
     * [aeon](https://aeon.co/) - Essays, Ideas, Videos
     * [lifewire](https://lifewire.com)
-    * [How to do Hard Things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
