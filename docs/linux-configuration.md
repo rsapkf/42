@@ -5,7 +5,7 @@
 	- [Disktop Environments](#disktop-environments)
 	- [Window Managers](#window-managers)
 	- [Program Launchers](#program-launchers)
-	- [Terminals](#terminals)
+	- [Terminal Emulators](#terminal-emulators)
 	- [File Managers](#file-managers)
 		- [Command Line File Managers](#command-line-file-managers)
 		- [Graphical File Managers](#graphical-file-managers)
@@ -85,12 +85,14 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 
 ---
 
-### Terminals
+### Terminal Emulators
 - [urxvt(rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 - [Termite](https://github.com/thestinger/termite/)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
 - [Konsole](https://konsole.kde.org/)
+- [Alacritty](https://github.com/jwilm/alacritty)
+- [xterm](https://invisible-island.net/xterm/xterm.html)
 
 ---
 
