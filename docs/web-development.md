@@ -146,7 +146,7 @@ Roadmap to Web Development:
         * [geekcomputers/Python](https://github.com/geekcomputers/Python)
 
     * YouTube/
-        * [Corey Schafer](https://www.youtube.com/user/schafer5) ([GitHub](https://github.com/CoreyMSchafer)
+        * [Corey Schafer](https://www.youtube.com/user/schafer5) ([GitHub](https://github.com/CoreyMSchafer))
         * [sentdex](https://www.youtube.com/user/sentdex) ([Website](https://pythonprogramming.net/))
 
 * #### Ruby:
