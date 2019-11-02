@@ -38,6 +38,7 @@
     * [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs)
     * [machinelearningmindset/machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)
     * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+    * [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides)
 
 
 * YouTube/

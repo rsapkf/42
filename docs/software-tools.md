@@ -116,21 +116,6 @@ See Also:
 * [Ubuntu Touch](https://ubuntu-touch.io/) - `discontinued`
 * [Android](https://android.com/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -------------
 
 * GitHub/
@@ -150,3 +135,6 @@ See Also:
 * [INVIDIOUS](https://invidio.us/) - Alternative Open Source frontend for YouTube
 
 * [The LiveCD List](https://livecdlist.com/about/)
+* [Programs and Equipment](https://lukesmith.xyz/programs.html)
+* [guides/ALTERNATIVES.md at master · mayfrost/guides · GitHub](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
+* [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)

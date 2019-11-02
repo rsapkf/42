@@ -121,21 +121,23 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [Vim](https://www.vim.org/), [Neovim](https://neovim.io/)
 - [LaTeX](https://www.latex-project.org/)
 - [Emacs](https://www.gnu.org/software/emacs/) - Nice little Operating System that can be installed inside another OS! :)
-- [tldr](https://github.com/tldr-pages/tldr)
-- [neofetch](https://github.com/dylanaraps/neofetch)
-- [glances](https://github.com/nicolargo/glances)
-- [irssi](https://github.com/irssi/irssi)
-- [mutt](http://www.mutt.org/)
-- [zathura](https://github.com/pwmt/zathura)
-- [screenfetch](https://github.com/KittyKatt/screenFetch)
-- [rtv(unmaintained)](https://github.com/michael-lazar/rtv)
-- [Clam AV](https://www.clamav.net/)
-- [qutebrowser](https://qutebrowser.org/)
-- [lynx](http://lynx.browser.org/)
-- [w3m](http://w3m.sourceforge.net/)
+- [tldr](https://github.com/tldr-pages/tldr) - alternative to man pages
+- [neofetch](https://github.com/dylanaraps/neofetch) - System info script
+- [glances](https://github.com/nicolargo/glances) - System Monitor
+- [irssi](https://github.com/irssi/irssi) - terminal irc client
+- [mutt](http://www.mutt.org/) - email client
+- [zathura](https://github.com/pwmt/zathura) - document viewer
+- [screenfetch](https://github.com/KittyKatt/screenFetch) - system info script
+- [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client
+- [Clam AV](https://www.clamav.net/) - antivirus
+- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings
+- [lynx](http://lynx.browser.org/) - web browser
+- [w3m](http://w3m.sourceforge.net/) - web browser
+* [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
 
 See Also: 
 * [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
+* []
 
 #### Graphical Applications
 - [VLC](https://www.videolan.org/vlc/)
@@ -145,6 +147,7 @@ See Also:
 - [OBS](https://obsproject.com/)
 - [Blender](https://blender.org/)
 - [GIMP](https://gimp.org/)
+* [WireGuard](https://www.wireguard.com/): fast, modern, secure VPN tunnel
 - [Audacity](https://www.audacityteam.org/)
 - [Inkscape](https://inkscape.org/)
 - [Kdenlive](https://www.kdenlive.org/)

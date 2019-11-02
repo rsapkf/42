@@ -47,5 +47,3 @@
     * [stewartmcgown/uds](https://github.com/stewartmcgown/uds)
     * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
     * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Entire source code from the Apollo 11(19..?) mission!
-
-

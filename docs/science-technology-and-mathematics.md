@@ -93,14 +93,12 @@
 * Sites+Blogs/
     * [WolframAlpha](https://www.wolframalpha.com/)
     * [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
-    * [Brilliant](https://brilliant.org/)
     * [The Pi-Search Page](https://www.angio.net/pi/)
-    * [Immersive Linear Algebra - [Book]](http://immersivemath.com/ila/tableofcontents.html)
     * [Things to Make and Do in the Fourth Dimension](https://makeanddo4d.com/)
-    * [Mathematics All-in-One Cheat Sheet - [PDF]](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
     * [Terrence Tao's Blog](https;//terrytao.wordpress.com)
     * [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
     * [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
+    * [Brilliant](https://brilliant.org/) `paid`
 
 * Reddit/
     * [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
