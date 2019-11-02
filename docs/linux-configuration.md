@@ -82,7 +82,7 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [dmenu](https://tools.suckless.org/dmenu/)
 - [rofi](https://github.com/davatorium/rofi)
 - [albertlauncher](https://github.com/albertlauncher/albert)
-- [BusyBox] Swiss Army Knife of Embedded Linux (https://busybox.net/)
+- [BusyBox] (https://busybox.net/) - Swiss Army Knife of Embedded Linux
 
 ---
 
