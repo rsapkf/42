@@ -9,7 +9,7 @@ This is a personal collection of over 2000+ sites and resources that I use or ha
 - [Linux Configuration](docs/linux-configuration.md)
 - [Science, Technology and Mathematics](docs/science-technology-and-mathematics.md)
 - [Software Tools](docs/software-tools.md)
-- [Massive Open Online Courses](docs/moocs.md)
+- [Massive Open Online Courses](docs/moocs-and-courses.md)
 - [Cubing and Puzzles](docs/cubing-and-puzzles.md)
 - [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
 - [Random Cool Sites](docs/random-cool-sites.md)
