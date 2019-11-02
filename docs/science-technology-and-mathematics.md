@@ -65,6 +65,7 @@
     * [Popular Science](https://www.popsci.com/)
     * [Scientific American](https://www.scientificamerican.com/)
     * [JunkScience](https://junkscience.com/)
+    * [chrislaux.com](https://www.chrislaux.com/) - Visualization of algorithms and data structures
 
 * Reddit/
     * [r/science](https://old.reddit.com/r/science/)
