@@ -9,6 +9,7 @@
     * [TopCoder](https://www.topcoder.com/)
     * [CodeWars](https://www.codewars.com/)
     * [CodeForces](https://codeforces.com/)
+    * [AdventOfCode](https://adventofcode.com/) - 25 days of themed coding challenges, starting each year on Dec 1. All past years are available, and daily puzzles unlock at midnight in advent-calendar style each December. Use any programming language you want! Great reddit community too where people love to help each other out.
     * [LeetCode](https://leetcode.com/)
     * [Project Lovelace](https://projectlovelace.net/) - free scientific programming problems.
     * [Exercism.io](https://exercism.io/)
