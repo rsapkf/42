@@ -1,10 +1,12 @@
 # Text Editors And IDEs
 # Table of Contents
-- [Text Editors:](#text-editors)
-	- [Text Based Editors](#text-based-editors)
-	- [Graphical Editors](#graphical-editors)
-- [IDEs:](#ides)
-- [Interactive Online Code Editors:](#interactive-online-code-editors)
+- [Text Editors And IDEs](#text-editors-and-ides)
+- [Table of Contents](#table-of-contents)
+	- [Text Editors:](#text-editors)
+		- [Text Based Editors](#text-based-editors)
+		- [Graphical Editors](#graphical-editors)
+	- [IDEs:](#ides)
+	- [Interactive Online Code Editors:](#interactive-online-code-editors)
 
 ---
 
@@ -18,7 +20,7 @@
 		* [Vim Adventures](https://vim-adventures.com/)
 
 	* Command Line Tools/
-		* Install Vim and type ```vimtutor``` in your terminal.
+		* Install Vim and type `vimtutor` in your terminal.
 
 	* GitHub/
 		* [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
