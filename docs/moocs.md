@@ -3,21 +3,33 @@
 * Sites/
     * [edX.org](https://www.edx.org/) 
     * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+    * [MIT Deep Learning](https://deeplearning.mit.edu/)
     * [Coursera](https://www.coursera.org/)
-    * [CodeAcademy](https://www.codecademy.com/) 
+    * [CodeAcademy](https://www.codecademy.com/)
+    * [deeplearning.ai](https://www.deeplearning.ai/)
+    * [Hyperskill](https://hi.hyperskill.org/projects3)
+    * [MOOC.fi](https://www.mooc.fi/en/)
+    * [fast.ai](https://www.fast.ai/) - Making neural nets uncool again
+    * [nand2tetris](https://www.nand2tetris.org/)
     * [Udacity](https://www.udacity.com/)
     * [Class-Central](https://www.classcentral.com/) 
     * [Cognitive CLass](https://cognitiveclass.ai/)
+    * [Full Stack Open 2019](https://fullstackopen.com/en)
     * [Acedemic Earth](https://www.academicearth.org/)
     * [University of Reddit](http://ureddit.com/)
     * [OPEN CULTURE](http://www.openculture.com/)
+    * [teachyourselfcs.com](https://teachyourselfcs.com/)
     * [Lynda](https://www.lynda.com/) - Moved to [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     * [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     * [DataCamp](https://www.datacamp.com/) - `paid`
     * [PluralSight](https://www.pluralsight.com/) - `paid`
     * [Lambda School](https://lambdaschool.com/) `paid`
     * [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students `paid`
+    * [Oracle University](https://education.oracle.com/home) `paid`
     * [EXLskills](https://exlskills.com/) `paid`
+    * [Udemy](https://www.udemy.com/) `paid`
+    * [MasterClass](https://www.masterclass.com/) `paid`
+    * [egghead.io](https://egghead.io/) - Short, instructional screencast video tutorials for web developers `paid`
 
 
 
