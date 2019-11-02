@@ -230,3 +230,4 @@ See Also:
     * [software that sucks less | suckless.org software that sucks less](https://suckless.org/)
     * [Encyclopedia of things considered harmful](http://harmful.cat-v.org/)
     * [freedesktop.org](https://www.freedesktop.org/wiki/)
+    * [Taskade](https://taskade.com/) - Task lists with chat for remote teams.
