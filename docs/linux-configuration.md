@@ -85,12 +85,13 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 
 ---
 
-### Terminals
+### Terminal emulators
 - [urxvt(rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 - [Termite](https://github.com/thestinger/termite/)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
 - [Konsole](https://konsole.kde.org/)
+- [Alacritty](https://github.com/jwilm/alacritty)
 
 ---
 
