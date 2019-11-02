@@ -92,6 +92,7 @@
 
 * Sites+Blogs/
     * [WolframAlpha](https://www.wolframalpha.com/)
+    * [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
     * [Brilliant](https://brilliant.org/)
     * [The Pi-Search Page](https://www.angio.net/pi/)
     * [Immersive Linear Algebra - [Book]](http://immersivemath.com/ila/tableofcontents.html)
@@ -99,6 +100,7 @@
     * [Mathematics All-in-One Cheat Sheet - [PDF]](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
     * [Terrence Tao's Blog](https;//terrytao.wordpress.com)
     * [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
+    * [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
 
 * Reddit/
     * [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
@@ -108,6 +110,8 @@
 ## Tech:
 * YouTube/
     * [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) - Linus Sebastian
+    - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith
+    - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor
     * [Techquikie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q) - Linus Sebastian
     * [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) - Linus Sebastian
     * [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A) - Tom Scott
@@ -130,49 +134,75 @@
     * [r/technology](https://www.reddit.com/r/technology/)
 
 * Sites+Blogs/
- * Privacy:
-    * [gnu.org](https://www.gnu.org/)
-    * [That One Privacy Site](https://thatoneprivacysite.net/about/)
-    * [Richard Stallman's Personal Site ](https://stallman.org/index.html)
-    * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/)
-    * [DuckDuckGo Blog](https://spreadprivacy.com/)
-    * [EFF Blog](https://www.eff.org/)
-    * [The Mozilla Learning Network](https://learning.mozilla.org/en-US/activities)
-    * [Tutanota Blog](https://www.tutanota.com/blog)
-    * [ProtonMail Blog](https://protonmail.com/blog/)
-    * [Mozilla Blog](https://blog.mozilla.org/)
-    * [Mozilla Hacks](https://hacks.mozilla.org/)
-    * [NordVPN Blog](https://nordvpn.com/blog/)
-    * [ExpressVPN Blog](https://www.expressvpn.com/blog/)
+    * Privacy
+      * [gnu.org](https://www.gnu.org/)
+      * [That One Privacy Site](https://thatoneprivacysite.net/about/)
+      * [Richard Stallman's Personal Site ](https://stallman.org/index.html)
+      * [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/)
+      * [DuckDuckGo Blog](https://spreadprivacy.com/)
+      * [EFF Blog](https://www.eff.org/)
+      * [The Mozilla Learning Network](https://learning.mozilla.org/en-US/activities)
+      * [Tutanota Blog](https://www.tutanota.com/blog)
+      * [ProtonMail Blog](https://protonmail.com/blog/)
+      * [Mozilla Blog](https://blog.mozilla.org/)
+      * [Mozilla Hacks](https://hacks.mozilla.org/)
+      * [NordVPN Blog](https://nordvpn.com/blog/)
+      * [ExpressVPN Blog](https://www.expressvpn.com/blog/)
 
- * NerdStuff:
-    * [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
-    * [DistroWatch](https://distrowatch.com/dwres.php?resource=about)
-    * [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products
-    * [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
-    * [HowToGeek](https://www.howtogeek.com/)
-    * [Wait But Why](https://waitbutwhy.com/)
-    * [secretGeekWiki](http://wiki.secretgeek.net/About)
-    * [It's FOSS](https://itsfoss.com/)
-    * [Logical Increments](http://www.logicalincrements.com/) - PC building guides
+    * Blogs
+      * [Julia Evans](https://jvns.ca/)
+      * [Coding Horror](https://blog.codinghorror.com/)
+      * [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
+      * [Kalzumeus](https://www.kalzumeus.com/)
 
- * Miscellaneous:
-    * [Hacker News](https://news.ycombinator.com/)
-    * [Reddit](https://reddit.com/)
-    * [Slashdot](https://www.slashdot.org/)
-    * [MIT Technology Review](https://www.technologyreview.com/)
-    * [The Blog of Paul Graham](http://www.paulgraham.com/articles.html)
-    * [REUTERS](https://www.reuters.com)
-    * [Ars Technica](https://arstechnica.com/)
-    * [TechCrunch](https://techcrunch.com/)
-    * [Harvard Business Review](https://hbr.org/)
-    * [Stratechery](https://stratechery.com)
-    * [Serializer](https://serializer.io)
-    * [YCombinator](https://www.ycombinator.com)
-    * [BoingBoing](https://boingboing.net/)
-    * [lifehacker](https://lifehacker.com/)
-    * [MakeUseOf](https://www.makeuseof.com/)
-    * [Fast Company](https://www.fastcompany.com/)
-    * [HowStuffWorks](https://www.howstuffworks.com/)
-    * [aeon](https://aeon.co/) - Essays, Ideas, Videos
-    * [lifewire](https://lifewire.com)
+    * Medium Blogs
+      * [Instagram Engineering](https://instagram-engineering.com/)
+      * [Evan Selinger](https://medium.com/@evanselinger)
+      * [Blake Ross](https://medium.com/@blakeross)
+      * [Sindre Sorhus](https://medium.com/@sindresorhus)
+      * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
+      * [Netflix TechBlog](https://medium.com/netflix-techblog)
+
+    * NerdStuff:
+      * [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
+      * [DistroWatch](https://distrowatch.com/dwres.php?resource=about)
+      * [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products
+      * [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
+      * [HowToGeek](https://www.howtogeek.com/)
+      * [Wait But Why](https://waitbutwhy.com/)
+      * [secretGeekWiki](http://wiki.secretgeek.net/About)
+      * [It's FOSS](https://itsfoss.com/)
+      * [Logical Increments](http://www.logicalincrements.com/) - PC building guides
+
+    * Miscellaneous:
+      * [Hacker News](https://news.ycombinator.com/)
+      * [Reddit](https://reddit.com/)
+      * [Slashdot](https://www.slashdot.org/)
+      * [MIT Technology Review](https://www.technologyreview.com/)
+      * [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News
+      * [The Blog of Paul Graham](http://www.paulgraham.com/articles.html)
+      * [REUTERS](https://www.reuters.com)
+      * [Ars Technica](https://arstechnica.com/)
+      * [TechCrunch](https://techcrunch.com/)
+      * [Harvard Business Review](https://hbr.org/)
+      * [Stratechery](https://stratechery.com)
+      * [Serializer](https://serializer.io)
+      * [How-To Geek](https://www.howtogeek.com/)
+      * [Engadget](https://www.engadget.com/)
+      * [YCombinator](https://www.ycombinator.com)
+      * [BoingBoing](https://boingboing.net/)
+      * [lifehacker](https://lifehacker.com/)
+      * [MakeUseOf](https://www.makeuseof.com/)
+      * [Fast Company](https://www.fastcompany.com/)
+      * [HowStuffWorks](https://www.howstuffworks.com/)
+      * [aeon](https://aeon.co/) - Essays, Ideas, Videos
+      * [lifewire](https://lifewire.com)
+
+    * Hacking
+      * [Null Byte](https://null-byte.wonderhowto.com/)
+      * [Web Security Academy](https://portswigger.net/web-security) - Cybersecurity Training from PortSwigger
+      * [Objective-See](https://objective-see.com/index.html)
+
+    * Comics
+      * [xkcd Comics](https://www.xkcd.com/)
+      * [PHD Comics](http://phdcomics.com/)

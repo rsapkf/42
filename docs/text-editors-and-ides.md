@@ -1,23 +1,10 @@
 # Text Editors And IDEs
-# Table of Contents:
-* [Text Editors](#text-editors)
-	* [Text Based Editors](#text-based-editors)
-		* [Vim](#vim)
-		* [neovim](#neovim)
-		* [Emacs](#emacs)
-		* [Spacemacs](#spacemacs)
-	* [Graphical Editors](#graphical-editors)
-		* [Atom](#atom)
-		* [VSCode](#vscode)
-		* [Brackets](#brackets)
-		* [Sublime Text](#sublime-text) `freemium`
-		* [Nano](#nano)
-* [IDEs](#ides)
-	* [Pycharm](#pycharm)
-	* [IntelliJ](#intellij)
-	* [Eclipse](#eclipse)
-	* [Anaconda Python Distribution](#anaconda-python-distribution)
-* [Interactive Online Code Editors](#interactive-online-code-editors)
+# Table of Contents
+- [Text Editors:](#text-editors)
+	- [Text Based Editors](#text-based-editors)
+	- [Graphical Editors](#graphical-editors)
+- [IDEs:](#ides)
+- [Interactive Online Code Editors:](#interactive-online-code-editors)
 
 ---
 
@@ -36,8 +23,9 @@
 	* GitHub/
 		* [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
 
-* #### neovim:
+* #### Neovim:
 	* Sites/
+	    * [Official Neovim Documentation](https://neovim.io/)
 
 
 * #### Emacs:
@@ -47,6 +35,7 @@
 
 * #### Spacemacs:
 	* Sites/
+	    * [Official Spacemacs Documentation](http://spacemacs.org/)
 
 
 * #### Nano:
@@ -89,7 +78,7 @@
 
 ---
 
-### Interactive Online Code Editors:
+## Interactive Online Code Editors:
 * [Python Tutor](http://pythontutor.com/) - Learn Python, Java, C, C++, JavaScript and Ruby through Web-Based Program Visualization.
 * [Scrimba](https://scrimba.com/c/cKp6LhL) - HTML, CSS, JavaScript
 * [CodePen](https://codepen.io/) - HTML, CSS, JavaScript

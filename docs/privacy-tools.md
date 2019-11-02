@@ -1,19 +1,18 @@
 # Table of Contents:
-- [Cloud Storage](#cloud-storage)
-- [Email Providers](#email-providers)
-- [Email Clients](#email-clients)
-- [Operating Systems](#operating-systems)
-- [Search Engines](search-engines)
-- [Web Browsers](#web-browsers)
-- [More Resources](#more-resources) **DONOT IGNORE!, EQUALLY AS IMPORATNT**
+- [Table of Contents:](#table-of-contents)
+    - [Cloud Storage:](#cloud-storage)
+    - [Email Providers:](#email-providers)
+    - [Email Clients:](#email-clients)
+    - [Operating Systems:](#operating-systems)
+    - [Search Engines:](#search-engines)
+    - [Web Browsers:](#web-browsers)
+    - [Browser Extensions](#browser-extensions)
+    - [More Resources:](#more-resources)
 
 ### Cloud Storage:
 * [Sync.com](https://www.sync.com/)
 * [pCloud](https://www.pcloud.com/)
 * [Tresorit](https://www.tresorit.com/)
-
-More:
-1. [Cloudwards](https://www.cloudwards.net/top-5/)
 
 ---
 
@@ -33,7 +32,7 @@ For PC:
 * [Qubes](https://www.qubes-os.org/)
 * [Tails](https://tails.boum.org/)
 * [Whonix](https://www.whonix.org/)
-* [Any other Linux distribution](linux-configuration.md#distros)
+* [Other Linux distribution](linux-configuration.md#distros)
 
 For Mobile:
 * [LineageOS](https://www.lineageos.org/)
@@ -41,8 +40,7 @@ For Mobile:
 * [Ubuntu Touch](https://ubuntu-touch.io/) - `discontinued`
 
 More:
-1. [Wikipedia List of linux Distros]()
-2. See [DistroWatch](https://distrowatch.com)
+1. [Wikipedia List of Linux Distros]()
 
 ---
 
@@ -50,9 +48,9 @@ More:
 * [Startpage](https://www.startpage.com/)
 * [DuckDuckGo](https://duckduckgo.com/)
 * [searX.me](https://searx.me/)
-* [Ecosia](https://www.ecosia.org/?c=en)
 * [Qwant](http://qwant.com/)
 * [Yacy](http://yacy.net/)
+* [Ecosia](https://www.ecosia.org/?c=en)
 
 More:
 1. [searX wiki on GitHub](https://github.com/asciimoo/searx/wiki/possible-search-engines)
@@ -69,6 +67,18 @@ More:
 
 ---
 
+### Browser Extensions
+* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+* [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+* [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+* [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+* [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+* [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+* [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search)
+* [Bitwarden - Free Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+
 ### More Resources:
 Sites/
 * [Track This](https;//trackthis.link) - A new kind of Incognito
@@ -81,3 +91,10 @@ Reddit/
 
 GitHub/
 * [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
+
+
+
+
+
+
+* [Hacker News Enhancement Suite – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/hnes/)

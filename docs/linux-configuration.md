@@ -1,23 +1,25 @@
 ## Table of Contents
-- [Distros](#distros) 
-- [Desktop Environments](#desktop-environments)
-- [Window Managers](#window-managers)
-- [Program Launchers](#program-launchers)
-- [Terminals](#terminals)
-- [File Managers](#file-managers)
-	- [Command Line File Managers](#command-line-file-managers)
-	- [GUI based File Managers](#graphical-file-managers)
-- [Status Bars](#status-bars)
-- [Useful Applications](#usefull-applications)
-	- [Terminal Applications](#terminal-applications)
-	- [Graphical Applications](#graphical-applications)
-- [YouTube Channels](#youtube-channels)
+- [Table of Contents](#table-of-contents)
+	- [Distros](#distros)
+	- [Shell](#shell)
+	- [Disktop Environments](#disktop-environments)
+	- [Window Managers](#window-managers)
+	- [Program Launchers](#program-launchers)
+	- [Terminals](#terminals)
+	- [File Managers](#file-managers)
+		- [Command Line File Managers](#command-line-file-managers)
+		- [Graphical File Managers](#graphical-file-managers)
+	- [Status Bars](#status-bars)
+	- [Useful Applications](#useful-applications)
+		- [Terminal Applications](#terminal-applications)
+		- [Graphical Applications](#graphical-applications)
+	- [YouTube Channels](#youtube-channels)
 
 ---
 
 ### Distros
 - [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/),
- [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop)
+, [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop), [Kubuntu](https://kubuntu.org/)
 - [Fedora](https://getfedora.org/)
 - [OpenSUSE](https://opensuse.org/)
 - [NixOS](https://nixos.org/)
@@ -28,11 +30,27 @@
 - [Gentoo](https://www.gentoo.org/), [Funtoo](https://www.funtoo.org/Welcome)
 - [Void Linux](https://voidlinux.org/)
 - [Slackware](http://www.slackware.com/)
+- [Parrot OS](https://www.parrotsec.org/)
+- [Tails](https://tails.boum.org/index.en.html)
+- [Qubes OS](https://www.qubes-os.org/)
+- [Whonix](https://www.whonix.org/)
+- [BlackArch Linux](https://www.blackarch.org/)
+- [elementary OS](https://elementary.io/)
+- [Red Hat](https://www.redhat.com/en)
+- [Deepin](https://www.deepin.org/en/)
+- [NixOS](https://nixos.org/)
+- [ArcoLinux](https://arcolinux.info/)
+- [Trisquel GNU/Linux](https://trisquel.info/en)
+- [Parabola GNU/Linux](https://www.parabola.nu/)
+- [Alpine Linux](https://alpinelinux.org/)
 - [Linux From Scratch](http://www.linuxfromscratch.org/)
 
-See [DistroWatch](https://distrowatch.com)
+See Also [DistroWatch](https://distrowatch.com)
 
 ---
+
+### Shell
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 ### Disktop Environments
 - [Gnome](https://www.gnome.org)
@@ -63,6 +81,7 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 ### Program Launchers
 - [dmenu](https://tools.suckless.org/dmenu/)
 - [rofi](https://github.com/davatorium/rofi)
+- [albertlauncher](https://github.com/albertlauncher/albert)
 
 ---
 
@@ -114,6 +133,9 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [qutebrowser](https://qutebrowser.org/)
 - [lynx](http://lynx.browser.org/)
 - [w3m](http://w3m.sourceforge.net/)
+
+See Also: 
+* [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
 
 #### Graphical Applications
 - [VLC](https://www.videolan.org/vlc/)

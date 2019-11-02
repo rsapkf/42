@@ -7,13 +7,18 @@
     * [Snopes.com](https://www.snopes.com/)
     * [oldweb.today](http://oldweb.today/)
     * [Open Source Game clones](https://osgameclones.com/)
-    * [xkcd Comics](https://xkcd.com/)
     * [PHD(Piled Higher and Deeper) Comics](http://phdcomics.com/)
     * [Google Ngram Viewer](https://books.google.com/ngrams)
     * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectlocale=en-US&as=u&redirectslug=Keyboard+shortcuts&utm_source=inproduct)
     * [Gmail Search Operators](https://support.google.com/mail/answer/7190)
     * [Keanu Reeves is Immortal](https://www.keanuisimmortal.com/)
     * [Youglish](https://youglish.com/) - Use YouTube to improve your English pronunciation
+
+    * [STRML](https://www.strml.net/)
+    * [txti](http://txti.es/) - Fast web pages for everybody
+    * [bpfyxgjm](https://sdnotes.com/bpfyxgjm)
+    * [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
+    * [oldweb.today](http://oldweb.today/)
 
 * YouTube/
     * [vlogbrothers](https://www.youtube.com/channel/UCGaVdbSav8xWuFWTadK6loA)
@@ -42,3 +47,5 @@
     * [stewartmcgown/uds](https://github.com/stewartmcgown/uds)
     * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
     * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Entire source code from the Apollo 11(19..?) mission!
+
+

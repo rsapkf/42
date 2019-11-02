@@ -7,19 +7,20 @@ Roadmap to Web Development:
 ---
 
 # Table of Contents
-- [Offline Documentation](#offline-documentation)
-- [Command Line](#command-line)
-- [Git](#git)
-- [Programming Languages](#programming-languages)
-    - [Front-End Programming Languages](#front-end-programming-languages)
+- [Table of Contents](#table-of-contents)
+    - [Offline Documentation:](#offline-documentation)
+    - [Command Line:](#command-line)
+    - [Git:](#git)
+    - [Programming Languages:](#programming-languages)
+      - [Front-End Programming Languages](#front-end-programming-languages)
     - [Back-End Programming Languages](#back-end-programming-languages)
-- [Web Frameworks](#web-frameworks)
-    - [Front-End Web Frameworks](#front-end-web-frameworks)
-    - [Back-End Web Frameworks](#back-end-web-frameworks)
-- [DataBases](#databases)
-- [Text Editors and IDEs](#text-editors-and-ides)
-- [Regular Expressions](#regular-expressions)
-- [Extra Resources](#extra-resources) _**DONOT IGNORE!, EQUALLY AS IMPORATNT**_
+    - [Web Frameworks:](#web-frameworks)
+      - [Front-End Web Frameworks:](#front-end-web-frameworks)
+      - [Back-End Web Frameworks:](#back-end-web-frameworks)
+    - [DataBases:](#databases)
+    - [Text Editors and IDEs:](#text-editors-and-ides)
+    - [Regular Expressions:](#regular-expressions)
+    - [Extra Resources:](#extra-resources)
 
 ---
 
@@ -68,6 +69,8 @@ Roadmap to Web Development:
         * [Scrimba](https://scrimba.com/) - Interactive way to learn and test HTML, CSS and JavaScript code and lessons on React, Vue and Angular frameworks.
         * [SoloLean](https://www.sololearn.com/) - Learn HTML, CSS, JavaScript, PHP, Ruby, SQL, jQuery, Java, C, C++, C#, Swift on the [Web](https://www.sololearn.com/) or their Mobile App [Google Play](https://play.google.com/store/apps/details?id=com.sololearn) | [App Store](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
         * [LambdaSchool Free Online Web Mini Bootcamp](https://lambdaschool.com/courses/cs/web/bootcamp/) - HTML, CSS, JS
+        * [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/)
+        * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
 
 
 * #### JavaScript:
@@ -175,10 +178,6 @@ Roadmap to Web Development:
     * Sites/
         * [Official Vue Guide](https://vuejs.org/v2/guide/)
 
-* #### jquery:
-    * Sites/
-        
-
 #### Back-End Web Frameworks:
 * #### Django(Python):
     * Sites/
@@ -194,9 +193,12 @@ Roadmap to Web Development:
     * Sites/
         * [Official Flask Tutorial](http://flask.pocoo.org/docs/0.12/tutorial/)
         * [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
     * YouTube/
         * [Flask Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+
+* #### NodeJS(JavaScript):
+    * Sites/
+        * [Node.js resources- Stack Overflow](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/5511507#5511507)
 
 * #### RubyOnRails(Ruby):
     * Sites/
@@ -210,7 +212,8 @@ Roadmap to Web Development:
     * Sites/
         * [SQL Tutorial](http://www.sqltutorial.org/)
         * [SQLBolt](https://sqlbolt.com/)
-        * [SQLZoo]()
+        * [SQLZOO](https://sqlzoo.net/)
+
 ---
 
 ### Text Editors and IDEs:
@@ -231,6 +234,8 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 
 ### Extra Resources:
   * Sites/
+      * [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+      * [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
       * [Dev-Diaries](https://www.dev-diaries.com/)
       * [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
       * [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub

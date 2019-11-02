@@ -2,7 +2,7 @@
 
 This is a personal collection of sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things. Most sources here are from my browser bookmarks. Contains blogs, websites, my GitHub stars(which I manage with my bookmark manager, not GH itself) and everything. Feel free to [contribute](CONTRIBUTING.md) by adding more resources!
 
-# Table of Contents
+### Table of Contents
 
 - [Web Development](docs/web-development.md)
 - [Coding Challenges](docs/coding-challenges.md)
