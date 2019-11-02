@@ -14,7 +14,7 @@
     * [Objectivity](https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg) - Brady Haran
     * [Periodic Videos](https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw) - Brady Haran
     * [Deep Sky Videos](https://www.youtube.com/channel/UCo-3ThNQmPmQSQL_L6Lx1_w) - Brady Haran
-    * [Kurgesagt - In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) - Kurgesagt
+    * [Kurzgesagt - In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) - Kurzgesagt
     * [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) - Mitchell Moffit, Gregory Brown
     * [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) - Henry Reich
     * [MinuteEarth](https://www.youtube.com/user/minuteearth/featured) - Henry Reich
