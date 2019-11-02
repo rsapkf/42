@@ -1,4 +1,5 @@
 # Table of Contents:
+
 - [Table of Contents:](#table-of-contents)
     - [Cloud Storage:](#cloud-storage)
     - [Email Providers:](#email-providers)
@@ -6,13 +7,14 @@
     - [Operating Systems:](#operating-systems)
     - [Search Engines:](#search-engines)
     - [Web Browsers:](#web-browsers)
+    - [Password Managers:](#password-managers)
     - [Browser Extensions](#browser-extensions)
     - [More Resources:](#more-resources)
 
 ### Cloud Storage:
 * [Sync.com](https://www.sync.com/)
 * [pCloud](https://www.pcloud.com/)
-* [Tresorit](https://www.tresorit.com/)
+* [Tresorit](https://www.tresorit.com/) - End-to-End Encrypted Cloud Storage for Businesses
 
 ---
 
@@ -67,6 +69,12 @@ More:
 
 ---
 
+### Password Managers:
+* [KeePass Password Safe](https://keepass.info/)
+
+
+---
+
 ### Browser Extensions
 * [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
@@ -78,6 +86,8 @@ More:
 * [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 * [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search)
 * [Bitwarden - Free Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+
+---
 
 ### More Resources:
 Sites/
@@ -91,10 +101,3 @@ Reddit/
 
 GitHub/
 * [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
-
-
-
-
-
-
-* [Hacker News Enhancement Suite – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/hnes/)

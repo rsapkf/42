@@ -198,6 +198,7 @@ Roadmap to Web Development:
 
 * #### NodeJS(JavaScript):
     * Sites/
+        * [Node.js Docs](https://nodejs.org/en/docs/)
         * [Node.js resources- Stack Overflow](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/5511507#5511507)
 
 * #### RubyOnRails(Ruby):
@@ -213,6 +214,10 @@ Roadmap to Web Development:
         * [SQL Tutorial](http://www.sqltutorial.org/)
         * [SQLBolt](https://sqlbolt.com/)
         * [SQLZOO](https://sqlzoo.net/)
+
+* #### PostgreSQL:
+    * Sites/
+        * [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 
 ---
 
