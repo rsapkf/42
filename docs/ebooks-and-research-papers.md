@@ -3,6 +3,7 @@ Disclaimer: This list contains some sites that might have concerns over legality
 ### Ebooks:
 * Sites/
     * [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)
+    * [HN Search 'books'](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=books&sort=byPopularity&type=story)
     * [OpenStax](https://openstax.org/)
     * [Archive.org](https://archive.org/)
     * [freecomputerbooks.com](http://freecomputerbooks.com/)

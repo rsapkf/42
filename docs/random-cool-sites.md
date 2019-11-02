@@ -1,4 +1,5 @@
 * Sites/
+    * [LKML.ORG - the Linux Kernel Mailing List Archive](https://lkml.org/)
     * [Where is Starman](https://www.whereisroadster.com/)
     * [Esolangs](https://esolangs.org/wiki/Main_Page)
     * [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
@@ -46,4 +47,17 @@
 * Github/
     * [stewartmcgown/uds](https://github.com/stewartmcgown/uds)
     * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
-    * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Entire source code from the Apollo 11(19..?) mission!
+    * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Entire source code from the Apollo 11 mission!
+    
+### Lists, Articles
+* [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
+* [DuckDuckGo !Bang](https://duckduckgo.com/bang)
+* [List of cognitive biases - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+* [How to speak Silicon Valley: 53 essential tech-bro terms explained | US news | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
+* [Stop Using Facebook | Home](https://www.stopusingfacebook.co/)
+* [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
+* [reddit: the front page of the internet](https://www.reddit.com/wiki/nifty)
+* [Pacman/Rosetta - ArchWiki](https://wiki.archlinux.org/index.php/Pacman/Rosetta)
+* [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
+* [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
+* [Rust Language Cheat Sheet](https://cheats.rs/)

@@ -1,5 +1,4 @@
 # Massive Open Online Courses
-
 * Sites/
     * [edX.org](https://www.edx.org/) 
     * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
@@ -31,8 +30,6 @@
     * [MasterClass](https://www.masterclass.com/) `paid`
     * [egghead.io](https://egghead.io/) - Short, instructional screencast video tutorials for web developers `paid`
 
-
-
 * GitHub/
     * [ossu/computer-science](https://github.com/ossu/computer-science)
     * [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs)
@@ -45,3 +42,8 @@
     * [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
     * [Stanford](https://www.youtube.com/user/StanfordUniversity)
     * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
+### Courses
+* [Enable Sysadmin by RedHat](https://www.redhat.com/sysadmin/)
+* [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
+* [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training

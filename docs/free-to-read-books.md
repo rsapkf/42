@@ -23,3 +23,5 @@
 * [Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Introduction · Linux Inside](https://0xax.gitbooks.io/linux-insides/)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+* [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [Adopting Erlang](https://adoptingerlang.org/)

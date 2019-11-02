@@ -71,6 +71,11 @@ Roadmap to Web Development:
         * [LambdaSchool Free Online Web Mini Bootcamp](https://lambdaschool.com/courses/cs/web/bootcamp/) - HTML, CSS, JS
         * [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/)
         * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
+        * [CSS-Tricks](https://css-tricks.com/)
+        * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)
+        * [CodePen](https://codepen.io/) - Build, Test, and Discover Front-end Code
+        * [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
+        * [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials
 
 
 * #### JavaScript:
@@ -129,6 +134,7 @@ Roadmap to Web Development:
         * [RealPython](https://realpython.com/)
         * [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (GitHub - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook))
         * [Python Discord](https://pythondiscord.com/)
+        * [Chris Albon's Python Data Science Notes](https://chrisalbon.com/)
 
     * GitHub/
         * [karan/Projects](https://github.com/karan/Projects)
@@ -249,6 +255,10 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
       * [Lorem Ipsum](https://lipsum.com/)
       * [Lorem Picsum](https://picsum.photos/)
       * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+      * [JSONPlaceholder - Fake online REST API for developers](https://jsonplaceholder.typicode.com/)
+      * [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
+      * [SWAPI - The Star Wars API](https://swapi.co/)
+      * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 
   * GitHub/
       * [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)

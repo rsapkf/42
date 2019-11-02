@@ -95,6 +95,7 @@
     * [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
     * [The Pi-Search Page](https://www.angio.net/pi/)
     * [Things to Make and Do in the Fourth Dimension](https://makeanddo4d.com/)
+    * [Great Internet Mersenne Prime Search - PrimeNet](https://www.mersenne.org/)
     * [Terrence Tao's Blog](https;//terrytao.wordpress.com)
     * [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
     * [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
@@ -148,6 +149,7 @@
       * [ExpressVPN Blog](https://www.expressvpn.com/blog/)
 
     * Blogs
+      * [Distill](https://distill.pub/) - articles about machine learning
       * [Julia Evans](https://jvns.ca/)
       * [Coding Horror](https://blog.codinghorror.com/)
       * [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
@@ -177,6 +179,11 @@
       * [Reddit](https://reddit.com/)
       * [Slashdot](https://www.slashdot.org/)
       * [MIT Technology Review](https://www.technologyreview.com/)
+      * [Facebook_Open Source ](https://opensource.facebook.com/)
+      * [Venture Hacks - Advice for startups](https://venturehacks.com/)
+      * [Facebook Engineering](https://engineering.fb.com/)
+      * [Google Open Source](https://opensource.google/)
+      * [Google Developers Blog](https://developers.googleblog.com/)
       * [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News
       * [The Blog of Paul Graham](http://www.paulgraham.com/articles.html)
       * [REUTERS](https://www.reuters.com)
@@ -204,3 +211,16 @@
     * Comics
       * [xkcd Comics](https://www.xkcd.com/)
       * [PHD Comics](http://phdcomics.com/)
+
+    * People
+      * [Dennis Ritchie Home Page](https://www.bell-labs.com/usr/dmr/www/)
+      * [Fabrice Bellard's Home Page](https://bellard.org/)
+      * [Paul Graham](http://paulgraham.com/)
+      * [Gates Notes](http://gatesnotes.com/)
+      * [Eric S. Raymond's Home Page](http://www.catb.org/esr/)
+      * [Richard Stallman's Personal Page](https://www.stallman.org/)
+      * [Stratechery by Ben Thompson](https://stratechery.com/)
+      * [Bjarne Stroustrup's Homepage](http://www.stroustrup.com/index.html)
+      * [Stephen Wolfram: Official Website](https://www.stephenwolfram.com/)
+      * [Sindre Sorhus](https://sindresorhus.com/)
+      * [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
