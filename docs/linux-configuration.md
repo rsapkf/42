@@ -2,7 +2,7 @@
 - [Table of Contents](#table-of-contents)
 	- [Distros](#distros)
 	- [Shell](#shell)
-	- [Disktop Environments](#disktop-environments)
+	- [Desktop Environments](#desktop-environments)
 	- [Window Managers](#window-managers)
 	- [Program Launchers](#program-launchers)
 	- [Terminals](#terminals)
@@ -52,7 +52,7 @@ See Also [DistroWatch](https://distrowatch.com)
 ### Shell
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
-### Disktop Environments
+### Desktop Environments
 - [Gnome](https://www.gnome.org)
 - [KDE](https://kde.org)
 - [Xfce](https://xfce.org)
@@ -82,6 +82,7 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [dmenu](https://tools.suckless.org/dmenu/)
 - [rofi](https://github.com/davatorium/rofi)
 - [albertlauncher](https://github.com/albertlauncher/albert)
+- [BusyBox] Swiss Army Knife of Embedded Linux (https://busybox.net/)
 
 ---
 
