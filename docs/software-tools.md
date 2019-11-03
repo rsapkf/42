@@ -25,6 +25,8 @@
 * [Waterfox](https://www.waterfox.net/)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Opera](https://www.opera.com/)
+- [Brave](https://brave.com) - privacy & security focused browser
+- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings
 
 ### Search Engines
 * [Startpage.com](https://www.startpage.com/)
@@ -82,6 +84,7 @@ See Also:
     - [Fedora](https://getfedora.org/)
     - [OpenSUSE](https://opensuse.org/)
     - [NixOS](https://nixos.org/)
+    - [GuixSD](https://guix.gnu.org)
     - [Solus](https://getsol.us/home/)
     - [CentOS](https://www.centos.org/)
     - [Debian](https://www.debian.org/), [Kali](https://www.kali.org/)
@@ -97,7 +100,6 @@ See Also:
     - [elementary OS](https://elementary.io/)
     - [Red Hat](https://www.redhat.com/en)
     - [Deepin](https://www.deepin.org/en/)
-    - [NixOS](https://nixos.org/)
     - [ArcoLinux](https://arcolinux.info/)
     - [Trisquel GNU/Linux](https://trisquel.info/en)
     - [Parabola GNU/Linux](https://www.parabola.nu/)
