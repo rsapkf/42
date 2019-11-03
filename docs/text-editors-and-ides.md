@@ -39,8 +39,8 @@
 	    * [Official Spacemacs Documentation](http://spacemacs.org/)
 	    
 * #### Kakoune:
-        * Sites/
-                * [Official Kakoune Documentation](https://github.com/mawww/kakoune/)
+	* Sites/
+		* [Official Kakoune Documentation](https://github.com/mawww/kakoune/)
 
 * #### Nano:
 	* Sites/
