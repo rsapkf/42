@@ -23,6 +23,7 @@
 - [Fedora](https://getfedora.org/)
 - [OpenSUSE](https://opensuse.org/)
 - [NixOS](https://nixos.org/)
+- [GuixSD](https://guix.gnu.org)
 - [Solus](https://getsol.us/home/)
 - [CentOS](https://www.centos.org/)
 - [Debian](https://www.debian.org/), [Kali](https://www.kali.org/)
@@ -38,7 +39,6 @@
 - [elementary OS](https://elementary.io/)
 - [Red Hat](https://www.redhat.com/en)
 - [Deepin](https://www.deepin.org/en/)
-- [NixOS](https://nixos.org/)
 - [ArcoLinux](https://arcolinux.info/)
 - [Trisquel GNU/Linux](https://trisquel.info/en)
 - [Parabola GNU/Linux](https://www.parabola.nu/)
@@ -66,6 +66,8 @@ See Also [DistroWatch](https://distrowatch.com)
 
 ### Window Managers
 - [i3wm](https://i3wm.org/)
+- [i3-gaps](https://github.com/Airblader/i3) (i3 with more features)
+- [sway](https://swaywm.org) (i3-compatible Wayland compositor)
 - [dwm](https://dwm.suckless.org/) See Also [suckless.org](https://suckless.org/)
 - [bspwm](https://github.com/baskerville/bspwm)
 - [openbox](http://openbox.org/)
@@ -130,9 +132,9 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [mutt](http://www.mutt.org/) - email client
 - [zathura](https://github.com/pwmt/zathura) - document viewer
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - system info script
+- [neofetch](https://github.com/dylanaraps/neofetch) - neo system info script
 - [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client
 - [Clam AV](https://www.clamav.net/) - antivirus
-- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings
 - [lynx](http://lynx.browser.org/) - web browser
 - [w3m](http://w3m.sourceforge.net/) - web browser
 * [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
