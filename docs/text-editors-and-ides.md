@@ -27,12 +27,28 @@
 
 * #### Neovim:
 	* Sites/
-	        * [Neovim Documentation](https://neovim.io/)
+    * [Neovim Documentation](https://neovim.io/)
+
+* #### SpaceVim:
+	* Sites/
+    * [SpaceVim GitHub](https://github.com/SpaceVim/SpaceVim)
+
+* #### Oni:
+	* Sites/
+    * [Oni GitHub](https://github.com/onivim/oni)
 
 * #### Kakoune:
 	* Sites/
 		* [Kakoune Documentation](https://github.com/mawww/kakoune/)
-	
+
+* #### Howl:
+	* Sites/
+		* [Howl GitHub](https://github.com/howl-editor/howl)
+
+* #### Yi:
+	* Sites/
+		* [Yi GitHub](https://github.com/yi-editor/yi)
+
 * #### Emacs:
 	* Sites/
 		* [GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
@@ -40,7 +56,11 @@
 
 * #### Spacemacs:
 	* Sites/
-	        * [Spacemacs Documentation](http://spacemacs.org/)
+    * [Spacemacs Documentation](http://spacemacs.org/)
+
+* #### Doom Emacs:
+	* Sites/
+    * [Doom Emacs GitHub](https://github.com/hlissner/doom-emacs)
 	    
 
 * #### Nano:
