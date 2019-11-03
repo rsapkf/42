@@ -26,28 +26,28 @@
 		* [jmoon018/PacVim](https://github.com/jmoon018/PacVim)
 
 * #### Neovim:
-	* Sites/
-    * [Neovim Documentation](https://neovim.io/)
+    * Sites/
+        * [Neovim Documentation](https://neovim.io/)
 
 * #### SpaceVim:
-	* Sites/
-    * [SpaceVim GitHub](https://github.com/SpaceVim/SpaceVim)
+    * Sites/
+      * [SpaceVim GitHub](https://github.com/SpaceVim/SpaceVim)
 
 * #### Oni:
-	* Sites/
-    * [Oni GitHub](https://github.com/onivim/oni)
+    * Sites/
+      * [Oni GitHub](https://github.com/onivim/oni)
 
 * #### Kakoune:
-	* Sites/
-		* [Kakoune Documentation](https://github.com/mawww/kakoune/)
+    * Sites/
+      * [Kakoune Documentation](https://github.com/mawww/kakoune/)
 
 * #### Howl:
-	* Sites/
-		* [Howl GitHub](https://github.com/howl-editor/howl)
+    * Sites/
+      * [Howl GitHub](https://github.com/howl-editor/howl)
 
 * #### Yi:
-	* Sites/
-		* [Yi GitHub](https://github.com/yi-editor/yi)
+    * Sites/
+      * [Yi GitHub](https://github.com/yi-editor/yi)
 
 * #### Emacs:
 	* Sites/
@@ -55,12 +55,12 @@
 		* [Emacs is sexy!](https://emacs.sexy/#resources)
 
 * #### Spacemacs:
-	* Sites/
-    * [Spacemacs Documentation](http://spacemacs.org/)
+    * Sites/
+      * [Spacemacs Documentation](http://spacemacs.org/)
 
 * #### Doom Emacs:
-	* Sites/
-    * [Doom Emacs GitHub](https://github.com/hlissner/doom-emacs)
+    * Sites/
+      * [Doom Emacs GitHub](https://github.com/hlissner/doom-emacs)
 	    
 
 * #### Nano:
