@@ -129,6 +129,7 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [glances](https://github.com/nicolargo/glances) - System Monitor
 - [irssi](https://github.com/irssi/irssi) - terminal irc client
 - [mutt](http://www.mutt.org/) - email client
+- [NeoMutt](https://neomutt.org) - a fork of Mutt with added features
 - [zathura](https://github.com/pwmt/zathura) - document viewer
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - system info script
 - [neofetch](https://github.com/dylanaraps/neofetch) - neo system info script
