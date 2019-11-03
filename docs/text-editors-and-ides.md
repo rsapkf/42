@@ -28,8 +28,7 @@
 * #### Neovim:
 	* Sites/
 	    * [Official Neovim Documentation](https://neovim.io/)
-
-
+	
 * #### Emacs:
 	* Sites/
 		* [Official GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
@@ -38,7 +37,10 @@
 * #### Spacemacs:
 	* Sites/
 	    * [Official Spacemacs Documentation](http://spacemacs.org/)
-
+	    
+* #### Kakoune:
+	* Sites/
+		* [Official Kakoune Documentation](https://github.com/mawww/kakoune/)
 
 * #### Nano:
 	* Sites/
