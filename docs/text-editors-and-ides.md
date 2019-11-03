@@ -29,7 +29,10 @@
 	* Sites/
 	    * [Official Neovim Documentation](https://neovim.io/)
 
-
+* #### Kakoune:
+	* Sites/
+		* [Official Kakoune Documentation](https://github.com/mawww/kakoune/blob/master/README.asciidoc)
+		
 * #### Emacs:
 	* Sites/
 		* [Official GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
