@@ -14,7 +14,6 @@
     * [Gmail Search Operators](https://support.google.com/mail/answer/7190)
     * [Keanu Reeves is Immortal](https://www.keanuisimmortal.com/)
     * [Youglish](https://youglish.com/) - Use YouTube to improve your English pronunciation
-
     * [STRML](https://www.strml.net/)
     * [txti](http://txti.es/) - Fast web pages for everybody
     * [bpfyxgjm](https://sdnotes.com/bpfyxgjm)
@@ -56,7 +55,7 @@
 * [How to speak Silicon Valley: 53 essential tech-bro terms explained | US news | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
 * [Stop Using Facebook | Home](https://www.stopusingfacebook.co/)
 * [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
-* [reddit: the front page of the internet](https://www.reddit.com/wiki/nifty)
+* [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
 * [Pacman/Rosetta - ArchWiki](https://wiki.archlinux.org/index.php/Pacman/Rosetta)
 * [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
 * [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
