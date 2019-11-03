@@ -79,8 +79,7 @@ See Also:
 ### OSes
 - For PC
   - Linux
-    - [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/),
-    , [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop), [Kubuntu](https://kubuntu.org/)
+    - [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/), [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop), [Kubuntu](https://kubuntu.org/)
     - [Fedora](https://getfedora.org/)
     - [OpenSUSE](https://opensuse.org/)
     - [NixOS](https://nixos.org/)

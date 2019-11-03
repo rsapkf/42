@@ -18,8 +18,7 @@
 ---
 
 ### Distros
-- [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/),
-, [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop), [Kubuntu](https://kubuntu.org/)
+- [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/), [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop), [Kubuntu](https://kubuntu.org/)
 - [Fedora](https://getfedora.org/)
 - [OpenSUSE](https://opensuse.org/)
 - [NixOS](https://nixos.org/)
@@ -145,13 +144,14 @@ See Also:
 
 #### Graphical Applications
 - [VLC](https://www.videolan.org/vlc/)
+- [MPV](https://mpv.io): a free, open source, and cross-platform media player
 - [LibreOffice](https://www.libreoffice.org/)
 - [Transmission](https://transmissionbt.com/)
 - [qBittorrent](https://qbittorrent.org/)
 - [OBS](https://obsproject.com/)
 - [Blender](https://blender.org/)
 - [GIMP](https://gimp.org/)
-* [WireGuard](https://www.wireguard.com/): fast, modern, secure VPN tunnel
+- [WireGuard](https://www.wireguard.com/): fast, modern, secure VPN tunnel
 - [Audacity](https://www.audacityteam.org/)
 - [Inkscape](https://inkscape.org/)
 - [Kdenlive](https://www.kdenlive.org/)
