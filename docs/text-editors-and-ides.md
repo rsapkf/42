@@ -27,24 +27,25 @@
 
 * #### Neovim:
 	* Sites/
-	    * [Official Neovim Documentation](https://neovim.io/)
+	        * [Neovim Documentation](https://neovim.io/)
+
+* #### Kakoune:
+	* Sites/
+		* [Kakoune Documentation](https://github.com/mawww/kakoune/)
 	
 * #### Emacs:
 	* Sites/
-		* [Official GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
+		* [GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
 		* [Emacs is sexy!](https://emacs.sexy/#resources)
 
 * #### Spacemacs:
 	* Sites/
-	    * [Official Spacemacs Documentation](http://spacemacs.org/)
+	        * [Spacemacs Documentation](http://spacemacs.org/)
 	    
-* #### Kakoune:
-	* Sites/
-		* [Official Kakoune Documentation](https://github.com/mawww/kakoune/)
 
 * #### Nano:
 	* Sites/
-		* [Offcial GNU Nano Documentation](https://www.nano-editor.org/docs.php)
+		* [GNU Nano Documentation](https://www.nano-editor.org/docs.php)
 
 ### Graphical Editors
 * #### Atom:
