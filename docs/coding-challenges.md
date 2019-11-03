@@ -19,4 +19,7 @@
     * [edabit](https://edabit.com/)
     * [practiceJS](https://practicejs.com/) - some JavaScript coding exercises put into a web app so they can be done on a phone.
     * [CodinGame](https://www.codingame.com/home)
+    * [Rosalind](http://rosalind.info) - Python ∩ Biology
+    * [Bandit OverTheWire](https://overthewire.org/wargames/bandit/) - test your (ba)sh skills
+      <!-- Note: OverTheWire also hosts a bunch of other similar typed games -->
 ---
