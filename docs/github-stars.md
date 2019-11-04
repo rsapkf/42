@@ -1,4 +1,4 @@
-## All my GitHub stars
+## My GitHub Stars
 
 ### GitHub Stars
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
