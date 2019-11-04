@@ -59,14 +59,18 @@
 		* [GNU Nano Documentation](https://www.nano-editor.org/docs.php)
 
 ### Graphical Editors
+* #### VSCode:
+	* Sites/
+		* [VSCode Docs](https://docs.microsoft.com/en-us/visualstudio/)
+
 * #### Atom:
 	* Sites/
 		* [Atom Docs](https://atom.io/docs)
 
-* #### VSCode:
+* #### Notepad++:
 	* Sites/
-		* [VSCode Docs](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
-
+		* [Notepad++ Docs](https://npp-user-manual.org/)
+		
 * #### Sublime Text:
 	* Sites/
 		* [Sublime Text Official Documentation](https://www.sublimetext.com/docs/3/)
