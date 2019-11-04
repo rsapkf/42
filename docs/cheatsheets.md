@@ -9,3 +9,5 @@
 * [irc cheat sheet · GitHub](https://gist.github.com/xero/2d6e4b061b4ecbeb9f99)
 * [tmux cheatsheet · GitHub](https://gist.github.com/andreyvit/2921703)
 * [tmux shortcuts & cheatsheet · GitHub](https://gist.github.com/MohamedAlaa/2961058)
+* [Unix/Linux cheat sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+
