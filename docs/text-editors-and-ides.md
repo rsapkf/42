@@ -70,6 +70,9 @@
 * #### Notepad++:
 	* Sites/
 		* [Notepad++ Docs](https://npp-user-manual.org/)
+* #### Brackets:
+	* Sites/
+		* [Brackets Docs](http://brackets.io/docs/current/modules/brackets.html)
 		
 * #### Sublime Text:
 	* Sites/
