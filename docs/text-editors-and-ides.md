@@ -1,4 +1,4 @@
-# Text Editors And IDEs
+# Text Editors and IDEs
 
 ## Table of Contents
 - [Text Editors](#text-editors)

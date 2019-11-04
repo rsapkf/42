@@ -38,7 +38,7 @@
 * [Qwant](https://www.qwant.com/)
 * [Metacrawler](https://www.metacrawler.com/)
 * [YaCy](https://yacy.net/en/index.html)- The Peer to Peer Search Engine
-* [Bing](https://www.bing.com/)*
+* [Bing](https://www.bing.com/)
 * [Google](https://www.google.com/)
 
 See Also:
