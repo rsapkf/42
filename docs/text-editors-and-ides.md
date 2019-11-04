@@ -1,13 +1,11 @@
-## Text Editors And IDEs
+# Text Editors And IDEs
 
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
-	- [Text Editors](#text-editors)
-		- [Text Based Editors](#text-based-editors)
-		- [Graphical Editors](#graphical-editors)
-	- [IDEs](#ides)
-	- [Interactive Online Code Editors](#interactive-online-code-editors)
+## Table of Contents
+- [Text Editors](#text-editors)
+	- [Text Based Editors](#text-based-editors)
+	- [Graphical Editors](#graphical-editors)
+- [IDEs](#ides)
+- [Interactive Online Code Editors](#interactive-online-code-editors)
 
 ---
 

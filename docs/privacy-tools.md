@@ -1,6 +1,6 @@
-## Privacy Tools
+# Privacy Tools
 
-# Table of Contents:
+## Table of Contents:
 
 - [Table of Contents:](#table-of-contents)
     - [Cloud Storage:](#cloud-storage)
