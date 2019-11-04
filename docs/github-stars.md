@@ -162,7 +162,7 @@
 * [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
 * [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 * [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-* [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. | https://standardnotes.org
+* [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
 * [lerna/lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages
 * [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design
 * [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️Build lightning fast websites and apps with Vue.js
