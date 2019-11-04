@@ -62,7 +62,10 @@
 * #### Atom:
 	* Sites/
 		* [Atom Docs](https://atom.io/docs)
-
+		
+* #### Notepad++:
+	* Sites/
+		* [Notepad++ Docs](https://npp-user-manual.org/)
 * #### VSCode:
 	* Sites/
 		* [VSCode Docs](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
