@@ -9,6 +9,11 @@
     * [TopCoder](https://www.topcoder.com/)
     * [CodeWars](https://www.codewars.com/)
     * [CodeForces](https://codeforces.com/)
+    * [CoderByte](https://www.coderbyte.com/)
+    * [CodeChef](https://www.codechef.com/)
+    * [LeetCode](https://leetcode.com/)
+    * [SPOJ](https://www.spoj.com/)
+    * [CodinGame](https://www.codingame.com/start)
     * [AdventOfCode](https://adventofcode.com/) - 25 days of themed coding challenges, starting each year on Dec 1.
     * [LeetCode](https://leetcode.com/)
     * [Project Lovelace](https://projectlovelace.net/) - free scientific programming problems.
