@@ -1,3 +1,5 @@
+## Science, Technology and Mathematics
+
 ## Science, Mostly
 * YouTube/
     * [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) - Michael Stevens
@@ -108,6 +110,7 @@
 
 ## Tech:
 * YouTube/
+    * [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
     * [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) - Linus Sebastian
     - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith
     - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor
@@ -179,8 +182,8 @@
       * [Reddit](https://reddit.com/)
       * [Slashdot](https://www.slashdot.org/)
       * [MIT Technology Review](https://www.technologyreview.com/)
-      * [Facebook_Open Source ](https://opensource.facebook.com/)
-      * [Venture Hacks - Advice for startups](https://venturehacks.com/)
+      * [Facebook Open Source ](https://opensource.facebook.com/)
+      * [Venture Hacks](https://venturehacks.com/) - Advice for startups
       * [Facebook Engineering](https://engineering.fb.com/)
       * [Google Open Source](https://opensource.google/)
       * [Google Developers Blog](https://developers.googleblog.com/)

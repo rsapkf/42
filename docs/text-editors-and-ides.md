@@ -1,12 +1,13 @@
-# Text Editors And IDEs
+## Text Editors And IDEs
+
 # Table of Contents
-- [Text Editors And IDEs](#text-editors-and-ides)
+
 - [Table of Contents](#table-of-contents)
-	- [Text Editors:](#text-editors)
+	- [Text Editors](#text-editors)
 		- [Text Based Editors](#text-based-editors)
 		- [Graphical Editors](#graphical-editors)
-	- [IDEs:](#ides)
-	- [Interactive Online Code Editors:](#interactive-online-code-editors)
+	- [IDEs](#ides)
+	- [Interactive Online Code Editors](#interactive-online-code-editors)
 
 ---
 
@@ -27,7 +28,15 @@
 
 * #### Neovim:
 	* Sites/
-	        * [Neovim Documentation](https://neovim.io/)
+		* [Neovim Documentation](https://neovim.io/)
+
+* #### SpaceVim:
+	* Sites/
+		* [SpaceVim Documentation](https://spacevim.org/documentation/)
+
+* #### Oni:
+	* Sites/
+		* [Onivim Documentation](https://github.com/onivim/oni)
 
 * #### Kakoune:
 	* Sites/
@@ -37,11 +46,15 @@
 	* Sites/
 		* [GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
 		* [Emacs is sexy!](https://emacs.sexy/#resources)
+		* [Doom Emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer
 
 * #### Spacemacs:
 	* Sites/
-	        * [Spacemacs Documentation](http://spacemacs.org/)
-	    
+		* [Spacemacs Documentation](http://spacemacs.org/)
+
+* #### yi-editor:
+	* Sites/
+		* [yi-editor Documentation](https://github.com/yi-editor/yi)
 
 * #### Nano:
 	* Sites/
@@ -79,7 +92,6 @@
 * #### Anaconda Python Distribution:
 	* Sites/
 		* [Anaconda Documentation](https://www.anaconda.com/distribution/)
-
 
 ---
 

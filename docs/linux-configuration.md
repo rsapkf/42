@@ -1,8 +1,10 @@
+## Linux Configuration
+
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 	- [Distros](#distros)
 	- [Shell](#shell)
-	- [Disktop Environments](#disktop-environments)
+	- [Desktop Environments](#disktop-environments)
 	- [Window Managers](#window-managers)
 	- [Program Launchers](#program-launchers)
 	- [Terminal Emulators](#terminal-emulators)
@@ -18,8 +20,7 @@
 ---
 
 ### Distros
-- [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/),
-, [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop), [Kubuntu](https://kubuntu.org/)
+- [Ubuntu](https://www.ubuntu.com/), [MX Linux](https://mxlinux.org/), [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.me/), [Linux Mint](https://www.linuxmint.com/), [Pop!OS](https://system76.com/pop), [Kubuntu](https://kubuntu.org/)
 - [Fedora](https://getfedora.org/)
 - [OpenSUSE](https://opensuse.org/)
 - [NixOS](https://nixos.org/)
@@ -38,7 +39,6 @@
 - [elementary OS](https://elementary.io/)
 - [Red Hat](https://www.redhat.com/en)
 - [Deepin](https://www.deepin.org/en/)
-- [NixOS](https://nixos.org/)
 - [ArcoLinux](https://arcolinux.info/)
 - [Trisquel GNU/Linux](https://trisquel.info/en)
 - [Parabola GNU/Linux](https://www.parabola.nu/)
@@ -50,9 +50,13 @@ See Also [DistroWatch](https://distrowatch.com)
 ---
 
 ### Shell
-* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+* [Bash](https://www.gnu.org/software/bash/manual/bash.html)
+* [Zsh](http://zsh.sourceforge.net/)
+* [fish](https://github.com/fish-shell/fish-shell)
 
-### Disktop Environments
+---
+
+### Desktop Environments
 - [Gnome](https://www.gnome.org)
 - [KDE](https://kde.org)
 - [Xfce](https://xfce.org)
@@ -60,12 +64,15 @@ See Also [DistroWatch](https://distrowatch.com)
 - [MATE](https://mate-desktop.org/)
 - [LXQt](https://lxqt.org/)
 - [Budgie](https://budgie-desktop.org/)
+- [LXDE](https://lxde.org/)
 - [Pantheon](https://wiki.archlinux.org/index.php/Pantheon)
 
 ---
 
 ### Window Managers
 - [i3wm](https://i3wm.org/)
+- [i3-gaps](https://github.com/Airblader/i3) - i3 with more features
+- [sway](https://github.com/swaywm/sway - i3-compatible Wayland compositor)
 - [dwm](https://dwm.suckless.org/) See Also [suckless.org](https://suckless.org/)
 - [bspwm](https://github.com/baskerville/bspwm)
 - [openbox](http://openbox.org/)
@@ -73,8 +80,9 @@ See Also [DistroWatch](https://distrowatch.com)
 - [qtile](http://www.qtile.org/)
 - [xmonad](http://www.xmonad.org/)
 - [herbstluftwm](http://www.herbstluftwm.org/)
+- [stumpwm](https://github.com/stumpwm/stumpwm)
 
-See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/playlist?list=PL5--8gKSku17lbSBHPduj4qG97qxJe0UM)
+See Also [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/playlist?list=PL5--8gKSku17lbSBHPduj4qG97qxJe0UM)
 
 ---
 
@@ -87,6 +95,7 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 
 ### Terminal Emulators
 - [urxvt(rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+- [st](https://st.suckless.org/)
 - [Termite](https://github.com/thestinger/termite/)
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
@@ -128,28 +137,32 @@ See [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/pla
 - [glances](https://github.com/nicolargo/glances) - System Monitor
 - [irssi](https://github.com/irssi/irssi) - terminal irc client
 - [mutt](http://www.mutt.org/) - email client
+- [NeoMutt](https://neomutt.org) - highly configurable mail reader based on mutt
+- [neofetch](https://github.com/dylanaraps/neofetch) - system info script
 - [zathura](https://github.com/pwmt/zathura) - document viewer
+- [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - system info script
+- [mpv](https://github.com/mpv-player/mpv) - Command line video player
 - [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client
 - [Clam AV](https://www.clamav.net/) - antivirus
-- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings
 - [lynx](http://lynx.browser.org/) - web browser
+- [surf](https://surf.suckless.org/) - web browser
 - [w3m](http://w3m.sourceforge.net/) - web browser
 * [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
+* [GNU Readline Library](https://tiswww.case.edu/php/chet/readline/readline.html)
+- [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel
 
 See Also: 
 * [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
-* []
 
 #### Graphical Applications
 - [VLC](https://www.videolan.org/vlc/)
 - [LibreOffice](https://www.libreoffice.org/)
-- [Transmission](https://transmissionbt.com/)
+- [Transmission](https://github.com/transmission/transmission) - BitTorrent client. See Also [Transmission-cli](https://wiki.archlinux.org/index.php/Transmission)
 - [qBittorrent](https://qbittorrent.org/)
 - [OBS](https://obsproject.com/)
 - [Blender](https://blender.org/)
 - [GIMP](https://gimp.org/)
-* [WireGuard](https://www.wireguard.com/): fast, modern, secure VPN tunnel
 - [Audacity](https://www.audacityteam.org/)
 - [Inkscape](https://inkscape.org/)
 - [Kdenlive](https://www.kdenlive.org/)
@@ -158,6 +171,7 @@ See Also:
 - [Pycharm-CE](https://www.jetbrains.com/pycharm/)
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
 - [Calibre](https://calibre-ebook.com/)
+- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings
 
 ---
 

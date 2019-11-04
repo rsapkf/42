@@ -1,3 +1,5 @@
+## Web Development
+
 #### ***IMPORTANT***
 >If you are completely new to web development, **DONOT** proceed ahead without visiting these links:
 
@@ -28,14 +30,13 @@ Roadmap to Web Development:
 * [Devdocs.io](https://devdocs.io)
 * [readthedocs.org](https://readthedocs.org/)
 * [Zeal](https://zealdocs.org/) - Linux/Windows
-* [Velocity](https://velocity.silverlakesoftware.com/) - Windows only
+* [Velocity](https://velocity.silverlakesoftware.com/) - `Windows only`
 * [Dash](https://kapeli.com/dash) - Mac/iOS
 
 ---
 
 ### Command Line:
 * Sites/
-    * [Learn Enough Command Line](https://www.learnenough.com/command-line-tutorial/basics)
     * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
     * [SS64 (Command line reference - Database and OS scripting)](https://ss64.com/)
 
@@ -62,17 +63,14 @@ Roadmap to Web Development:
         * [Mozilla Developer Network(MDN) Docs](https://developer.mozilla.org/en-US/)**(Highly Recommended)** - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
         * [freeCodeCamp.org](https://www.freecodecamp.org/)**(Highly Recommended)** - an excellent [open source]() resource for learning web development in a interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
         * [The Odin Project](https://www.theodinproject.com/) - another excellent [open source]() resource similar to the freeCodeCamp project. Covers Ruby, RubyOnRails.
-        * [Learn Enough To Be Dangerous](https://www.learnenough.com/) - a free to read online set of courses by [Michael Hartl](https://www.michaelhartl.com/). Also covers command line, text editors, version control, and Ruby. His renowned RubyOnRails tutorial is available at [railstutorial.org]()
         * [w3schools](https://www.w3schools.com/) - While this site is pretty decent for quick syntax lookup and reference, I **DO NOT** recommend this over MDN to learn *how to program*. Before choosing w3schools over above resources, please go through [this](https://news.ycombinator.com/item?id=6422998) hackernews thread and [this](https://www.w3fools.com) site by the mods of [r/learnprogramming](www.reddit.com/learnprogramming). This site also has references to Ajax, Node, PHP, SQL, XML, Java, Python, ASP, Angular, jQuery, Bootstrap, C++ and Raspberry Pi.
         * [Deep Dive Into Modern Web Development - University of Helsinki](https://fullstackopen.com/en) - React, Node, Express, GraphQL
         * [HTML Dog](https://htmldog.com/) - HTML, CSS, JavaScript
         * [Scrimba](https://scrimba.com/) - Interactive way to learn and test HTML, CSS and JavaScript code and lessons on React, Vue and Angular frameworks.
         * [SoloLean](https://www.sololearn.com/) - Learn HTML, CSS, JavaScript, PHP, Ruby, SQL, jQuery, Java, C, C++, C#, Swift on the [Web](https://www.sololearn.com/) or their Mobile App [Google Play](https://play.google.com/store/apps/details?id=com.sololearn) | [App Store](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
         * [LambdaSchool Free Online Web Mini Bootcamp](https://lambdaschool.com/courses/cs/web/bootcamp/) - HTML, CSS, JS
-        * [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/)
         * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
         * [CSS-Tricks](https://css-tricks.com/)
-        * [Overreacted — A blog by Dan Abramov](https://overreacted.io/)
         * [CodePen](https://codepen.io/) - Build, Test, and Discover Front-end Code
         * [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
         * [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials
@@ -151,7 +149,7 @@ Roadmap to Web Development:
 
 * #### Ruby:
   * Sites/
-      * [Official Ruby Documentation](https://www.ruby-lang.org/en/documentation/) - This official guide contains guides, tutorials, and reference material to help you learn about Ruby.
+      * [Ruby Docs](https://www.ruby-lang.org/en/documentation/)
       * [The Ruby Style Guide](https://rubystyle.guide/)
 
 * #### PHP:
@@ -165,12 +163,13 @@ Roadmap to Web Development:
 ####  Front-End Web Frameworks:
 * #### Bootstrap:
     * Sites/
-        * [Official Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+        * [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 * #### React:
     * Sites/
-        * [Official step-by-step React Tutorial](https://reactjs.org/docs/hello-world.html)
+        * [Official React Docs](https://reactjs.org/docs/hello-world.html)
         * [Official Tutorial for building a small game using React](https://reactjs.org/tutorial/tutorial.html)
+        * [Overreacted](https://overreacted.io/) - A blog by Dan Abramov
 
 * #### Redux:
     * Sites/
@@ -178,11 +177,11 @@ Roadmap to Web Development:
 
 * #### Angular:
     * Sites/
-        * [Official Angular Docs](https://angular.io/docs)
+        * [Angular Docs](https://angular.io/docs)
 
 * #### Vue:
     * Sites/
-        * [Official Vue Guide](https://vuejs.org/v2/guide/)
+        * [Vue Docs](https://vuejs.org/v2/guide/)
 
 #### Back-End Web Frameworks:
 * #### Django(Python):
@@ -245,9 +244,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 
 ### Extra Resources:
   * Sites/
-      * [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
       * [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
-      * [Dev-Diaries](https://www.dev-diaries.com/)
       * [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
       * [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
       * [hackr.io](https://hackr.io/) - find the best programming courses & tutorials
@@ -255,10 +252,10 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
       * [Lorem Ipsum](https://lipsum.com/)
       * [Lorem Picsum](https://picsum.photos/)
       * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
-      * [JSONPlaceholder - Fake online REST API for developers](https://jsonplaceholder.typicode.com/)
+      * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
       * [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
       * [SWAPI - The Star Wars API](https://swapi.co/)
-      * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
+      * [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
 
   * GitHub/
       * [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
