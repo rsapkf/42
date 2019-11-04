@@ -1,3 +1,5 @@
+## Software Tools
+
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
   - [Programming Tools](#programming-tools)
@@ -20,10 +22,12 @@
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
 * [Chromium](https://www.chromium.org/Home)
+* [Brave](https://brave.com) - privacy & security focused browser
 * [Vivaldi](https://vivaldi.com/)
 * [Pale Moon](https://www.palemoon.org/)
 * [Waterfox](https://www.waterfox.net/)
 * [Google Chrome](https://www.google.com/chrome/)
+* [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings 
 * [Opera](https://www.opera.com/)
 
 ### Search Engines

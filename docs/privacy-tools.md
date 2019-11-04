@@ -1,3 +1,5 @@
+## Privacy Tools
+
 # Table of Contents:
 
 - [Table of Contents:](#table-of-contents)
@@ -93,6 +95,7 @@ More:
 Sites/
 * [Track This](https://trackthis.link) - A new kind of Incognito
 * [privacytools.io](https://www.privacytools.io/)
+* [Stop Using Facebook](https://www.stopusingfacebook.co/)
 
 Reddit/
 * [This](https://www.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/?utm_source=share&utm_medium=web2x) thread on [r/privacy](https://old.reddit.com/r/privacy/) - Cutting Google out of your life.
