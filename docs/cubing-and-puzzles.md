@@ -1,8 +1,10 @@
 # Cubing and Puzzles
 
 ## Table of Contents:
-- [Rubik's Cube](#rubik's-cube)
+- [Rubik's Cube](#rubiks-cube)
 - [Other](#other)
+
+---
 
 ## Rubik's Cube:
 * Sites/
