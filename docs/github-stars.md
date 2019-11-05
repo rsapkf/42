@@ -50,6 +50,7 @@
 * [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 * [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job/) - A curated list of awesome remote jobs and resources
 
 ---
 
@@ -114,6 +115,11 @@
 * [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client
 * [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 * [marktext/marktext](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+* [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line
+* [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
+- [onivim/oni](https://github.com/onivim/oni)
+
 
 ---
 
@@ -184,7 +190,13 @@
 * [starship/starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
 * [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 * [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-* [markedjs/marked](https://github.com/markedjs/marked)* [borgbackup/borg](https://github.com/borgbackup/borg)* [asciinema/asciinema](https://github.com/asciinema/asciinema)* [11ty/eleventy](https://github.com/11ty/eleventy)* [junegunn/fzf](https://github.com/junegunn/fzf) - A markdown parser and compiler. Built for speed
+* [markedjs/marked](https://github.com/markedjs/marked)
+* [borgbackup/borg](https://github.com/borgbackup/borg)
+* [asciinema/asciinema](https://github.com/asciinema/asciinema)
+* [11ty/eleventy](https://github.com/11ty/eleventy)
+* [junegunn/fzf](https://github.com/junegunn/fzf) - A markdown parser and compiler. Built for speed
+* [playframework/playframework](https://github.com/playframework/playframework)
+* [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - The #1 free and open source CDN built to make life easier for developers
 
 ---
 
@@ -266,6 +278,7 @@
 * [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 * [restic/restic](https://github.com/restic/restic)
 * [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+* [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) - Open source home automation that puts local control and privacy first
 
 ---
 
@@ -297,6 +310,7 @@
 * [dunst-project/dunst](https://github.com/dunst-project/dunst)
 * [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme
+* [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc
 
 ### Show HN
 * [chrispsn/mesh](https://github.com/chrispsn/mesh)
@@ -357,6 +371,8 @@
 * [frab/frab](https://github.com/frab/frab)
 * [whitequark/unfork](https://github.com/whitequark/unfork)
 * [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume)
+* [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
+* [bayard-search/bayard](https://github.com/bayard-search/bayard) - Bayard is a full-text search and indexing server written in Rust
 
 ---
 
@@ -393,6 +409,7 @@
 * [tpope/vim-surround](https://github.com/tpope/vim-surround) - quoting/parenthesizing made simple
 * [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - comment stuff out
 * [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
+* [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
 
 ---
 

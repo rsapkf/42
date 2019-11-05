@@ -94,6 +94,8 @@ More:
 ### More Resources:
 Sites/
 * [Track This](https://trackthis.link) - A new kind of Incognito
+* [Restore Privacy](https://restoreprivacy.com/)
+* [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora
 * [privacytools.io](https://www.privacytools.io/)
 * [Stop Using Facebook](https://www.stopusingfacebook.co/)
 
