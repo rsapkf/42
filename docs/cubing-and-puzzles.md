@@ -10,6 +10,7 @@
 * Sites/
 	* [JPerm.net](https://jperm.net)
     * [CubeSkills](https://www.cubeskills.com/) - the official site of Feliks Zemdegs, the world champion in speedcubing. Contains tutorials, algorithms, pdfs and tools to learn speedcubing both small and big Rubik's cubes, Megaminx, Pyraminx, etc.
+    * [AlgDb.net](http://algdb.net/)
     * [Andy Klise](http://www.kungfoomanchu.com/) - Contains illustrations and pdfs with algorithms and tutorials to speedcubing.
 
 * YouTube/

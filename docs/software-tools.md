@@ -8,6 +8,7 @@
   - [Browser Extensions](#browser-extensions)
   - [OSes](#oses)
   - [Software, Tools, Libraries, Frameworks](#software-tools-libraries-frameworks)
+  - [Email Clients](#email-clients)
   - [Show HN](#show-hn)
   - [Other](#other)
 
@@ -125,46 +126,25 @@ See Also:
 * [Android](https://android.com/)
 
 ### Software, Tools, Libraries, Frameworks
-* [Keras](https://keras.io/)
-* [GitHub Guides](https://guides.github.com/)
-* [MongoDB Documentation](https://docs.mongodb.com/)
-* [MySQL](https://dev.mysql.com/doc/)
-* [Travis CI](https://docs.travis-ci.com/)
-* [Django](https://docs.djangoproject.com/en/2.2/)
-* [SQLAlchemy](https://www.sqlalchemy.org/)
 * [LaTeX](https://www.latex-project.org/)
 * [Pandoc](https://pandoc.org/)
 * [Read the Docs: Documentation Simplified](https://docs.readthedocs.io/en/stable/)
-* [TensorFlow](https://www.tensorflow.org/)
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/)
-* [PyTorch](https://pytorch.org/tutorials/)
-* [Scipy](https://docs.scipy.org/doc/)
-* [Emmet](https://docs.emmet.io/)
-* [React Native](https://facebook.github.io/react-native/)
-* [Qt](https://doc.qt.io/)
-* [Flutter](https://flutter.dev/)
 * [FFmpeg](https://ffmpeg.org/)
-* [GraphQL](https://graphql.org/)
 * [The LLVM Compiler Infrastructure Project](https://llvm.org/)
 * [Termux](https://wiki.termux.com/wiki/Main_Page)
-* [Docker](https://www.docker.com/)
 * [Org mode for Emacs](https://orgmode.org/)
 * [Git Reference](https://git.github.io/git-reference/)
 * [Pidgin](https://pidgin.im/)
 * [GeoGebra](https://www.geogebra.org/)
-* [Surge](https://surge.sh/)
-* [WebAssembly](https://webassembly.org/)
-* [Pexels](https://www.pexels.com/) - Free stock photos
-* [Netlify](https://www.netlify.com/)
-* [QEMU](https://www.qemu.org/)
 * [Syncthing](https://syncthing.net/)
 * [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows
-* [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager
-* [Kubernetes](https://kubernetes.io/)
-* [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery
 * [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime
 * [Raspbian](https://www.raspbian.org/)
 * [Magit](https://magit.vc/) - A Git Porcelain inside Emacs
+
+### Email Clients
+* [Mozilla Thunderbird](https://www.thunderbird.net/)
+* [Mailspring](https://github.com/Foundry376/Mailspring)
 
 ### Show HN
 * [ieddit](https://ieddit.com/)
@@ -174,8 +154,6 @@ See Also:
 * [Divjoy - The React Codebase Generator](https://divjoy.com/)
 * [Project Naptha](https://projectnaptha.com/)
 * [free anonymous technical interview practice | interviewing.io](https://interviewing.io/)
-* [Pythonic News](https://news.python.sc/)
-* [Faces of Open Source](http://www.facesofopensource.com/)
 
 ### Other
 * GitHub/
@@ -191,7 +169,6 @@ See Also:
     * [AlternativeTo](https://alternativeto.net/)
     * [Slant](https://www.slant.co/) - Choose the best
     * [ShareX](https://getsharex.com/) `Windows Only`
-    * [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
     * [GitHub Collections](https://github.com/collections)
     * [List of applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
     * [INVIDIOUS](https://invidio.us/) - Alternative Open Source frontend for YouTube
@@ -200,35 +177,24 @@ See Also:
     * [Luke Smith's Programs and Equipments](https://lukesmith.xyz/programs.html)
     * [mayfrost/guides](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
     * [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)
-    * [Trello](https://trello.com/)
     * [Gitter](https://gitter.im/)
     * [Stack Overflow](https://stackoverflow.com/)
     * [Firefox Monitor](https://monitor.firefox.com/)
     * [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
     * [Keybase](https://keybase.io/)
-    * [Indie Hackers](https://www.indiehackers.com/)
-    * [Medium](https://medium.com/)
-    * [Threema](https://threema.ch/en) - Seriously secure messaging `paid`
     * [Least Authority](https://leastauthority.com/)
     * [ownCloud](https://owncloud.org/) - OpenSource Cloud Collaboration Platform
     * [Nextcloud](https://nextcloud.com/)
     * [Standard Notes](https://standardnotes.org/) - End-to-End Encrypted Notes App
     * [Gitea](https://gitea.io/en-us/)
     * [Winds](https://winds.getstream.io/) - Feed Reader
-    * [DEV Community](https://dev.to/)
     * [Firefox Send](https://send.firefox.com/)
-    * [hckr news](https://hckrnews.com/) - Hacker News sorted by time
+
     * [Invidious](https://invidio.us/)
     * [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
-    * [n-gate.com](http://n-gate.com/) - we can't both be right.
     * [Best of Show HN all time](https://bestofshowhn.com/)
     * [Devhints](https://devhints.io/) - TL;DR for developer documentation
     * [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
-    * [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora
-    * [Privacy Tools](https://www.privacytools.io/) - Encryption Against Global Mass Surveillance
-    * [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators
-    * [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites
-    * [Restore Privacy](https://restoreprivacy.com/) - Your online privacy resource center
     * [Opensource.com](https://opensource.com/)
     * [Free for developers](https://free-for.dev/#/)
     * [software that sucks less | suckless.org software that sucks less](https://suckless.org/)

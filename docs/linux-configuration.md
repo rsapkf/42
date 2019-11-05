@@ -16,6 +16,7 @@
 		- [Terminal Applications](#terminal-applications)
 		- [Graphical Applications](#graphical-applications)
 	- [YouTube Channels](#youtube-channels)
+	- [Extra Resources](#extra-resources)
 
 ---
 
@@ -45,13 +46,15 @@
 - [Alpine Linux](https://alpinelinux.org/)
 - [Linux From Scratch](http://www.linuxfromscratch.org/)
 
-See Also [DistroWatch](https://distrowatch.com)
+See Also 
+- [DistroWatch](https://distrowatch.com)
+- [Pacman/Rosetta](https://wiki.archlinux.org/index.php/Pacman/Rosetta)
 
 ---
 
 ### Shell
 * [Bash](https://www.gnu.org/software/bash/manual/bash.html)
-* [Zsh](http://zsh.sourceforge.net/)
+* [Zsh](http://zsh.sourceforge.net/) See Also [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and [prezto](https://github.com/sorin-ionescu/prezto)
 * [fish](https://github.com/fish-shell/fish-shell)
 
 ---
@@ -87,7 +90,7 @@ See Also [The Obscure Window Manager Project(DistroTube)](https://www.youtube.co
 ---
 
 ### Program Launchers
-- [dmenu](https://tools.suckless.org/dmenu/)
+- [dmenu](https://tools.suckless.org/dmenu/) See Also [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended)
 - [rofi](https://github.com/davatorium/rofi)
 - [albertlauncher](https://github.com/albertlauncher/albert)
 
@@ -103,6 +106,7 @@ See Also [The Obscure Window Manager Project(DistroTube)](https://www.youtube.co
 - [Alacritty](https://github.com/jwilm/alacritty)
 - [xterm](https://invisible-island.net/xterm/xterm.html)
 
+See Also [terminal.sexy](https://terminal.sexy/)
 ---
 
 ### File Managers
@@ -151,6 +155,7 @@ See Also [The Obscure Window Manager Project(DistroTube)](https://www.youtube.co
 * [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
 * [GNU Readline Library](https://tiswww.case.edu/php/chet/readline/readline.html)
 - [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel
+* [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager
 
 See Also: 
 * [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
@@ -167,6 +172,7 @@ See Also:
 - [Inkscape](https://inkscape.org/)
 - [Kdenlive](https://www.kdenlive.org/)
 - [VirtualBox](https://www.virtualbox.org/)
+* [QEMU](https://www.qemu.org/)
 - [KeePassXC](https://keepassxc.org/)
 - [Pycharm-CE](https://www.jetbrains.com/pycharm/)
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
@@ -178,3 +184,8 @@ See Also:
 ### YouTube Channels
 - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith
 - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor
+
+---
+
+### Extra Resources
+- [crontab guru](https://crontab.guru/)

@@ -7,22 +7,23 @@ Roadmap to Web Development:
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ---
-
+    
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-    - [Offline Documentation:](#offline-documentation)
-    - [Command Line:](#command-line)
-    - [Git:](#git)
-    - [Programming Languages:](#programming-languages)
+    - [Offline Documentation](#offline-documentation)
+    - [Command Line](#command-line)
+    - [Git](#git)
+    - [Programming Languages](#programming-languages)
       - [Front-End Programming Languages](#front-end-programming-languages)
       - [Back-End Programming Languages](#back-end-programming-languages)
-    - [Web Frameworks:](#web-frameworks)
-      - [Front-End Web Frameworks:](#front-end-web-frameworks)
-      - [Back-End Web Frameworks:](#back-end-web-frameworks)
-    - [DataBases:](#databases)
-    - [Text Editors and IDEs:](#text-editors-and-ides)
-    - [Regular Expressions:](#regular-expressions)
-    - [Extra Resources:](#extra-resources)
+    - [Web Frameworks](#web-frameworks)
+      - [Front-End Web Frameworks](#front-end-web-frameworks)
+      - [Back-End Web Frameworks](#back-end-web-frameworks)
+    - [Static Site Generators](#static-site-generators)
+    - [DataBases](#databases)
+    - [Text Editors and IDEs](#text-editors-and-ides)
+    - [Regular Expressions](#regular-expressions)
+    - [Extra Resources](#extra-resources)
 
 ---
 
@@ -52,6 +53,7 @@ Roadmap to Web Development:
 * GitHub/
   * [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
   * [git-tips/tips](https://github.com/git-tips/tips)
+  * [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
 
 
 ---
@@ -213,6 +215,13 @@ Roadmap to Web Development:
 
 ---
 
+### Static Site Generators:
+* #### Sites/ 
+    * [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators
+    * [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites
+        
+---
+
 ### DataBases:
 * #### SQL:
     * Sites/
@@ -246,8 +255,6 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
   * Sites/
       * [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
       * [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
-      * [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
-      * [hackr.io](https://hackr.io/) - find the best programming courses & tutorials
       * [Move the Web Forward](https://movethewebforward.org/) (GitHub - [h5bp/movethewebforward](https://github.com/h5bp/movethewebforward))
       * [Lorem Ipsum](https://lipsum.com/)
       * [Lorem Picsum](https://picsum.photos/)
@@ -260,11 +267,8 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
   * GitHub/
       * [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
       * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-      * [charlax/professional-programming](https://github.com/charlax/professional-programming)
-      * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
       * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
       * [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
       * [jnv/lists](https://github.com/jnv/lists)
-      * [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything/)
 
   * YouTube/

@@ -179,8 +179,14 @@
 
     * Miscellaneous:
       * [Hacker News](https://news.ycombinator.com/)
+      * [n-gate.com](http://n-gate.com/) - we can't both be right.
+      * [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
+      * [Pythonic News](https://news.python.sc/)
       * [Reddit](https://reddit.com/)
       * [Slashdot](https://www.slashdot.org/)
+      * [dev.to](https://dev.to/)
+      * [Indie Hackers](https://www.indiehackers.com/)
+      * [Medium](https://medium.com/)
       * [MIT Technology Review](https://www.technologyreview.com/)
       * [Facebook Open Source ](https://opensource.facebook.com/)
       * [Venture Hacks](https://venturehacks.com/) - Advice for startups

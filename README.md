@@ -2,6 +2,8 @@
 
 This is an ongoing personal collection of over 2000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Most of these are from my browser bookmarks. Contains blogs, websites, my GitHub stars(which I manage with my bookmark manager, not GH itself), subreddits, YouTube channels, Medium/dev.to blogs, IRC channels and everything. Feel free to [contribute](CONTRIBUTING.md) by adding more resources!
 
+The entire repository is also available on GitBook [here](https://goodies.gitbook.io/goodies/).
+
 ### Table of Contents
 
 - [Web Development](docs/web-development.md)

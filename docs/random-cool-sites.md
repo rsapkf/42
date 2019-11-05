@@ -2,10 +2,12 @@
 
 * Sites/
     * [LKML.ORG](https://lkml.org/) - the Linux Kernel Mailing List Archive
+    * [Faces of Open Source](http://www.facesofopensource.com/)
+    * [Start Your Own ISP](https://startyourownisp.com/)
     * [Where is Starman](https://www.whereisroadster.com/)
     * [Esolangs](https://esolangs.org/wiki/Main_Page)
     * [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
-    * [The Is This Prime? game](http://isthisprime.com/game/)
+    * [Is This Prime?](http://isthisprime.com/game/)
     * [f cking homepage](https://fuckinghomepage.com/)
     * [Open Source Game clones](https://osgameclones.com/)
     * [Google Ngram Viewer](https://books.google.com/ngrams)
@@ -14,7 +16,6 @@
     * [Youglish](https://youglish.com/) - Use YouTube to improve your English pronunciation
     * [STRML](https://www.strml.net/)
     * [txti](http://txti.es/) - Fast web pages for everybody
-    * [bpfyxgjm](https://sdnotes.com/bpfyxgjm)
     * [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
     * [oldweb.today](http://oldweb.today/)
 
