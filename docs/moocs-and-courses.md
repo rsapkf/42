@@ -38,7 +38,6 @@
     * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
     * [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides)
 
-
 * YouTube/
     * [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
     * [Stanford](https://www.youtube.com/user/StanfordUniversity)

@@ -45,7 +45,7 @@ Roadmap to Web Development:
 ### Git:
 * Sites/
   * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-  * [Getting Git Right](https;//atlassian.com/git) - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+  * [Getting Git Right](https://atlassian.com/git) - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   * [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 
@@ -61,7 +61,7 @@ Roadmap to Web Development:
 * #### HTML+CSS+JavaScript:
     * Sites/
         * [Mozilla Developer Network(MDN) Docs](https://developer.mozilla.org/en-US/)**(Highly Recommended)** - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
-        * [freeCodeCamp.org](https://www.freecodecamp.org/)**(Highly Recommended)** - an excellent [open source]() resource for learning web development in a interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
+        * [freeCodeCamp.org](https://www.freecodecamp.org/)**(Highly Recommended)** - an excellent [open source]() resource for learning web development in an interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
         * [The Odin Project](https://www.theodinproject.com/) - another excellent [open source]() resource similar to the freeCodeCamp project. Covers Ruby, RubyOnRails.
         * [w3schools](https://www.w3schools.com/) - While this site is pretty decent for quick syntax lookup and reference, I **DO NOT** recommend this over MDN to learn *how to program*. Before choosing w3schools over above resources, please go through [this](https://news.ycombinator.com/item?id=6422998) hackernews thread and [this](https://www.w3fools.com) site by the mods of [r/learnprogramming](www.reddit.com/learnprogramming). This site also has references to Ajax, Node, PHP, SQL, XML, Java, Python, ASP, Angular, jQuery, Bootstrap, C++ and Raspberry Pi.
         * [Deep Dive Into Modern Web Development - University of Helsinki](https://fullstackopen.com/en) - React, Node, Express, GraphQL
