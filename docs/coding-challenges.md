@@ -19,4 +19,6 @@
     * [edabit](https://edabit.com/)
     * [practiceJS](https://practicejs.com/) - some JavaScript coding exercises put into a web app so they can be done on a phone.
     * [CodinGame](https://www.codingame.com/home)
+    * [Cyber Skills Lessons](https://www.cyberskillslesson.com/) - interactive cyber security exercises
+
 ---
