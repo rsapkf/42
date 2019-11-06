@@ -75,6 +75,10 @@
 	* Sites/
 		* [Sublime Text Official Documentation](https://www.sublimetext.com/docs/3/)
 		* [Sublime Text Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/)(Recommended by the [Official ST Team](https://www.sublimetext.com/docs/3/))
+		
+* #### Brackets:
+    * Sites/
+        * [Brackets GitHub Wiki](https://github.com/adobe/brackets/wiki)
 
 ---
 
@@ -100,15 +104,8 @@
 ## Interactive Online Code Editors:
 * [Python Tutor](http://pythontutor.com/) - Learn Python, Java, C, C++, JavaScript and Ruby through Web-Based Program Visualization.
 * [Scrimba](https://scrimba.com/c/cKp6LhL) - HTML, CSS, JavaScript
+* [StackEdit](https://stackedit.io/) - Open Source In-browser Markdown editor.
 * [CodePen](https://codepen.io/) - HTML, CSS, JavaScript
 * [SoloLearn](https://code.sololearn.com/#html) - HTML, CSS, JavaScript
 * [JSFiddle](https://jsfiddle.net) - HTML, CSS, JavaScript, CoffeeScript
 * [CodeSandBox](https://codesandbox.io/) - Tailored for Web Application Development in Angular, React, Vue, Node and more.
-* [Ideone](http://ideone.com/) - Bash, Python, C, C++, Java, SQLite, Pascal, Swift, VB.net, Objective-C, Ruby, PHP, Perl, Haskell and 60 other programming languages
-* [3v4l.org](https://3v4l.org/) - PHP
-* [PHPFiddle.org](http://phpfiddle.org/) - PHP
-* [Tehplayground](http://www.tehplayground.com/) - PHP
-* [PHP Sandbox](http://sandbox.onlinephpfunctions.com/) - Test PHP functions online
-* [Codepad](http://codepad.org/) - C, C++, D, Haskell, Lua, OCaml, PHP, Perl, Python, Ruby, Scheme, Tcl
-* [Eval](https://eval.in/) - Ruby, PHP, Python, Perl, Haskell,   OCaml, Racket, Lua,  JavaScript, Slash, x86 Assembly
-* [StackEdit](https://stackedit.io/) - Open Source In-browser Markdown editor.
