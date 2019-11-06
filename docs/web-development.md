@@ -48,7 +48,7 @@ Roadmap to Web Development:
   * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
   * [Getting Git Right](https://atlassian.com/git) - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   * [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-
+  * [Git Reference](https://git.github.io/git-reference/)
 
 * GitHub/
   * [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
@@ -253,6 +253,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 
 ### Extra Resources:
   * Sites/
+      * [Learn-Anything](https://learn-anything.xyz/)
       * [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
       * [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
       * [Move the Web Forward](https://movethewebforward.org/) (GitHub - [h5bp/movethewebforward](https://github.com/h5bp/movethewebforward))

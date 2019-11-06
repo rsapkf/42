@@ -75,7 +75,7 @@ See Also
 ### Window Managers
 - [i3wm](https://i3wm.org/)
 - [i3-gaps](https://github.com/Airblader/i3) - i3 with more features
-- [sway](https://github.com/swaywm/sway - i3-compatible Wayland compositor)
+- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [dwm](https://dwm.suckless.org/) See Also [suckless.org](https://suckless.org/)
 - [bspwm](https://github.com/baskerville/bspwm)
 - [openbox](http://openbox.org/)
@@ -107,6 +107,7 @@ See Also [The Obscure Window Manager Project(DistroTube)](https://www.youtube.co
 - [xterm](https://invisible-island.net/xterm/xterm.html)
 
 See Also [terminal.sexy](https://terminal.sexy/)
+
 ---
 
 ### File Managers
@@ -189,3 +190,4 @@ See Also:
 
 ### Extra Resources
 - [crontab guru](https://crontab.guru/)
+* [The LiveCD List](https://livecdlist.com/about/)

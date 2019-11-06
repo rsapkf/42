@@ -187,6 +187,7 @@
       * [dev.to](https://dev.to/)
       * [Indie Hackers](https://www.indiehackers.com/)
       * [Medium](https://medium.com/)
+      * [fossjobs.net](https://www.fossjobs.net/)
       * [MIT Technology Review](https://www.technologyreview.com/)
       * [Facebook Open Source ](https://opensource.facebook.com/)
       * [Venture Hacks](https://venturehacks.com/) - Advice for startups
