@@ -133,7 +133,6 @@ See Also:
 * [The LLVM Compiler Infrastructure Project](https://llvm.org/)
 * [Termux](https://wiki.termux.com/wiki/Main_Page)
 * [Org mode for Emacs](https://orgmode.org/)
-* [Git Reference](https://git.github.io/git-reference/)
 * [Pidgin](https://pidgin.im/)
 * [GeoGebra](https://www.geogebra.org/)
 * [Syncthing](https://syncthing.net/)
@@ -173,7 +172,6 @@ See Also:
     * [List of applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
     * [INVIDIOUS](https://invidio.us/) - Alternative Open Source frontend for YouTube
     * [Font Awesome](https://fontawesome.com/)
-    * [The LiveCD List](https://livecdlist.com/about/)
     * [Luke Smith's Programs and Equipments](https://lukesmith.xyz/programs.html)
     * [mayfrost/guides](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
     * [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)
@@ -189,7 +187,6 @@ See Also:
     * [Gitea](https://gitea.io/en-us/)
     * [Winds](https://winds.getstream.io/) - Feed Reader
     * [Firefox Send](https://send.firefox.com/)
-
     * [Invidious](https://invidio.us/)
     * [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
     * [Best of Show HN all time](https://bestofshowhn.com/)

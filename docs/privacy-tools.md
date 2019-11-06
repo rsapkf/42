@@ -43,9 +43,6 @@ For Mobile:
 * [Replicant](https://www.replicant.us/)
 * [Ubuntu Touch](https://ubuntu-touch.io/) - `discontinued`
 
-More:
-1. [Wikipedia List of Linux Distros]()
-
 ---
 
 ### Search Engines:
@@ -56,9 +53,9 @@ More:
 * [Yacy](http://yacy.net/)
 * [Ecosia](https://www.ecosia.org/?c=en)
 
-More:
-1. [searX wiki on GitHub](https://github.com/asciimoo/searx/wiki/possible-search-engines)
-2. [Wikipedia list of privacy search engines](https://en.wikipedia.org/wiki/List_of_search_engines#Privacy_search_engines)
+See Also:
+- [searX wiki on GitHub](https://github.com/asciimoo/searx/wiki/possible-search-engines)
+- [Wikipedia list of privacy search engines](https://en.wikipedia.org/wiki/List_of_search_engines#Privacy_search_engines)
 
 ---
 
@@ -96,6 +93,7 @@ Sites/
 * [Track This](https://trackthis.link) - A new kind of Incognito
 * [Restore Privacy](https://restoreprivacy.com/)
 * [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora
+- [ethical.net](https://ethical.net/)
 * [privacytools.io](https://www.privacytools.io/)
 * [Stop Using Facebook](https://www.stopusingfacebook.co/)
 

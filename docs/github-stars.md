@@ -51,6 +51,11 @@
 * [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job/) - A curated list of awesome remote jobs and resources
+- [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
 
 ---
 
@@ -60,6 +65,7 @@
 * [Tutao GmbH · GitHub](https://github.com/tutao)
 * [ProtonVPN · GitHub](https://github.com/ProtonVPN)
 * [edX · GitHub](https://github.com/edx)
+* [DuckDuckGo · GitHub](https://github.com/duckduckgo)
 * [Automattic · GitHub](https://github.com/Automattic)
 * [Nextcloud · GitHub](https://github.com/nextcloud)
 * [ownCloud · GitHub](https://github.com/owncloud)
@@ -355,6 +361,7 @@
 * [inlets/inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks
+* [omarroth/invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
 * [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps
 * [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution)
 * [gravitational/teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust
@@ -366,7 +373,7 @@
 * [TomaszRewak/C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework)
 * [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God)
 * [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit/) - Ah shhgit! Find GitHub secrets in real time
-* [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
+* [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures.
 * [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
 * [frab/frab](https://github.com/frab/frab)
 * [whitequark/unfork](https://github.com/whitequark/unfork)
