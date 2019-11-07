@@ -56,6 +56,8 @@
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os)
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) -  Laws, Theories, Principles and Patterns that developers will find useful.
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 
 ---
 
@@ -87,6 +89,7 @@
 * [Bitcoin · GitHub](https://github.com/bitcoin)
 * [ethereum · GitHub](https://github.com/ethereum)
 * [thoughtbot · GitHub](https://github.com/thoughtbot)
+* [Taiga.io · GitHub](https://github.com/taigaio/)
 
 ---
 
@@ -203,7 +206,9 @@
 * [junegunn/fzf](https://github.com/junegunn/fzf) - A markdown parser and compiler. Built for speed
 * [playframework/playframework](https://github.com/playframework/playframework)
 * [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - The #1 free and open source CDN built to make life easier for developers
-
+* [wekan/wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor)
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc
 ---
 
 ### Big Projects
@@ -285,6 +290,7 @@
 * [restic/restic](https://github.com/restic/restic)
 * [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
 * [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) - Open source home automation that puts local control and privacy first
+- [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed
 
 ---
 
@@ -380,6 +386,7 @@
 * [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume)
 * [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
 * [bayard-search/bayard](https://github.com/bayard-search/bayard) - Bayard is a full-text search and indexing server written in Rust
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 
 ---
 

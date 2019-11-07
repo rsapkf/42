@@ -176,7 +176,6 @@ See Also:
     * [mayfrost/guides](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
     * [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)
     * [Gitter](https://gitter.im/)
-    * [Stack Overflow](https://stackoverflow.com/)
     * [Firefox Monitor](https://monitor.firefox.com/)
     * [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
     * [Keybase](https://keybase.io/)

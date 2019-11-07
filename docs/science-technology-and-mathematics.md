@@ -179,6 +179,8 @@
 
     * Miscellaneous:
       * [Hacker News](https://news.ycombinator.com/)
+      * [Lobsters](https://lobste.rs/)
+      * [Stack Overflow](https://stackoverflow.com/)
       * [n-gate.com](http://n-gate.com/) - we can't both be right.
       * [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
       * [Pythonic News](https://news.python.sc/)
@@ -202,7 +204,7 @@
       * [Harvard Business Review](https://hbr.org/)
       * [Stratechery](https://stratechery.com)
       * [Serializer](https://serializer.io)
-      * [How-To Geek](https://www.howtogeek.com/)
+      * [How-To-Geek](https://www.howtogeek.com/)
       * [Engadget](https://www.engadget.com/)
       * [YCombinator](https://www.ycombinator.com)
       * [BoingBoing](https://boingboing.net/)

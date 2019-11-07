@@ -6,7 +6,7 @@ To contribute, please read the following guidelines.
 
 ## Rules:
 
-If you would like to improve this project by adding/suggesting edits to the contents, pulls requests are always welcomed. Also, you can send me resources directly via [email](mailto:rsapkfff@pm.me) if don't want to submit a PR. Please:
+If you would like to improve this project by adding/suggesting edits to the contents, pulls requests are always welcome. Also, you can send me resources directly via [email](mailto:rsapkfff@pm.me) if you don't want to submit a PR. Please:
 
 * I am trying to make each list/section as self-contained as I can. So, please feel free to add duplicate links to different lists if necessary. Use [GitHub Search](https://github.com/rsapkf/goodies/search?q=something&unscoped_q=something) or [GitBook Search](https://goodies.gitbook.io/goodies/) if necessary.
 

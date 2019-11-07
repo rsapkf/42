@@ -42,11 +42,12 @@
 * Github/
     * [stewartmcgown/uds](https://github.com/stewartmcgown/uds)
     * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
-    * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Entire source code from the Apollo 11 mission!
+    * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
     
 ### Lists, Articles
 * [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
 * [DuckDuckGo !Bang](https://duckduckgo.com/bang)
 * [How to speak Silicon Valley: 53 essential tech-bro terms explained | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
 * [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
+- [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908)
 * [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
