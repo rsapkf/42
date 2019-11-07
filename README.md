@@ -22,3 +22,6 @@ The entire repository is also available on GitBook [here](https://goodies.gitboo
 
 <del>Go to [docs/](docs) subdirectory to see more unsorted/extra links.</del>
 
+## Special Thanks :purple_heart:
+- To [Gitbook](https://www.gitbook.com/pricing#OpenSource) for supporting this project's website.
+
