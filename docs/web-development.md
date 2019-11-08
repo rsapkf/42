@@ -264,6 +264,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
       * [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
       * [SWAPI - The Star Wars API](https://swapi.co/)
       * [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
+      * [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
 
   * GitHub/
       * [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
