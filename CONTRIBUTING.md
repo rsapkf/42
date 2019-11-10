@@ -14,7 +14,7 @@ If you would like to improve this project by adding/suggesting edits to the cont
 
 * Follow this convention: `[resource](link) - a short description if necessary` and try to put highly recommended resources first.
 
-* Please submit at most 3 resources per PR.
+* If you want to open a pull request for fixing typos/minor changes, make at least 5 changes. If you want to add description to links, add at least 10.
 
 * Check spelling and grammar.
 
@@ -29,6 +29,5 @@ If you would like to improve this project by adding/suggesting edits to the cont
 Now let's make this list awesome and even more valuable!
 
 ## Todo:
-- Fix indentation/typos
+- Add short description to each of the links(follow [these](https://github.com/sindresorhus/awesome/issues/928) guidelines.
 - Better categorization
-- Add short description to each of the links
