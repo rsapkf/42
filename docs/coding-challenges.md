@@ -14,6 +14,9 @@
     - [Project Lovelace](https://projectlovelace.net/) - free scientific programming problems.
     - [Exercism.io](https://exercism.io/)
     - [PythonChallenge](http://www.pythonchallenge.com/)
+    - [CoderByte](https://www.coderbyte.com/)
+    - [CodeChef](https://www.codechef.com/)
+    - [SPOJ](https://www.spoj.com/)
     - [CodeSignal](https://codesignal.com/)
     - [HackerEarth](https://hackerearth.com/)
     - [edabit](https://edabit.com/)
