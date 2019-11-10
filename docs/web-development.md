@@ -59,6 +59,7 @@ Roadmap to Web Development:
 
 ### Programming Languages:
 #### Front-End Programming Languages
+<<<<<<< HEAD
 - #### HTML+CSS+JavaScript:
     - Sites/
         - [Mozilla Developer Network(MDN) Docs](https://developer.mozilla.org/en-US/)--(Highly Recommended)-- - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
@@ -105,6 +106,9 @@ Roadmap to Web Development:
         - [CSSGrid.io](https://cssgrid.io/) - a set of 20 free videos to learn CSS grid layout by [Wes Bos](https://twitter.com/wesbos).
         - [CSS-TRICKS](https://css-tricks.com/)
         - [Grid by Example](https://gridbyexample.com/).
+        - [Flexbox Froggy](https://flexboxfroggy.com/) - a simple 24 level game learn CSS flexbox.
+        - [Flexbox Defense](http://www.flexboxdefense.com/) - Learn CSS Flexbox by playing a tower defense game. 
+        - [Grid Garden]https://cssgridgarden.com/) - Learn CSS Grid Layout by playing 28 different levels of Grid Garden. 
         - [HTML periodic table](https://websitesetup.org/html5-periodical-table/)
         - [All The Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
         - [STRML](https://www.strml.net/)
@@ -116,7 +120,6 @@ Roadmap to Web Development:
     - YouTube/
         - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) ([Website](https://www.traversymedia.com/))
         - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
-
 
 ### Back-End Programming Languages
 - #### Python:
