@@ -76,7 +76,6 @@ Roadmap to Web Development:
         - [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
         - [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials
 
-
 - #### JavaScript:
     - Sites/
         - [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -109,6 +108,7 @@ Roadmap to Web Development:
         - [HTML periodic table](https://websitesetup.org/html5-periodical-table/)
         - [All The Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
         - [STRML](https://www.strml.net/)
+        - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
 
     - GitHub/
         - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
