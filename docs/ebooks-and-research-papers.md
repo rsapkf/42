@@ -1,6 +1,6 @@
 ## Ebooks and Research Papers
 
---Disclaimer--: This list contains some sites that might have concerns over legality and copyright issues. In all such known cases, the corresponding wikipedia page has been linked, instead of linking directly. Before going through this list, please read [this](https://academia.stackexchange.com/questions/112509/legality-of-downloading-books-from-websites-such-as-library-genesis) thread on Academia StackExchange.
+**Disclaimer**: This list contains some sites that might have concerns over legality and copyright issues. In all such known cases, the corresponding wikipedia page has been linked, instead of linking directly. Before going through this list, please read [this](https://academia.stackexchange.com/questions/112509/legality-of-downloading-books-from-websites-such-as-library-genesis) thread on Academia StackExchange.
 
 ### Ebooks:
 - Sites/
