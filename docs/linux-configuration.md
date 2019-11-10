@@ -53,9 +53,9 @@ See Also
 ---
 
 ### Shell
-* [Bash](https://www.gnu.org/software/bash/manual/bash.html)
-* [Zsh](http://zsh.sourceforge.net/) See Also [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and [prezto](https://github.com/sorin-ionescu/prezto)
-* [fish](https://github.com/fish-shell/fish-shell)
+- [Bash](https://www.gnu.org/software/bash/manual/bash.html)
+- [Zsh](http://zsh.sourceforge.net/) See Also [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and [prezto](https://github.com/sorin-ionescu/prezto)
+- [fish](https://github.com/fish-shell/fish-shell)
 
 ---
 
@@ -134,32 +134,41 @@ See Also [terminal.sexy](https://terminal.sexy/)
 
 ### Useful Applications
 #### Terminal Applications
-- [Vim](https://www.vim.org/), [Neovim](https://neovim.io/)
-- [LaTeX](https://www.latex-project.org/)
-- [Emacs](https://www.gnu.org/software/emacs/) - Nice little Operating System that can be installed inside another OS! :)
-- [tldr](https://github.com/tldr-pages/tldr) - alternative to man pages
-- [neofetch](https://github.com/dylanaraps/neofetch) - System info script
+##### Text Editors
+    - [Vim](https://www.vim.org/), [Neovim](https://neovim.io/)
+    - [Emacs](https://www.gnu.org/software/emacs/) - Nice little Operating System that can be installed inside another OS! :)
+    
+##### Web Browsers
+    - [lynx](http://lynx.browser.org/) - web browser
+    - [surf](https://surf.suckless.org/) - web browser
+    - [w3m](http://w3m.sourceforge.net/) - web browser
+    
+##### Sytem Info Scripts
+- [neofetch](https://github.com/dylanaraps/neofetch) - system info script
+- [screenfetch](https://github.com/KittyKatt/screenFetch) - system info script
+- [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh
+
+##### System Monitors
 - [glances](https://github.com/nicolargo/glances) - System Monitor
+- [conky](https://github.com/brndnmtthws/conky)
+
+- [tldr](https://github.com/tldr-pages/tldr) - alternative to man pages
 - [irssi](https://github.com/irssi/irssi) - terminal irc client
 - [mutt](http://www.mutt.org/) - email client
+- [LaTeX](https://www.latex-project.org/) - document typesetting system
 - [NeoMutt](https://neomutt.org) - highly configurable mail reader based on mutt
-- [neofetch](https://github.com/dylanaraps/neofetch) - system info script
 - [zathura](https://github.com/pwmt/zathura) - document viewer
-- [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh
-- [screenfetch](https://github.com/KittyKatt/screenFetch) - system info script
 - [mpv](https://github.com/mpv-player/mpv) - Command line video player
 - [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client
 - [Clam AV](https://www.clamav.net/) - antivirus
-- [lynx](http://lynx.browser.org/) - web browser
-- [surf](https://surf.suckless.org/) - web browser
-- [w3m](http://w3m.sourceforge.net/) - web browser
-* [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
-* [GNU Readline Library](https://tiswww.case.edu/php/chet/readline/readline.html)
+- [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
+- [GNU Readline Library](https://tiswww.case.edu/php/chet/readline/readline.html)
 - [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel
-* [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager
+- [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager
+- [castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 
 See Also: 
-* [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
+- [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
 
 #### Graphical Applications
 - [VLC](https://www.videolan.org/vlc/)
@@ -173,7 +182,7 @@ See Also:
 - [Inkscape](https://inkscape.org/)
 - [Kdenlive](https://www.kdenlive.org/)
 - [VirtualBox](https://www.virtualbox.org/)
-* [QEMU](https://www.qemu.org/)
+- [QEMU](https://www.qemu.org/)
 - [KeePassXC](https://keepassxc.org/)
 - [Pycharm-CE](https://www.jetbrains.com/pycharm/)
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
@@ -190,4 +199,5 @@ See Also:
 
 ### Extra Resources
 - [crontab guru](https://crontab.guru/)
-* [The LiveCD List](https://livecdlist.com/about/)
+- [The LiveCD List](https://livecdlist.com/about/)
+- [Linux Journey](https://linuxjourney.com/) - Learn the ways of Linux-fu, for free
