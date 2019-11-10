@@ -1,7 +1,6 @@
 ## Web Development
 
-#### ---IMPORTANT---
->If you are completely new to web development, --I HIGHLY RECOMMEND-- you visit these links first:
+>If you are completely new to web development, **I HIGHLY RECOMMEND** you visit these links first:
 
 Roadmap to Web Development:
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -169,8 +168,8 @@ Roadmap to Web Development:
 - #### Bootstrap(CSS):
     - Sites/
         - [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-
-- #### Bulma:
+        
+- #### Bulma(CSS):
     - Sites/
         - [Bulma Documentation](https://bulma.io/documentation/)
 
