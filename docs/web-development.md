@@ -250,12 +250,12 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 
 ### Regular Expressions:
 - Sites/
-  - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
-  - [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
-  - [Regex Crossword](https://regexcrossword.com/)
+    - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
+    - [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
+    - [Regex Crossword](https://regexcrossword.com/)
 
 - GitHub/
-  - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
+    - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
 
 ---
 
