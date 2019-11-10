@@ -29,5 +29,5 @@ If you would like to improve this project by adding/suggesting edits to the cont
 Now let's make this list awesome and even more valuable!
 
 ## Todo:
-- Add short description to each of the links(follow [these](https://github.com/sindresorhus/awesome/issues/928) guidelines.
+- Add short description to each of the links(follow [these](https://github.com/sindresorhus/awesome/issues/928) guidelines).
 - Better categorization
