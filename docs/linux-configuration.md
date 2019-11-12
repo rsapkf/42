@@ -134,38 +134,39 @@ See Also [terminal.sexy](https://terminal.sexy/)
 
 ### Useful Applications
 #### Terminal Applications
-##### Text Editors
-    - [Vim](https://www.vim.org/), [Neovim](https://neovim.io/)
-    - [Emacs](https://www.gnu.org/software/emacs/) - Nice little Operating System that can be installed inside another OS! :)
+- Text Editors
+See [text-editors-and-editors.md](text-editors-and-editors.md)
     
-##### Web Browsers
-    - [lynx](http://lynx.browser.org/) - web browser
-    - [surf](https://surf.suckless.org/) - web browser
-    - [w3m](http://w3m.sourceforge.net/) - web browser
+- Web Browsers
+    - [lynx](http://lynx.browser.org/)
+    - [surf](https://surf.suckless.org/)
+    - [w3m](http://w3m.sourceforge.net/)
     
-##### Sytem Info Scripts
-- [neofetch](https://github.com/dylanaraps/neofetch) - system info script
-- [screenfetch](https://github.com/KittyKatt/screenFetch) - system info script
-- [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh
+- System Info Scripts
+    - [neofetch](https://github.com/dylanaraps/neofetch)
+    - [screenfetch](https://github.com/KittyKatt/screenFetch)
+    - [pfetch](https://github.com/dylanaraps/pfetch)
 
-##### System Monitors
-- [glances](https://github.com/nicolargo/glances) - System Monitor
-- [conky](https://github.com/brndnmtthws/conky)
+- System Monitors
+    - [glances](https://github.com/nicolargo/glances) - System Monitor
+    - [conky](https://github.com/brndnmtthws/conky)
 
-- [tldr](https://github.com/tldr-pages/tldr) - alternative to man pages
-- [irssi](https://github.com/irssi/irssi) - terminal irc client
-- [mutt](http://www.mutt.org/) - email client
-- [LaTeX](https://www.latex-project.org/) - document typesetting system
-- [NeoMutt](https://neomutt.org) - highly configurable mail reader based on mutt
-- [zathura](https://github.com/pwmt/zathura) - document viewer
-- [mpv](https://github.com/mpv-player/mpv) - Command line video player
-- [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client
-- [Clam AV](https://www.clamav.net/) - antivirus
-- [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
-- [GNU Readline Library](https://tiswww.case.edu/php/chet/readline/readline.html)
-- [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel
-- [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager
-- [castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- Other
+    - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
+    - [tldr](https://github.com/tldr-pages/tldr) - alternative to man pages
+    - [irssi](https://github.com/irssi/irssi) - terminal irc client
+    - [mutt](http://www.mutt.org/) - email client
+    - [LaTeX](https://www.latex-project.org/) - document typesetting system
+    - [NeoMutt](https://neomutt.org) - highly configurable mail reader based on mutt
+    - [zathura](https://github.com/pwmt/zathura) - document viewer
+    - [mpv](https://github.com/mpv-player/mpv) - Command line video player
+    - [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client
+    - [Clam AV](https://www.clamav.net/) - antivirus
+    - [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
+    - [GNU Readline Library](https://tiswww.case.edu/php/chet/readline/readline.html)
+    - [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel
+    - [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager
+    - [castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 
 See Also: 
 - [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
@@ -188,6 +189,9 @@ See Also:
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
 - [Calibre](https://calibre-ebook.com/)
 - [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings
+- [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
+
+See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ---
 

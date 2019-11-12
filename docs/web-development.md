@@ -1,4 +1,4 @@
-## Web Development
+# Web Development
 
 >If you are completely new to web development, **I HIGHLY RECOMMEND** you visit these links first:
 
@@ -7,7 +7,7 @@ Roadmap to Web Development:
 
 ---
     
-# Table of Contents
+## Table of Contents
 - [Table of Contents](#table-of-contents)
     - [Offline Documentation](#offline-documentation)
     - [Command Line](#command-line)
@@ -197,9 +197,9 @@ Roadmap to Web Development:
 - #### Django(Python):
     - Sites/
         - [Official Django Tutorial](https://www.djangoproject.com/start/)
+        - [Django Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) - a library catalog website in Django.
         - [Django Girls](https://djangogirls.org/)
         - [Django Tutorial by [sentdex](https://www.youtube.com/user/sentdex)](https://pythonprogramming.net/)
-        - [Django cheatsheet](https://duanehilton.com/notes/django)
 
     - YouTube/
         - [Django Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
@@ -214,6 +214,7 @@ Roadmap to Web Development:
 - #### NodeJS/ExpressJS(JavaScript):
     - Sites/
         - [Node.js Docs](https://nodejs.org/en/docs/)
+        - [NodeJs Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a library catalog website in NodeJS/ExpressJS.
         - [Node.js resources- Stack Overflow](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/5511507#5511507)
         - [ExpressJS Documentation](https://expressjs.com/)
 
@@ -266,13 +267,11 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Learn-Anything](https://learn-anything.xyz/)
     - [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
     - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
-    - [Move the Web Forward](https://movethewebforward.org/) (GitHub - [h5bp/movethewebforward](https://github.com/h5bp/movethewebforward))
     - [Lorem Ipsum](https://lipsum.com/)
     - [Lorem Picsum](https://picsum.photos/)
     - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
     - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
     - [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
-    - [SWAPI - The Star Wars API](https://swapi.co/)
     - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
 
 - GitHub/

@@ -103,4 +103,5 @@ Reddit/
 - [r/privacytoolsIO](https://old.reddit.com/r/privacytoolsIO/)
 
 GitHub/
+- [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
