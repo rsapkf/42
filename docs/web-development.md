@@ -21,7 +21,7 @@ Roadmap to Web Development:
     - [Static Site Generators](#static-site-generators)
     - [DataBases](#databases)
     - [Text Editors and IDEs](#text-editors-and-ides)
-    - [Regular Expressions](#regular-expressions)
+    - [Regular Expressions and Algorithms](#regular-expressions-and-algorithms)
     - [Extra Resources](#extra-resources)
 
 ---
@@ -251,11 +251,12 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 
 ---
 
-### Regular Expressions:
+### Regular Expressions and Algorithms:
 - Sites/
     - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
     - [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
     - [Regex Crossword](https://regexcrossword.com/)
+    - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
 - GitHub/
     - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
@@ -264,6 +265,8 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 
 ### Extra Resources:
 - Sites/
+    - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
+    - [Devhints](https://devhints.io/) - TL;DR for developer documentation
     - [Learn-Anything](https://learn-anything.xyz/)
     - [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
     - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)

@@ -202,6 +202,7 @@ See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/
 ---
 
 ### Extra Resources
+- [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
 - [crontab guru](https://crontab.guru/)
 - [The LiveCD List](https://livecdlist.com/about/)
 - [Linux Journey](https://linuxjourney.com/) - Learn the ways of Linux-fu, for free
