@@ -20,7 +20,7 @@ The entire repository is also available on GitBook [here](https://goodies.gitboo
 - [Free to Read Books](docs/free-to-read-books.md)
 - [High School](docs/high-school.md)
 
-<del>Go to [docs/](docs) subdirectory to see more unsorted/extra links.</del>
+Go to [docs/](docs) subdirectory to see more unsorted/extra links.
 
 ### Special Thanks :purple_heart:
 - To [GitBook](https://www.gitbook.com/pricing#OpenSource) for supporting the project website.
