@@ -4,7 +4,6 @@ For Privacy Respecting Software, see [privacy-tools.md](privacy-tools.md)
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [Programming Tools](#programming-tools)
   - [Web Browsers](#web-browsers)
   - [Search Engines](#search-engines)
   - [Browser Extensions](#browser-extensions)
@@ -15,12 +14,7 @@ For Privacy Respecting Software, see [privacy-tools.md](privacy-tools.md)
   - [Show HN](#show-hn)
   - [Other](#other)
 
-### Programming Tools
-- [Regex101](https://regex101.com/)- Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-- [Pythex](https://pythex.org/)- Python regular expression editor
-- [StackEdit](https://stackedit.io/)- In-browser Markdown editor
-- [Python Tutor](http://pythontutor.com/)- Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution
-- [Algorithm Visualizer](https://algorithm-visualizer.org/)
+---
 
 ### Web Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
@@ -33,6 +27,8 @@ For Privacy Respecting Software, see [privacy-tools.md](privacy-tools.md)
 - [Google Chrome](https://www.google.com/chrome/)
 - [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings 
 - [Opera](https://www.opera.com/)
+
+---
 
 ### Search Engines
 - [Startpage.com](https://www.startpage.com/)
@@ -48,6 +44,8 @@ For Privacy Respecting Software, see [privacy-tools.md](privacy-tools.md)
 See Also:
 - [searX GitHub wiki](https://github.com/asciimoo/searx/wiki/possible-search-engines)
 - [List of search engines - Wikipedia](https://en.wikipedia.org/wiki/List_of_search_engines#Privacy_search_engines)
+
+---
 
 ### Browser Extensions
 - [LastPass Password Manager](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
@@ -83,6 +81,8 @@ See Also:
 See Also:
 - [Featured extensions – Add-ons for Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
 - [Add-ons for Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/)
+
+---
 
 ### OSes
 - For PC
@@ -132,24 +132,13 @@ See Also:
     - [Ubuntu Touch](https://ubuntu-touch.io/) - `discontinued`
     - [Android](https://android.com/)
 
-### Software, Tools, Libraries, Frameworks
-- [LaTeX](https://www.latex-project.org/)
-- [Pandoc](https://pandoc.org/)
-- [Read the Docs: Documentation Simplified](https://docs.readthedocs.io/en/stable/)
-- [FFmpeg](https://ffmpeg.org/)
-- [The LLVM Compiler Infrastructure Project](https://llvm.org/)
-- [Termux](https://wiki.termux.com/wiki/Main_Page)
-- [Pidgin](https://pidgin.im/)
-- [GeoGebra](https://www.geogebra.org/)
-- [Syncthing](https://syncthing.net/)
-- [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows
-- [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime
-- [Raspbian](https://www.raspbian.org/)
-- [Magit](https://magit.vc/) - A Git Porcelain inside Emacs
+---
 
 ### Email Clients
 - [Mozilla Thunderbird](https://www.thunderbird.net/)
 - [Mailspring](https://github.com/Foundry376/Mailspring)
+
+---
 
 ### Show HN
 - [ieddit](https://ieddit.com/)
@@ -160,7 +149,37 @@ See Also:
 - [Project Naptha](https://projectnaptha.com/)
 - [free anonymous technical interview practice | interviewing.io](https://interviewing.io/)
 
+---
+
 ### Other
+- Software
+    - [LaTeX](https://www.latex-project.org/)
+    - [Pandoc](https://pandoc.org/)
+    - [Read the Docs](https://docs.readthedocs.io/en/stable/) - Documentation Simplified
+    - [FFmpeg](https://ffmpeg.org/)
+    - [The LLVM Compiler Infrastructure Project](https://llvm.org/)
+    - [Termux](https://wiki.termux.com/wiki/Main_Page)
+    - [Pidgin](https://pidgin.im/)
+    - [GeoGebra](https://www.geogebra.org/)
+    - [Syncthing](https://syncthing.net/)
+    - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows
+    - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime
+    - [Raspbian](https://www.raspbian.org/)
+    - [Magit](https://magit.vc/) - A Git Porcelain inside Emacs
+    - [Gitter](https://gitter.im/)
+    - [Firefox Monitor](https://monitor.firefox.com/)
+    - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
+    - [Keybase](https://keybase.io/)
+    - [Least Authority](https://leastauthority.com/)
+    - [ownCloud](https://owncloud.org/) - OpenSource Cloud Collaboration Platform
+    - [Nextcloud](https://nextcloud.com/)
+    - [Standard Notes](https://standardnotes.org/) - End-to-End Encrypted Notes App
+    - [Gitea](https://gitea.io/en-us/)
+    - [Winds](https://winds.getstream.io/) - Feed Reader
+    - [Firefox Send](https://send.firefox.com/)
+    - [Invidious](https://invidio.us/)
+    - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
+
 - GitHub/
     - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
     - [LisaDziuba/Awesome-Design-Tools ](https://github.com/LisaDziuba/Awesome-Design-Tools)
@@ -182,22 +201,8 @@ See Also:
     - [Font Awesome](https://fontawesome.com/)
     - [Luke Smith's Programs and Equipments](https://lukesmith.xyz/programs.html)
     - [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)
-    - [Gitter](https://gitter.im/)
-    - [Firefox Monitor](https://monitor.firefox.com/)
-    - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach
-    - [Keybase](https://keybase.io/)
-    - [Least Authority](https://leastauthority.com/)
-    - [ownCloud](https://owncloud.org/) - OpenSource Cloud Collaboration Platform
-    - [Nextcloud](https://nextcloud.com/)
-    - [Standard Notes](https://standardnotes.org/) - End-to-End Encrypted Notes App
-    - [Gitea](https://gitea.io/en-us/)
-    - [Winds](https://winds.getstream.io/) - Feed Reader
-    - [Firefox Send](https://send.firefox.com/)
-    - [Invidious](https://invidio.us/)
     - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
     - [Best of Show HN all time](https://bestofshowhn.com/)
-    - [Devhints](https://devhints.io/) - TL;DR for developer documentation
-    - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
     - [Free for developers](https://free-for.dev/#/)
     - [suckless.org](https://suckless.org/) - software that sucks less
     - [Encyclopedia of things considered harmful](http://harmful.cat-v.org/)

@@ -29,6 +29,7 @@
 
 ### Rust
 - [Rust Programming Language](https://www.rust-lang.org/learn/get-started)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
 
 ### D
 - [D Programming Language](https://dlang.org/)

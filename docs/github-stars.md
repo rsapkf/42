@@ -13,7 +13,6 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
@@ -45,6 +44,7 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form)
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -149,6 +149,7 @@
 - [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts (https://www.shellcheck.net)
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor) (https://ace.c9.io)
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 
 ---
 
@@ -240,6 +241,8 @@
 - [M66B/NetGuard](https://github.com/M66B/NetGuard)
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React
+- [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
+- [jgraph/drawio](https://github.com/jgraph/drawio)
 
 ---
 
@@ -411,8 +414,6 @@
 - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
-- [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume)
-- [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - A personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer 
@@ -464,3 +465,8 @@
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv)
 - [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain
 
+---
+
+### Other
+- [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume)
+- [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool

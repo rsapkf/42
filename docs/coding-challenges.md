@@ -23,5 +23,3 @@
     - [Rosalind](http://rosalind.info) - Python ∩ Biology
     - [practiceJS](https://practicejs.com/) - some JavaScript coding exercises put into a web app so they can be done on a phone.
     - [CodinGame](https://www.codingame.com/home)
-    
----

@@ -45,6 +45,8 @@
     - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
     - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
     
+---
+    
 ### Lists, Articles
 - HN Threads
     - [What do you self-host?](https://news.ycombinator.com/item?id=21235957)
@@ -58,4 +60,5 @@
     - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
     - [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908)
     - [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
+    - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
 
