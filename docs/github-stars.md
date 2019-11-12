@@ -1,6 +1,8 @@
 ## My GitHub Stars
 
 ### Learning
+- [GitHub Search 'awesome'](https://github.com/search?q=awesome)
+- [GitHub Explore](https://github.com/explore)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [github/gitignore](https://github.com/github/gitignore)
@@ -60,6 +62,8 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow
 - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow 2
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers 
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in.
 
 ---
 
@@ -73,13 +77,13 @@
 - [Automattic · GitHub](https://github.com/Automattic)
 - [Nextcloud · GitHub](https://github.com/nextcloud)
 - [ownCloud · GitHub](https://github.com/owncloud)
-- [WebAssembly](https://github.com/webassembly)
-- [Bitwarden](https://github.com/bitwarden)
-- [Mozilla](https://github.com/mozilla)
-- [Facebook](https://github.com/facebook)
-- [Microsoft](https://github.com/microsoft)
-- [Google](https://github.com/google)
-- [Keybase](https://github.com/keybase)
+- [WebAssembly · GitHub](https://github.com/webassembly)
+- [Bitwarden · GitHub](https://github.com/bitwarden)
+- [Mozilla · GitHub](https://github.com/mozilla)
+- [Facebook · GitHub](https://github.com/facebook)
+- [Microsoft · GitHub](https://github.com/microsoft)
+- [Google · GitHub](https://github.com/google)
+- [Keybase · GitHub](https://github.com/keybase)
 - [Shopify · GitHub](https://github.com/Shopify)
 - [tmux-plugins · GitHub](https://github.com/tmux-plugins)
 - [Standard Notes · GitHub](https://github.com/standardnotes)
@@ -93,6 +97,10 @@
 - [thoughtbot · GitHub](https://github.com/thoughtbot)
 - [Taiga.io · GitHub](https://github.com/taigaio/)
 - [Sentry · GitHub](https://github.com/getsentry/)
+- [Mattermost · GitHub](https://github.com/mattermost)
+- [SeleniumHQ · GitHub](https://github.com/SeleniumHQ)
+- [Real Python · GitHub](https://github.com/realpython)
+- [You Don't Need · GitHub](https://github.com/you-dont-need)
 
 ---
 
@@ -131,10 +139,16 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
 - [onivim/oni](https://github.com/onivim/oni)
-- [github/hub](https://github.com/github/hub)
+- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. 
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori)
 - [mayfrost/guides](https://github.com/mayfrost/guides)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment
+- [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts (https://www.shellcheck.net)
+- [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor) (https://ace.c9.io)
 
 ---
 
@@ -158,8 +172,6 @@
 - [passff/passff](https://github.com/passff/passff)
 - [denisidoro/navi](https://github.com/denisidoro/navi)
 - [srsudar/eg](https://github.com/srsudar/eg)
-- [santinic/how2](https://github.com/santinic/how2)
-- [gleitz/howdoi](https://github.com/gleitz/howdoi)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst)
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
@@ -227,6 +239,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 - [M66B/NetGuard](https://github.com/M66B/NetGuard)
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React
 
 ---
 
@@ -328,6 +341,8 @@
 - [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) - Open source home automation that puts local control and privacy first
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem
+- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras
 
 ---
 
@@ -398,12 +413,17 @@
 - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
 - [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume)
 - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time
+- [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - A personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
+- [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer 
+- [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) -  A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats
 
 ---
 
 ### Vim, Tmux Plugins
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
 - [tpope/vim- pathogen](https://github.com/tpope/vim-pathogen)
+- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager 
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 - [powerline/powerline](https://github.com/powerline/powerline)
 - [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
@@ -426,7 +446,7 @@
 - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows a git diff in the gutter (sign column)  and stages/undoes hunks and partial hunks
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - A Git wrapper so awesome, it should be illegal
@@ -435,6 +455,7 @@
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - comment stuff out
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+- [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
 ---
 

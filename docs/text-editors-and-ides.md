@@ -75,7 +75,7 @@
 	- Sites/
 		- [Notepad++ Docs](https://npp-user-manual.org/)
 		
-- #### Sublime Text `freemium` `closed-Source`:
+- #### Sublime Text `freemium` `closed-source`:
 	- Sites/
 		- [Sublime Text Official Documentation](https://www.sublimetext.com/docs/3/)
 		- [Sublime Text Unofficial Documentation](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/)(Recommended by the [Official ST Team](https://www.sublimetext.com/docs/3/))

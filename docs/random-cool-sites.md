@@ -17,6 +17,7 @@
     - [txti](http://txti.es/) - Fast web pages for everybody
     - [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
     - [oldweb.today](http://oldweb.today/)
+    - [SWAPI - The Star Wars API](https://swapi.co/)
 
 - YouTube/
     - [Lemmino](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -45,10 +46,16 @@
     - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
     
 ### Lists, Articles
-- [Things You Didn't Know About GNU Readline ](https://twobithistory.org/2019/08/22/readline.html)
-- [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
-- [DuckDuckGo !Bang](https://duckduckgo.com/bang)
-- [How to speak Silicon Valley: 53 essential tech-bro terms explained | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
-- [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
-- [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908)
-- [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
+- HN Threads
+    - [What do you self-host?](https://news.ycombinator.com/item?id=21235957)
+    - [How to get your IP unbanned on HN](https://news.ycombinator.com/item?id=4761102)
+    
+- Other
+    - [Things You Didn't Know About GNU Readline ](https://twobithistory.org/2019/08/22/readline.html)
+    - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
+    - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
+    - [How to speak Silicon Valley: 53 essential tech-bro terms explained | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
+    - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
+    - [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908)
+    - [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
+

@@ -131,6 +131,7 @@
     - [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw)
     - [Google](https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA)
     - [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+    - [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ) - Dave Cohen
 
 - Reddit/
     - [r/technology](https://www.reddit.com/r/technology/)

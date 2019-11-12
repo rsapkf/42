@@ -113,6 +113,7 @@ See Also:
     - [Parabola GNU/Linux](https://www.parabola.nu/)
     - [Alpine Linux](https://alpinelinux.org/)
     - [Linux From Scratch](http://www.linuxfromscratch.org/)
+    - [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - compatibility layer for running Linux binary executables natively on Windows.
 
   - BSD
     - [The FreeBSD Project](https://www.freebsd.org/)
@@ -120,11 +121,12 @@ See Also:
   - Windows
   - MacOS
   - Other
-    - [Home | Haiku Project](https://www.haiku-os.org/)
+    - [Haiku](https://www.haiku-os.org/)
     - [Oracle Solaris](https://www.oracle.com/technetwork/server-storage/solaris11/downloads/index.html)
     
 
 - For Mobile
+    - [Termux](https://github.com/termux/termux-app) - Android terminal and Linux environment
     - [LineageOS](https://www.lineageos.org/)
     - [Replicant](https://www.replicant.us/)
     - [Ubuntu Touch](https://ubuntu-touch.io/) - `discontinued`
@@ -160,9 +162,10 @@ See Also:
 
 ### Other
 - GitHub/
+    - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
     - [LisaDziuba/Awesome-Design-Tools ](https://github.com/LisaDziuba/Awesome-Design-Tools)
     - [mayfrost/guides](https://github.com/mayfrost/guides) - Alternatives to Bloatware
-    - [GitHub Collections](https://github.com/collections)
+    - [GitHub Explore](https://github.com/explore)
 
 - Sites/
     - [GNU Recommendations](https://www.gnu.org/software/free-software-for-education.html)
@@ -195,8 +198,7 @@ See Also:
     - [Best of Show HN all time](https://bestofshowhn.com/)
     - [Devhints](https://devhints.io/) - TL;DR for developer documentation
     - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
-    - [Opensource.com](https://opensource.com/)
     - [Free for developers](https://free-for.dev/#/)
-    - [software that sucks less | suckless.org software that sucks less](https://suckless.org/)
+    - [suckless.org](https://suckless.org/) - software that sucks less
     - [Encyclopedia of things considered harmful](http://harmful.cat-v.org/)
     - [freedesktop.org](https://www.freedesktop.org/wiki/)
