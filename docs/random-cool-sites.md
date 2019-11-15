@@ -53,12 +53,13 @@
     - [How to get your IP unbanned on HN](https://news.ycombinator.com/item?id=4761102)
     
 - Other
-    - [Things You Didn't Know About GNU Readline ](https://twobithistory.org/2019/08/22/readline.html)
     - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
     - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
     - [How to speak Silicon Valley: 53 essential tech-bro terms explained | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
     - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
-    - [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908)
+    - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
     - [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
+    - [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))
+    - [Things You Didn't Know About GNU Readline ](https://twobithistory.org/2019/08/22/readline.html)
     - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
 

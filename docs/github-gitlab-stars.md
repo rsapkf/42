@@ -1,4 +1,4 @@
-## My GitHub Stars
+## My GitHub/GitLab Stars
 
 ### Learning
 - [GitHub Search 'awesome'](https://github.com/search?q=awesome)
@@ -174,6 +174,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi)
 - [srsudar/eg](https://github.com/srsudar/eg)
 - [dunst-project/dunst](https://github.com/dunst-project/dunst)
+- [timvisee/ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client. 
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 
@@ -418,6 +419,7 @@
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - A personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer 
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) -  A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats
+- [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network
 
 ---
 
@@ -464,6 +466,14 @@
 - [jonan/ForkHub](https://github.com/jonan/ForkHub)
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv)
 - [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain
+
+---
+
+### GitLab Stars
+- [GitLab.com · GitLab](https://gitlab.com/gitlab-com)
+- [fdroid/fdroidclient](https://gitlab.com/fdroid/fdroidclient)
+- [inkscape/inkscape](https://gitlab.com/inkscape/inkscape)
+- [mbunkus/mkvtoolnix](https://gitlab.com/mbunkus/mkvtoolnix)
 
 ---
 

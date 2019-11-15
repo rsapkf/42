@@ -13,12 +13,12 @@ The entire repository is also available on GitBook [here](https://goodies.gitboo
 - [Software Tools](docs/software-tools.md)
 - [Massive Open Online Courses](docs/moocs-and-courses.md)
 - [Cubing and Puzzles](docs/cubing-and-puzzles.md)
-<!-- [Ebooks and Research Papers](docs/ebooks-and-research-papers.md) -->
 - [Random Cool Sites](docs/random-cool-sites.md)
 - [Privacy Tools](docs/privacy-tools.md)
-- [GitHub Stars](docs/github-stars.md)
+- [GitHub/GitLab Stars](docs/github-stars.md)
 - [Free to Read Books](docs/free-to-read-books.md)
 - [High School](docs/high-school.md)
+<!-- [Ebooks and Research Papers](docs/ebooks-and-research-papers.md) -->
 
 Go to [docs/](https://github.com/rsapkf/goodies/blob/master/docs) subdirectory to see more unsorted/extra links.
 

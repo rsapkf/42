@@ -128,6 +128,7 @@ See Also:
 - For Mobile
     - [Termux](https://github.com/termux/termux-app) - Android terminal and Linux environment
     - [LineageOS](https://www.lineageos.org/)
+    - [postmarketOS](https://postmarketos.org/) - A real Linux distribution for phones and other mobile devices
     - [Replicant](https://www.replicant.us/)
     - [Ubuntu Touch](https://ubuntu-touch.io/) - `discontinued`
     - [Android](https://android.com/)
@@ -162,6 +163,7 @@ See Also:
     - [Pidgin](https://pidgin.im/)
     - [GeoGebra](https://www.geogebra.org/)
     - [Syncthing](https://syncthing.net/)
+    - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - A collaboration and documentation platform
     - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows
     - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime
     - [Raspbian](https://www.raspbian.org/)

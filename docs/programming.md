@@ -5,6 +5,7 @@
 - [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
 - [cppreference.com](https://en.cppreference.com/w/)
 - [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+- [Microsoft Docs](https://docs.microsoft.com/en-us/)
 
 ### Java
 - [Java Docs](https://www.oracle.com/technetwork/java/)

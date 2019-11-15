@@ -244,6 +244,10 @@ See Also [HotFrameworks](https://hotframeworks.com/)
     - Sites/
         - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 
+- #### SQLite:
+    - Sites/
+        - [SQLite Docs](https://sqlite.org/docs.html)
+
 ---
 
 ### Text Editors and IDEs:
