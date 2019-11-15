@@ -41,6 +41,10 @@
 - #### Kakoune:
 	- Sites/
 		- [Kakoune Documentation](https://github.com/mawww/kakoune/)
+		
+- #### vy:
+    - Sites/
+        - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch
 	
 - #### Emacs:
 	- Sites/

@@ -143,6 +143,7 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal 
 - [go-shiori/shiori](https://github.com/go-shiori/shiori)
+- [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch
 - [mayfrost/guides](https://github.com/mayfrost/guides)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment
@@ -150,6 +151,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts (https://www.shellcheck.net)
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor) (https://ace.c9.io)
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenPGP implementation for Android
 
 ---
 
@@ -420,6 +422,7 @@
 - [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer 
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) -  A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats
 - [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network
+- [samuela/rustybox)](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust
 
 ---
 
