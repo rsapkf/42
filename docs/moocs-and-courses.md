@@ -20,6 +20,7 @@
     - [OPEN CULTURE](http://www.openculture.com/)
     - [teachyourselfcs.com](https://teachyourselfcs.com/)
     - [hackr.io](https://hackr.io/) - find the best programming courses & tutorials
+    - [Scrimba](https://scrimba.com/)
     - [Lynda](https://www.lynda.com/) - Moved to [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     - [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     - [DataCamp](https://www.datacamp.com/) - `paid`
