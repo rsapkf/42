@@ -48,3 +48,4 @@
 - [Enable Sysadmin by RedHat](https://www.redhat.com/sysadmin/)
 - [Open Source Guides](https://opensource.guide/) - Learn how to launch and grow your project.
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training
+- [The Theoretical Minimum Lectures](https://theoreticalminimum.com/) - Leonard Susskind

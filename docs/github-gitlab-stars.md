@@ -101,6 +101,7 @@
 - [SeleniumHQ · GitHub](https://github.com/SeleniumHQ)
 - [Real Python · GitHub](https://github.com/realpython)
 - [You Don't Need · GitHub](https://github.com/you-dont-need)
+- [The Rust Programming Language · GitHub](https://github.com/rust-lang)
 
 ---
 
@@ -152,6 +153,8 @@
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor) (https://ace.c9.io)
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenPGP implementation for Android
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 
 ---
 
@@ -246,6 +249,7 @@
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
 - [jgraph/drawio](https://github.com/jgraph/drawio)
+- [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap 
 
 ---
 
@@ -423,6 +427,7 @@
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) -  A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats
 - [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network
 - [samuela/rustybox)](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Opensource alternative to Intercom, Drift, Zendesk, FreshChat
 
 ---
 

@@ -155,9 +155,12 @@
     - Blogs
       - [Distill](https://distill.pub/) - articles about machine learning
       - [Julia Evans](https://jvns.ca/)
+      - [StackOverflow Blog](https://stackoverflow.blog/)
       - [Coding Horror](https://blog.codinghorror.com/)
       - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
       - [Kalzumeus](https://www.kalzumeus.com/)
+      - [Brett Cannon](https://snarky.ca/)
+      - [Neopythonic by Guido van Rossum](https://neopythonic.blogspot.com/)
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
