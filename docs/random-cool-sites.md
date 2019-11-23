@@ -48,9 +48,10 @@
 ---
     
 ### Lists, Articles
-- HN Threads
+- Ask HN Threads
     - [What do you self-host?](https://news.ycombinator.com/item?id=21235957)
     - [How to get your IP unbanned on HN](https://news.ycombinator.com/item?id=4761102)
+    - [What's the most valuable thing you can learn in an hour?](https://news.ycombinator.com/item?id=21581361)
     
 - Other
     - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)

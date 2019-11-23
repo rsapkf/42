@@ -271,6 +271,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 - Sites/
     - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
     - [Devhints](https://devhints.io/) - TL;DR for developer documentation
+    - [repl.it](https://repl.it/)
     - [Learn-Anything](https://learn-anything.xyz/)
     - [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
     - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)

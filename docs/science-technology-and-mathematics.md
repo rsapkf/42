@@ -156,6 +156,7 @@
       - [Distill](https://distill.pub/) - articles about machine learning
       - [Julia Evans](https://jvns.ca/)
       - [StackOverflow Blog](https://stackoverflow.blog/)
+      - [Twilio Blog](https://www.twilio.com/blog)
       - [Coding Horror](https://blog.codinghorror.com/)
       - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
       - [Kalzumeus](https://www.kalzumeus.com/)
