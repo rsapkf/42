@@ -65,6 +65,8 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers 
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in.
 - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines 
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). 
 
 ---
 
@@ -256,6 +258,7 @@
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [pugjs/pug](https://github.com/pugjs/pug) – robust, elegant, feature rich template engine for Node.js
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript (https://jsdoc.app/)
+- [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS 
 
 ---
 
@@ -435,6 +438,9 @@
 - [samuela/rustybox)](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Opensource alternative to Intercom, Drift, Zendesk, FreshChat
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer 
+- [Gabriel439/simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file 
+- [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
+- [dw/mitogen](https://github.com/dw/mitogen) - 
 
 ---
 
