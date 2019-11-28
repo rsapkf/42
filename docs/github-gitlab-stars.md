@@ -105,6 +105,8 @@
 - [Real Python · GitHub](https://github.com/realpython)
 - [You Don't Need · GitHub](https://github.com/you-dont-need)
 - [The Rust Programming Language · GitHub](https://github.com/rust-lang)
+- [Postman Inc. · GitHub](https://github.com/postmanlabs)
+- [Netlify · GitHub](https://github.com/netlify)
 
 ---
 
@@ -159,6 +161,7 @@
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (https://firejail.wordpress.com)
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling. 
 
 ---
 
@@ -259,6 +262,10 @@
 - [pugjs/pug](https://github.com/pugjs/pug) – robust, elegant, feature rich template engine for Node.js
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript (https://jsdoc.app/)
 - [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS 
+- [michalsnik/aos](https://github.com/michalsnik/aos) - Animate On Scroll Library
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js 
+- [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt 
+- [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
 ---
 
@@ -441,6 +448,8 @@
 - [Gabriel439/simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file 
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - [dw/mitogen](https://github.com/dw/mitogen) - 
+- [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs 
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell 
 
 ---
 

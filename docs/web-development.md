@@ -273,7 +273,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Devhints](https://devhints.io/) - TL;DR for developer documentation
     - [repl.it](https://repl.it/)
     - [Learn-Anything](https://learn-anything.xyz/)
-    - [Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials/)
+    - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
     - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
     - [Lorem Ipsum](https://lipsum.com/)
     - [Lorem Picsum](https://picsum.photos/)
@@ -281,6 +281,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
     - [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
     - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
+    - [tuts+](https://tutsplus.com/)
 
 - GitHub/
     - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)

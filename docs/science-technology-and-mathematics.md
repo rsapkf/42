@@ -141,6 +141,7 @@
       - [gnu.org](https://www.gnu.org/)
       - [That One Privacy Site](https://thatoneprivacysite.net/about/)
       - [Richard Stallman's Personal Site ](https://stallman.org/index.html)
+      - [WikiLeaks](https://wikileaks.org)
       - [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/)
       - [DuckDuckGo Blog](https://spreadprivacy.com/)
       - [EFF Blog](https://www.eff.org/)
@@ -243,3 +244,5 @@
       - [Sindre Sorhus](https://sindresorhus.com/)
       - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
       - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
+      - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
+      - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)

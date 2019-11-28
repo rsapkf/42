@@ -51,7 +51,8 @@
         - [Org mode for Emacs](https://orgmode.org/)
 		- [GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
 		- [Emacs is sexy!](https://emacs.sexy/#resources)
-		- [Doom Emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer
+	    - [Doom Emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer
+	    - [Emacswiki](https://www.emacswiki.org/emacs/SiteMap)
 	
 	- GitHub/
         - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs

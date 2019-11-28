@@ -181,6 +181,7 @@ See Also:
     - [Firefox Send](https://send.firefox.com/)
     - [Invidious](https://invidio.us/)
     - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
+    - [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 
 - GitHub/
     - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)

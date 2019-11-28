@@ -18,6 +18,7 @@
     - [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
     - [oldweb.today](http://oldweb.today/)
     - [SWAPI - The Star Wars API](https://swapi.co/)
+    - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.com/)
 
 - YouTube/
     - [Lemmino](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)

@@ -22,7 +22,8 @@
     - [hackr.io](https://hackr.io/) - find the best programming courses & tutorials
     - [Lynda](https://www.lynda.com/) - Moved to [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
     - [LinkedIn Learning](https://www.linkedin.com/learning/) `paid`
-    - [DataCamp](https://www.datacamp.com/) - `paid`
+    - [DataCamp](https://www.datacamp.com/) `paid`
+    - [Frondend Masters](https://frontendmasters.com/) `paid`
     - [PluralSight](https://www.pluralsight.com/) - `paid`
     - [Lambda School](https://lambdaschool.com/) `paid`
     - [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students `paid`
