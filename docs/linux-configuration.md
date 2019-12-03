@@ -155,6 +155,7 @@ See [text-editors-and-editors.md](text-editors-and-editors.md)
     - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
     - [tldr](https://github.com/tldr-pages/tldr) - alternative to man pages
     - [irssi](https://github.com/irssi/irssi) - terminal irc client
+    - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
     - [mutt](http://www.mutt.org/) - email client
     - [LaTeX](https://www.latex-project.org/) - document typesetting system
     - [NeoMutt](https://neomutt.org) - highly configurable mail reader based on mutt
@@ -203,6 +204,7 @@ See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/
 
 ### Extra Resources
 - [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
+- [GNU Readline Cheatsheet- VI Mode](http://readline.kablamo.org/vi.html)([Emacs Mode](http://readline.kablamo.org/emacs.html))
 - [crontab guru](https://crontab.guru/)
 - [The LiveCD List](https://livecdlist.com/about/)
 - [Linux Journey](https://linuxjourney.com/) - Learn the ways of Linux-fu, for free

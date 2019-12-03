@@ -67,6 +67,7 @@
 - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines 
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). 
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 
 ---
 
@@ -107,6 +108,7 @@
 - [The Rust Programming Language · GitHub](https://github.com/rust-lang)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
 - [Netlify · GitHub](https://github.com/netlify)
+- [Arduino · GitHub](https://github.com/arduino)
 
 ---
 
@@ -189,6 +191,7 @@
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client. 
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
 
 ---
 
@@ -238,7 +241,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb)
 - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
+- [starship/starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [markedjs/marked](https://github.com/markedjs/marked)
 - [borgbackup/borg](https://github.com/borgbackup/borg)
@@ -266,6 +269,9 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js 
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt 
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+- [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 
 ---
 
@@ -455,7 +461,7 @@
 
 ### Vim, Tmux Plugins
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
-- [tpope/vim- pathogen](https://github.com/tpope/vim-pathogen)
+- [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen)
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager 
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 - [powerline/powerline](https://github.com/powerline/powerline)
@@ -489,6 +495,8 @@
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
+- [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair 
+- [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - Dark powered asynchronous completion framework for neovim/Vim8 
 
 ---
 

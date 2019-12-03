@@ -18,6 +18,7 @@
 		- [OpenVim](https://openvim.com/)
 		- [Vim Adventures](https://vim-adventures.com/)
 		- [Most used Vim commands - Stack Overflow](https://stackoverflow.com/a/5400978)
+		- [Vimcasts.org](http://vimcasts.org/categories/) - Vim screencasts
 		- [Learn vim For the Last Time](https://danielmiessler.com/study/vim/)
 
 	- Command Line Tools/

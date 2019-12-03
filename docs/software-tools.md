@@ -164,8 +164,9 @@ See Also:
     - [GeoGebra](https://www.geogebra.org/)
     - [Syncthing](https://syncthing.net/)
     - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - A collaboration and documentation platform
-    - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows
-    - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime
+    - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows `closed-source`
+    - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime `closed-source`
+    - [Figma](https://www.figma.com/) - collaborative interface design tool `closed-source` `freemium`
     - [Raspbian](https://www.raspbian.org/)
     - [Magit](https://magit.vc/) - A Git Porcelain inside Emacs
     - [Gitter](https://gitter.im/)
@@ -182,6 +183,7 @@ See Also:
     - [Invidious](https://invidio.us/)
     - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
     - [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
+    - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS `closed-source` `paid`
 
 - GitHub/
     - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)

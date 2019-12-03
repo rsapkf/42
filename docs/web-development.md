@@ -75,6 +75,10 @@ Roadmap to Web Development:
         - [CodePen](https://codepen.io/) - Build, Test, and Discover Front-end Code
         - [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
         - [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials
+        
+    - YouTube/
+        - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) ([Website](https://www.traversymedia.com/))
+        - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 
 - #### JavaScript:
     - Sites/
@@ -117,7 +121,6 @@ Roadmap to Web Development:
         - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
 
     - YouTube/
-        - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) ([Website](https://www.traversymedia.com/))
         - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 
 ### Back-End Programming Languages
