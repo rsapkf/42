@@ -75,8 +75,12 @@ See Also:
 - [Keybase](https://addons.mozilla.org/en-US/firefox/addon/keybase-for-firefox/)
 - [Notes by Firefox](https://addons.mozilla.org/en-US/firefox/addon/notes-by-firefox/)
 - [Markdown Here](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)
-- [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)
+- [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) See Also [TST Bookmarks Subpanel](https://addons.mozilla.org/en-US/firefox/addon/tst-bookmarks-subpanel/)
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks
+- [30 Secondss of Knowledge](https://addons.mozilla.org/en-US/firefox/addon/30-seconds-of-knowledge/) - gain new developer skills, every time you open a New Tab
+- [Refined GitHub](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/) - Simplifies the GitHub interface and adds many useful features.
+- [Octotree](https://addons.mozilla.org/en-US/firefox/addon/octotree/) - GitHub on Steroids
+- [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Userstyles Manager
 
 See Also:
 - [Featured extensions – Add-ons for Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)

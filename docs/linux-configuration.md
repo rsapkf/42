@@ -55,7 +55,7 @@ See Also
 ### Shell
 - [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [Zsh](http://zsh.sourceforge.net/) See Also [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and [prezto](https://github.com/sorin-ionescu/prezto)
-- [fish](https://github.com/fish-shell/fish-shell)
+- [fish](https://github.com/fish-shell/fish-shell) See Also [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 
 ---
 

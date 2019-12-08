@@ -102,6 +102,7 @@
     - [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
     - [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
     - [Brilliant](https://brilliant.org/) `paid`
+    - [Math Professor Quotes](https://mathprofessorquotes.com/) - The absurd things math professors say.
 
 - Reddit/
     - [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
@@ -246,3 +247,4 @@
       - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
       - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+      - [Kenneth Reitz](https://www.kennethreitz.org/)
