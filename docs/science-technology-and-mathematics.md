@@ -103,6 +103,7 @@
     - [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
     - [Brilliant](https://brilliant.org/) `paid`
     - [Math Professor Quotes](https://mathprofessorquotes.com/) - The absurd things math professors say.
+    - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver
 
 - Reddit/
     - [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
