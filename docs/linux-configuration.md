@@ -1,22 +1,20 @@
 # Linux Configuration
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
-	- [Distros](#distros)
-	- [Shell](#shell)
-	- [Desktop Environments](#disktop-environments)
-	- [Window Managers](#window-managers)
-	- [Program Launchers](#program-launchers)
-	- [Terminal Emulators](#terminal-emulators)
-	- [File Managers](#file-managers)
-		- [Command Line File Managers](#command-line-file-managers)
-		- [Graphical File Managers](#graphical-file-managers)
-	- [Status Bars](#status-bars)
-	- [Useful Applications](#useful-applications)
-		- [Terminal Applications](#terminal-applications)
-		- [Graphical Applications](#graphical-applications)
-	- [YouTube Channels](#youtube-channels)
-	- [Extra Resources](#extra-resources)
+- [Distros](#distros)
+- [Shell](#shell)
+- [Desktop Environments](#disktop-environments)
+- [Window Managers](#window-managers)
+- [Program Launchers](#program-launchers)
+- [Terminal Emulators](#terminal-emulators)
+- [File Managers](#file-managers)
+	- [Command Line File Managers](#command-line-file-managers)
+	- [Graphical File Managers](#graphical-file-managers)
+- [Status Bars](#status-bars)
+- [Terminal Applications](#terminal-applications)
+- [Graphical Applications](#graphical-applications)
+- [YouTube Channels](#youtube-channels)
+- [Extra Resources](#extra-resources)
 
 ---
 
@@ -52,7 +50,7 @@ See Also
 
 ---
 
-### Shell
+### Shells
 - [Bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [Zsh](http://zsh.sourceforge.net/) See Also [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and [prezto](https://github.com/sorin-ionescu/prezto)
 - [fish](https://github.com/fish-shell/fish-shell) See Also [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
@@ -111,18 +109,18 @@ See Also [terminal.sexy](https://terminal.sexy/)
 ---
 
 ### File Managers
-#### Command Line File Managers
-- [ranger](https://github.com/ranger/ranger)
-- [nnn](https://github.com/jarun/nnn)
-- [midnight commander](http://midnight-commander.org/)
-- [vifm](https://github.com/vifm/vifm)
-- [fff](https://github.com/dylanaraps/fff)
+- Command Line File Managers
+    - [ranger](https://github.com/ranger/ranger)
+    - [nnn](https://github.com/jarun/nnn)
+    - [midnight commander](http://midnight-commander.org/)
+    - [vifm](https://github.com/vifm/vifm)
+    - [fff](https://github.com/dylanaraps/fff)
 
-#### Graphical File Managers
-- [Dolphin](https://kde.org/applications/system/dolphin/)
-- [Nautilus](https://wiki.gnome.org/Apps/Files)
-- [Nemo](https://github.com/linuxmint/nemo)
-- [Thunar](https://docs.xfce.org/xfce/thunar/start)
+- Graphical File Managers
+    - [Dolphin](https://kde.org/applications/system/dolphin/)
+    - [Nautilus](https://wiki.gnome.org/Apps/Files)
+    - [Nemo](https://github.com/linuxmint/nemo)
+    - [Thunar](https://docs.xfce.org/xfce/thunar/start)
 
 ---
 
@@ -132,8 +130,7 @@ See Also [terminal.sexy](https://terminal.sexy/)
 
 ---
 
-### Useful Applications
-#### Terminal Applications
+### Terminal Applications
 - Text Editors
 See [text-editors-and-editors.md](text-editors-and-editors.md)
     
@@ -172,7 +169,9 @@ See [text-editors-and-editors.md](text-editors-and-editors.md)
 See Also: 
 - [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
 
-#### Graphical Applications
+---
+
+### Graphical Applications
 - [VLC](https://www.videolan.org/vlc/)
 - [LibreOffice](https://www.libreoffice.org/)
 - [Transmission](https://github.com/transmission/transmission) - BitTorrent client. See Also [Transmission-cli](https://wiki.archlinux.org/index.php/Transmission)

@@ -39,12 +39,6 @@
     - [The Film Theorists](https://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q)
     - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ) - Tim Blais
     - [Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w)
-
-- Github/
-    - [stewartmcgown/uds](https://github.com/stewartmcgown/uds)
-    - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
-    - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-    - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
     
 ---
     

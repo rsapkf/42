@@ -8,21 +8,20 @@ Roadmap to Web Development:
 ---
     
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
-    - [Offline Documentation](#offline-documentation)
-    - [Command Line](#command-line)
-    - [Git](#git)
-    - [Programming Languages](#programming-languages)
-      - [Front-End Programming Languages](#front-end-programming-languages)
-      - [Back-End Programming Languages](#back-end-programming-languages)
-    - [Web Frameworks](#web-frameworks)
-      - [Front-End Web Frameworks](#front-end-web-frameworks)
-      - [Back-End Web Frameworks](#back-end-web-frameworks)
-    - [Static Site Generators](#static-site-generators)
-    - [DataBases](#databases)
-    - [Text Editors and IDEs](#text-editors-and-ides)
-    - [Regular Expressions and Algorithms](#regular-expressions-and-algorithms)
-    - [Extra Resources](#extra-resources)
+- [Offline Documentation](#offline-documentation)
+- [Command Line](#command-line)
+- [Git](#git)
+- [Programming Languages](#programming-languages)
+  - [Front-End Programming Languages](#front-end-programming-languages)
+  - [Back-End Programming Languages](#back-end-programming-languages)
+- [Web Frameworks](#web-frameworks)
+  - [Front-End Web Frameworks](#front-end-web-frameworks)
+  - [Back-End Web Frameworks](#back-end-web-frameworks)
+- [Static Site Generators](#static-site-generators)
+- [DataBases](#databases)
+- [Text Editors and IDEs](#text-editors-and-ides)
+- [Regular Expressions and Algorithms](#regular-expressions-and-algorithms)
+- [Extra Resources](#extra-resources)
 
 ---
 
@@ -275,6 +274,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
     - [Devhints](https://devhints.io/) - TL;DR for developer documentation
     - [repl.it](https://repl.it/)
+    - [Glitch](https://glitch.com/)
     - [Learn-Anything](https://learn-anything.xyz/)
     - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
     - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)

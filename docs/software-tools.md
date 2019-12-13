@@ -3,16 +3,15 @@
 For Privacy Respecting Software, see [privacy-tools.md](privacy-tools.md) 
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
-  - [Web Browsers](#web-browsers)
-  - [Search Engines](#search-engines)
-  - [Browser Extensions](#browser-extensions)
-  - [Cloud Storage](#cloud-storage)
-  - [OSes](#oses)
-  - [Software, Tools, Libraries, Frameworks](#software-tools-libraries-frameworks)
-  - [Email Clients](#email-clients)
-  - [Show HN](#show-hn)
-  - [Other](#other)
+- [Web Browsers](#web-browsers)
+- [Search Engines](#search-engines)
+- [Browser Extensions](#browser-extensions)
+- [Cloud Storage](#cloud-storage)
+- [OSes](#oses)
+- [Software, Tools, Libraries, Frameworks](#software-tools-libraries-frameworks)
+- [Email Clients](#email-clients)
+- [Show HN](#show-hn)
+- [Other](#other)
 
 ---
 
@@ -126,6 +125,7 @@ See Also:
   - MacOS
   - Other
     - [Haiku](https://www.haiku-os.org/)
+    - [Redox](https://redox-os.org/) - Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
     - [Oracle Solaris](https://www.oracle.com/technetwork/server-storage/solaris11/downloads/index.html)
     
 

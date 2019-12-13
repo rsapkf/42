@@ -1,17 +1,15 @@
 # Privacy Tools
 
 ## Table of Contents:
-
-- [Table of Contents](#table-of-contents)
-    - [Cloud Storage](#cloud-storage)
-    - [Email Providers](#email-providers)
-    - [Email Clients](#email-clients)
-    - [Operating Systems](#operating-systems)
-    - [Search Engines](#search-engines)
-    - [Web Browsers](#web-browsers)
-    - [Password Managers](#password-managers)
-    - [Browser Extensions](#browser-extensions)
-    - [More Resources](#more-resources)
+- [Cloud Storage](#cloud-storage)
+- [Email Providers](#email-providers)
+- [Email Clients](#email-clients)
+- [Operating Systems](#operating-systems)
+- [Search Engines](#search-engines)
+- [Web Browsers](#web-browsers)
+- [Password Managers](#password-managers)
+- [Browser Extensions](#browser-extensions)
+- [More Resources](#more-resources)
 
 ### Cloud Storage:
 - [Sync.com](https://www.sync.com/)
