@@ -147,12 +147,12 @@ See Also:
 
 ### Show HN
 - [ieddit](https://ieddit.com/)
-- [Discover the hidden secrets in privacy policies | Guard | Guard](https://useguard.com/)
-- [Stack - Save and explore books and book lists.](https://stack.app/)
+- [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
+- [Stack](https://stack.app/) - Save and explore books and book lists.
 - [Yack](https://yack.io/)
-- [Divjoy - The React Codebase Generator](https://divjoy.com/)
+- [Divjoy](https://divjoy.com/) - The React Codebase Generator.
 - [Project Naptha](https://projectnaptha.com/)
-- [free anonymous technical interview practice | interviewing.io](https://interviewing.io/)
+- [interviewing.io](https://interviewing.io/) - free anonymous technical interview practice.
 
 ---
 
@@ -189,17 +189,12 @@ See Also:
     - [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
     - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS `closed-source` `paid`
 
-- GitHub/
-    - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
-    - [LisaDziuba/Awesome-Design-Tools ](https://github.com/LisaDziuba/Awesome-Design-Tools)
-    - [mayfrost/guides](https://github.com/mayfrost/guides) - Alternatives to Bloatware
-    - [GitHub Explore](https://github.com/explore)
-
 - Sites/
     - [GNU Recommendations](https://www.gnu.org/software/free-software-for-education.html)
     - [Free Software Foundation](https://www.fsf.org/)
     - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Main_Page)
     - [opensource.com](https://opensource.com/alternatives)
+    - [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
     - [Prototypr.io](https://www.prototypr.io/tools/)
     - [SourceForge](https://sourceforge.net/)
     - [AlternativeTo](https://alternativeto.net/)

@@ -143,13 +143,7 @@ Roadmap to Web Development:
         - [Full Stack Python](https://www.fullstackpython.com/) (GitHub - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com))
 
     - GitHub/
-        - [karan/Projects](https://github.com/karan/Projects)
-        - [keon/algorithms](https://github.com/keon/algorithms)
-        - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-        - [vinta/awesome-python](https://github.com/vinta/awesome-python) (Website - [Awesome Python]())
-        - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
-        - [mahmoud/awesome-python-applications](awesome.python.applications.github)
-        - [geekcomputers/Python](https://github.com/geekcomputers/Python)
+        See [github-gitlab-stars.md/python](github-gitlab-stars.md/#python)
 
     - YouTube/
         - [Corey Schafer](https://www.youtube.com/user/schafer5) ([GitHub](https://github.com/CoreyMSchafer))
@@ -287,10 +281,6 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [tuts+](https://tutsplus.com/)
 
 - GitHub/
-    - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-    - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-    - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-    - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
-    - [jnv/lists](https://github.com/jnv/lists)
+    - 
 
 - YouTube/

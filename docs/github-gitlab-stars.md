@@ -9,46 +9,51 @@
 ---
 
 ### GitHub Organizations
-- [GitHub · GitHub](https://github.com/github)
-- [Mozilla · GitHub](https://github.com/mozilla)
-- [The Rust Programming Language · GitHub](https://github.com/rust-lang)
-- [ProtonMail · GitHub](https://github.com/ProtonMail)
-- [ProtonVPN · GitHub](https://github.com/ProtonVPN)
-- [JetBrains · GitHub](https://github.com/jetbrains)
-- [Bitcoin · GitHub](https://github.com/bitcoin)
-- [ethereum · GitHub](https://github.com/ethereum)
-- [DuckDuckGo · GitHub](https://github.com/duckduckgo)
-- [Automattic · GitHub](https://github.com/Automattic)
-- [Nextcloud · GitHub](https://github.com/nextcloud)
-- [ownCloud · GitHub](https://github.com/owncloud)
-- [WebAssembly · GitHub](https://github.com/webassembly)
-- [Bitwarden · GitHub](https://github.com/bitwarden)
-- [Facebook · GitHub](https://github.com/facebook)
-- [Microsoft · GitHub](https://github.com/microsoft)
-- [Google · GitHub](https://github.com/google)
-- [Keybase · GitHub](https://github.com/keybase)
-- [Shopify · GitHub](https://github.com/Shopify)
-- [Tutao GmbH · GitHub](https://github.com/tutao)
-- [Python · GitHub](https://github.com/python)
-- [Linode · GitHub](https://github.com/linode/)
-- [Postman Inc. · GitHub](https://github.com/postmanlabs)
-- [Netlify · GitHub](https://github.com/netlify)
-- [Arduino · GitHub](https://github.com/arduino)
-- [edX · GitHub](https://github.com/edx)
-- [tmux-plugins · GitHub](https://github.com/tmux-plugins)
-- [Standard Notes · GitHub](https://github.com/standardnotes)
-- [React Training · GitHub](https://github.com/ReactTraining)
-- [shadowsocks · GitHub](https://github.com/shadowsocks)
-- [thoughtbot · GitHub](https://github.com/thoughtbot)
-- [Taiga.io · GitHub](https://github.com/taigaio/)
-- [Sentry · GitHub](https://github.com/getsentry/)
-- [Mattermost · GitHub](https://github.com/mattermost)
-- [SeleniumHQ · GitHub](https://github.com/SeleniumHQ)
-- [Real Python · GitHub](https://github.com/realpython)
-- [You Don't Need · GitHub](https://github.com/you-dont-need)
-- [docopt · GitHub](https://github.com/docopt)
-- [StylishThemes · GitHub](https://github.com/StylishThemes)
-- [Foundation · GitHub](https://github.com/foundation)
+- [GitHub](https://github.com/github)
+- [Mozilla](https://github.com/mozilla)
+- [The Rust Programming Language](https://github.com/rust-lang)
+- [ProtonMail](https://github.com/ProtonMail)
+- [ProtonVPN](https://github.com/ProtonVPN)
+- [JetBrains](https://github.com/jetbrains)
+- [Bitcoin](https://github.com/bitcoin)
+- [ethereum](https://github.com/ethereum)
+- [DuckDuckGo](https://github.com/duckduckgo)
+- [pytorch](https://github.com/pytorch)
+- [Automattic](https://github.com/Automattic)
+- [Nextcloud](https://github.com/nextcloud)
+- [ownCloud](https://github.com/owncloud)
+- [WebAssembly](https://github.com/webassembly)
+- [Bitwarden](https://github.com/bitwarden)
+- [QISKit](https://github.com/QISKit)
+- [Facebook](https://github.com/facebook)
+- [Microsoft](https://github.com/microsoft)
+- [Google](https://github.com/google)
+- [GoogleChrome](https://github.com/GoogleChrome)
+- [Keybase](https://github.com/keybase)
+- [Shopify](https://github.com/Shopify)
+- [Tutao GmbH](https://github.com/tutao)
+- [Python](https://github.com/python)
+- [h5bp](https://github.com/h5bp)
+- [Linode](https://github.com/linode/)
+- [Postman Inc.](https://github.com/postmanlabs)
+- [Netlify](https://github.com/netlify)
+- [Arduino](https://github.com/arduino)
+- [edX](https://github.com/edx)
+- [tmux-plugins](https://github.com/tmux-plugins)
+- [Standard Notes](https://github.com/standardnotes)
+- [React Training](https://github.com/ReactTraining)
+- [shadowsocks](https://github.com/shadowsocks)
+- [thoughtbot](https://github.com/thoughtbot)
+- [Taiga.io](https://github.com/taigaio/)
+- [Sentry](https://github.com/getsentry/)
+- [Mattermost](https://github.com/mattermost)
+- [SeleniumHQ](https://github.com/SeleniumHQ)
+- [Real Python](https://github.com/realpython)
+- [You Don't Need](https://github.com/you-dont-need)
+- [docopt](https://github.com/docopt)
+- [StylishThemes](https://github.com/StylishThemes)
+- [Foundation](https://github.com/foundation)
+- [Oxide Computer Company](https://github.com/oxidecomputer)
 
 ---
 
@@ -142,6 +147,7 @@
 - Penetration Testing
   - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
   - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet.
+  - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 
 - Decentralization
   - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
@@ -173,6 +179,7 @@
   - [GitHub Explore](https://github.com/explore)
   - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
   - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere.
+  - [30-seconds/30_seconds_of_knowledge](https://github.com/30-seconds/30_seconds_of_knowledge)Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
   - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
   - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming.
   - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -408,25 +415,28 @@
 
 - Python
   - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+    - [axnsan12/drf-yasg)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
+    - [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS.
+    - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
+    - [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
   - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+  - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
   - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
   - [kennethreitz/requests](https://github.com/kennethreitz/requests) - - A simple, yet elegant HTTP library.
+  - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™.
   - [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
   - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
   - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
   - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile.
   - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - A pure Python interface for the Telegram Bot API.
   - [google/python-fire](https://github.com/google/python-fire/) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-  - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
+  - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.  
   - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
   - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
-  - [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS.
-  - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
   - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
   - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
-  - [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!.
-  - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!.
   - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
+  - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 
 - HTMl/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
@@ -451,7 +461,9 @@
   - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
   - [lerna/lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
   - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
-
+  - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
+  - [googlechrome/workbox](https://github.com/googlechrome/workbox) - JavaScript libraries for Progressive Web Apps.
+  
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
   - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
@@ -464,6 +476,7 @@
   - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++.
   - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API.
   - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's C++ differential privacy library.
+  - [Microsoft/vcpkg](https://github.com/Microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS.
 
 - Go
   - [golang/go](https://github.com/golang/go) - The Go programming language.
@@ -480,6 +493,9 @@
 
 - Scala
   - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more).
+
+- C
+  - [google/brotli](https://github.com/google/brotli) - Brotli compression format.
 
 - Source Control
   - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -513,20 +529,21 @@
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
   - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
   - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+    - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+    - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+    - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
+    - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components.
+    - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises.
+    - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭.
+    - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10.
+    - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
+    - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch.
   - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-  - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library.
-  - [infernojs/inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
   - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform.
   - [emberjs/ember.js/](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
   - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps.
-  - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-  - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-  - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
-  - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises.
-  - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭.
-  - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10.
-  - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
-  - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch.
+  - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library.
+  - [infernojs/inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
   - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅.
 
 - Back-End JavaScript Frameworks/CMSs
@@ -539,6 +556,7 @@
   - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser.
   - [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
   - [pugjs/pug](https://github.com/pugjs/pug) – robust, elegant, feature rich template engine for Node.js.
+  - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 - Android
   - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment.
@@ -551,9 +569,9 @@
   - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists.
 
 - Mac/iOS
+  - [Homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
   - [MobileOrg/mobileorg](https://github.com/MobileOrg/mobileorg) - MobileOrg iPhone App.
-  - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux).
-
+  
 - Documentation Browsers
   - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash.
   - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets.
@@ -561,6 +579,7 @@
   - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org.
 
 - Markdown Editors/Parsers
+  - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
   - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers.
   - [marktext/marktext](https://github.com/marktext/marktext) - A simple and elegant markdown editor.
   - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
@@ -596,9 +615,10 @@
   - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
   - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?.
   - [zeit/next.js](https://github.com/zeit/next.js) - The React Framework.
-  - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby.
+  - [jekyll/jekyll](https://github.com/jekyll/jekyll) - Jekyll is a blog-aware static site generator in Ruby.
+  - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
   - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites
-  - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
+  - [react-static/react-static](https://github.com/react-static/react-static) - A progressive static site generator for React.
 
 - Application Development
   - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
@@ -660,6 +680,7 @@
   - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative.
 
 - Windows Stuff
+  - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
   - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host - all in the same place!.
   - [chocolatey/choco](https://github.com/chocolatey/choco) - The package manager for Windows.
   - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
@@ -732,6 +753,7 @@
   - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64.
 
 - GitHub deprecated
+  - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework.
   - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app.
   - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal. See Also [ajak/tuir](https://gitlab.com/ajak/tuir).
   - [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
