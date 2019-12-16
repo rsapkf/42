@@ -1,11 +1,5 @@
 # Cubing and Puzzles
 
-## Table of Contents:
-- [Rubik's Cube](#rubiks-cube)
-- [Other](#other)
-
----
-
 ## Rubik's Cube:
 - Sites/
 	- [JPerm.net](https://jperm.net)
@@ -15,10 +9,5 @@
 
 - YouTube/
     - [J Perm](https://www.youtube.com/channel/UCqTVfT9JQqhA6_Hi_h_h97Q)
-
----
-
-## Other 
-- YouTube/
     - [Scam Nation](https://www.youtube.com/channel/UCRd9JHiQvqwT8O4d0QGI9jQ)
-    - [Chris Ramsay](https://www.youtube.com/channel/UCrPUg54jUy1T_wII9jgdRbg)
+    - [Chris Ramsay](https://www.youtube.com/channel/UCrPUg54jUy1T_wII9jgdRbg)    

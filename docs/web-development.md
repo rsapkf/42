@@ -141,6 +141,9 @@ Roadmap to Web Development:
         - [Python Discord](https://pythondiscord.com/)
         - [Chris Albon's Python Data Science Notes](https://chrisalbon.com/)
         - [Full Stack Python](https://www.fullstackpython.com/) (GitHub - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com))
+        - [William Vincent's Blog](https://wsvincent.com/)
+        - [Ned Batchelder's Blog](https://nedbatchelder.com/)
+        - [Trey Hunner's Blog](https://treyhunner.com/)
 
     - GitHub/
         See [github-gitlab-stars.md/python](github-gitlab-stars.md/#python)
@@ -279,8 +282,5 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
     - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
     - [tuts+](https://tutsplus.com/)
-
-- GitHub/
-    - 
-
-- YouTube/
+    - [Twilio Tutorials](https://www.twilio.com/docs/tutorials)
+    - [Pusher Developer Tutorials](https://pusher.com/tutorials)

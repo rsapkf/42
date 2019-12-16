@@ -54,6 +54,8 @@
 - [StylishThemes](https://github.com/StylishThemes)
 - [Foundation](https://github.com/foundation)
 - [Oxide Computer Company](https://github.com/oxidecomputer)
+- [Auth0](https://github.com/auth0)
+- [Zalando SE](https://github.com/zalando)
 
 ---
 
@@ -436,6 +438,7 @@
   - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
   - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
   - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
+  - [sunainapai/makesite](https://github.com/sunainapai/makesite) -  Simple, lightweight, and magic-free static site/blog generator for Python coders.
   - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 
 - HTMl/CSS
@@ -663,6 +666,7 @@
   - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
   
 - APIs
+  - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
   - [phalt/swapi](https://github.com/phalt/swapi) - The Star Wars API.
   - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 
@@ -696,6 +700,7 @@
   - [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups.
   - [frab/frab](https://github.com/frab/frab) - conference management system.
   - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Opensource alternative to Intercom, Drift, Zendesk, FreshChat.
+  - [sebst/pythonic-news](https://github.com/sebst/pythonic-news) - A Hacker News lookalike written in Python/Django, powering news.python.sc.
 
 - General
   - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
