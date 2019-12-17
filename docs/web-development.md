@@ -84,6 +84,7 @@ Roadmap to Web Development:
         - [The Modern JavaScript Tutorial](https://javascript.info/)
         - [Eloquent JavaScript](https://eloquentjavascript.net/)
         - [JavaScript30](https://www.javascript30.com)(GitHub - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30))
+        - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 
     - GitHub/
         - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) (Website - [The Modern JavaScript Tutorial](https://javascript.info/))
@@ -104,7 +105,9 @@ Roadmap to Web Development:
 
 - #### HTML/CSS:
     - Sites/
-        - [What The Flexbox](https://flexbox.io/) - a set of 20 free videos to learn CSS flexbox layout by [Wes Bos](https://twitter.com/wesbos). Also check his [command line power user](https://commandlinepoweruser.com/) videos.
+        - [HTML Reference](https://htmlreference.io/) - A free guide to HTML.
+        - [CSS Reference](https://cssreference.io/) - A free visual guide to CSS.
+        - [Marksheet](https://marksheet.io/) - A free HTML and CSS Tutorial.        - [What The Flexbox](https://flexbox.io/) - a set of 20 free videos to learn CSS flexbox layout by [Wes Bos](https://twitter.com/wesbos). Also check his [command line power user](https://commandlinepoweruser.com/) videos.
         - [CSSGrid.io](https://cssgrid.io/) - a set of 20 free videos to learn CSS grid layout by [Wes Bos](https://twitter.com/wesbos).
         - [CSS-TRICKS](https://css-tricks.com/)
         - [Grid by Example](https://gridbyexample.com/).
@@ -282,5 +285,6 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
     - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
     - [tuts+](https://tutsplus.com/)
+    - [The Twelve-Factor App](https://12factor.net/)
     - [Twilio Tutorials](https://www.twilio.com/docs/tutorials)
     - [Pusher Developer Tutorials](https://pusher.com/tutorials)

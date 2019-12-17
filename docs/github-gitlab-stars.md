@@ -9,53 +9,54 @@
 ---
 
 ### GitHub Organizations
-- [GitHub](https://github.com/github)
-- [Mozilla](https://github.com/mozilla)
+- [GitHub](https://github.com/github) - How people build software.
+- [Mozilla](https://github.com/mozilla) - This technology could fall into the right hands.
 - [The Rust Programming Language](https://github.com/rust-lang)
 - [ProtonMail](https://github.com/ProtonMail)
 - [ProtonVPN](https://github.com/ProtonVPN)
-- [JetBrains](https://github.com/jetbrains)
+- [JetBrains](https://github.com/jetbrains) - JetBrains open source projects.
 - [Bitcoin](https://github.com/bitcoin)
 - [ethereum](https://github.com/ethereum)
-- [DuckDuckGo](https://github.com/duckduckgo)
+- [DuckDuckGo](https://github.com/duckduckgo) - The search engine that doesn't track you.
 - [pytorch](https://github.com/pytorch)
-- [Automattic](https://github.com/Automattic)
-- [Nextcloud](https://github.com/nextcloud)
-- [ownCloud](https://github.com/owncloud)
-- [WebAssembly](https://github.com/webassembly)
-- [Bitwarden](https://github.com/bitwarden)
-- [QISKit](https://github.com/QISKit)
-- [Facebook](https://github.com/facebook)
-- [Microsoft](https://github.com/microsoft)
-- [Google](https://github.com/google)
+- [Django](https://github.com/django)
+- [Automattic](https://github.com/Automattic) - We are passionate about making the web a better place.
+- [Nextcloud](https://github.com/nextcloud) - A safe home for all your data – community-driven, free & open source.
+- [ownCloud](https://github.com/owncloud) - A safe home for all your data.
+- [WebAssembly](https://github.com/webassembly) - Development of WebAssembly and associated infrastructure.
+- [Bitwarden](https://github.com/bitwarden) - Open source password management solutions for individuals, teams, and business organizations.
+- [QISKit](https://github.com/QISKit) - An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
+- [Facebook](https://github.com/facebook) - We are working to build community through open source technology. NB: members must have two-factor auth.
+- [Microsoft](https://github.com/microsoft) - Open source, from Microsoft with love.
+- [Google](https://github.com/google) - Google ❤️ Open Source.
 - [GoogleChrome](https://github.com/GoogleChrome)
-- [Keybase](https://github.com/keybase)
+- [Keybase](https://github.com/keybase) - Crypto for everyone!
 - [Shopify](https://github.com/Shopify)
 - [Tutao GmbH](https://github.com/tutao)
-- [Python](https://github.com/python)
+- [Python](https://github.com/python) - Repositories related to the Python Programming language.
 - [h5bp](https://github.com/h5bp)
 - [Linode](https://github.com/linode/)
 - [Postman Inc.](https://github.com/postmanlabs)
-- [Netlify](https://github.com/netlify)
+- [Netlify](https://github.com/netlify) - Netlify builds, deploys and hosts your front-end.
 - [Arduino](https://github.com/arduino)
-- [edX](https://github.com/edx)
+- [edX](https://github.com/edx) - The Open edX platform is open-source code that powers http://edx.org.
 - [tmux-plugins](https://github.com/tmux-plugins)
-- [Standard Notes](https://github.com/standardnotes)
-- [React Training](https://github.com/ReactTraining)
-- [shadowsocks](https://github.com/shadowsocks)
-- [thoughtbot](https://github.com/thoughtbot)
-- [Taiga.io](https://github.com/taigaio/)
-- [Sentry](https://github.com/getsentry/)
-- [Mattermost](https://github.com/mattermost)
-- [SeleniumHQ](https://github.com/SeleniumHQ)
-- [Real Python](https://github.com/realpython)
-- [You Don't Need](https://github.com/you-dont-need)
+- [Standard Notes](https://github.com/standardnotes) - An end-to-end encrypted note-taking app.
+- [React Training](https://github.com/ReactTraining) - High-quality open source software from React Training.
+- [shadowsocks](https://github.com/shadowsocks) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [thoughtbot](https://github.com/thoughtbot) - We work with organizations of all sizes to design, develop, and grow their web and mobile products.
+- [Taiga.io](https://github.com/taigaio/) - Your Agile, Free and Open Source Project Management Tool.
+- [Sentry](https://github.com/getsentry/) - Real-time crash reporting for your web apps, mobile apps, and games.
+- [Mattermost](https://github.com/mattermost) - All team communication in one place, searchable and accessible anywhere. 
+- [SeleniumHQ](https://github.com/SeleniumHQ) - Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
+- [Real Python](https://github.com/realpython) - Python developers resource center: Python news, tutorials, code examples, snippets, articles, and more.
+- [You Don't Need](https://github.com/you-dont-need) - People choose popular projects, often not because it applies to their problems.
 - [docopt](https://github.com/docopt)
 - [StylishThemes](https://github.com/StylishThemes)
-- [Foundation](https://github.com/foundation)
-- [Oxide Computer Company](https://github.com/oxidecomputer)
+- [Foundation](https://github.com/foundation) - The most advanced responsive front-end framework in the world.
+- [Oxide Computer Company](https://github.com/oxidecomputer) - Hyperscaler infrastructure for the rest of us.
 - [Auth0](https://github.com/auth0)
-- [Zalando SE](https://github.com/zalando)
+- [Zalando SE](https://github.com/zalando) - The org page for Zalando, Europe's leading online fashion platform.
 
 ---
 
@@ -207,6 +208,7 @@
   - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
   - [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
   - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from [here](http://www.pouet.net/topic.php?which=10882&page=1).
+  - [heroku/12factor](https://github.com/heroku/12factor) - 12factor.net.
 
 ---
 
@@ -417,11 +419,14 @@
 
 - Python
   - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+    - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
     - [axnsan12/drf-yasg)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
     - [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS.
     - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
+    - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
     - [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
   - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+  - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
   - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
   - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
   - [kennethreitz/requests](https://github.com/kennethreitz/requests) - - A simple, yet elegant HTTP library.
@@ -437,6 +442,7 @@
   - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
   - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
   - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
+  - [jarun/ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
   - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
   - [sunainapai/makesite](https://github.com/sunainapai/makesite) -  Simple, lightweight, and magic-free static site/blog generator for Python coders.
   - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
@@ -474,6 +480,7 @@
   - [remacs/remacs](https://github.com/remacs/remacs) - Rust 💜 Emacs.
   - [bayard-search/bayard](https://github.com/bayard-search/bayard) - Bayard is a full-text search and indexing server written in Rust.
   - [samuela/rustybox)](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust.
+  - [dabreegster/abstreet](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 
 - C++
   - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++.
@@ -506,6 +513,7 @@
   - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository.
   - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
   - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids.
+  - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
   - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - Dark GitHub stylew.
   - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project gitignore.io.
   - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
@@ -518,9 +526,10 @@
 - CSS Frameworks
   - [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer.
   - [pure-css/pure](https://github.com/pure-css/pure/) - A set of small, responsive CSS modules that you can use in every web project.
-  - [daneden/animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+  - [daneden/animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
   - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
   - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets.
+  - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
   - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design.
   - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
   - [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -764,6 +773,7 @@
   - [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
 
 - Show HN
+  - [loadzero/si78c](https://github.com/loadzero/si78c) - si78c is a memory accurate reimplementation of Space Invaders in C.
   - [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network.
   - [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume) - Web-based Command Line Resume.
   - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
