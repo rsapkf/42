@@ -17,7 +17,7 @@
     - [txti](http://txti.es/) - Fast web pages for everybody
     - [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
     - [oldweb.today](http://oldweb.today/)
-    - [SWAPI - The Star Wars API](https://swapi.co/)
+    - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
     - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.com/)
 
 - YouTube/

@@ -74,6 +74,7 @@
 - #### VSCode:
 	- Sites/
 		- [VSCode Docs](https://docs.microsoft.com/en-us/visualstudio/)
+    See Also [VSCodium](https://vscodium.com/)
 
 - #### Atom:
 	- Sites/

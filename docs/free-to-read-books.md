@@ -27,5 +27,6 @@
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) - Tangshun Tay 
 - [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Sammy Pesse
 - [Adopting Erlang](https://adoptingerlang.org/) - Tristan Sloughter, Fred Hebert, Evan Vigil-McClanahan
+- [Essential Image Optimization](https://images.guide/) - Addy Osmani
 
 See Also [ebooks-and-research-papers.md](ebooks-and-research-papers.md)

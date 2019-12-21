@@ -33,9 +33,12 @@
 - [Keybase](https://github.com/keybase) - Crypto for everyone!
 - [Shopify](https://github.com/Shopify)
 - [Tutao GmbH](https://github.com/tutao)
+- [Spring](https://github.com/spring-projects)
 - [Python](https://github.com/python) - Repositories related to the Python Programming language.
 - [h5bp](https://github.com/h5bp)
-- [Linode](https://github.com/linode/)
+- [Linode](https://github.com/linode)
+- [Elastic](https://github.com/elastic)
+- [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
 - [Postman Inc.](https://github.com/postmanlabs)
 - [Netlify](https://github.com/netlify) - Netlify builds, deploys and hosts your front-end.
 - [Arduino](https://github.com/arduino)
@@ -91,7 +94,7 @@
   - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
 - HTML/CSS
-  - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that _could_ go in the head of your document.
+  - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that _could_ go in the head of your document.
   - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
   - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - "Short CSS code snippets for all your development needs.
 
@@ -196,6 +199,7 @@
   - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
   - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.
   - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
+  - [GoogleChrome/essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook images.guide.
   - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅.
   - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!.
   - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -243,8 +247,10 @@
     - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
 
   - GUI Editors
-    - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor.
+    - [atom/atom](https://github.com/atom/atom) - The hackable text editor.
     - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+    - [Microsoft/vscode](https://github.com/Microsoft/vscode) - Visual Studio Code.
+    - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing.
 
   - File Managers
     - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console.
@@ -425,6 +431,15 @@
     - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
     - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
     - [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
+    - [SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
+    - [niwinz/django-redis](https://github.com/niwinz/django-redis) - Full featured redis cache backend for Django.
+    - [Bouke/django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
+    - [dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen page.
+    - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+    - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
+    - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+    - [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
+    - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
   - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
   - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
   - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
@@ -449,6 +464,7 @@
 
 - HTMl/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
+  - [metafizzy/flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable carousels.
 
 - JavaScript
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
@@ -472,6 +488,7 @@
   - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
   - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
   - [googlechrome/workbox](https://github.com/googlechrome/workbox) - JavaScript libraries for Progressive Web Apps.
+  - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - Automatically add next page.
   
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -501,10 +518,16 @@
   - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language.
   - [vapor/vapor](https://github.com/vapor/vapor) - A server-side Swift web framework.
 
+- Java
+  - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot.
+  - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework.
+  - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+
 - Scala
   - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more).
 
 - C
+  - [antirez/redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
   - [google/brotli](https://github.com/google/brotli) - Brotli compression format.
 
 - Source Control
@@ -521,7 +544,9 @@
   - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit/) - Ah shhgit! Find GitHub secrets in real time.
   - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
   - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
-  - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer.
+  - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - free and open-source interactive source explorer.
+  - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - GitHub Repository Card for Every Web Site.
+  - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
 
 - CSS Frameworks
   - [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer.
@@ -666,6 +691,7 @@
   - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 
 - Distributed Networks/Blockchain
+  - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
   - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
   - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network.
   - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
@@ -673,10 +699,12 @@
   - [omarroth/invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube.
   - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
   - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
+  - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end.
   
 - APIs
   - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
   - [phalt/swapi](https://github.com/phalt/swapi) - The Star Wars API.
+  - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
   - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 
 - Databases
@@ -729,7 +757,8 @@
   - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free node based Workflow Automation Tool. Easily automate tasks across different services.
   - [gravitational/teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
   - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-  - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹.
+  - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+  - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications.
   - [playframework/playframework](https://github.com/playframework/playframework) - Play Framework.
   - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - The #1 free and open source CDN built to make life easier for developers.
   - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.

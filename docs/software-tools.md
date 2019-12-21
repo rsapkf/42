@@ -166,6 +166,7 @@ See Also:
     - [Termux](https://wiki.termux.com/wiki/Main_Page)
     - [Pidgin](https://pidgin.im/)
     - [GeoGebra](https://www.geogebra.org/)
+    - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
     - [Syncthing](https://syncthing.net/)
     - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - A collaboration and documentation platform
     - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows `closed-source`

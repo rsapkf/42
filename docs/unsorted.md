@@ -1,13 +1,14 @@
 ### Extra Books/Courses
-- [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
-- [Another Book on Data Science](https://www.anotherbookondatascience.com/)
-- [Producing Open Source Software](https://producingoss.com/en/index.html)
-- [LinuxCommand.org](http://www.linuxcommand.org/index.php) - Learn the Linux command line. Write shell scripts.
-- [Distributed Systems](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
+- [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read) - Tony Narlock
+- [Another Book on Data Science](https://www.anotherbookondatascience.com/) - Nailong Zhang
+- [Producing Open Source Software](https://producingoss.com/en/index.html) - Karl Fogel
+- [LinuxCommand.org](http://www.linuxcommand.org/index.php) - William Shotts
+- [Distributed Systems](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/) - Maarten van Steen
+- [yet another insignificant Programming Notes](https://www.ntu.edu.sg/home/ehchua/programming/) - Chua Hock Chuan
+- [Butterick's Practical Typography](https://practicaltypography.com/) - Matthew Butterick
 - [School of AI](https://www.theschool.ai/)
-- [yet another insignificant Programming Notes](https://www.ntu.edu.sg/home/ehchua/programming/)
 - [FunctionalCS](https://functionalcs.github.io/curriculum/) - A Self-Learning, Modern Computer Science Curriculum.
-- GDrive Reddit Guy
+- GDrive Reddit Guy(got these links from a Reddit comment)
   - [Computer Science and Programming - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pWVBFX0hqTzA0dUU)
   - [Mathematics and Science - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pMlRwbC11MjZRYk0)
   - [Philosophy and History of Science and Mathematics and Pedagody - Google Drive](https://drive.google.com/drive/folders/1l4hjiSgO1hTbaQjt9IG1wxQxNi7JtjYE)

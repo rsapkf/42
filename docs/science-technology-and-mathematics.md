@@ -244,6 +244,7 @@
       - [Bjarne Stroustrup's Homepage](http://www.stroustrup.com/index.html)
       - [Stephen Wolfram: Official Website](https://www.stephenwolfram.com/)
       - [Sindre Sorhus](https://sindresorhus.com/)
+      - [The View from Aristeia- Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
       - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
       - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
