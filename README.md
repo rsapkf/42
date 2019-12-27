@@ -4,7 +4,7 @@ This is an ongoing personal collection of over 2000+ sites and resources that I 
 
 mdBook version of the repository: https://rsapkf.github.io/goodies/
 
-GitBook version: https://goodies.gitbook.io/goodies/
+GitBook: https://goodies.gitbook.io/goodies/
 
 ### Table of Contents
 

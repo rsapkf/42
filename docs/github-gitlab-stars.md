@@ -19,6 +19,7 @@
 - [ethereum](https://github.com/ethereum)
 - [DuckDuckGo](https://github.com/duckduckgo) - The search engine that doesn't track you.
 - [pytorch](https://github.com/pytorch)
+- [GraphQL](https://github.com/graphql)
 - [Django](https://github.com/django)
 - [Automattic](https://github.com/Automattic) - We are passionate about making the web a better place.
 - [Nextcloud](https://github.com/nextcloud) - A safe home for all your data – community-driven, free & open source.
@@ -60,6 +61,7 @@
 - [Oxide Computer Company](https://github.com/oxidecomputer) - Hyperscaler infrastructure for the rest of us.
 - [Auth0](https://github.com/auth0)
 - [Zalando SE](https://github.com/zalando) - The org page for Zalando, Europe's leading online fashion platform.
+- [CreateJS](https://github.com/CreateJS) - A suite of open source libraries and tools for building rich interactive content on open web technologies.
 
 ---
 
@@ -166,9 +168,10 @@
 
 - Interviewing
   - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-  - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
+  - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
   - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
   - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
+  - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 
 - Mac/iOS
   - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
@@ -225,8 +228,9 @@
 
   - Window Managers
     - [i3/i3](https://github.com/i3/i3) - A tiling window manager.
-    - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker.
-    - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3).
+      - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3).
+      - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker.
+      - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text.
     - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning.
     - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon.
     - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager.
@@ -465,6 +469,10 @@
 - HTMl/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
   - [metafizzy/flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable carousels.
+  - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+  - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations.
+  - [matthieua/WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page.
+  - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 
 - JavaScript
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
@@ -489,6 +497,11 @@
   - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
   - [googlechrome/workbox](https://github.com/googlechrome/workbox) - JavaScript libraries for Progressive Web Apps.
   - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - Automatically add next page.
+  - [mishoo/UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit.
+  - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
+  - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
+  - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+  - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
   
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -498,6 +511,7 @@
   - [bayard-search/bayard](https://github.com/bayard-search/bayard) - Bayard is a full-text search and indexing server written in Rust.
   - [samuela/rustybox)](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust.
   - [dabreegster/abstreet](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+  - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust.
 
 - C++
   - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++.
@@ -576,6 +590,8 @@
     - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
     - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch.
   - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+    - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+    - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
   - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform.
   - [emberjs/ember.js/](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
   - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps.
@@ -588,6 +604,7 @@
   - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript.
   - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
   - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+    - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
   - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:.
   - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
   - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser.
@@ -659,6 +676,7 @@
 
 - Application Development
   - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+    - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
   - [ionic-team/ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉.
   - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
@@ -726,6 +744,7 @@
   - [chocolatey/choco](https://github.com/chocolatey/choco) - The package manager for Windows.
   - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
   - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+  - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows.
 
 - Forums/Sites
   - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion.
@@ -794,6 +813,11 @@
   - [Gabriel439/simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file.
   - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell.
   - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64.
+  - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+  - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
+  - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
+  - [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more.
+  - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
 - GitHub deprecated
   - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework.
