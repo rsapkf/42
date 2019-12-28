@@ -231,8 +231,10 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ### Static Site Generators:
 - #### Sites/ 
-    - [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators
-    - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites
+    - [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators.
+    - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
+    - [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
+    - [Forestry](https://forestry.io/) - A static CMS that commits.
         
 ---
 

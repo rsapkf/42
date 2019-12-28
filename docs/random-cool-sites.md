@@ -18,6 +18,7 @@
     - [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
     - [oldweb.today](http://oldweb.today/)
     - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+    - [testmysite.io](https://testmysite.io/) - Testmysite.io rates your site based on its initial global load times and its security settings.
     - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.com/)
 
 - YouTube/

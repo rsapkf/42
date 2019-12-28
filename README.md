@@ -4,7 +4,7 @@ This is an ongoing personal collection of over 2000+ sites and resources that I 
 
 mdBook version of the repository: https://rsapkf.github.io/goodies/
 
-GitBook: https://goodies.gitbook.io/goodies/
+GitBook: https://goodies.gitbook.io/
 
 ### Table of Contents
 
@@ -19,8 +19,8 @@ GitBook: https://goodies.gitbook.io/goodies/
 - [Privacy Tools](docs/privacy-tools.md)
 - [GitHub/GitLab Stars](docs/github-gitlab-stars.md)
 - [Free to Read Books](docs/free-to-read-books.md)
+- [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
 - [High School](docs/high-school.md)
-<!-- [Ebooks and Research Papers](docs/ebooks-and-research-papers.md) -->
 
 Go to [docs/](https://github.com/rsapkf/goodies/blob/master/docs) subdirectory to see more unsorted/extra links.
 

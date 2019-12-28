@@ -91,7 +91,8 @@
   - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
   - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
   - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-
+  - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library.
+  
 - TypeScript
   - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
@@ -502,6 +503,7 @@
   - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
   - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
   - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
+  - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins postcss.org.
   
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -546,6 +548,7 @@
 
 - Source Control
   - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files.
   - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format.
   - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository.
   - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
@@ -589,6 +592,7 @@
     - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10.
     - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
     - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch.
+    - [preactjs/preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
   - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
     - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
     - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
@@ -611,6 +615,7 @@
   - [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
   - [pugjs/pug](https://github.com/pugjs/pug) – robust, elegant, feature rich template engine for Node.js.
   - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+  - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators.
 
 - Android
   - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment.
@@ -671,7 +676,8 @@
   - [zeit/next.js](https://github.com/zeit/next.js) - The React Framework.
   - [jekyll/jekyll](https://github.com/jekyll/jekyll) - Jekyll is a blog-aware static site generator in Ruby.
   - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-  - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites
+  - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+    - [netlify-templates/victor-hugo](https://github.com/netlify-templates/victor-hugo) - Victor Hugo is a Hugo boilerplate for creating truly epic websites!
   - [react-static/react-static](https://github.com/react-static/react-static) - A progressive static site generator for React.
 
 - Application Development
@@ -818,6 +824,7 @@
   - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
   - [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more.
   - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+  - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens gotrueapi.org.
 
 - GitHub deprecated
   - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework.
