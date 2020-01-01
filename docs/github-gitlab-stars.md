@@ -37,6 +37,7 @@
 - [Spring](https://github.com/spring-projects)
 - [Python](https://github.com/python) - Repositories related to the Python Programming language.
 - [h5bp](https://github.com/h5bp)
+- [Material UI](https://github.com/mui-org)
 - [Linode](https://github.com/linode)
 - [Elastic](https://github.com/elastic)
 - [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
@@ -430,6 +431,7 @@
 
 - Python
   - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+    - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
     - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
     - [axnsan12/drf-yasg)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
     - [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS.
@@ -445,6 +447,7 @@
     - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
     - [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
     - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
+    - [James1345/django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django rest auth.
   - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
   - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
   - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
@@ -504,6 +507,8 @@
   - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
   - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
   - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins postcss.org.
+  - [zloirock/core-js](https://github.com/zloirock/core-js) - Modular standard library for JavaScript.
+  - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript victorribeiro.com/isocity.
   
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -587,6 +592,7 @@
     - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
     - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
     - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components.
+    - [mui-org/material-ui](https://github.com/mui-org/material-ui) -  React components for faster and easier web development. Build your own design system, or start with Material Design.
     - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises.
     - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭.
     - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10.
@@ -692,6 +698,7 @@
 
 - Encryption
   - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
+  - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability. age-encryption.org.
 
 - Penetration Testing
   - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework.
@@ -837,6 +844,7 @@
   - [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network.
   - [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume) - Web-based Command Line Resume.
   - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
+  - [pakastin/frzr](https://github.com/pakastin/frzr) - Turboboosted 2 KB view library for browser & node.js. frzr.js.org.
 
 ---
 
@@ -847,3 +855,4 @@
 - [mbunkus/mkvtoolnix](https://gitlab.com/mbunkus/mkvtoolnix) - Creating and working with Matroska files.
 - [Redox OS](https://gitlab.redox-os.org/redox-os) - Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
 - [ajak/tuir](https://gitlab.com/ajak/tuir) - A TUI to view and interact with Reddit from your terminal forked from rtv.
+- [timvisee/ffsend](https://gitlab.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.

@@ -165,7 +165,8 @@ See Also:
     - [The LLVM Compiler Infrastructure Project](https://llvm.org/)
     - [Termux](https://wiki.termux.com/wiki/Main_Page)
     - [Pidgin](https://pidgin.im/)
-    - [GeoGebra](https://www.geogebra.org/)
+    - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
+    - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver.
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
     - [Syncthing](https://syncthing.net/)
     - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) - A collaboration and documentation platform

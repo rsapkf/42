@@ -103,7 +103,7 @@
     - [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
     - [Brilliant](https://brilliant.org/) `paid`
     - [Math Professor Quotes](https://mathprofessorquotes.com/) - The absurd things math professors say.
-    - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver
+    - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver.
 
 - Reddit/
     - [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
@@ -165,6 +165,7 @@
       - [Kalzumeus](https://www.kalzumeus.com/)
       - [Brett Cannon](https://snarky.ca/)
       - [Neopythonic by Guido van Rossum](https://neopythonic.blogspot.com/)
+      - [Sara Soueidan's Blog](https://www.sarasoueidan.com/)
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
@@ -174,6 +175,7 @@
       - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
       - [Netflix TechBlog](https://medium.com/netflix-techblog)
       - [Discord Blog](https://blog.discordapp.com/)
+      - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
 
     - NerdStuff:
       - [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
@@ -191,6 +193,7 @@
       - [Lobsters](https://lobste.rs/)
       - [Stack Overflow](https://stackoverflow.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
+      - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
       - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
       - [Pythonic News](https://news.python.sc/)
       - [Reddit](https://reddit.com/)
@@ -235,6 +238,7 @@
 
     - People
       - [Dennis Ritchie Home Page](https://www.bell-labs.com/usr/dmr/www/)
+      - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
       - [Fabrice Bellard's Home Page](https://bellard.org/)
       - [Paul Graham](http://paulgraham.com/)
       - [Gates Notes](http://gatesnotes.com/)
@@ -245,7 +249,6 @@
       - [Stephen Wolfram: Official Website](https://www.stephenwolfram.com/)
       - [Sindre Sorhus](https://sindresorhus.com/)
       - [The View from Aristeia- Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
-      - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
       - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
       - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)

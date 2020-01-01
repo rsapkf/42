@@ -1,7 +1,8 @@
 ## Random Cool Sites
 
 - Sites/
-    - [LKML.ORG](https://lkml.org/) - the Linux Kernel Mailing List Archive
+    - [LKML.ORG](https://lkml.org/) - the Linux Kernel Mailing List Archive.
+    - [One Page Calendar 2020](https://davebakker.io/onepagecalendar/)
     - [Faces of Open Source](http://www.facesofopensource.com/)
     - [Start Your Own ISP](https://startyourownisp.com/)
     - [Where is Starman](https://www.whereisroadster.com/)
@@ -14,12 +15,14 @@
     - [Gmail Search Operators](https://support.google.com/mail/answer/7190)
     - [Keanu Reeves is Immortal](https://www.keanuisimmortal.com/)
     - [Youglish](https://youglish.com/) - Use YouTube to improve your English pronunciation
-    - [txti](http://txti.es/) - Fast web pages for everybody
+    - [txti](http://txti.es/) - Fast web pages for everybody.
     - [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
     - [oldweb.today](http://oldweb.today/)
     - [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
     - [testmysite.io](https://testmysite.io/) - Testmysite.io rates your site based on its initial global load times and its security settings.
     - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.com/)
+    - [Git.io](https://git.io/) - Official GitHub link shortener.
+    - [Sketchysite](https://www.sketchywebsite.net/) - You can trust this.
 
 - YouTube/
     - [Lemmino](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -33,10 +36,8 @@
     - [How It Should Have Ended](https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ)
     - [bald and bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
     - [Big Think](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
-    - [Valuetainment](https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ)
     - [Wired](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw)
     - [Wisecrack](https://www.youtube.com/channel/UC6-ymYjG0SU0jUWnWh9ZzEQ)
-    - [CinemaSins](https://www.youtube.com/channel/UCYUQQgogVeQY8cMQamhHJcg)
     - [The Film Theorists](https://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q)
     - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ) - Tim Blais
     - [Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w)
@@ -49,8 +50,13 @@
     - [How to get your IP unbanned on HN.](https://news.ycombinator.com/item?id=4761102)
     - [What's the most valuable thing you can learn in an hour?](https://news.ycombinator.com/item?id=21581361)
     - [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
-    
+
+- Wikipedia Pages
+    - [SOLID](https://en.wikipedia.org/wiki/SOLID)
+ 
 - Other
+    - [Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+    - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
     - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
     - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
     - [How to speak Silicon Valley: 53 essential tech-bro terms explained | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
