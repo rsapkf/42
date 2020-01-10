@@ -4,7 +4,7 @@
     - [Project Euler](https://projecteuler.net/)
     - [Kaggle](https://kaggle.com/)
     - [HackerRank](https://www.hackerrank.com/)
-    - [Ckeckio](https://checkio.org)
+    - [Checkio](https://checkio.org)
     - [JavaScript30](https://www.javascript30.com)
     - [TopCoder](https://www.topcoder.com/)
     - [CodeWars](https://www.codewars.com/)

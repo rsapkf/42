@@ -1,9 +1,9 @@
 # Linux Configuration
 
-## Table of Contents
+## Contents
 - [Distros](#distros)
 - [Shell](#shell)
-- [Desktop Environments](#disktop-environments)
+- [Desktop Environments](#desktop-environments)
 - [Window Managers](#window-managers)
 - [Program Launchers](#program-launchers)
 - [Terminal Emulators](#terminal-emulators)

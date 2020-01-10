@@ -1,6 +1,6 @@
 # Text Editors and IDEs
 
-## Table of Contents
+## Contents
 - [Text Editors](#text-editors)
 	- [Text Based Editors](#text-based-editors)
 	- [Graphical Editors](#graphical-editors)

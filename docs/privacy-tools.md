@@ -1,6 +1,6 @@
 # Privacy Tools
 
-## Table of Contents:
+## Contents:
 - [Cloud Storage](#cloud-storage)
 - [Email Providers](#email-providers)
 - [Email Clients](#email-clients)
@@ -14,7 +14,8 @@
 ### Cloud Storage:
 - [Sync.com](https://www.sync.com/)
 - [pCloud](https://www.pcloud.com/)
-- [Tresorit](https://www.tresorit.com/) - End-to-End Encrypted Cloud Storage for Businesses
+- [Tresorit](https://www.tresorit.com/) - End-to-End Encrypted Cloud Storage for Businesses.
+- [SpiderOak](https://spideroak.com/) - End-to-End Encrypted, No Knowledge Privacy.
 
 ---
 

@@ -6,7 +6,7 @@ mdBook version of the repository: https://rsapkf.github.io/goodies/
 
 GitBook: https://goodies.gitbook.io/
 
-### Table of Contents
+### Contents
 
 - [Web Development](docs/web-development.md)
 - [Coding Challenges](docs/coding-challenges.md)
@@ -25,5 +25,5 @@ GitBook: https://goodies.gitbook.io/
 Go to [docs/](https://github.com/rsapkf/goodies/blob/master/docs) subdirectory to see more unsorted/extra links.
 
 ### Special Thanks 💜
-- To [GitBook](https://www.gitbook.com/pricing#OpenSource) for supporting the GitBook version of project website.
+- To [GitBook](https://www.gitbook.com/pricing#OpenSource).
 

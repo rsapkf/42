@@ -96,6 +96,7 @@
     - [WolframAlpha](https://www.wolframalpha.com/)
     - [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
     - [The Pi-Search Page](https://www.angio.net/pi/)
+    - [Better Explained](https://betterexplained.com/) - Finally understand math, don't memorize it.
     - [Things to Make and Do in the Fourth Dimension](https://makeanddo4d.com/)
     - [Great Internet Mersenne Prime Search - PrimeNet](https://www.mersenne.org/)
     - [Terrence Tao's Blog](https;//terrytao.wordpress.com)
@@ -104,6 +105,10 @@
     - [Brilliant](https://brilliant.org/) `paid`
     - [Math Professor Quotes](https://mathprofessorquotes.com/) - The absurd things math professors say.
     - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver.
+    - [What's Special About This Number?](https://www2.stetson.edu/~efriedma/numbers.html) - What's Special About This Number?
+    - [Annotated version of "What's Special About This Number?"](https://oeis.org/wiki/Annotated_version_of_%22What%27s_Special_About_This_Number%3F%22_(Part_0))
+    - [The On-Line Encyclopedia of Integer Sequences(OEIS)](https://oeis.org/) - 
+    - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
 
 - Reddit/
     - [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
@@ -162,10 +167,11 @@
       - [Twilio Blog](https://www.twilio.com/blog)
       - [Coding Horror](https://blog.codinghorror.com/)
       - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
-      - [Kalzumeus](https://www.kalzumeus.com/)
+      - [Kalzumeus by Patrick McKenzie](https://www.kalzumeus.com/)
       - [Brett Cannon](https://snarky.ca/)
       - [Neopythonic by Guido van Rossum](https://neopythonic.blogspot.com/)
       - [Sara Soueidan's Blog](https://www.sarasoueidan.com/)
+      - [2ality by Dr. Axel Rauschmayer](https://2ality.com/) - JavaScript and more.
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
@@ -198,10 +204,15 @@
       - [Pythonic News](https://news.python.sc/)
       - [Reddit](https://reddit.com/)
       - [Slashdot](https://www.slashdot.org/)
+      - [Stratechery by Ben Thompson](https://stratechery.com/)
       - [dev.to](https://dev.to/)
       - [Indie Hackers](https://www.indiehackers.com/)
       - [Medium](https://medium.com/)
       - [fossjobs.net](https://www.fossjobs.net/)
+      - [Linux.com](https://www.linux.com/) - resource for open source professionals to learn about the latest in Linux and open source technology.
+      - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
+      - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
+      - [LWN.net](https://lwn.net/) - News from the source.
       - [MIT Technology Review](https://www.technologyreview.com/)
       - [Facebook Open Source ](https://opensource.facebook.com/)
       - [Venture Hacks](https://venturehacks.com/) - Advice for startups
@@ -239,17 +250,16 @@
     - People
       - [Dennis Ritchie Home Page](https://www.bell-labs.com/usr/dmr/www/)
       - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
-      - [Fabrice Bellard's Home Page](https://bellard.org/)
       - [Paul Graham](http://paulgraham.com/)
       - [Gates Notes](http://gatesnotes.com/)
       - [Eric S. Raymond's Home Page](http://www.catb.org/esr/)
       - [Richard Stallman's Personal Page](https://www.stallman.org/)
-      - [Stratechery by Ben Thompson](https://stratechery.com/)
       - [Bjarne Stroustrup's Homepage](http://www.stroustrup.com/index.html)
       - [Stephen Wolfram: Official Website](https://www.stephenwolfram.com/)
-      - [Sindre Sorhus](https://sindresorhus.com/)
       - [The View from Aristeia- Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
-      - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
       - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+      - [Fabrice Bellard's Home Page](https://bellard.org/)
+      - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
+      - [Sindre Sorhus](https://sindresorhus.com/)
       - [Kenneth Reitz](https://www.kennethreitz.org/)

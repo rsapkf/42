@@ -7,7 +7,7 @@ Roadmap to Web Development:
 
 ---
     
-## Table of Contents
+## Contents
 - [Offline Documentation](#offline-documentation)
 - [Command Line](#command-line)
 - [Git](#git)
@@ -111,6 +111,7 @@ Roadmap to Web Development:
         - [What The Flexbox](https://flexbox.io/) - a set of 20 free videos to learn CSS flexbox layout by [Wes Bos](https://twitter.com/wesbos). Also check his [command line power user](https://commandlinepoweruser.com/) videos.
         - [CSSGrid.io](https://cssgrid.io/) - a set of 20 free videos to learn CSS grid layout by [Wes Bos](https://twitter.com/wesbos).
         - [CSS-TRICKS](https://css-tricks.com/)
+        - [Mozilla Grid Playground](https://mozilladevelopers.github.io/playground/css-grid) - Learn about CSS Grid Layout and the Firefox DevTools layout panel.
         - [Grid by Example](https://gridbyexample.com/).
         - [Flexbox Froggy](https://flexboxfroggy.com/) - a simple 24 level game learn CSS flexbox.
         - [Flexbox Defense](http://www.flexboxdefense.com/) - Learn CSS Flexbox by playing a tower defense game. 
@@ -119,6 +120,7 @@ Roadmap to Web Development:
         - [All The Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
         - [STRML](https://www.strml.net/)
         - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
+        - [CSS Gradient](https://cssgradient.io/) - free tool that lets you create a gradient background for websites and technical articles.
 
     - GitHub/
         - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
@@ -235,6 +237,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
     - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
     - [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
     - [Forestry](https://forestry.io/) - A static CMS that commits.
+    - [GatsbyGuides](https://gatsbyguides.com/) - Build blazing fast web applications with Gatsby 101
         
 ---
 
@@ -285,9 +288,11 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Lorem Picsum](https://picsum.photos/)
     - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
     - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
-    - [JAMstack | JavaScript, APIs, and Markup](https://jamstack.org/)
+    - [JAMstack](https://jamstack.org/) - JavaScript, APIs, and Markup
     - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
     - [tuts+](https://tutsplus.com/)
     - [The Twelve-Factor App](https://12factor.net/)
     - [Twilio Tutorials](https://www.twilio.com/docs/tutorials)
     - [Pusher Developer Tutorials](https://pusher.com/tutorials)
+    - [Cooperpress](https://cooperpress.com/) - Weekly email newsletters to developers and software engineers.
+    - [Cool Backgrounds](https://coolbackgrounds.io/) - collection of tools to create compelling, colorful images for blogs and websites.

@@ -23,6 +23,7 @@
     - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.com/)
     - [Git.io](https://git.io/) - Official GitHub link shortener.
     - [Sketchysite](https://www.sketchywebsite.net/) - You can trust this.
+    - [Emojipedia](https://emojipedia.org/) - Emojipedia
 
 - YouTube/
     - [Lemmino](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)

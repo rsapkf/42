@@ -7,6 +7,7 @@
     - [HN Search 'books'](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=books&sort=byPopularity&type=story)
     - [OpenStax](https://openstax.org/)
     - [Archive.org](https://archive.org/)
+    - [Project Gutenberg](https://www.gutenberg.org/)
     - [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)
     - [freecomputerbooks.com](http://freecomputerbooks.com/)
     - [BookLid.org](http://en.booklid.org/)
@@ -14,7 +15,7 @@
 
 - GitHub/
     - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-    - [free-to-read-books.md](free-to-read-books.md)
+    - [./free-to-read-books.md](free-to-read-books.md)
 
 - Reddit/
     - [This](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x) r/learnmath thread.

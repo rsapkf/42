@@ -2,7 +2,7 @@
 
 For Privacy Respecting Software, see [privacy-tools.md](privacy-tools.md) 
 
-## Table of Contents
+## Contents
 - [Web Browsers](#web-browsers)
 - [Search Engines](#search-engines)
 - [Browser Extensions](#browser-extensions)

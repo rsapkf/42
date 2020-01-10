@@ -1,6 +1,6 @@
 # My GitHub/GitLab Stars
 
-## Table of Contents
+## Contents
 - [GitHub Organizations](#github-organizations)
 - [Learning](#learning)
 - [Tools](#tools)
@@ -11,16 +11,8 @@
 ### GitHub Organizations
 - [GitHub](https://github.com/github) - How people build software.
 - [Mozilla](https://github.com/mozilla) - This technology could fall into the right hands.
-- [The Rust Programming Language](https://github.com/rust-lang)
-- [ProtonMail](https://github.com/ProtonMail)
-- [ProtonVPN](https://github.com/ProtonVPN)
 - [JetBrains](https://github.com/jetbrains) - JetBrains open source projects.
-- [Bitcoin](https://github.com/bitcoin)
-- [ethereum](https://github.com/ethereum)
 - [DuckDuckGo](https://github.com/duckduckgo) - The search engine that doesn't track you.
-- [pytorch](https://github.com/pytorch)
-- [GraphQL](https://github.com/graphql)
-- [Django](https://github.com/django)
 - [Automattic](https://github.com/Automattic) - We are passionate about making the web a better place.
 - [Nextcloud](https://github.com/nextcloud) - A safe home for all your data – community-driven, free & open source.
 - [ownCloud](https://github.com/owncloud) - A safe home for all your data.
@@ -29,40 +21,48 @@
 - [QISKit](https://github.com/QISKit) - An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 - [Facebook](https://github.com/facebook) - We are working to build community through open source technology. NB: members must have two-factor auth.
 - [Microsoft](https://github.com/microsoft) - Open source, from Microsoft with love.
-- [Google](https://github.com/google) - Google ❤️ Open Source.
-- [GoogleChrome](https://github.com/GoogleChrome)
-- [Keybase](https://github.com/keybase) - Crypto for everyone!
-- [Shopify](https://github.com/Shopify)
-- [Tutao GmbH](https://github.com/tutao)
-- [Spring](https://github.com/spring-projects)
-- [Python](https://github.com/python) - Repositories related to the Python Programming language.
-- [h5bp](https://github.com/h5bp)
-- [Material UI](https://github.com/mui-org)
-- [Linode](https://github.com/linode)
-- [Elastic](https://github.com/elastic)
-- [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
-- [Postman Inc.](https://github.com/postmanlabs)
 - [Netlify](https://github.com/netlify) - Netlify builds, deploys and hosts your front-end.
-- [Arduino](https://github.com/arduino)
-- [edX](https://github.com/edx) - The Open edX platform is open-source code that powers http://edx.org.
-- [tmux-plugins](https://github.com/tmux-plugins)
+- [Google](https://github.com/google) - Google ❤️ Open Source.
+- [Keybase](https://github.com/keybase) - Crypto for everyone!
+- [Python](https://github.com/python) - Repositories related to the Python Programming language.
 - [Standard Notes](https://github.com/standardnotes) - An end-to-end encrypted note-taking app.
-- [React Training](https://github.com/ReactTraining) - High-quality open source software from React Training.
-- [shadowsocks](https://github.com/shadowsocks) - A secure socks5 proxy, designed to protect your Internet traffic.
-- [thoughtbot](https://github.com/thoughtbot) - We work with organizations of all sizes to design, develop, and grow their web and mobile products.
 - [Taiga.io](https://github.com/taigaio/) - Your Agile, Free and Open Source Project Management Tool.
 - [Sentry](https://github.com/getsentry/) - Real-time crash reporting for your web apps, mobile apps, and games.
 - [Mattermost](https://github.com/mattermost) - All team communication in one place, searchable and accessible anywhere. 
 - [SeleniumHQ](https://github.com/SeleniumHQ) - Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
+- [edX](https://github.com/edx) - The Open edX platform is open-source code that powers http://edx.org.
+- [shadowsocks](https://github.com/shadowsocks) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [The Rust Programming Language](https://github.com/rust-lang)
+- [ProtonMail](https://github.com/ProtonMail)
+- [ProtonVPN](https://github.com/ProtonVPN)
+- [Bitcoin](https://github.com/bitcoin)
+- [ethereum](https://github.com/ethereum)
+- [pytorch](https://github.com/pytorch)
+- [GraphQL](https://github.com/graphql)
+- [Django](https://github.com/django)
+- [GoogleChrome](https://github.com/GoogleChrome)
+- [Shopify](https://github.com/Shopify)
+- [Tutao GmbH](https://github.com/tutao)
+- [Spring](https://github.com/spring-projects)
+- [Material UI](https://github.com/mui-org)
+- [Linode](https://github.com/linode)
+- [Elastic](https://github.com/elastic)
+- [Postman Inc.](https://github.com/postmanlabs)
+- [Arduino](https://github.com/arduino)
+- [docopt](https://github.com/docopt)
+- [Auth0](https://github.com/auth0)
+- [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
+- [React Training](https://github.com/ReactTraining) - High-quality open source software from React Training.
+- [thoughtbot](https://github.com/thoughtbot) - We work with organizations of all sizes to design, develop, and grow their web and mobile products.
 - [Real Python](https://github.com/realpython) - Python developers resource center: Python news, tutorials, code examples, snippets, articles, and more.
 - [You Don't Need](https://github.com/you-dont-need) - People choose popular projects, often not because it applies to their problems.
-- [docopt](https://github.com/docopt)
-- [StylishThemes](https://github.com/StylishThemes)
 - [Foundation](https://github.com/foundation) - The most advanced responsive front-end framework in the world.
 - [Oxide Computer Company](https://github.com/oxidecomputer) - Hyperscaler infrastructure for the rest of us.
-- [Auth0](https://github.com/auth0)
 - [Zalando SE](https://github.com/zalando) - The org page for Zalando, Europe's leading online fashion platform.
 - [CreateJS](https://github.com/CreateJS) - A suite of open source libraries and tools for building rich interactive content on open web technologies.
+- [h5bp](https://github.com/h5bp)
+- [tmux-plugins](https://github.com/tmux-plugins)
+- [StylishThemes](https://github.com/StylishThemes)
 
 ---
 
@@ -466,6 +466,8 @@
   - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
   - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
   - [jarun/ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
+  - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) -  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
+  - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python.
   - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
   - [sunainapai/makesite](https://github.com/sunainapai/makesite) -  Simple, lightweight, and magic-free static site/blog generator for Python coders.
   - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
@@ -477,6 +479,7 @@
   - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations.
   - [matthieua/WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page.
   - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
+  - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art.
 
 - JavaScript
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
@@ -509,6 +512,8 @@
   - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins postcss.org.
   - [zloirock/core-js](https://github.com/zloirock/core-js) - Modular standard library for JavaScript.
   - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript victorribeiro.com/isocity.
+  - [facebook/reason](https://github.com/facebook/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems.
+  - [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build & document web component libraries, and then integrate them into your web projects.
   
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -832,6 +837,8 @@
   - [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more.
   - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
   - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens gotrueapi.org.
+  - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com.
+  - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
 - GitHub deprecated
   - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework.

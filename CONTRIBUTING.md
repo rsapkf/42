@@ -12,7 +12,7 @@ If you would like to improve this project by adding/suggesting edits to the cont
 
 * Only try to submit free **and quality** resources related to the topics included in the [table of contents](README.md#table-of-contents). Only submit __high quality__ paid resources with a `paid` tag at the end of the list you are adding to.
 
-* Follow this convention: `[resource](link) - a short description if necessary` and try to put highly recommended resources first.
+* Follow this convention: `[resource](link) - a short concise description` and try to put highly recommended resources first.
 
 * If you want to open a pull request for fixing typos/minor changes, make at least 5 changes. If you want to add description to links, add at least 10.
 
