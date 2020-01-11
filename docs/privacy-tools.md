@@ -88,6 +88,7 @@ See Also:
 
 ### More Resources:
 Sites/
+- [OpenStreetMap](https://www.openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
 - [Fediverse](https://fediverse.party/)
 - [Track This](https://trackthis.link) - A new kind of Incognito
 - [Restore Privacy](https://restoreprivacy.com/)

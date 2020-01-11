@@ -4,10 +4,14 @@
 - [Producing Open Source Software](https://producingoss.com/en/index.html) - Karl Fogel
 - [LinuxCommand.org](http://www.linuxcommand.org/index.php) - William Shotts
 - [Distributed Systems](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/) - Maarten van Steen
-- [yet another insignificant Programming Notes](https://www.ntu.edu.sg/home/ehchua/programming/) - Chua Hock Chuan
+- [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh.
+- [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Jonathan Tang.
+- [yet another insignificant programming notes](https://www.ntu.edu.sg/home/ehchua/programming/) - Chua Hock Chuan
 - [Butterick's Practical Typography](https://practicaltypography.com/) - Matthew Butterick
-- [School of AI](https://www.theschool.ai/)
+- [ExploringJS](https://exploringjs.com/) - JavaScript books for programmers by Dr. Axel Rauschmayer.
 - [FunctionalCS](https://functionalcs.github.io/curriculum/) - A Self-Learning, Modern Computer Science Curriculum.
+- [linux-tutorial.info](http://www.linux-tutorial.info/) - Linux Knowledge Base and Tutorial.
+- [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/) - 240+ Python Tutorials - Learn Python from Scratch.
 - GDrive Reddit Guy(got these links from a Reddit comment)
   - [Computer Science and Programming - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pWVBFX0hqTzA0dUU)
   - [Mathematics and Science - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pMlRwbC11MjZRYk0)

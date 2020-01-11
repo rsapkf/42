@@ -18,6 +18,7 @@
 - [ownCloud](https://github.com/owncloud) - A safe home for all your data.
 - [WebAssembly](https://github.com/webassembly) - Development of WebAssembly and associated infrastructure.
 - [Bitwarden](https://github.com/bitwarden) - Open source password management solutions for individuals, teams, and business organizations.
+- [Kotlin](https://github.com/kotlin) - Kotlin Tools and Libraries.
 - [QISKit](https://github.com/QISKit) - An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 - [Facebook](https://github.com/facebook) - We are working to build community through open source technology. NB: members must have two-factor auth.
 - [Microsoft](https://github.com/microsoft) - Open source, from Microsoft with love.
@@ -41,6 +42,7 @@
 - [GraphQL](https://github.com/graphql)
 - [Django](https://github.com/django)
 - [GoogleChrome](https://github.com/GoogleChrome)
+- [Xamarin](https://github.com/xamarin)
 - [Shopify](https://github.com/Shopify)
 - [Tutao GmbH](https://github.com/tutao)
 - [Spring](https://github.com/spring-projects)
@@ -102,6 +104,9 @@
   - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
   - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - "Short CSS code snippets for all your development needs.
 
+- C
+  - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey.
+
 - C++
   - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
@@ -111,12 +116,16 @@
 - Java
   - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java.
 
+- Swift
+  - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+  
 - Linux
   - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
   - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
   - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers.
-  - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+  - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
   - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
+  - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 
 - APIs
   - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines.
@@ -130,6 +139,7 @@
   - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
   - [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
   - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow 2.
+  - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) -  Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 
 - System Design
   - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -184,6 +194,7 @@
   - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here).
   - [karan/Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
   - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
+  - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 - General
   - [GitHub Search 'awesome'](https://github.com/search?q=awesome)
@@ -218,6 +229,7 @@
   - [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
   - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from [here](http://www.pouet.net/topic.php?which=10882&page=1).
   - [heroku/12factor](https://github.com/heroku/12factor) - 12factor.net.
+  - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
 
 ---
 
@@ -233,6 +245,7 @@
       - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3).
       - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker.
       - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text.
+      - [unix121/i3wm-themer](https://github.com/unix121/i3wm-themer) - My collection of Themes and scripts for i3-wm.
     - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning.
     - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon.
     - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager.
@@ -469,6 +482,8 @@
   - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) -  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
   - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python.
   - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
+  - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+  - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) -  A lightweight library for converting complex objects to and from simple Python datatypes.
   - [sunainapai/makesite](https://github.com/sunainapai/makesite) -  Simple, lightweight, and magic-free static site/blog generator for Python coders.
   - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 
@@ -514,6 +529,7 @@
   - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript victorribeiro.com/isocity.
   - [facebook/reason](https://github.com/facebook/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems.
   - [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build & document web component libraries, and then integrate them into your web projects.
+  - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) -  Most modern mobile touch slider with hardware accelerated transitions.
   
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -607,6 +623,7 @@
   - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
     - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
     - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
+    - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue, with over 40 plugins, more than 80 custom components and over 300 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
   - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform.
   - [emberjs/ember.js/](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
   - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps.
@@ -713,6 +730,8 @@
 - Machine Learning/Deep Learning Frameworks
   - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
   - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans.
+  - [Theano/Theano](https://github.com/Theano/Theano) -  Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+  - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
 
 - File Synchronization
   - [syncthing/syncthing](https://github.com/syncthing/syncthing/) - Open Source Continuous File Synchronization.
@@ -852,6 +871,7 @@
   - [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume) - Web-based Command Line Resume.
   - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
   - [pakastin/frzr](https://github.com/pakastin/frzr) - Turboboosted 2 KB view library for browser & node.js. frzr.js.org.
+  - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
 
 ---
 

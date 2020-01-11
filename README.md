@@ -6,6 +6,8 @@ mdBook version of the repository: https://rsapkf.github.io/goodies/
 
 GitBook: https://goodies.gitbook.io/
 
+---
+
 ### Contents
 
 - [Web Development](docs/web-development.md)
@@ -23,7 +25,3 @@ GitBook: https://goodies.gitbook.io/
 - [High School](docs/high-school.md)
 
 Go to [docs/](https://github.com/rsapkf/goodies/blob/master/docs) subdirectory to see more unsorted/extra links.
-
-### Special Thanks 💜
-- To [GitBook](https://www.gitbook.com/pricing#OpenSource).
-

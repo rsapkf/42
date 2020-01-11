@@ -56,11 +56,12 @@
     - [SOLID](https://en.wikipedia.org/wiki/SOLID)
  
 - Other
+    - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - Peter Norwig
     - [Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
     - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
     - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
     - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
-    - [How to speak Silicon Valley: 53 essential tech-bro terms explained | The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
+    - [How to speak Silicon Valley: 53 essential tech-bro terms explained - The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
     - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
     - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
     - [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)

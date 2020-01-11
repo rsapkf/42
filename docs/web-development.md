@@ -284,8 +284,6 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Learn-Anything](https://learn-anything.xyz/)
     - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
     - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
-    - [Lorem Ipsum](https://lipsum.com/)
-    - [Lorem Picsum](https://picsum.photos/)
     - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
     - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
     - [JAMstack](https://jamstack.org/) - JavaScript, APIs, and Markup
@@ -295,4 +293,3 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Twilio Tutorials](https://www.twilio.com/docs/tutorials)
     - [Pusher Developer Tutorials](https://pusher.com/tutorials)
     - [Cooperpress](https://cooperpress.com/) - Weekly email newsletters to developers and software engineers.
-    - [Cool Backgrounds](https://coolbackgrounds.io/) - collection of tools to create compelling, colorful images for blogs and websites.

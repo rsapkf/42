@@ -105,10 +105,13 @@
     - [Brilliant](https://brilliant.org/) `paid`
     - [Math Professor Quotes](https://mathprofessorquotes.com/) - The absurd things math professors say.
     - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver.
+    - [Symbolab Cheat Sheets](https://www.symbolab.com/cheat-sheets#) - Algebra, Trigonometry, Calculus.
     - [What's Special About This Number?](https://www2.stetson.edu/~efriedma/numbers.html) - What's Special About This Number?
     - [Annotated version of "What's Special About This Number?"](https://oeis.org/wiki/Annotated_version_of_%22What%27s_Special_About_This_Number%3F%22_(Part_0))
     - [The On-Line Encyclopedia of Integer Sequences(OEIS)](https://oeis.org/) - 
     - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
+    - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - a complete set of free online (and downloadable) notes/tutorials for classes that Prof. Paul Dawkins teaches at Lamar University.
+    - [Erich's Place](https://www2.stetson.edu/~efriedma/index.html) - Prof. Erich Friedman's Place.
 
 - Reddit/
     - [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
@@ -259,6 +262,7 @@
       - [The View from Aristeia- Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
       - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+      - [Peter Norwig](http://norvig.com/)
       - [Fabrice Bellard's Home Page](https://bellard.org/)
       - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
       - [Sindre Sorhus](https://sindresorhus.com/)

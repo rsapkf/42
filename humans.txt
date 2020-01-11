@@ -1,0 +1,5 @@
+/* Thanks */
+- [GitBook](https://www.gitbook.com/pricing#OpenSource)
+- [mdBook](https://github.com/rust-lang/mdBook)
+- [GitHub](https://github.com/)
+- [GitHub Pages](https://pages.github.com/)
