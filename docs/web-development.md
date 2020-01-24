@@ -44,9 +44,10 @@ Roadmap to Web Development:
 ### Git:
 - Sites/
     - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-    - [Getting Git Right](https://atlassian.com/git) - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
     - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
     - [Git Reference](https://git.github.io/git-reference/)
+    - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
+    - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
 - GitHub/
     - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
@@ -74,6 +75,7 @@ Roadmap to Web Development:
         - [CodePen](https://codepen.io/) - Build, Test, and Discover Front-end Code
         - [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
         - [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials
+        - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
         
     - YouTube/
         - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) ([Website](https://www.traversymedia.com/))
@@ -85,7 +87,9 @@ Roadmap to Web Development:
         - [Eloquent JavaScript](https://eloquentjavascript.net/)
         - [JavaScript30](https://www.javascript30.com)(GitHub - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30))
         - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
-
+        - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - By Kyle Cook.
+        - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
+        
     - GitHub/
         - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) (Website - [The Modern JavaScript Tutorial](https://javascript.info/))
         - [You Don't Know JS](https://github.com/getify) by [Kyle Simpson](https://twitter.com/getify)
@@ -276,6 +280,9 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 ---
 
 ### Extra Resources:
+- Codepen Guys/
+    - [Chris Coyier](https://codepen.io/chriscoyier)
+    
 - Sites/
     - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
     - [Devhints](https://devhints.io/) - TL;DR for developer documentation
@@ -283,6 +290,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Glitch](https://glitch.com/)
     - [Learn-Anything](https://learn-anything.xyz/)
     - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
+    - [freeCodeCamp Guide](https://guide.freecodecamp.org/) - articles about all things related to programming.
     - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
     - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
     - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers

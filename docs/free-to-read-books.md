@@ -5,7 +5,7 @@
 - [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. See Also [formatted version on arp242.net](https://www.arp242.net/the-art-of-unix-programming/)
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - authors of four dozen open source applications.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke.
-- [The Jargon File](http://www.catb.org/jargon/html/index.html).
+- [The Jargon File](http://www.catb.org/jargon/html/index.html) - Eric S. Raymond and contributors.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Swigart.
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovaca.
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. and Andrea C. Arpaci-Dusseau.
@@ -28,6 +28,7 @@
 - [Essential Image Optimization](https://images.guide/) - Addy Osmani.
 - [Competitive Programmer's Handbook](https://github.com/pllk/cphb) - Antti Laaksonen.
 - [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. [GitHub](https://github.com/d2l-ai/d2l-en)
+- [Pro Git](https://github.com/progit/progit2) - Scott Chacon, Ben Straub
 
 ### Mathematics
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.HTM) - Gerard E. Dallal.

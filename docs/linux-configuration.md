@@ -72,8 +72,8 @@ See Also
 
 ### Window Managers
 - [i3wm](https://i3wm.org/)
-- [i3-gaps](https://github.com/Airblader/i3) - i3 with more features
-- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+- [i3-gaps](https://github.com/Airblader/i3) - i3 with more features.
+- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
 - [dwm](https://dwm.suckless.org/) See Also [suckless.org](https://suckless.org/)
 - [bspwm](https://github.com/baskerville/bspwm)
 - [openbox](http://openbox.org/)
@@ -174,7 +174,7 @@ See Also:
 ### Graphical Applications
 - [VLC](https://www.videolan.org/vlc/)
 - [LibreOffice](https://www.libreoffice.org/)
-- [Transmission](https://github.com/transmission/transmission) - BitTorrent client. See Also [Transmission-cli](https://wiki.archlinux.org/index.php/Transmission)
+- [Transmission](https://github.com/transmission/transmission) - BitTorrent client. See Also [Transmission-cli](https://wiki.archlinux.org/index.php/Transmission).
 - [qBittorrent](https://qbittorrent.org/)
 - [OBS](https://obsproject.com/)
 - [Blender](https://blender.org/)
@@ -188,10 +188,10 @@ See Also:
 - [Pycharm-CE](https://www.jetbrains.com/pycharm/)
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
 - [Calibre](https://calibre-ebook.com/)
-- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings
+- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings.
 - [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
 
-See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
+See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
 
 ---
 

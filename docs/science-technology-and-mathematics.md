@@ -112,6 +112,7 @@
     - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
     - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - a complete set of free online (and downloadable) notes/tutorials for classes that Prof. Paul Dawkins teaches at Lamar University.
     - [Erich's Place](https://www2.stetson.edu/~efriedma/index.html) - Prof. Erich Friedman's Place.
+    - [3blue1brown](https://www.3blue1brown.com/) - By Grant Sanderson.
 
 - Reddit/
     - [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
@@ -120,7 +121,6 @@
 
 ## Tech:
 - YouTube/
-    - [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
     - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) - Linus Sebastian
     - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith
     - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor
@@ -198,7 +198,7 @@
       - [Logical Increments](http://www.logicalincrements.com/) - PC building guides
 
     - Miscellaneous:
-      - [Hacker News](https://news.ycombinator.com/)
+      - [Hacker News](https://news.ycombinator.com/)([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
       - [Lobsters](https://lobste.rs/)
       - [Stack Overflow](https://stackoverflow.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
@@ -218,6 +218,7 @@
       - [LWN.net](https://lwn.net/) - News from the source.
       - [MIT Technology Review](https://www.technologyreview.com/)
       - [Facebook Open Source ](https://opensource.facebook.com/)
+      - [Twitter Open Source](https://twitter.github.io/)
       - [Venture Hacks](https://venturehacks.com/) - Advice for startups
       - [Facebook Engineering](https://engineering.fb.com/)
       - [Google Open Source](https://opensource.google/)
@@ -263,6 +264,7 @@
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
       - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
       - [Peter Norwig](http://norvig.com/)
+      - [Douglas Crockford's Webpage](https://www.crockford.com/)
       - [Fabrice Bellard's Home Page](https://bellard.org/)
       - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
       - [Sindre Sorhus](https://sindresorhus.com/)

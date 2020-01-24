@@ -2,13 +2,13 @@
 
 ## Rubik's Cube:
 - Sites/
-	- [JPerm.net](https://jperm.net)
-    - [CubeSkills](https://www.cubeskills.com/) - By Feliks Zemdegs. Contains tutorials, algorithms, pdfs and tools to learn speedcubing both small and big Rubik's cubes, Megaminx, Pyraminx, etc.
-    - [AlgDb.net](http://algdb.net/)
-    - [Andy Klise](http://www.kungfoomanchu.com/) - Contains illustrations and pdfs with algorithms and tutorials to speedcubing.
+	- [JPerm.net](https://jperm.net) - By Dylan Wang.
+    - [CubeSkills](https://www.cubeskills.com/) - By [Feliks Zemdegs](https://en.wikipedia.org/wiki/Feliks_Zemdegs). Tutorials, Algorithms, PDFs and tools to learn speedcubing: Rubik's cubes, Megaminx, Pyraminx, etc.
+    - [AlgDb.net](http://algdb.net/) - Rubik's Cube Algorithms Database.
+    - [Andy Klise](http://www.kungfoomanchu.com/) - Illustrations and Algorithms.
 
 - YouTube/
-    - [J Perm](https://www.youtube.com/channel/UCqTVfT9JQqhA6_Hi_h_h97Q)
+    - [J Perm](https://www.youtube.com/channel/UCqTVfT9JQqhA6_Hi_h_h97Q) - Dylan Wang.
 
 ## Other
 - YouTube/

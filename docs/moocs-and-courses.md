@@ -48,5 +48,6 @@
 ### Courses
 - [Enable Sysadmin by RedHat](https://www.redhat.com/sysadmin/)
 - [Open Source Guides](https://opensource.guide/) - Learn how to launch and grow your project.
-- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training
 - [The Theoretical Minimum Lectures](https://theoreticalminimum.com/) - Leonard Susskind
+- [CS 144: Introduction to Computer Networking, Fall 2019 - Stanford](https://cs144.github.io/)
+- [CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2019 - Stanford](http://cs231n.stanford.edu/)

@@ -1,6 +1,6 @@
 ## goodies
 
-This is an ongoing personal collection of over 2000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Most of these are from my browser bookmarks. Contains blogs, websites, my GitHub stars(which I manage with my bookmark manager, not GH itself), subreddits, YouTube channels, Medium/dev.to blogs, IRC channels and everything. Feel free to [contribute](CONTRIBUTING.md) by adding more resources!
+This is an ongoing personal collection of over 2000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Most of these are from my browser bookmarks. Contains blogs, websites, my GitHub/GitLab/... stars(which I manage with my bookmark manager, not GH itself), subreddits, YouTube channels, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/Codepen profiles I follow, and everything. Feel free to [contribute](CONTRIBUTING.md) by adding more resources!
 
 mdBook version of the repository: https://rsapkf.github.io/goodies/
 

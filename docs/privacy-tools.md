@@ -90,9 +90,10 @@ See Also:
 Sites/
 - [OpenStreetMap](https://www.openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
 - [Fediverse](https://fediverse.party/)
-- [Track This](https://trackthis.link) - A new kind of Incognito
+- [Track This](https://trackthis.link) - A new kind of Incognito.
+- [Panopticlick](https://panopticlick.eff.org/) - Is your browser safe against tracking?
 - [Restore Privacy](https://restoreprivacy.com/)
-- [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora
+- [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [ethical.net](https://ethical.net/)
 - [privacytools.io](https://www.privacytools.io/)
 - [Stop Using Facebook](https://www.stopusingfacebook.co/)
@@ -103,5 +104,5 @@ Reddit/
 - [r/privacytoolsIO](https://old.reddit.com/r/privacytoolsIO/)
 
 GitHub/
-- [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [Kickball/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
