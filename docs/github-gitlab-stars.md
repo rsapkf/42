@@ -33,7 +33,11 @@
 - [SeleniumHQ](https://github.com/SeleniumHQ) - Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
 - [edX](https://github.com/edx) - The Open edX platform is open-source code that powers http://edx.org.
 - [shadowsocks](https://github.com/shadowsocks) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [Prettier](https://github.com/prettier) - Prettier is an opinionated code formatter.
 - [Sourcegraph](https://github.com/sourcegraph) - Code search and navigation for teams (self-hosted, OSS).
+- [Termux](https://github.com/termux/) - Android terminal and Linux environment.
+- [Video.js](https://github.com/videojs) - Web Video Framework.
+- [systemd](https://github.com/systemd) - System and Service Manager.
 - [The Rust Programming Language](https://github.com/rust-lang)
 - [ProtonMail](https://github.com/ProtonMail)
 - [ProtonVPN](https://github.com/ProtonVPN)
@@ -54,6 +58,8 @@
 - [Arduino](https://github.com/arduino)
 - [docopt](https://github.com/docopt)
 - [Auth0](https://github.com/auth0)
+- [Sass](https://github.com/sass)
+- [PayPal](https://github.com/paypal)
 - [The World Cube Association](https://github.com/thewca) - Official projects for the World Cube Association (WCA).
 - [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
 - [React Training](https://github.com/ReactTraining) - High-quality open source software from React Training.
@@ -239,6 +245,9 @@
   - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from [here](http://www.pouet.net/topic.php?which=10882&page=1).
   - [heroku/12factor](https://github.com/heroku/12factor) - 12factor.net.
   - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
+  - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
+  - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+  - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends.
 
 ---
 
@@ -273,6 +282,8 @@
     - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration.
     - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim.
     - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
+    - [veonim/veonim](https://github.com/veonim/veonim) - simple modal IDE built on neovim.
+    - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer.
 
   - GUI Editors
     - [atom/atom](https://github.com/atom/atom) - The hackable text editor.
@@ -450,6 +461,7 @@
     - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
     - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
     - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization.
+    - [systemd/systemd](https://github.com/systemd/systemd)
 
 - Python
   - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -506,6 +518,9 @@
   - [matthieua/WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page.
   - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
   - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art.
+  - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS.
+  - [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects.
+  - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) -  A collection of loading indicators animated with CSS.
 
 - JavaScript
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
@@ -557,7 +572,11 @@
   - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js.
   - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications.
   - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun.
-  
+  - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+  - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
+  - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
+  - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
+
 - TypeScript
   - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular tiny.cloud.
 
@@ -581,6 +600,7 @@
   - [golang/go](https://github.com/golang/go) - The Go programming language.
   - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
   - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
+  - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets.
 
 - Ruby
   - [rails/rails](https://github.com/rails/rails) - Ruby on Rails.
@@ -594,6 +614,7 @@
   - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot.
   - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework.
   - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 
 - Haskell
   - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
@@ -604,6 +625,7 @@
 - C
   - [antirez/redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
   - [google/brotli](https://github.com/google/brotli) - Brotli compression format.
+  - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 
 - C#
   - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
@@ -640,6 +662,7 @@
   - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
   - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap.
   - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
+  - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
 - Front-End JavaScript Frameworks
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -692,6 +715,9 @@
   - [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
   - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind.
   - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists.
+  - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS.
+  - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
+  - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader.
 
 - Mac/iOS
   - [Homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
@@ -749,6 +775,8 @@
   - [react-static/react-static](https://github.com/react-static/react-static) - A progressive static site generator for React.
 
 - Application Development
+  - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+    - [infinitered/ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
   - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
     - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
   - [ionic-team/ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉.
@@ -792,6 +820,7 @@
   - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
   - [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
   - [omarroth/invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube.
+  - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that also supports image and audio uploads. Powered by NodeJS.
   - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
   - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
   - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end.

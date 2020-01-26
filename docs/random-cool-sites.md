@@ -61,6 +61,7 @@
     - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
     - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
     - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
+    - [DuckDuckGo Instant Answers](https://duck.co/ia)
     - [How to speak Silicon Valley: 53 essential tech-bro terms explained - The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
     - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
     - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
