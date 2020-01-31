@@ -1,11 +1,14 @@
 # Linux Configuration
 
+**Note**: This file only contains resources that are NOT in the [./github-gitlab-stars.md#Tools#Linux](https://github.com/rsapkf/goodies/blob/master/docs/github-gitlab-stars.md#tools) section.
+
 ## Contents
 - [Distros](#distros)
-- [Shell](#shell)
+- [Shells](#shells)
 - [Desktop Environments](#desktop-environments)
 - [Window Managers](#window-managers)
 - [Program Launchers](#program-launchers)
+- [Notification Daemons](notification-daemons)
 - [Terminal Emulators](#terminal-emulators)
 - [File Managers](#file-managers)
 	- [Command Line File Managers](#command-line-file-managers)
@@ -71,17 +74,7 @@ See Also
 ---
 
 ### Window Managers
-- [i3wm](https://i3wm.org/)
-- [i3-gaps](https://github.com/Airblader/i3) - i3 with more features.
-- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
 - [dwm](https://dwm.suckless.org/) See Also [suckless.org](https://suckless.org/)
-- [bspwm](https://github.com/baskerville/bspwm)
-- [openbox](http://openbox.org/)
-- [awesome](https://awesomewm.org/)
-- [qtile](http://www.qtile.org/)
-- [xmonad](http://www.xmonad.org/)
-- [herbstluftwm](http://www.herbstluftwm.org/)
-- [stumpwm](https://github.com/stumpwm/stumpwm)
 
 See Also [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/playlist?list=PL5--8gKSku17lbSBHPduj4qG97qxJe0UM)
 
@@ -89,19 +82,18 @@ See Also [The Obscure Window Manager Project(DistroTube)](https://www.youtube.co
 
 ### Program Launchers
 - [dmenu](https://tools.suckless.org/dmenu/) See Also [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended)
-- [rofi](https://github.com/davatorium/rofi)
-- [albertlauncher](https://github.com/albertlauncher/albert)
+
+---
+
+### Notification Daemons
 
 ---
 
 ### Terminal Emulators
 - [urxvt(rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 - [st](https://st.suckless.org/)
-- [Termite](https://github.com/thestinger/termite/)
-- [kitty](https://github.com/kovidgoyal/kitty)
 - [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
 - [Konsole](https://konsole.kde.org/)
-- [Alacritty](https://github.com/jwilm/alacritty)
 - [xterm](https://invisible-island.net/xterm/xterm.html)
 
 See Also [terminal.sexy](https://terminal.sexy/)
@@ -110,11 +102,7 @@ See Also [terminal.sexy](https://terminal.sexy/)
 
 ### File Managers
 - Command Line File Managers
-    - [ranger](https://github.com/ranger/ranger)
-    - [nnn](https://github.com/jarun/nnn)
     - [midnight commander](http://midnight-commander.org/)
-    - [vifm](https://github.com/vifm/vifm)
-    - [fff](https://github.com/dylanaraps/fff)
 
 - Graphical File Managers
     - [Dolphin](https://kde.org/applications/system/dolphin/)
@@ -125,8 +113,6 @@ See Also [terminal.sexy](https://terminal.sexy/)
 ---
 
 ### Status Bars
-- [i3blocks](https://github.com/vivien/i3blocks)
-- [polybar](https://github.com/polybar/polybar)
 
 ---
 
@@ -138,34 +124,17 @@ See [text-editors-and-editors.md](text-editors-and-editors.md)
     - [lynx](http://lynx.browser.org/)
     - [surf](https://surf.suckless.org/)
     - [w3m](http://w3m.sourceforge.net/)
-    
-- System Info Scripts
-    - [neofetch](https://github.com/dylanaraps/neofetch)
-    - [screenfetch](https://github.com/KittyKatt/screenFetch)
-    - [pfetch](https://github.com/dylanaraps/pfetch)
-
-- System Monitors
-    - [glances](https://github.com/nicolargo/glances) - System Monitor
-    - [conky](https://github.com/brndnmtthws/conky)
 
 - Other
-    - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
-    - [tldr](https://github.com/tldr-pages/tldr) - alternative to man pages
-    - [irssi](https://github.com/irssi/irssi) - terminal irc client
-    - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-    - [mutt](http://www.mutt.org/) - email client
-    - [LaTeX](https://www.latex-project.org/) - document typesetting system
-    - [NeoMutt](https://neomutt.org) - highly configurable mail reader based on mutt
-    - [zathura](https://github.com/pwmt/zathura) - document viewer
-    - [mpv](https://github.com/mpv-player/mpv) - Command line video player
-    - [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client
-    - [Clam AV](https://www.clamav.net/) - antivirus
-    - [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager
+    - [LaTeX](https://www.latex-project.org/) - document typesetting system.
+    - [Clam AV](https://www.clamav.net/) - antivirus.
+    - [Stow](https://www.gnu.org/software/stow/manual/stow.html) - symlink farm manager.
     - [GNU Readline Library](https://tiswww.case.edu/php/chet/readline/readline.html)
-    - [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel
-    - [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager
-    - [castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
-
+    - [WireGuard](https://www.wireguard.com/) - fast, modern, secure VPN tunnel.
+    - [Pass](https://www.passwordstore.org/) - The Standard Unix Password Manager.
+    - [rtv(unmaintained)](https://github.com/michael-lazar/rtv) - reddit client. See Also [ajak/tuir](https://gitlab.com/ajak/tuir).
+    - [mutt](http://www.mutt.org/) - email client.
+    
 See Also: 
 - [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
 
@@ -187,8 +156,6 @@ See Also:
 - [KeePassXC](https://keepassxc.org/)
 - [Pycharm-CE](https://www.jetbrains.com/pycharm/)
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
-- [Calibre](https://calibre-ebook.com/)
-- [qutebrowser](https://qutebrowser.org/) - browser with vim-like keybindings.
 - [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
 
 See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
@@ -202,6 +169,7 @@ See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/
 ---
 
 ### Extra Resources
+- [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
 - [GNU Readline Cheatsheet- VI Mode](http://readline.kablamo.org/vi.html)([Emacs Mode](http://readline.kablamo.org/emacs.html))
 - [crontab guru](https://crontab.guru/)

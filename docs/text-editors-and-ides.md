@@ -30,6 +30,10 @@
 - #### Neovim:
 	- Sites/
 		- [Neovim Documentation](https://neovim.io/)
+		
+- #### Veonim:
+    - Sites/
+        - [Veonim User Guide](https://github.com/veonim/veonim/blob/master/docs/readme.md)
 
 - #### SpaceVim:
 	- Sites/

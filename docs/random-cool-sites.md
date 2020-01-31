@@ -24,6 +24,8 @@
     - [Git.io](https://git.io/) - Official GitHub link shortener.
     - [Sketchysite](https://www.sketchywebsite.net/) - You can trust this.
     - [Emojipedia](https://emojipedia.org/) - Emojipedia
+    - [TimeAndDate.com](https://www.timeanddate.com/)
+    - [Wedframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
 
 - YouTube/
     - [Lemmino](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -54,9 +56,13 @@
 
 - Wikipedia Pages
     - [SOLID](https://en.wikipedia.org/wiki/SOLID)
+    - [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))
+    - [HTTP 451](https://en.wikipedia.org/wiki/HTTP_451)
  
 - Other
     - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - Peter Norwig
+    - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - Oracle Docs.
+    - [0.30000000000000004.com](https://0.30000000000000004.com/) - Floating Point Math.
     - [Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
     - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
     - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
@@ -66,7 +72,6 @@
     - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
     - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
     - [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
-    - [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))
     - [Things You Didn't Know About GNU Readline ](https://twobithistory.org/2019/08/22/readline.html)
     - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
 

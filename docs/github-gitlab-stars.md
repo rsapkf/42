@@ -38,6 +38,16 @@
 - [Termux](https://github.com/termux/) - Android terminal and Linux environment.
 - [Video.js](https://github.com/videojs) - Web Video Framework.
 - [systemd](https://github.com/systemd) - System and Service Manager.
+- [ZEIT](https://github.com/zeit) - Making cloud computing accessible to everyone.
+- [Spectrum](https://github.com/withspectrum) - Where communities live.
+- [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment.
+- [World Wide Web Consortium](https://github.com/w3c) - The World Wide Web Consortium (W3C) is the main international standards organization for the World Wide Web.
+- [Callstack](https://github.com/callstack/) - We support and inspire other developers and companies to launch their products for everyone at the same time, on every platform.
+- [Infinite Red, Inc.](https://github.com/infinitered) - Development Studio.
+- [Redux](https://github.com/reduxjs) - Redux is a predictable state container for JavaScript apps.
+- [Ecma TC39](https://github.com/tc39) - Ecma International, Technical Committee 39 - ECMAScript.
+- [Mapbox](https://github.com/mapbox) - Mapbox is the location data platform for mobile and web applications. We're changing the way people move around cities and explore our world.
+- [DigitalOcean](https://github.com/digitalocean)
 - [The Rust Programming Language](https://github.com/rust-lang)
 - [ProtonMail](https://github.com/ProtonMail)
 - [ProtonVPN](https://github.com/ProtonVPN)
@@ -60,6 +70,8 @@
 - [Auth0](https://github.com/auth0)
 - [Sass](https://github.com/sass)
 - [PayPal](https://github.com/paypal)
+- [Raspberry Pi](https://github.com/raspberrypi)
+- [30 seconds](https://github.com/30-seconds) - The team behind 30-seconds-of-code and official 30-seconds projects.
 - [The World Cube Association](https://github.com/thewca) - Official projects for the World Cube Association (WCA).
 - [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
 - [React Training](https://github.com/ReactTraining) - High-quality open source software from React Training.
@@ -73,6 +85,7 @@
 - [h5bp](https://github.com/h5bp)
 - [tmux-plugins](https://github.com/tmux-plugins)
 - [StylishThemes](https://github.com/StylishThemes)
+- [Codrops](https://github.com/codrops)
 
 ---
 
@@ -112,6 +125,9 @@
   - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
   - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - "Short CSS code snippets for all your development needs.
 
+- Elixir
+  - [elixirschool/elixirschool/](https://github.com/elixirschool/elixirschool/) - Premier destination to learn and master the Elixir programming language.
+
 - C
   - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey.
 
@@ -126,6 +142,9 @@
 
 - Swift
   - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+  
+- LaTeX
+  - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor.
   
 - Linux
   - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -248,6 +267,7 @@
   - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
   - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
   - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends.
+  - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples.
 
 ---
 
@@ -256,7 +276,7 @@
   - Operating Systems
     - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree.
     - [ozkl/soso](https://github.com/ozkl/soso) - A Simple Unix-like operating system.
-    - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to review.haiku-os.org).
+    - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system.
 
   - Window Managers
     - [i3/i3](https://github.com/i3/i3) - A tiling window manager.
@@ -265,16 +285,21 @@
       - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text.
       - [unix121/i3wm-themer](https://github.com/unix121/i3wm-themer) - My collection of Themes and scripts for i3-wm.
     - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning.
-    - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon.
+      - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon.
     - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager.
     - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager.
+    - [qtile/qtile](https://github.com/qtile/qtile) - A small, flexible, scriptable tiling window manager written in Python.
     - [stumpwm/stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager.
+    - [danakj/openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM).
+    - [herbstluftwm/herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11.
+    - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
 
   - Status Bars
     - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar.
 
   - Notification Daemons
     - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon.
+    - [sboli/twmn](https://github.com/sboli/twmn) - A notification system for tiling window managers.
 
   - Text Based Editors
     - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
@@ -294,11 +319,12 @@
   - File Managers
     - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console.
     - [jarun/nnn](https://github.com/jarun/nnn) - The missing terminal file manager for X.
-    - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
+    - [dylanaraps/fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash.
+    - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt. vifm.info
     - [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu.
 
   - Command Line Cheat Sheets
-    - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages.
+    - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
     - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need.
     - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line.
     - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal.
@@ -318,6 +344,7 @@
     - [neomutt/neomutt](https://github.com/neomutt/neomutt) - Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net.
     - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
     - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+    - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
     - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
     - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme.
     - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
@@ -360,13 +387,19 @@
 
   - Tmux
     - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code.
+    - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
+    - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+    - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
     - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works).
     - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager.
     - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on.
 
   - Emacs
     - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
-    - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
+    - [magit/magit](https://github.com/magit/magit) - Magit-A Git porcelain inside Emacs.
+
+  - LaTeX
+    - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor 
 
   - Themes/Color Schemes
     - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes.
@@ -374,6 +407,7 @@
     - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes.
 
   - Note-Taking
+    - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
     - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
     - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/.
     - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
@@ -397,31 +431,36 @@
     - [starship/starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts.
     - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts.
     - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+      - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework.
     - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-    - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework.
+    - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.    
     - [nushell/nushell](https://github.com/nushell/nushell) - A modern shell written in Rust.
-    - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
     - [PapyElGringo/material-shell](https://github.com/PapyElGringo/material-shell) - New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort.
-    - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!.
+    - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
   - Password Managers
-    - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features.
+    - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - KeePass implementation for android with material design and deluxe features.
     - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera.
     - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool.
+    - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass.
 
   - Email Clients
     - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
     - [k9mail/k-9 - K-9 Mail](https://github.com/k9mail/k-9) - Advanced Email for Android.
+    - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features.
 
   - Web Browsers
     - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
-
+    - [jarun/ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
+  
   - Document Viewers
+    - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager.
     - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer.
 
   - Terminal Emulators
     - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator.
     - [jwilm/alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+    - [thestinger/termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support..
     - [zeit/hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 
   - Bookmark Managers
@@ -461,7 +500,8 @@
     - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
     - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
     - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization.
-    - [systemd/systemd](https://github.com/systemd/systemd)
+    - [mpv-player/mpv](https://github.com/mpv-player/mpv) - Command line video player.
+    - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager.
 
 - Python
   - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -483,10 +523,11 @@
     - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
     - [James1345/django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django rest auth.
   - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+  - [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
   - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
   - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
   - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-  - [kennethreitz/requests](https://github.com/kennethreitz/requests) - - A simple, yet elegant HTTP library.
+  - [kennethreitz/requests](https://github.com/kennethreitz/requests) - A simple, yet elegant HTTP library.
   - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™.
   - [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
   - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
@@ -499,7 +540,6 @@
   - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
   - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
   - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
-  - [jarun/ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
   - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) -  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
   - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python.
   - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
@@ -509,6 +549,7 @@
   - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
   - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
   - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
+  - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
 
 - HTMl/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
@@ -551,7 +592,7 @@
   - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
   - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
   - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
-  - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins postcss.org.
+  - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
   - [zloirock/core-js](https://github.com/zloirock/core-js) - Modular standard library for JavaScript.
   - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript victorribeiro.com/isocity.
   - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library.
@@ -559,7 +600,7 @@
   - [frctl/fractal](https://github.com/frctl/fractal) - A tool to help you build & document web component libraries, and then integrate them into your web projects.
   - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) -  Most modern mobile touch slider with hardware accelerated transitions.
   - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
-  - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides. codesurfer.pomb.us.
+  - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides.
   - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - React MDX-based presentation decks.
   - [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
   - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
@@ -569,13 +610,23 @@
   - [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
   - [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm.
   - [financial-times/polyfill-service](https://github.com/financial-times/polyfill-service) - Automatic polyfill service.
-  - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js.
   - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications.
   - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun.
   - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
   - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
   - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
   - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
+  - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
+  - [emotion-js/emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
+  - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
+  - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript.
+  - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc.
+  - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager.
+  - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js.
+  - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library.
+  - [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore.
+  - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web.
+  - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app.
 
 - TypeScript
   - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular tiny.cloud.
@@ -626,6 +677,7 @@
   - [antirez/redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
   - [google/brotli](https://github.com/google/brotli) - Brotli compression format.
   - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+  - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree.
 
 - C#
   - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
@@ -667,9 +719,12 @@
 - Front-End JavaScript Frameworks
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
   - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
+    - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk Middleware for Redux.
+    - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps.
   - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
     - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
     - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+    - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
     - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
     - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components.
     - [mui-org/material-ui](https://github.com/mui-org/material-ui) -  React components for faster and easier web development. Build your own design system, or start with Material Design.
@@ -680,7 +735,8 @@
     - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch.
     - [preactjs/preact](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
     - [prevwong/craft.js](https://github.com/prevwong/craft.js) - A React Framework for building extensible drag and drop page editors.
-  - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+    - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+  - [vuejs/vue](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
     - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
     - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
     - [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue, with over 40 plugins, more than 80 custom components and over 300 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
@@ -697,7 +753,8 @@
   - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
   - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
     - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
-  - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:.
+  - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime.
+    - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js.
     - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
   - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
   - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser.
@@ -722,6 +779,7 @@
 - Mac/iOS
   - [Homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
   - [MobileOrg/mobileorg](https://github.com/MobileOrg/mobileorg) - MobileOrg iPhone App.
+  - [wulkano/kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology.
   
 - Documentation Browsers
   - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash.
@@ -749,6 +807,7 @@
   - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results.
   - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite.
   - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+  - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file.
 
 - Project Management
   - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software.
@@ -777,9 +836,12 @@
 - Application Development
   - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
     - [infinitered/ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+    - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
+    - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS).
+    - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack.
   - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
     - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
-  - [ionic-team/ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉.
+  - [ionic-team/ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything.
   - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
 - Syntax Highlighters
@@ -803,7 +865,7 @@
 
 - File Synchronization
   - [syncthing/syncthing](https://github.com/syncthing/syncthing/) - Open Source Continuous File Synchronization.
-  - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data.
+  - [nextcloud/server](https://github.com/nextcloud/server) - Nextcloud server, a safe home for all your data.
   - [owncloud/core](https://github.com/owncloud/core) - ownCloud web server core (Files, DAV, etc.).
   - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 
@@ -824,6 +886,7 @@
   - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
   - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
   - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end.
+  - [ray-project/ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
   
 - APIs
   - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
@@ -856,6 +919,7 @@
 - Forums/Sites
   - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion.
   - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+  - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities. spectrum.chat.
   - [edx/edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX!
   - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow.
   - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to www.draw.io.
@@ -864,6 +928,8 @@
   - [frab/frab](https://github.com/frab/frab) - conference management system.
   - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Opensource alternative to Intercom, Drift, Zendesk, FreshChat.
   - [sebst/pythonic-news](https://github.com/sebst/pythonic-news) - A Hacker News lookalike written in Python/Django, powering news.python.sc.
+  - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+  - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
 
 - General
   - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -930,18 +996,18 @@
   - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
   - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
-- GitHub deprecated
+- GitHub (Unmaintained)
   - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework.
   - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app.
   - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal. See Also [ajak/tuir](https://gitlab.com/ajak/tuir).
   - [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
+  - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost.
 
 - Show HN
+  - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding.
   - [loadzero/si78c](https://github.com/loadzero/si78c) - si78c is a memory accurate reimplementation of Space Invaders in C.
-  - [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network.
   - [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume) - Web-based Command Line Resume.
   - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
-  - [pakastin/frzr](https://github.com/pakastin/frzr) - Turboboosted 2 KB view library for browser & node.js. frzr.js.org.
   - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
 
 ---

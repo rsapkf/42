@@ -102,6 +102,7 @@
     - [Terrence Tao's Blog](https;//terrytao.wordpress.com)
     - [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
     - [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
+    - [Mathematical Association of America Homepage](https://www.maa.org/)
     - [Brilliant](https://brilliant.org/) `paid`
     - [Math Professor Quotes](https://mathprofessorquotes.com/) - The absurd things math professors say.
     - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver.
@@ -264,6 +265,8 @@
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
       - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
       - [Peter Norwig](http://norvig.com/)
+      - [Brett Slatkin's Webpage](https://www.onebigfluke.com/)
+      - [Jessie Frazelle's Blog](https://blog.jessfraz.com/)
       - [Douglas Crockford's Webpage](https://www.crockford.com/)
       - [Fabrice Bellard's Home Page](https://bellard.org/)
       - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)

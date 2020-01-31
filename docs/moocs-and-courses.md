@@ -1,7 +1,8 @@
 ## Massive Open Online Courses
 
 - Sites/
-    - [edX.org](https://www.edx.org/) 
+    - [edX.org](https://www.edx.org/)
+    - [freeCodeCamp](https://freecodecamp.org/) - Learn to Code for Free.
     - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
     - [MIT Deep Learning](https://deeplearning.mit.edu/)
     - [Coursera](https://www.coursera.org/)
@@ -32,6 +33,8 @@
     - [Udemy](https://www.udemy.com/) `paid`
     - [MasterClass](https://www.masterclass.com/) `paid`
     - [egghead.io](https://egghead.io/) - Short, instructional screencast video tutorials for web developers `paid`
+    - [Google CodeLabs](https://codelabs.developers.google.com)
+    - [Google Developers Certification](https://developers.google.com/certification) - demonstrate your proficiency and skill and earn certifications.
 
 - GitHub/
     - [ossu/computer-science](https://github.com/ossu/computer-science)
@@ -46,7 +49,6 @@
     - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 
 ### Courses
-- [Enable Sysadmin by RedHat](https://www.redhat.com/sysadmin/)
 - [Open Source Guides](https://opensource.guide/) - Learn how to launch and grow your project.
 - [The Theoretical Minimum Lectures](https://theoreticalminimum.com/) - Leonard Susskind
 - [CS 144: Introduction to Computer Networking, Fall 2019 - Stanford](https://cs144.github.io/)

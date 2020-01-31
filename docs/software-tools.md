@@ -159,6 +159,7 @@ See Also:
 ### Other
 - Software
     - [LaTeX](https://www.latex-project.org/)
+      - [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) by Overleaf.
     - [Pandoc](https://pandoc.org/)
     - [Read the Docs](https://docs.readthedocs.io/en/stable/) - Documentation Simplified
     - [FFmpeg](https://ffmpeg.org/)
@@ -186,10 +187,11 @@ See Also:
     - [Gitea](https://gitea.io/en-us/)
     - [Winds](https://winds.getstream.io/) - Feed Reader
     - [Firefox Send](https://send.firefox.com/)
-    - [Invidious](https://invidio.us/)
+    - [Invidious](https://invidio.us/) - Alternative Open Source frontend for YouTube
     - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
     - [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
     - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS `closed-source` `paid`
+    - [Zoho](https://www.zoho.com/) - Unique and powerful suite of software to run a business.
 
 - Sites/
     - [GNU Recommendations](https://www.gnu.org/software/free-software-for-education.html)
@@ -203,7 +205,6 @@ See Also:
     - [Slant](https://www.slant.co/) - Choose the best
     - [ShareX](https://getsharex.com/) `Windows Only`
     - [List of applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
-    - [INVIDIOUS](https://invidio.us/) - Alternative Open Source frontend for YouTube
     - [Font Awesome](https://fontawesome.com/)
     - [Luke Smith's Programs and Equipments](https://lukesmith.xyz/programs.html)
     - [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)

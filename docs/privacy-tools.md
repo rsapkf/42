@@ -27,6 +27,7 @@
 
 ### Email Clients:
 - [Mozilla Thunderbird](https://www.thunderbird.net/)
+- [Mailpile](https://mailpile.is/) - A free & open modern, fast email client with user-friendly encryption and privacy features.
 
 ---
 

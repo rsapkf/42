@@ -12,6 +12,7 @@
 
 ### Elixir
 - [Elixir Docs](https://elixir-lang.org/)
+- [Elixir school](https://elixirschool.com/en/) -  Premier destination for people looking to learn and master the Elixir programming language.
 
 ### Typescript
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)

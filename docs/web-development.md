@@ -48,6 +48,7 @@ Roadmap to Web Development:
     - [Git Reference](https://git.github.io/git-reference/)
     - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
     - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+    - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
 
 - GitHub/
     - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
@@ -76,6 +77,7 @@ Roadmap to Web Development:
         - [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
         - [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials
         - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
+        - [Codrops](https://tympanus.net/codrops/) - Web Dev and Design News.
         
     - YouTube/
         - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) ([Website](https://www.traversymedia.com/))
@@ -154,6 +156,7 @@ Roadmap to Web Development:
         - [William Vincent's Blog](https://wsvincent.com/)
         - [Ned Batchelder's Blog](https://nedbatchelder.com/)
         - [Trey Hunner's Blog](https://treyhunner.com/)
+        - [Python Developer’s Guide](https://devguide.python.org/) - A comprehensive resource for contributing to Python.
 
     - GitHub/
         See [github-gitlab-stars.md/python](github-gitlab-stars.md/#python)
@@ -282,6 +285,7 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 ### Extra Resources:
 - Codepen Guys/
     - [Chris Coyier](https://codepen.io/chriscoyier)
+    - [Florin Pop](https://codepen.io/FlorinPop17)
     
 - Sites/
     - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
