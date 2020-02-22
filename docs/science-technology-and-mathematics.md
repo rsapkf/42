@@ -2,57 +2,68 @@
 
 ## Science, Mostly
 - YouTube/
-    - [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) - Michael Stevens
-    - [Vsauce2](https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw) - Kevin Lieber
-    - [Vsauce3](https://www.youtube.com/channel/UCwmFOfFuvRPI112vR5DNnrA) - Jake Roper
-    - [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) -  Michael Stevens, Kevin Lieber, Jake Roper
-    - [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg) - Mark Rober
-    - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) - Derek Muller
-    - [2Veritasium](https://www.youtube.com/user/2veritasium) - Derek Muller
-    - [Smarter Everyday](https://www.youtube.com/user/destinws2) - Destin Sandlin
-    - [The Sound Traveler](https://www.youtube.com/channel/UC0tq0g5u2bo-TErZt7SJM6w) - Destin Sandlin
-    - [Sixty Symbols](https://www.youtube.com/channel/UCvBqzzvUBLCs8Y7Axb-jZew) - Brady Haran
-    - [Numberphile](https://www.youtube.com/user/numberphile) - Brady Haran
-    - [Objectivity](https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg) - Brady Haran
-    - [Periodic Videos](https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw) - Brady Haran
-    - [Deep Sky Videos](https://www.youtube.com/channel/UCo-3ThNQmPmQSQL_L6Lx1_w) - Brady Haran
-    - [Kurzgesagt - In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) - Kurzgesagt
-    - [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) - Mitchell Moffit, Gregory Brown
-    - [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) - Henry Reich
-    - [MinuteEarth](https://www.youtube.com/user/minuteearth/featured) - Henry Reich
-    - [ElectroBOOM](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA) - Mehdi Sadaghdar
-    - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A) - Scott Manley
-    - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - Hank Green
-    - [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ), obviously
-    - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA) - Dianna Cowern
-    - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w) - CGP Grey
-    - [TheBackyardScientist](https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw) - Kevin from TheBackyardScientist :)
-    - [Mike Boyd](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ) - Mike Boyd
-    - [The Action Lab](https://www.youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ) -  @theactionlabman
-    - [Brave Wilderness](https://www.youtube.com/user/BreakingTrail) - Coyote Peterson
-    - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) - Wendover Productions
-    - [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g) - Hasheem Al-Ghaili
-    - [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw) - Dr. Joe Hanson
-    - [The Slow Mo Guys](https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w) - Gavin Free, Daniel Charles Gruchy
-    - [Simon Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Simon Giertz
-    - [Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew) - Stephen Welch
-    - [DALLMYD](https://www.youtube.com/channel/UCI4fHQkguBNW3SwTqmehzjw) - Jake from DALLMYD
-    - [For the Allure of Physics](https://www.youtube.com/channel/UCliSRiiRVQuDfgxI_QN_Fmw) - Prof. Walter Lewin
-    - [Lectures by Walter Lewin. They will make you -love- Physics](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) - Prof. Walter Lewin
-    - [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g) - Isaac Arthur
+    - [2veritasium](https://www.youtube.com/channel/UC2LZO6swZ9SLUEOks3WnsfA) - Derek Muller.
+    - [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) - Mitchell Moffit, Gregory Brown.
+    - [BBC Earth](https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg) - BBC.
+    - [Brave Wilderness](https://www.youtube.com/channel/UC6E2mP01ZLH_kbAyeazCNdg) - Coyote Peterson.
+    - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w) - CGP Grey.
+    - [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) -  Michael Stevens, Kevin Lieber, Jake Roper.
+    - [DALLMYD](https://www.youtube.com/channel/UCI4fHQkguBNW3SwTqmehzjw) - Jake from DALLMYD.
+    - [DeepSkyVideos](https://www.youtube.com/channel/UCo-3ThNQmPmQSQL_L6Lx1_w) - Brady Haran.
+    - [ElectroBOOM](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA) - Mehdi Sadaghdar.
+    - [For the Allure of Physics](https://www.youtube.com/channel/UCliSRiiRVQuDfgxI_QN_Fmw) - Prof. Walter Lewin.
+    - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) - Wendover Productions.
+    - [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g) - Isaac Arthur.
+    - [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw) - Dr. Joe Hanson.
+    - [Kurzgesagt - In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) - Kurzgesagt.
+    - [Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) - Prof. Walter Lewin.
+    - [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg) - Mark Rober.
+    - [Mike Boyd](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ) - Mike Boyd.
+    - [MinuteEarth](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w) - Henry Reich.
+    - [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)- NASA.
+    - [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A) - National Geographic.
+    - [Objectivity](https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg) - Brady Haran.
+    - [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) - PBS.
+    - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g) - PBS.
+    - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) - PBS.
+    - [Periodic Videos](https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw) - Brady Haran.
+    - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA) - Dianna Cowern.
+    - [Reigarw Comparisons](https://www.youtube.com/channel/UCcM-EIxza5g1S0dpnoO_ePA)
+    - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - Hank Green.
+    - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A) - Scott Manley.
+    - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Simon Giertz.
+    - [Sixty Symbols](https://www.youtube.com/channel/UCvBqzzvUBLCs8Y7Axb-jZew) - Brady Haran.
+    - [SmarterEveryDay](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA) - Destin Sandlin.
     - [SpaceX](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) - Elon Musk and Company :)
-    - [Reigarw Comparisons](https://www.youtube.com/user/reigarw)
-    - [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
-    - [TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
-    - [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
-    - [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
-    - [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ)
-    - [PBS Spacetime](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
-    - [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
-    - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
-    - [Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ)
-    - [The Royal Institution](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw)
-    - [BBC Earth](https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg)
+    - [TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA) - TED.
+    - [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) - TED.
+    - [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q) - TED.
+    - [The Action Lab](https://www.youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ) - @theactionlabman
+    - [The Royal Institution](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw) - The Royal Institution.
+    - [The Slow Mo Guys](https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w) - Gavin Free, Daniel Charles Gruchy.
+    - [The Sound Traveler](https://www.youtube.com/channel/UC0tq0g5u2bo-TErZt7SJM6w) - Destin Sandlin.
+    - [TheBackyardScientist](https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw) - Kevin from TheBackyardScientist :)
+    - [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ) - The Verge.
+    - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) - Derek Muller.
+    - [Vsauce2](https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw) - Kevin Lieber.
+    - [Vsauce3](https://www.youtube.com/channel/UCwmFOfFuvRPI112vR5DNnrA) - Jake Roper.
+    - [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) - Michael Stevens.
+    - [Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew) - Stephen Welch.
+    - [Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ) - Wendover Productions.
+    - [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g) - What If.
+    - [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) - Henry Reich.
+    - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ) - Tim Blais.
+    - [Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA)
+    - [StarTalk](https://www.youtube.com/channel/UCqoAEDirJPjEUFcF2FklnBA)
+    - [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
+    - [thebrainscoop](https://www.youtube.com/channel/UCkyfHZ6bY2TjqbJhiH8Y2QQ)
+    - [Tibees](https://www.youtube.com/channel/UC52kszkc08-acFOuogFl5jw)
+    - [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
+    - [yeti dynamics](https://www.youtube.com/channel/UCfzLXKMZqf8-nR920SbQJLA)
+
+- People/
+    - [Sean Caroll](https://www.preposterousuniverse.com/)
+    - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
 
 - Sites+Blogs/
     - [Space.com](https://www.space.com/)
@@ -69,28 +80,42 @@
     - [JunkScience](https://junkscience.com/)
 
 - Reddit/
-    - [r/science](https://old.reddit.com/r/science/)
-    - [r/askscience](https://www.reddit.com/r/askscience/)
-    - [r/todayilearned](https://www.reddit.com/r/todayilearned/)
-    - [r/physics](https://old.reddit.com/r/Physics/)
-    - [r/chemistry](https://old.reddit.com/r/chemistry/)
-    - [r/space](https://www.reddit.com/r/space/)
-    - [r/biology](https://old.reddit.com/r/biology/)
-    - [r/Astronomy](https://old.reddit.com/r/Astronomy/)
-    - [r/environment](https://old.reddit.com/r/environment/)
-    - [r/astrophotography](https://www.reddit.com/r/astrophotography/)
+    - [r/science](https://old.reddit.com/r/science)
+    - [r/askscience](https://www.reddit.com/r/askscience)
+    - [r/todayilearned](https://www.reddit.com/r/todayilearned)
+    - [r/Physics](https://old.reddit.com/r/Physics)
+    - [r/chemistry](https://old.reddit.com/r/chemistry)
+    - [r/space](https://www.reddit.com/r/space)
+    - [r/biology](https://old.reddit.com/r/biology)
+    - [r/Astronomy](https://old.reddit.com/r/Astronomy)
+    - [r/environment](https://old.reddit.com/r/environment)
+    - [r/astrophotography](https://www.reddit.com/r/astrophotography)
+    - [r/Futurology](https://www.reddit.com/r/Futurology)
+    - [r/EarthPorn](https://www.reddit.com/r/EarthPorn)
+    - [r/History](https://www.reddit.com/r/History)
+    - [r/Economics](https://www.reddit.com/r/Economics)
+    - [r/MachinePorn](https://www.reddit.com/r/MachinePorn)
+    - [r/nasa](https://www.reddit.com/r/nasa)
+    - [r/NatureIsF ckingLit](https://www.reddit.com/r/NatureIsFuckingLit)
+    - [r/philosophy](https://www.reddit.com/r/philosophy)
+    - [r/scifi](https://www.reddit.com/r/scifi)
 
 ---
 
 ## Mathematics
 - YouTube/
-    - [Numberphile1](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) - Brady Haran
-    - [Numberphile2](https://www.youtube.com/channel/UCyp1gCHZJU_fGWFf2rtMkCg) - Brady Haran
-    - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - Grant Sanderson
-    - [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg) - Burkard Polster
-    - [standupmaths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A) - Matt Parker
-    - [singingbanana](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA) - James Grime
-    - [Vihart](https://www.youtube.com/user/Vihart) - Victoria Hart
+    - [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) - Brady Haran.
+    - [Numberphile2](https://www.youtube.com/channel/UCyp1gCHZJU_fGWFf2rtMkCg) - Brady Haran.
+    - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - Grant Sanderson.
+    - [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg) - Burkard Polster.
+    - [standupmaths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A) - Matt Parker.
+    - [singingbanana](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA) - James Grime.
+    - [Vihart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg) - Victoria Hart.
+    - [Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A) - Steve Mould.
+    - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
+    - [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg)
+    - [blackpenredpen](https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA)
+    - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ)
 
 - Sites+Blogs/
     - [WolframAlpha](https://www.wolframalpha.com/)
@@ -99,8 +124,6 @@
     - [Better Explained](https://betterexplained.com/) - Finally understand math, don't memorize it.
     - [Things to Make and Do in the Fourth Dimension](https://makeanddo4d.com/)
     - [Great Internet Mersenne Prime Search - PrimeNet](https://www.mersenne.org/)
-    - [Terrence Tao's Blog](https;//terrytao.wordpress.com)
-    - [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
     - [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
     - [Mathematical Association of America Homepage](https://www.maa.org/)
     - [Brilliant](https://brilliant.org/) `paid`
@@ -112,40 +135,74 @@
     - [The On-Line Encyclopedia of Integer Sequences(OEIS)](https://oeis.org/) - 
     - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
     - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - a complete set of free online (and downloadable) notes/tutorials for classes that Prof. Paul Dawkins teaches at Lamar University.
-    - [Erich's Place](https://www2.stetson.edu/~efriedma/index.html) - Prof. Erich Friedman's Place.
+
+- People/
+    - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
+    - [Terrence Tao's Blog](https://terrytao.wordpress.com)
+    - [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
     - [3blue1brown](https://www.3blue1brown.com/) - By Grant Sanderson.
+    - [Erich's Place](https://www2.stetson.edu/~efriedma/index.html) - Prof. Erich Friedman's Webpage.
 
 - Reddit/
-    - [r/learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x)
+    - [r/learnmath](https://www.reddit.com/r/learnmath)
+    - [r/math](https://www.reddit.com/r/math)
 
 ---
 
 ## Tech:
 - YouTube/
-    - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) - Linus Sebastian
-    - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith
-    - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor
-    - [Techquikie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q) - Linus Sebastian
-    - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) - Linus Sebastian
-    - [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A) - Tom Scott
-    - [Unbox Therapy](https://www.youtube.com/channel/UCsTcErHg8oDvUnTzoqsYeNw) - Lewis Hilsenteger
-    - [Marquees Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ) - Marquees Brownlee
-    - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - Brady Haran
-    - [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)- Dave Lee
-    - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A) - Dagogo Altraide
-    - [Curious Droid](https://www.youtube.com/channel/UC726J5A0LLFRxQ0SZqr2mYQ) - Paul Shillito
+    - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)- Mozilla.
+    - [Mozilla Hacks](https://www.youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA) - Mozilla.
+    - [Google](https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA) - Google.
+    - [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) - Google.
+    - [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg) - Y Combinator.
+    - [Apple](https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw) - Apple.
+    - [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) - Lex Fridman.
+    - [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ) - GitHub.
+    - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) - Linus Sebastian.
+    - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q) - Linus Sebastian.
+    - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) - Linus Sebastian.
+    - [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A) - Tom Scott.
+    - [Unbox Therapy](https://www.youtube.com/channel/UCsTcErHg8oDvUnTzoqsYeNw) - Lewis Hilsenteger.
+    - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ) - Marquees Brownlee.
+    - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - Brady Haran.
+    - [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) - Dave Lee.
+    - [Bill Gates](https://www.youtube.com/channel/UCnEiGCE13SUI7ZvojTAVBKw) - Bill Gates.
+    - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A) - Dagogo Altraide.
+    - [WIRED](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw) - WIRED.
+    - [Curious Droid](https://www.youtube.com/channel/UC726J5A0LLFRxQ0SZqr2mYQ) - Paul Shillito.
     - [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg) - Evan from Polymatter :)
-    - [The Modern Rogue](https://www.youtube.com/channel/UC42VsoDtra5hMiXZSsD6eGg) - Brian Brushwood, Jason Murphy
-    - [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ) - ThioJoe
+    - [The Modern Rogue](https://www.youtube.com/channel/UC42VsoDtra5hMiXZSsD6eGg) - Brian Brushwood, Jason Murphy.
     - [Captain Disillusion](https://www.youtube.com/channel/UCEOXxzW2vU0P-0THehuIIeg) - Captain Disillusion :)
     - [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)
-    - [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw)
-    - [Google](https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA)
-    - [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
-    - [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ) - Dave Cohen
+    - [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ) - WSJ.
+    - [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw) - Android Authority.
+    - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+    - [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
+    - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+    - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+    - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
+    - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+    - [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
 
 - Reddit/
-    - [r/technology](https://www.reddit.com/r/technology/)
+    - [r/technology](https://www.reddit.com/r/technology)  
+    - [r/Bitcoin](https://www.reddit.com/r/Bitcoin)
+    - [r/ethereum](https://www.reddit.com/r/ethereum)
+    - [r/Monero](https://www.reddit.com/r/Monero)
+    - [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi)
+    - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency)
+    - [r/geek](https://www.reddit.com/r/geek)
+    - [r/LineageOS](https://www.reddit.com/r/LineageOS)
+    - [r/cybersecurity](https://www.reddit.com/r/cybersecurity)
+    - [r/DataHoarder](https://www.reddit.com/r/DataHoarder)
+    - [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+    - [r/DesignPorn](https://www.reddit.com/r/DesignPorn)
+    - [r/hacking](https://www.reddit.com/r/hacking)
+    - [r/pihole](https://www.reddit.com/r/pihole)
+    - [r/Piracy](https://www.reddit.com/r/Piracy)
+    - [r/teslamotors](https://www.reddit.com/r/teslamotors)
+    - [r/TOR](https://www.reddit.com/r/TOR)
 
 - Sites+Blogs/
     - Privacy
@@ -163,6 +220,11 @@
       - [Mozilla Hacks](https://hacks.mozilla.org/)
       - [NordVPN Blog](https://nordvpn.com/blog/)
       - [ExpressVPN Blog](https://www.expressvpn.com/blog/)
+      - [Stop Using Facebook](https://www.stopusingfacebook.co/)
+      - [ethical.net](https://ethical.net/)
+      - [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
+      - [Restore Privacy](https://restoreprivacy.com/)
+      - [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
 
     - Blogs
       - [Distill](https://distill.pub/) - articles about machine learning
@@ -170,48 +232,53 @@
       - [StackOverflow Blog](https://stackoverflow.blog/)
       - [Twilio Blog](https://www.twilio.com/blog)
       - [Coding Horror](https://blog.codinghorror.com/)
-      - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
+      - [GitHub Blog](https://github.blog/)
       - [Kalzumeus by Patrick McKenzie](https://www.kalzumeus.com/)
       - [Brett Cannon](https://snarky.ca/)
       - [Neopythonic by Guido van Rossum](https://neopythonic.blogspot.com/)
       - [Sara Soueidan's Blog](https://www.sarasoueidan.com/)
       - [2ality by Dr. Axel Rauschmayer](https://2ality.com/) - JavaScript and more.
+      - [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products
+      - [Salvatore Sanfilippo's Blog](http://antirez.com)
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
-      - [Evan Selinger](https://medium.com/@evanselinger)
-      - [Blake Ross](https://medium.com/@blakeross)
+      - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
+      - [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
       - [Sindre Sorhus](https://medium.com/@sindresorhus)
       - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
       - [Netflix TechBlog](https://medium.com/netflix-techblog)
       - [Discord Blog](https://blog.discordapp.com/)
       - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
+      - [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
+      - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
+      - [Smashing Magazine](https://medium.com/@smashingmag) - useful and innovative information to web designers and developers.
 
     - NerdStuff:
       - [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
-      - [DistroWatch](https://distrowatch.com/dwres.php?resource=about)
-      - [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products
-      - [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
-      - [HowToGeek](https://www.howtogeek.com/)
-      - [Wait But Why](https://waitbutwhy.com/)
       - [secretGeekWiki](http://wiki.secretgeek.net/About)
+      - [DistroWatch](https://distrowatch.com)
+      - [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
+      - [Wait But Why](https://waitbutwhy.com/)
       - [It's FOSS](https://itsfoss.com/)
       - [Logical Increments](http://www.logicalincrements.com/) - PC building guides
 
     - Miscellaneous:
       - [Hacker News](https://news.ycombinator.com/)([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
+      - [n-gate.com](http://n-gate.com/) - we can't both be right.
+      - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
+      - [Best of Show HN all time](https://bestofshowhn.com/)
       - [Lobsters](https://lobste.rs/)
       - [Stack Overflow](https://stackoverflow.com/)
-      - [n-gate.com](http://n-gate.com/) - we can't both be right.
       - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
-      - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
-      - [Pythonic News](https://news.python.sc/)
       - [Reddit](https://reddit.com/)
       - [Slashdot](https://www.slashdot.org/)
       - [Stratechery by Ben Thompson](https://stratechery.com/)
       - [dev.to](https://dev.to/)
       - [Indie Hackers](https://www.indiehackers.com/)
       - [Medium](https://medium.com/)
+      - [Dribble](https://dribbble.com/) - Find and showcase creative work from world's best design professionals.
+      - [Triplebyte](https://triplebyte.com/) - Software Engineer Job Search.
       - [fossjobs.net](https://www.fossjobs.net/)
       - [Linux.com](https://www.linux.com/) - resource for open source professionals to learn about the latest in Linux and open source technology.
       - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
@@ -225,14 +292,14 @@
       - [Google Open Source](https://opensource.google/)
       - [Google Developers Blog](https://developers.googleblog.com/)
       - [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News
-      - [The Blog of Paul Graham](http://www.paulgraham.com/articles.html)
-      - [REUTERS](https://www.reuters.com)
+      - [Reuters](https://www.reuters.com)
       - [Ars Technica](https://arstechnica.com/)
       - [TechCrunch](https://techcrunch.com/)
+      - [The Guardian](https://www.theguardian.com/)
+      - [The Verge](https://www.theverge.com/)
       - [Harvard Business Review](https://hbr.org/)
       - [Stratechery](https://stratechery.com)
       - [Serializer](https://serializer.io)
-      - [How-To-Geek](https://www.howtogeek.com/)
       - [Engadget](https://www.engadget.com/)
       - [YCombinator](https://www.ycombinator.com)
       - [BoingBoing](https://boingboing.net/)
@@ -242,6 +309,7 @@
       - [HowStuffWorks](https://www.howstuffworks.com/)
       - [aeon](https://aeon.co/) - Essays, Ideas, Videos
       - [lifewire](https://lifewire.com)
+      - [HowToGeek](https://www.howtogeek.com/)
 
     - Hacking
       - [Null Byte](https://null-byte.wonderhowto.com/)
@@ -253,22 +321,31 @@
       - [PHD Comics](http://phdcomics.com/)
 
     - People
-      - [Dennis Ritchie Home Page](https://www.bell-labs.com/usr/dmr/www/)
-      - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
+      - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
+      - [Don Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
       - [Paul Graham](http://paulgraham.com/)
       - [Gates Notes](http://gatesnotes.com/)
-      - [Eric S. Raymond's Home Page](http://www.catb.org/esr/)
-      - [Richard Stallman's Personal Page](https://www.stallman.org/)
-      - [Bjarne Stroustrup's Homepage](http://www.stroustrup.com/index.html)
-      - [Stephen Wolfram: Official Website](https://www.stephenwolfram.com/)
-      - [The View from Aristeia- Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
+      - [Eric S. Raymond](http://www.catb.org/esr/)
+      - [Richard Stallman](https://www.stallman.org/)
+      - [Bjarne Stroustrup](http://www.stroustrup.com/index.html)
+      - [Joel Spolsky](https://www.joelonsoftware.com/)
+      - [Stephen Wolfram](https://www.stephenwolfram.com/)
+      - [The View from Aristeia - Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
+      - [Peter Norwig](http://norvig.com/)
+      - [Douglas Crockford](https://www.crockford.com/)
       - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
       - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
-      - [Peter Norwig](http://norvig.com/)
-      - [Brett Slatkin's Webpage](https://www.onebigfluke.com/)
-      - [Jessie Frazelle's Blog](https://blog.jessfraz.com/)
-      - [Douglas Crockford's Webpage](https://www.crockford.com/)
-      - [Fabrice Bellard's Home Page](https://bellard.org/)
-      - [Chet Ramey's Home Page](https://tiswww.case.edu/php/chet/)
+      - [Brett Slatkin](https://www.onebigfluke.com/)
+      - [Jamie Zawinski](https://www.jwz.org/)
+      - [Jessie Frazelle](https://blog.jessfraz.com/)
+      - [Fabrice Bellard](https://bellard.org/)
+      - [Marijn Haverbeke](https://marijnhaverbeke.nl/)
+      - [Chet Ramey](https://tiswww.case.edu/php/chet/)
       - [Sindre Sorhus](https://sindresorhus.com/)
       - [Kenneth Reitz](https://www.kennethreitz.org/)
+      - [Derek Sivers](https://sivers.org/)
+    
+    - Reddit Profiles
+      - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.
+      - [u/thisisbillgates](https://www.reddit.com/user/thisisbillgates) - Bill Gates.
+      - [u/GovSchwarzenegger](https://www.reddit.com/user/GovSchwarzenegger) - Arnold Schwarzenegger.

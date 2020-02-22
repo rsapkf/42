@@ -14,7 +14,7 @@ If you would like to improve this project by adding/suggesting edits to the cont
 
 * Follow this convention: `[resource](link) - a short concise description` and try to put highly recommended resources first.
 
-* If you want to open a pull request for fixing typos/minor changes, make at least 5 changes. If you want to add description to links, add at least 10.
+* Please do not open a new PR for minor typos/spelling mistakes. If you want to add description to links, add at least 10.
 
 * Check spelling and grammar.
 
@@ -24,10 +24,6 @@ If you would like to improve this project by adding/suggesting edits to the cont
 
 * Your contribution may be denied if the resource does not satisfy necessary curation.
 
-* This repo loves open source and Linux. If your resource is closed-source or Windows/Mac specific, it may have to go through a stricter review.
+* This repo loves open source and Linux. If your resource is closed-source and/or Windows/Mac specific, it may have to go through a stricter review.
 
 Now let's make this list awesome and even more valuable!
-
-## Todo:
-- Add short description to each of the links(follow [these](https://github.com/sindresorhus/awesome/issues/928) guidelines).
-- Better categorization

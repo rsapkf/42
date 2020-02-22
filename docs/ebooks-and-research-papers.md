@@ -30,10 +30,16 @@
 ### Research Papers:
 - Sites/
     - [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
-    - [unpaywall.org](https://unpaywall.org/) - [Unpaywall Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/unpaywall/?src=featured)
+    - [unpaywall.org](https://unpaywall.org/) - [Unpaywall Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/unpaywall)
     - [arXiv.org](https://arxiv.org/)
     - [lmfdb.org](http://www.lmfdb.org/)
     - [Google Scholar](https://scholar.google.com/)
 
 - Twitter/
     - [#ICanHazPDF](https://en.wikipedia.org/wiki/ICanHazPDF)
+    
+---
+
+### Audiobooks:
+- Sites/
+    - [LibriVox](https://librivox.org/) ([Android](https://play.google.com/store/apps/details?id=app.librivox.android&hl=en_US) / [iOS](https://apps.apple.com/us/app/librivox-audio-books/id596159212))

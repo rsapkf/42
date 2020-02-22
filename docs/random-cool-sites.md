@@ -14,7 +14,7 @@
     - [Google Ngram Viewer](https://books.google.com/ngrams)
     - [Gmail Search Operators](https://support.google.com/mail/answer/7190)
     - [Keanu Reeves is Immortal](https://www.keanuisimmortal.com/)
-    - [Youglish](https://youglish.com/) - Use YouTube to improve your English pronunciation
+    - [Youglish](https://youglish.com/) - Use YouTube to improve your English pronunciation.
     - [txti](http://txti.es/) - Fast web pages for everybody.
     - [Pete's QBASIC/QuickBasic Site](http://www.petesqbsite.com/index.php)
     - [oldweb.today](http://oldweb.today/)
@@ -25,10 +25,13 @@
     - [Sketchysite](https://www.sketchywebsite.net/) - You can trust this.
     - [Emojipedia](https://emojipedia.org/) - Emojipedia
     - [TimeAndDate.com](https://www.timeanddate.com/)
-    - [Wedframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
+    - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
+    - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
 
 - YouTube/
-    - [Lemmino](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
+    - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
+    - [PowerfulJRE](https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ) - Joe Rogan.
+    - [Sam Harris](https://www.youtube.com/channel/UCNAxrHudMfdzNi6NxruKPLw) - Sam Harris.
     - [vlogbrothers](https://www.youtube.com/channel/UCGaVdbSav8xWuFWTadK6loA)
     - [The Infographics Show](https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA)
     - [ERB](https://www.youtube.com/channel/UCMu5gPmKp5av0QCAajKTMhw)
@@ -37,35 +40,147 @@
     - [Nexpo](https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw)
     - [Exploring Alternatives](https://www.youtube.com/channel/UC8EQAfueDGNeqb1ALm0LjHA)
     - [How It Should Have Ended](https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ)
-    - [bald and bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
-    - [Big Think](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
-    - [Wired](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw)
+    - [bald and bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA) - Mr. Bald.
     - [Wisecrack](https://www.youtube.com/channel/UC6-ymYjG0SU0jUWnWh9ZzEQ)
     - [The Film Theorists](https://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q)
-    - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ) - Tim Blais
     - [Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w)
+    - [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
+    - [ScareTheater](https://www.youtube.com/channel/UCaGOgwGKnDVOKY0DrFsBAiA)
+    - [Sam O'Nella Academy](https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA)
+    - [Dude Perfect](https://www.youtube.com/channel/UCRijo3ddMTht_IHyNSNXpNQ)
+    - [What's Inside?](https://www.youtube.com/channel/UCSrPuHtKbst7Zy8pyWn_3Cg)
+    - [Household Hacker](https://www.youtube.com/channel/UCI4I6ldZ0jWe7vXpUVeVcpg)
+    - [JRE Clips](https://www.youtube.com/channel/UCnxGkOGNMqQEUMvroOWps6Q) - Joe Rogan.
+    - [Jordan B Peterson](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q) - Jordan B Peterson.
+    - [Naval](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg) - Naval Ravikant.
     
+- Reddit/
+    - Outdoors
+      - [r/camping](https://www.reddit.com/r/camping)
+      - [r/CampingandHiking](https://www.reddit.com/r/CampingandHiking)
+      - [r/hiking](https://www.reddit.com/r/hiking)
+      - [r/gardening](https://www.reddit.com/r/gardening)
+      - [r/Survival](https://www.reddit.com/r/Survival)
+
+    - Memes
+      - [r/HighQualityGifs](https://www.reddit.com/r/HighQualityGifs)
+      - [r/Unexpected](https://www.reddit.com/r/Unexpected)
+      - [r/MurderedByWords](https://www.reddit.com/r/MurderedByWords)
+      - [r/BrandNewSentence](https://www.reddit.com/r/BrandNewSentence)
+      - [r/iamverysmart](https://www.reddit.com/r/iamverysmart)
+      - [r/hmmm](https://www.reddit.com/r/hmmm)
+      - [r/wholesomememes](https://www.reddit.com/r/wholesomememes)
+      - [r/starterpacks](https://www.reddit.com/r/starterpacks)
+      - [r/MadeMeSmile](https://www.reddit.com/r/MadeMeSmile)
+      - [r/madlads](https://www.reddit.com/r/madlads)
+      - [r/4chan](https://www.reddit.com/r/4chan)
+      - [r/greentext](https://www.reddit.com/r/greentext)
+      - [r/BikiniBootomTwitter](https://www.reddit.com/r/BikiniBootomTwitter)
+
+    - Other 
+      - [r/news](https://www.reddit.com/r/news)
+      - [r/worldnews](https://www.reddit.com/r/worldnews)
+      - [r/UpliftingNews](https://www.reddit.com/r/UpliftingNews)
+      - [r/Videos](https://www.reddit.com/r/Videos)
+      - [r/books](https://www.reddit.com/r/books)
+      - [r/Art](https://www.reddit.com/r/Art)
+      - [r/Documentaries](https://www.reddit.com/r/Documentaries)
+      - [r/MovieDetails](https://www.reddit.com/r/MovieDetails)
+      - [r/movies](https://www.reddit.com/r/movies)
+      - [r/LifeProTips](https://www.reddit.com/r/LifeProTips)
+      - [r/pics](https://www.reddit.com/r/pics)
+      - [r/AskReddit](https://www.reddit.com/r/AskReddit)
+      - [r/IAmA](https://www.reddit.com/r/IAmA)
+      - [r/Damnthatsinteresting](https://www.reddit.com/r/Damnthatsinteresting)
+      - [r/Interestingasf ck](https://www.reddit.com/r/Interestingasfuck)
+      - [r/mildlyinteresting](https://www.reddit.com/r/mildlyinteresting)
+      - [r/wallpaper](https://www.reddit.com/r/wallpaper)
+      - [r/OutOfTheLoop](https://www.reddit.com/r/OutOfTheLoop)
+      - [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive)
+      - [r/YouShouldKnow](https://www.reddit.com/r/YouShouldKnow)
+      - [r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions)
+      - [r/quityourbullshit](https://www.reddit.com/r/quityourbullshit)
+      - [r/unpopularopinion](https://www.reddit.com/r/unpopularopinion)
+      - [r/nottheonion](https://www.reddit.com/r/nottheonion)
+      - [r/assholedesign](https://www.reddit.com/r/assholedesign)
+      - [r/CrappyDesign](https://www.reddit.com/r/CrappyDesign)
+      - [r/Jokes](https://www.reddit.com/r/Jokes)
+      - [r/podcasts](https://www.reddit.com/r/podcasts)
+      - [r/PoliticalHumor](https://www.reddit.com/r/PoliticalHumor)
+      - [r/politics](https://www.reddit.com/r/politics)
+      - [r/worldpolitics](https://www.reddit.com/r/worldpolitics)
+      - [r/coolguides](https://www.reddit.com/r/coolguides)
+      - [r/mildlyinfuriating](https://www.reddit.com/r/mildlyinfuriating)
+      - [r/BeAmazed](https://www.reddit.com/r/BeAmazed)
+      - [r/BetterEveryLoop](https://www.reddit.com/r/BetterEveryLoop)
+      - [r/woahdude](https://www.reddit.com/r/woahdude)
+      - [r/Music](https://www.reddit.com/r/Music)
+      - [r/IsItBullshit](https://www.reddit.com/r/IsItBullshit)
+      - [r/findareddit](https://www.reddit.com/r/findareddit)
+      - [r/IWantToLearn](https://www.reddit.com/r/IWantToLearn)
+      - [r/rickandmorty](https://www.reddit.com/r/rickandmorty)
+      - [r/breakingbad](https://www.reddit.com/r/breakingbad)
+
+- Podcasts/
+    - Science
+      - [The MindScape Podcast](https://www.preposterousuniverse.com/podcast/) - Sean Caroll.
+      - [StarTalk](https://www.startalkradio.net/) - Neil deGrasse Tyson, Chuck Norris.
+      - [Hello Internet](https://www.hellointernet.fm/) - CGP Grey, Brady Haran.
+      - [Radiolab](http://www.radiolab.org/)
+      - [The Skeptic's Guide to the Universe](https://www.theskepticsguide.org/)
+      - [Stuff You Should Know](https://stuffyoushouldknow.com/) - Josh Clark, Chuck Bryant
+      
+    - Math
+      - [The Numberphile Podcast](https://www.numberphile.com/podcast) - Brady Haran.
+
+    - Programming
+      - [Talk Python](https://talkpython.fm/) - Michael Kennedy.
+      - [Syntax](https://syntax.fm/)
+      - [The Changelog](https://changelog.com/podcast)
+      - [Codepen Radio](https://blog.codepen.io/radio/)
+      - [Software Engineering Daily](https://softwareengineeringdaily.com/)
+      - [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
+
+    - Technology
+      - [Recode Decode](https://www.vox.com/recode) - Kara Swicher.
+      - [Darknet Diaries](https://darknetdiaries.com/) - Jack Rhysider.
+      - [IRL: Online Life Is Real Life](https://irlpodcast.org/) - Mozilla.
+      - [TechStuff](https://www.iheart.com/podcast/105-techstuff-26941194/)
+      - [Reply All](https://gimletmedia.com/reply-all/)
+
+    - Philosophy/General
+      - [The Joe Rogan Experience](https://www.joerogan.com/#jre-section) - Joe Rogan.
+      - [Making Sense](https://samharris.org/podcast/) - Sam Harris.
+      - [Philosophize This!](http://philosophizethis.org/) - Stephen West.
+      - [The Jordan B. Peterson Podcast](https://www.jordanbpeterson.com/podcast/) - Jordan Peterson.
+      - [The NoSleep Podcast](https://www.thenosleeppodcast.com/)
+      - [Stuff You Missed In History Classes](https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/)
+      - [Stuff They Don't Want You To Know](https://www.iheart.com/podcast/182-stuff-they-dont-want-you-t-26941221/)
+      - [The Ben Shapiro Show](https://www.dailywire.com/show/the-ben-shapiro-show) - Ben Shapiro.
+  
 ---
     
 ### Lists, Articles
-- Ask HN Threads
+- Ask HN Threads/
     - [What do you self-host?](https://news.ycombinator.com/item?id=21235957)
     - [How to get your IP unbanned on HN.](https://news.ycombinator.com/item?id=4761102)
     - [What's the most valuable thing you can learn in an hour?](https://news.ycombinator.com/item?id=21581361)
     - [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
 
-- Wikipedia Pages
+- Wikipedia Pages/
     - [SOLID](https://en.wikipedia.org/wiki/SOLID)
     - [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))
     - [HTTP 451](https://en.wikipedia.org/wiki/HTTP_451)
+    - [Editor War](https://en.wikipedia.org/wiki/Editor_war)
+    - [Infobesity](https://en.wikipedia.org/wiki/Information_overload)
  
-- Other
+- Other/
     - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - Peter Norwig
     - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - Oracle Docs.
     - [0.30000000000000004.com](https://0.30000000000000004.com/) - Floating Point Math.
     - [Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
     - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
-    - [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
+    - [How to store dotfiles - Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
     - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
     - [DuckDuckGo Instant Answers](https://duck.co/ia)
     - [How to speak Silicon Valley: 53 essential tech-bro terms explained - The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)

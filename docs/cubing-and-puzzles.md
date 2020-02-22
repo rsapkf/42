@@ -12,5 +12,5 @@
 
 ## Other
 - YouTube/
-    - [Scam Nation](https://www.youtube.com/channel/UCRd9JHiQvqwT8O4d0QGI9jQ)
-    - [Chris Ramsay](https://www.youtube.com/channel/UCrPUg54jUy1T_wII9jgdRbg)    
+    - [Scam Nation](https://www.youtube.com/channel/UCRd9JHiQvqwT8O4d0QGI9jQ) - Brian Brushwood.
+    - [Chris Ramsay](https://www.youtube.com/channel/UCrPUg54jUy1T_wII9jgdRbg) - Chris Ramsay.

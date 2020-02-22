@@ -1,5 +1,7 @@
 # Privacy Tools
 
+**Note**: This file only contains resources that are NOT in the [./linux-configuration.md](./linux-configuration.md) section.
+
 ## Contents:
 - [Cloud Storage](#cloud-storage)
 - [Email Providers](#email-providers)
@@ -87,22 +89,29 @@ See Also:
 
 ---
 
+### Instant Messaging:
+- [Signal](https://signal.org/) - Secure Messaging Service.
+- [Telegram](https://telegram.org/) - Messaging app with a focus on speed and security.
+
+---
+
 ### More Resources:
 Sites/
+- [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 - [OpenStreetMap](https://www.openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
 - [Fediverse](https://fediverse.party/)
 - [Track This](https://trackthis.link) - A new kind of Incognito.
 - [Panopticlick](https://panopticlick.eff.org/) - Is your browser safe against tracking?
-- [Restore Privacy](https://restoreprivacy.com/)
-- [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
-- [ethical.net](https://ethical.net/)
 - [privacytools.io](https://www.privacytools.io/)
-- [Stop Using Facebook](https://www.stopusingfacebook.co/)
+- [Google Takeout](https://takeout.google.com/) - Export a copy of content in your Google Account.
+- [Google My Activity](https://myactivity.google.com/myactivity) - Deactivate all Google Activitty logs.
+- [YouTube Subscription Manager](https://www.youtube.com/subscription_manager) - Export your YouTube Subscriptions to OPML.
 
 Reddit/
-- [This](https://www.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/?utm_source=share&utm_medium=web2x) thread on [r/privacy](https://old.reddit.com/r/privacy/) - Cutting Google out of your life.
-- [r/privacy wiki](https://old.reddit.com/r/privacy/wiki/de-google)
-- [r/privacytoolsIO](https://old.reddit.com/r/privacytoolsIO/)
+- [This](https://www.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/?utm_source=share&utm_medium=web2x) thread on [r/privacy](https://www.reddit.com/r/privacy/) - Cutting Google out of your life.
+- [r/privacy wiki](https://www.reddit.com/r/privacy/wiki/de-google)
+- [r/privacy](https://www.reddit.com/r/privacy)
+- [r/privacytoolsIO](https://www.reddit.com/r/privacytoolsIO)
 
 GitHub/
 - [Kickball/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)

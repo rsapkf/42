@@ -36,20 +36,17 @@
     - [Google CodeLabs](https://codelabs.developers.google.com)
     - [Google Developers Certification](https://developers.google.com/certification) - demonstrate your proficiency and skill and earn certifications.
 
-- GitHub/
-    - [ossu/computer-science](https://github.com/ossu/computer-science)
-    - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs)
-    - [machinelearningmindset/machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)
-    - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-    - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides)
-
 - YouTube/
     - [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
-    - [Stanford](https://www.youtube.com/user/StanfordUniversity)
+    - [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
     - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+    - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) - MIT.
+    - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ) - Prof. Steven Skiena.
 
 ### Courses
-- [Open Source Guides](https://opensource.guide/) - Learn how to launch and grow your project.
+- [Open Source Guides - GitHub](https://opensource.guide/) - Learn how to launch and grow your project.
 - [The Theoretical Minimum Lectures](https://theoreticalminimum.com/) - Leonard Susskind
 - [CS 144: Introduction to Computer Networking, Fall 2019 - Stanford](https://cs144.github.io/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2019 - Stanford](http://cs231n.stanford.edu/)
+- [The Missing Semester of Your CS Education - MIT](https://missing.csail.mit.edu/) ([GitHub](https://github.com/missing-semester/missing-semester))
+- [mlcourse.ai](https://mlcourse.ai/) ([GitHub](https://github.com/Yorko/mlcourse.ai))

@@ -1,6 +1,6 @@
 # Linux Configuration
 
-**Note**: This file only contains resources that are NOT in the [./github-gitlab-stars.md#Tools#Linux](https://github.com/rsapkf/goodies/blob/master/docs/github-gitlab-stars.md#tools) section.
+**Note**: This file only contains resources that are NOT in the [./github-gitlab-stars.md#Tools#Linux](./github-gitlab-stars.md#tools) section.
 
 ## Contents
 - [Distros](#distros)
@@ -17,6 +17,7 @@
 - [Terminal Applications](#terminal-applications)
 - [Graphical Applications](#graphical-applications)
 - [YouTube Channels](#youtube-channels)
+- [Subreddits](#subreddits)
 - [Extra Resources](#extra-resources)
 
 ---
@@ -158,18 +159,52 @@ See Also:
 - [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
 - [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
 
-See Also [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
+See Also
+- [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
+- [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page)
+- [Debian Wiki](https://wiki.debian.org/)
 
 ---
 
 ### YouTube Channels
-- [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith
-- [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor
+- [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith.
+- [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor.
+- [gotbletu](https://www.youtube.com/channel/UCkf4VIqu3Acnfzuk3kRIFwA)
+- [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ) - Dave Cohen.
+- [Wolfgang's Channel](https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg)
+- [Chris Titus Tech](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
+
+---
+
+### Subreddits
+- [r/unixporn](https://www.reddit.com/r/unixpornunixporn)
+- [r/vim](https://www.reddit.com/r/vimvim)
+- [r/archlinux](https://www.reddit.com/r/archlinuxarchlinux)
+- [r/i3wm](https://www.reddit.com/r/i3wmi3wm)
+- [r/linux](https://www.reddit.com/r/linux)
+- [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
+- [r/debian](https://www.reddit.com/r/debian)
+- [r/kde](https://www.reddit.com/r/kde)
 
 ---
 
 ### Extra Resources
 - [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [GNU Recommendations](https://www.gnu.org/software/free-software-for-education.html)
+- [Free Software Foundation](https://www.fsf.org/)
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Main_Page)
+- [opensource.com](https://opensource.com/alternatives)
+- [List of applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
+- [Luke Smith's Programs and Equipments](https://lukesmith.xyz/programs.html)
+- [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)
+- [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
+- [suckless.org](https://suckless.org/) - software that sucks less
+- [Encyclopedia of things considered harmful](http://harmful.cat-v.org/)
+- [freedesktop.org](https://www.freedesktop.org/wiki/)
+- [SourceForge](https://sourceforge.net/)
+- [AlternativeTo](https://alternativeto.net/)
+- [Slant](https://www.slant.co/) - Choose the best
+- [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
 - [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
 - [GNU Readline Cheatsheet- VI Mode](http://readline.kablamo.org/vi.html)([Emacs Mode](http://readline.kablamo.org/emacs.html))
 - [crontab guru](https://crontab.guru/)
