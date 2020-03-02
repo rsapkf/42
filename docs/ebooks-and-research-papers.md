@@ -10,8 +10,8 @@
     - [Project Gutenberg](https://www.gutenberg.org/)
     - [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)
     - [freecomputerbooks.com](http://freecomputerbooks.com/)
-    - [BookLid.org](http://en.booklid.org/)
-    - [ZLibrary](https://b-ok.cc/)
+    - [ZLibrary](https://b-ok.org/)
+    - [The Pirate Bay](https://en.wikipedia.org/wiki/The_Pirate_Bay)
 
 - GitHub/
     - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)

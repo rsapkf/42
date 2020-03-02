@@ -8,7 +8,8 @@
     - [Coursera](https://www.coursera.org/)
     - [CodeAcademy](https://www.codecademy.com/)
     - [deeplearning.ai](https://www.deeplearning.ai/)
-    - [Hyperskill](https://hi.hyperskill.org/projects3)
+    - [Startup School](https://www.startupschool.org/)
+    - [Hyperskill | JetBrains Academy](https://hi.hyperskill.org)
     - [MOOC.fi](https://www.mooc.fi/en/)
     - [fast.ai](https://www.fast.ai/) - Making neural nets uncool again
     - [nand2tetris](https://www.nand2tetris.org/)
@@ -44,6 +45,7 @@
     - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ) - Prof. Steven Skiena.
 
 ### Courses
+- [Linux From Scratch](http://www.linuxfromscratch.org/) - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
 - [Open Source Guides - GitHub](https://opensource.guide/) - Learn how to launch and grow your project.
 - [The Theoretical Minimum Lectures](https://theoreticalminimum.com/) - Leonard Susskind
 - [CS 144: Introduction to Computer Networking, Fall 2019 - Stanford](https://cs144.github.io/)

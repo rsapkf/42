@@ -1,5 +1,7 @@
 # Web Development
 
+**Note**: This file only contains resources that are NOT in the [./open-source-software.md#Learning](./open-source-software.md#Learning) file.
+
 >If you are completely new to web development, **I HIGHLY RECOMMEND** you visit these links first:
 
 Roadmap to Web Development:
@@ -37,7 +39,6 @@ Roadmap to Web Development:
 
 ### Command Line:
 - Sites/
-    - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
     - [SS64 (Command line reference - Database and OS scripting)](https://ss64.com/)
 
 ---
@@ -50,10 +51,9 @@ Roadmap to Web Development:
     - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
     - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
     - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
+    - [Official GitHub Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 - GitHub/
-    - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
-    - [git-tips/tips](https://github.com/git-tips/tips)
     - [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
 
 - Git Clients/
@@ -99,17 +99,7 @@ Roadmap to Web Development:
       - [William Vincent's JavaScript Guide](https://wsvincent.com/javascript-guide/)
       - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - By Kyle Cook.
       - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
-        
-    - GitHub/
-      - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) (Website - [The Modern JavaScript Tutorial](https://javascript.info/))
-      - [You Don't Know JS](https://github.com/getify) by [Kyle Simpson](https://twitter.com/getify)
-      - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-      - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-      - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-      - [airbnb/javascript](https://github.com/airbnb/javascript)
-      - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-      - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-      - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+      - [Rodrigo Pombo's Blog](https://pomb.us/)
 
     - YouTube/
       - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - Quincy Larson.
@@ -138,9 +128,6 @@ Roadmap to Web Development:
       - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
       - [CSS Gradient](https://cssgradient.io/) - free tool that lets you create a gradient background for websites and technical articles.
 
-    - GitHub/
-      - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
-
     - YouTube/
       - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 
@@ -165,9 +152,6 @@ Roadmap to Web Development:
       - [Ned Batchelder's Blog](https://nedbatchelder.com/)
       - [Trey Hunner's Blog](https://treyhunner.com/)
       - [Python Developer’s Guide](https://devguide.python.org/) - A comprehensive resource for contributing to Python.
-
-    - GitHub/
-      See [github-gitlab-stars.md/python](github-gitlab-stars.md/#python)
 
     - YouTube/
       - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
@@ -199,7 +183,8 @@ Roadmap to Web Development:
     - Sites/
       - [Official React Docs](https://reactjs.org/docs/hello-world.html)
       - [Official Tutorial for building a small game using React](https://reactjs.org/tutorial/tutorial.html)
-      - [Overreacted](https://overreacted.io/) - A blog by Dan Abramov
+      - [Overreacted](https://overreacted.io/) - Dan Abramov, Creator of ReduxJS.
+      - [Josh W. Comeau](https://joshwcomeau.com/) - Josh W. Comeau, Developer @GatsbyJS.
 
 - #### Redux(JavaScript):
     - Sites/
@@ -253,7 +238,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
     - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
     - [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
     - [Forestry](https://forestry.io/) - A static CMS that commits.
-    - [GatsbyGuides](https://gatsbyguides.com/) - Build blazing fast web applications with Gatsby 101
+    - [GatsbyGuides](https://gatsbyguides.com/) - Build blazing fast web applications with Gatsby 101.
         
 ---
 
@@ -290,9 +275,6 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
     - [Regex Crossword](https://regexcrossword.com/)
     - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
-- GitHub/
-    - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
-
 ---
 
 ### Developer Tools:
@@ -306,6 +288,7 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
     - [LogoMakr](https://logomakr.com/) `freemium`
     - [Figma](https://www.figma.com/) - collaborative interface design tool `closed-source` `freemium`
     - [svgator](https://www.svgator.com) - SVG Animation Creator `commercial`
+    - [Neumorphism.io](https://neumorphism.io/) - Soft UI CSS shadow generator.
 
 - Speed Test/
     - [Speedtest.net by Ookla](https://www.speedtest.net/)
@@ -325,65 +308,76 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
     - [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.
     - [Cool Backgrounds](https://coolbackgrounds.io/) - collection of tools to create compelling, colorful images for blogs and websites.
     
+- Deployment/
+    - [Cloudflare](https://www.cloudflare.com/) - The Integrated Global Cloud Platform.
+    - [Netlify](https://netlify.com) -  Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
+    - [Heroku](https://www.heroku.com/) - Build data-driven apps with fully managed data services.
+    - [ZEIT Now](https://zeit.co/) - The easiest way to deploy websites.
+    - [surge](https://surge.sh/) - Static web publishing for Front-End Developers.
+    
 ---
 
 ### Extra Resources:
 - YouTube/
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
-- [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
-- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - Jeff from Fireship :)
-- [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
-- [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA) - Caleb Curry.
-- [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) - Clément Mihailescu.
-- [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
-- [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
-- [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+  - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  - [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
+  - [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
+  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - Jeff from Fireship :)
+  - [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
+  - [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA) - Caleb Curry.
+  - [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) - Clément Mihailescu.
+  - [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+  - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+  - [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+  - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 
 - Codepen Profiles/
-    - [Chris Coyier](https://codepen.io/chriscoyier) - Founder of CSS-Tricks.
-    - [Florin Pop](https://codepen.io/FlorinPop17)
-    - [Hakim El Hattab](https://codepen.io/hakimel) - Creator of reveal.js.
+  - [Chris Coyier](https://codepen.io/chriscoyier) - Founder of CSS-Tricks.
+  - [Florin Pop](https://codepen.io/FlorinPop17)
+  - [Hakim El Hattab](https://codepen.io/hakimel) - Creator of reveal.js.
     
 - Dribble Profiles/
-    - [Google](https://dribbble.com/google)
+  - [Google](https://dribbble.com/google)
 
 - Reddit/
-    - [r/git](https://www.reddit.com/r/git)
-    - [r/programming](https://www.reddit.com/r/programming)
-    - [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)
-    - [r/MachineLearning](https://www.reddit.com/r/MachineLearning)
-    - [r/webdev](https://www.reddit.com/r/webdev)
-    - [r/devops](https://www.reddit.com/r/devops)
-    - [r/Python](https://www.reddit.com/r/Python)
-    - [r/django](https://www.reddit.com/r/django)
-    - [r/node](https://www.reddit.com/r/node)
-    - [r/compsci](https://www.reddit.com/r/compsci)
-    - [r/C_Programming](https://www.reddit.com/r/C_Programming)
-    - [r/cpp](https://www.reddit.com/r/cpp)
-    - [r/golang](https://www.reddit.com/r/golang)
-    - [r/haskell](https://www.reddit.com/r/haskell)
-    - [r/java](https://www.reddit.com/r/java)
-    - [r/javascript](https://www.reddit.com/r/javascript)
-    - [r/rust](https://www.reddit.com/r/rust)
-    - [r/emacs](https://www.reddit.com/r/emacs)
+  - [r/git](https://www.reddit.com/r/git)
+  - [r/programming](https://www.reddit.com/r/programming)
+  - [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)
+  - [r/MachineLearning](https://www.reddit.com/r/MachineLearning)
+  - [r/webdev](https://www.reddit.com/r/webdev)
+  - [r/devops](https://www.reddit.com/r/devops)
+  - [r/Python](https://www.reddit.com/r/Python)
+  - [r/django](https://www.reddit.com/r/django)
+  - [r/node](https://www.reddit.com/r/node)
+  - [r/compsci](https://www.reddit.com/r/compsci)
+  - [r/C_Programming](https://www.reddit.com/r/C_Programming)
+  - [r/cpp](https://www.reddit.com/r/cpp)
+  - [r/golang](https://www.reddit.com/r/golang)
+  - [r/haskell](https://www.reddit.com/r/haskell)
+  - [r/java](https://www.reddit.com/r/java)
+  - [r/javascript](https://www.reddit.com/r/javascript)
+  - [r/rust](https://www.reddit.com/r/rust)
+  - [r/emacs](https://www.reddit.com/r/emacs)
 
 - Sites/
-    - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
-    - [Devhints](https://devhints.io/) - TL;DR for developer documentation
-    - [The changelog](https://changelog.com/)
-    - [repl.it](https://repl.it/)
-    - [Glitch](https://glitch.com/)
-    - [Learn-Anything](https://learn-anything.xyz/)
-    - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
-    - [freeCodeCamp Guide](https://guide.freecodecamp.org/) - articles about all things related to programming.
-    - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
-    - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
-    - [JAMstack](https://jamstack.org/) - JavaScript, APIs, and Markup
-    - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
-    - [tuts+](https://tutsplus.com/)
-    - [The Twelve-Factor App](https://12factor.net/)
-    - [Twilio Tutorials](https://www.twilio.com/docs/tutorials)
-    - [Pusher Developer Tutorials](https://pusher.com/tutorials)
-    - [Cooperpress](https://cooperpress.com/) - Weekly email newsletters to developers and software engineers.
-    - [RisingStack Blog](https://blog.risingstack.com/)
+  - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
+  - [Devhints](https://devhints.io/) - TL;DR for developer documentation
+  - [The changelog](https://changelog.com/)
+  - [repl.it](https://repl.it/)
+  - [Grep.app](https://grep.app/) - Search code in GitHub repos using regular expressions.
+  - [Glitch](https://glitch.com/)
+  - [Learn-Anything](https://learn-anything.xyz/)
+  - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
+  - [freeCodeCamp Guide](https://guide.freecodecamp.org/) - articles about all things related to programming.
+  - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
+  - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+  - [JAMstack](https://jamstack.org/) - JavaScript, APIs, and Markup
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
+  - [tuts+](https://tutsplus.com/)
+  - [thoughtbot Blog](https://thoughtbot.com/blog) - Giant Robots Smashing Into Other Giant Robots.
+  - [The Twelve-Factor App](https://12factor.net/)
+  - [Twilio Tutorials](https://www.twilio.com/docs/tutorials)
+  - [scotch.io](https://scotch.io/) - fun and practical web development tutorials.
+  - [Pusher Developer Tutorials](https://pusher.com/tutorials)
+  - [Cooperpress](https://cooperpress.com/) - Weekly email newsletters to developers and software engineers.
+  - [RisingStack Blog](https://blog.risingstack.com/)

@@ -31,12 +31,13 @@
 - [pshrmn/notes](https://github.com/pshrmn/notes) - Quick references to remember how various things work.
 - [victorqribeiro/hntitlenator](https://github.com/victorqribeiro/hntitlenator) - Test your HN title against a neural network.
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io.
-  
+- [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io) - A curated list of startpages for your browser.
+
 ### YouTube
 - [PewDiePie](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw) - Felix Kjellberg.
 - [MrBeast](https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA) - Jimmy Donaldson.
 - [Ben Shapiro](https://www.youtube.com/channel/UCnQC_G5Xsjhp9fEJKuIcrSw) - Ben Shapiro.
-  
+
 ### Other Resources
 - [SymPy Gamma](https://sympygamma.com/) - A SymPy version of WolframAlpha.
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)

@@ -34,6 +34,7 @@
     - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Simon Giertz.
     - [Sixty Symbols](https://www.youtube.com/channel/UCvBqzzvUBLCs8Y7Axb-jZew) - Brady Haran.
     - [SmarterEveryDay](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA) - Destin Sandlin.
+    - [Smarter Every Day 2](https://www.youtube.com/channel/UC8VkNBOwvsTlFjoSnNSMmxw) - Destin Sandlin.
     - [SpaceX](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) - Elon Musk and Company :)
     - [TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA) - TED.
     - [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) - TED.
@@ -48,11 +49,16 @@
     - [Vsauce2](https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw) - Kevin Lieber.
     - [Vsauce3](https://www.youtube.com/channel/UCwmFOfFuvRPI112vR5DNnrA) - Jake Roper.
     - [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) - Michael Stevens.
+      - [MindField Season 1](https://www.youtube.com/watch?v=iqKdEhx-dD4&list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2)
+      - [MindField Season 2](https://www.youtube.com/watch?v=1sl5KJ69qiA&list=PLZRRxQcaEjA7wmh3Z6EQuOK9fm1CqnJCI)
+      - [MindField Season 3](https://www.youtube.com/watch?v=ktkjUjcZid0&list=PLZRRxQcaEjA7LX19uAySGlc9hmprBxfEP)
     - [Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew) - Stephen Welch.
     - [Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ) - Wendover Productions.
     - [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g) - What If.
     - [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) - Henry Reich.
     - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ) - Tim Blais.
+    - [Applied Science](https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw) -  Ben Krasnow.
+    - [Geography Now](https://www.youtube.com/channel/UCmmPgObSUPw1HL2lq6H4ffA) - Paul Barbs.
     - [Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA)
     - [StarTalk](https://www.youtube.com/channel/UCqoAEDirJPjEUFcF2FklnBA)
     - [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
@@ -177,6 +183,8 @@
     - [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)
     - [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ) - WSJ.
     - [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw) - Android Authority.
+    - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - Patrick Shyu.
+    - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
     - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
     - [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
     - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
@@ -184,6 +192,8 @@
     - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
     - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
     - [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
+    - [JerryRigEverything](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ)
+    - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 
 - Reddit/
     - [r/technology](https://www.reddit.com/r/technology)  
@@ -240,6 +250,7 @@
       - [2ality by Dr. Axel Rauschmayer](https://2ality.com/) - JavaScript and more.
       - [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products
       - [Salvatore Sanfilippo's Blog](http://antirez.com)
+      - [fasterlime](https://fasterthanli.me/)
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
@@ -265,6 +276,7 @@
 
     - Miscellaneous:
       - [Hacker News](https://news.ycombinator.com/)([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
+      - [Y Combinator Company List](https://yclist.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
       - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
       - [Best of Show HN all time](https://bestofshowhn.com/)
@@ -284,6 +296,8 @@
       - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
       - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
       - [LWN.net](https://lwn.net/) - News from the source.
+      - [Wayback Machine](https://archive.org/web/)
+      - [Wikipedia](https://wikipedia.org)
       - [MIT Technology Review](https://www.technologyreview.com/)
       - [Facebook Open Source ](https://opensource.facebook.com/)
       - [Twitter Open Source](https://twitter.github.io/)
@@ -293,6 +307,9 @@
       - [Google Developers Blog](https://developers.googleblog.com/)
       - [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News
       - [Reuters](https://www.reuters.com)
+      - [Product Hunt](https://www.producthunt.com/) - Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
+      - [techradar](https://www.techradar.com/)
+      - [Hacker Noon](https://hackernoon.com/)
       - [Ars Technica](https://arstechnica.com/)
       - [TechCrunch](https://techcrunch.com/)
       - [The Guardian](https://www.theguardian.com/)
@@ -310,6 +327,7 @@
       - [aeon](https://aeon.co/) - Essays, Ideas, Videos
       - [lifewire](https://lifewire.com)
       - [HowToGeek](https://www.howtogeek.com/)
+      - [XDA Developers](https://www.xda-developers.com/)
 
     - Hacking
       - [Null Byte](https://null-byte.wonderhowto.com/)
@@ -344,6 +362,7 @@
       - [Sindre Sorhus](https://sindresorhus.com/)
       - [Kenneth Reitz](https://www.kennethreitz.org/)
       - [Derek Sivers](https://sivers.org/)
+      - [Schneier on Security - Bruce Schneier](https://www.schneier.com/)
     
     - Reddit Profiles
       - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.

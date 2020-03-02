@@ -52,7 +52,7 @@
     - [Household Hacker](https://www.youtube.com/channel/UCI4I6ldZ0jWe7vXpUVeVcpg)
     - [JRE Clips](https://www.youtube.com/channel/UCnxGkOGNMqQEUMvroOWps6Q) - Joe Rogan.
     - [Jordan B Peterson](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q) - Jordan B Peterson.
-    - [Naval](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg) - Naval Ravikant.
+    - [Grand Illusions](https://www.youtube.com/channel/UCnmgSO_4g6QcRzy0yFeglyA) - Tim Rowett.
     
 - Reddit/
     - Outdoors
@@ -75,7 +75,7 @@
       - [r/madlads](https://www.reddit.com/r/madlads)
       - [r/4chan](https://www.reddit.com/r/4chan)
       - [r/greentext](https://www.reddit.com/r/greentext)
-      - [r/BikiniBootomTwitter](https://www.reddit.com/r/BikiniBootomTwitter)
+      - [r/BikiniBottomTwitter](https://www.reddit.com/r/BikiniBottomTwitter)
 
     - Other 
       - [r/news](https://www.reddit.com/r/news)
@@ -87,8 +87,10 @@
       - [r/Documentaries](https://www.reddit.com/r/Documentaries)
       - [r/MovieDetails](https://www.reddit.com/r/MovieDetails)
       - [r/movies](https://www.reddit.com/r/movies)
+      - [r/HistoryPorn](https://www.reddit.com/r/HistoryPorn)
       - [r/LifeProTips](https://www.reddit.com/r/LifeProTips)
       - [r/pics](https://www.reddit.com/r/pics)
+      - [r/InternetIsBeautiful)](https://www.reddit.com/r/InternetIsBeautiful)
       - [r/AskReddit](https://www.reddit.com/r/AskReddit)
       - [r/IAmA](https://www.reddit.com/r/IAmA)
       - [r/Damnthatsinteresting](https://www.reddit.com/r/Damnthatsinteresting)
@@ -99,6 +101,7 @@
       - [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive)
       - [r/YouShouldKnow](https://www.reddit.com/r/YouShouldKnow)
       - [r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions)
+      - [r/TooAfraidToAsk](https://www.reddit.com/r/TooAfraidToAsk)
       - [r/quityourbullshit](https://www.reddit.com/r/quityourbullshit)
       - [r/unpopularopinion](https://www.reddit.com/r/unpopularopinion)
       - [r/nottheonion](https://www.reddit.com/r/nottheonion)
@@ -112,6 +115,8 @@
       - [r/coolguides](https://www.reddit.com/r/coolguides)
       - [r/mildlyinfuriating](https://www.reddit.com/r/mildlyinfuriating)
       - [r/BeAmazed](https://www.reddit.com/r/BeAmazed)
+      - [r/blackmagicfuckery](https://www.reddit.com/r/blackmagicfuckery)
+      - [r/nextf ckinglevel](https://www.reddit.com/r/nextfuckinglevel)
       - [r/BetterEveryLoop](https://www.reddit.com/r/BetterEveryLoop)
       - [r/woahdude](https://www.reddit.com/r/woahdude)
       - [r/Music](https://www.reddit.com/r/Music)
