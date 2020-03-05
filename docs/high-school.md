@@ -1,4 +1,4 @@
-## High School
+# High School
 
 - Sites/
     - [Khan Academy](https://www.khanacademy.org/)

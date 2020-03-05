@@ -72,6 +72,7 @@
     - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
 
 - Sites+Blogs/
+    - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Take a tour of the major moons in our celestial menagerie, including those that are among the most mystifying—or scientifically intriguing—places in our local neighborhood.
     - [Space.com](https://www.space.com/)
     - [ScienceMag](https://www.sciencemag.org/)
     - [iflscience](https://www.iflscience.com/)
@@ -251,6 +252,7 @@
       - [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products
       - [Salvatore Sanfilippo's Blog](http://antirez.com)
       - [fasterlime](https://fasterthanli.me/)
+      - [catonmat.net - Peter Krumins](https://catonmat.net/) - powered by Alien Technology.
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
@@ -275,6 +277,7 @@
       - [Logical Increments](http://www.logicalincrements.com/) - PC building guides
 
     - Miscellaneous:
+      - [Feedly Discover](https://feedly.com/i/discover/)
       - [Hacker News](https://news.ycombinator.com/)([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
       - [Y Combinator Company List](https://yclist.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
@@ -285,7 +288,7 @@
       - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
       - [Reddit](https://reddit.com/)
       - [Slashdot](https://www.slashdot.org/)
-      - [Stratechery by Ben Thompson](https://stratechery.com/)
+      - [Stratechery](https://stratechery.com/) - Ben Thompson.
       - [dev.to](https://dev.to/)
       - [Indie Hackers](https://www.indiehackers.com/)
       - [Medium](https://medium.com/)
@@ -304,6 +307,7 @@
       - [Venture Hacks](https://venturehacks.com/) - Advice for startups
       - [Facebook Engineering](https://engineering.fb.com/)
       - [Google Open Source](https://opensource.google/)
+      - [Adobe Open Source](https://opensource.adobe.com/)
       - [Google Developers Blog](https://developers.googleblog.com/)
       - [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News
       - [Reuters](https://www.reuters.com)

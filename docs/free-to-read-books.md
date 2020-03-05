@@ -1,8 +1,9 @@
-## Free-To-Read Books
+# Free-To-Read Books
 
 ### CS/Software Development
 - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) - Jack Crenshaw.
 - [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. ([formatted version on arp242.net](https://www.arp242.net/the-art-of-unix-programming/))
+- [The Cathedral and the Bazaar](http://catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) - Eric S. Raymond.
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - authors of four dozen open source applications.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke. ([GitHub](https://github.com/marijnh/Eloquent-JavaScript))
 - [The Jargon File](http://www.catb.org/jargon/html/index.html) - Eric S. Raymond and contributors.

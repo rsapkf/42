@@ -1,6 +1,6 @@
-# Software
+# Software and Services
 
-**Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file.
+**Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
 
 - Operating Systems
   - For PC
@@ -26,9 +26,9 @@
   - [Enhancer for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
   - [Wikiwand: Wikipedia Modernized](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
 
-See Also:
-- [Featured extensions – Add-ons for Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
-- [Add-ons for Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/)
+  See Also:
+    - [Featured extensions – Add-ons for Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
+    - [Add-ons for Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/)
 
 - Feed Readers
   - [Feedly](https://feedly.com/) - News aggregator application. `freemium`
@@ -43,25 +43,47 @@ See Also:
   - [Vimeo](https://vimeo.com/) - ad-free video platform.
 
 - Note Taking, Project Management, Collaboration
-  - [Notion](https://www.notion.so/)
+  - [Notion](https://www.notion.so/) `freemium`
   - [Evernote](https://evernote.com/) `freemium`
   - [todoist](https://todoist.com/) `freemium`
   - [Taskade](https://www.taskade.com/) `freemium`
   - [Trello](https://trello.com/) `freemium`
 
+- Android
+  - [English Dictionary](https://play.google.com/store/apps/details?id=livio.pack.lang.en_US&hl=en_US) - offline English dictionary based on English Wiktionary.
+
+- iOS
+  - [Apollo Reddit Client](https://apolloapp.io/) - A beautiful Reddit app built for power and speed. `freemium`
+  - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS. `closed-source` `paid`
+
+- Design Tools
+  - [Adobe](https://adobe.com) - Creativity for all. `proprietary`
+  - [Affinity](https://affinity.serif.com/en-us/) - Graphics software redefined. `proprietary`
+
+- Office Suites
+  - [Zoho](https://www.zoho.com/) - Privacy-friendly Alternative to Microsoft Office and Google Docs.
+  - [Microsoft Office](https://www.office.com/) `proprietary`
+  - [Google Docs]() `proprietary`
+
 - Other
-  - Software    
-    - [Firefox Monitor](https://monitor.firefox.com/)
-    - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach.
+  - Software
+    - [Pocket](https://getpocket.com/) - When you find something you want to view later, put it in Pocket. `freemium`
     - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
-    - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS `closed-source` `paid`
-    - [Zoho](https://www.zoho.com/) - Unique and powerful suite of software to run a business.
-    - [Pocket](https://getpocket.com/) - When you find something you want to view later, put it in Pocket. `freemium`
     - [bitly](https://bitly.com/) - Link Shortener `freemium`
     - [Grammarly](https://www.grammarly.com/) `freemium`
     - [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - compatibility layer for running Linux binary executables natively on Windows.
     - [Spotify](https://www.spotify.com) - Spotify gives you instant access to millions of songs. `freemium`
+    - [Cloudflare 1.1.1.1](https://1.1.1.1/) - The free app that makes your Internet safer. `freemium`
+    - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - DaVinci Resolve includes everything professional editors need to cut blockbuster films, television shows, and commercials. `freemium`
+    - [IFTTT](https://ifttt.com/) - make your apps and devices work together in new ways. `proprietary`
+    - [Hootsuite](https://hootsuite.com/) - Manage all your social media in one place.
+    - [Buffer](https://buffer.com/) - Build your audience and grow your brand on social media.
+    - [Duolingo](https://www.duolingo.com) - Learn a language for free. Forever.
+
+  - Bittorrent Clients
+    - [Tixati BitTorrent Client](https://tixati.com/) `proprietary`
+    - [BitTorrent Bittorrent Client](https://www.bittorrent.com/) `freemium`
 
   - Games/
     - [SpaceEngine](http://spaceengine.org/)

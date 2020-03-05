@@ -1,6 +1,8 @@
-## Random Cool Sites
+# Random Cool Sites
 
 - Sites/
+    - [Firefox Monitor](https://monitor.firefox.com/) - See if you’ve been part of an online data breach.
+    - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach.
     - [LKML.ORG](https://lkml.org/) - the Linux Kernel Mailing List Archive.
     - [One Page Calendar 2020](https://davebakker.io/onepagecalendar/)
     - [Faces of Open Source](http://www.facesofopensource.com/)
@@ -23,10 +25,12 @@
     - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.com/)
     - [Git.io](https://git.io/) - Official GitHub link shortener.
     - [Sketchysite](https://www.sketchywebsite.net/) - You can trust this.
-    - [Emojipedia](https://emojipedia.org/) - Emojipedia
+    - [Emojipedia](https://emojipedia.org/) - Emojipedia.
     - [TimeAndDate.com](https://www.timeanddate.com/)
-    - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
     - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
+    - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
+    - [CTF>101](https://ctf101.org/) - learn the techniques, thought processes, and methodologies you need to succeed in Capture the Flag competitions.
+    - [Quick, Draw](https://quickdraw.withgoogle.com/) -  Can a neural network learn to recognize doodling?
 
 - YouTube/
     - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -178,8 +182,11 @@
     - [HTTP 451](https://en.wikipedia.org/wiki/HTTP_451)
     - [Editor War](https://en.wikipedia.org/wiki/Editor_war)
     - [Infobesity](https://en.wikipedia.org/wiki/Information_overload)
+    - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+    - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
  
 - Other/
+    - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) by Eric S. Raymond.
     - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - Peter Norwig
     - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - Oracle Docs.
     - [0.30000000000000004.com](https://0.30000000000000004.com/) - Floating Point Math.
@@ -188,10 +195,10 @@
     - [How to store dotfiles - Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
     - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
     - [DuckDuckGo Instant Answers](https://duck.co/ia)
-    - [How to speak Silicon Valley: 53 essential tech-bro terms explained - The Guardian](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy)
+    - [How to speak Silicon Valley: 53 essential tech-bro terms explained](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy) - The Guardian.
     - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
     - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
     - [Nifty Reddit tricks](https://www.reddit.com/wiki/nifty)
     - [Things You Didn't Know About GNU Readline ](https://twobithistory.org/2019/08/22/readline.html)
     - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
-
+    - [Practice CTF List](http://captf.com/practice-ctf/) - Jordan Wiens.

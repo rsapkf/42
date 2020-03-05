@@ -23,7 +23,6 @@
 
 - Extra Resources
   - Software Alternatives/
-    - [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
     - [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
     - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page)
     - [Debian Wiki](https://wiki.debian.org/)
@@ -42,7 +41,6 @@
     - [freedesktop.org](https://www.freedesktop.org/wiki/)
     - [SourceForge](https://sourceforge.net/)
     - [AlternativeTo](https://alternativeto.net/)
-    - [Free for developers](https://free-for.dev/)
     - [Slant](https://www.slant.co/) - Choose the best
     - [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
 

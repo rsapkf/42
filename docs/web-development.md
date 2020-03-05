@@ -31,9 +31,9 @@ Roadmap to Web Development:
 ### Offline Documentation:
 - [Devdocs.io](https://devdocs.io)
 - [readthedocs.org](https://readthedocs.org/)
-- [Zeal](https://zealdocs.org/) - Linux/Windows
+- [Zeal](https://zealdocs.org/) - `Linux` `Windows`
 - [Velocity](https://velocity.silverlakesoftware.com/) - `Windows only`
-- [Dash](https://kapeli.com/dash) - Mac/iOS
+- [Dash](https://kapeli.com/dash) - `macOS` `iOS`
 
 ---
 
@@ -127,6 +127,7 @@ Roadmap to Web Development:
       - [STRML](https://www.strml.net/)
       - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
       - [CSS Gradient](https://cssgradient.io/) - free tool that lets you create a gradient background for websites and technical articles.
+      - [CSS3 Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
 
     - YouTube/
       - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
@@ -205,6 +206,7 @@ Roadmap to Web Development:
       - [Django Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) - a library catalog website in Django.
       - [Django Girls](https://djangogirls.org/)
       - [Django Tutorial](https://pythonprogramming.net/django-web-development-with-python-intro/) by sentdex.
+      - [Learn Django](https://learndjango.com/) by William Vincent.
 
     - YouTube/
       - [Django Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
@@ -363,6 +365,7 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
   - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
   - [Devhints](https://devhints.io/) - TL;DR for developer documentation
   - [The changelog](https://changelog.com/)
+  - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
   - [repl.it](https://repl.it/)
   - [Grep.app](https://grep.app/) - Search code in GitHub repos using regular expressions.
   - [Glitch](https://glitch.com/)

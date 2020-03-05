@@ -1,4 +1,4 @@
-## Coding Challenges
+# Coding Challenges
 
 - Sites/
     - [Project Euler](https://projecteuler.net/)
