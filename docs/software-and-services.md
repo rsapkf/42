@@ -43,11 +43,13 @@
   - [Vimeo](https://vimeo.com/) - ad-free video platform.
 
 - Note Taking, Project Management, Collaboration
-  - [Notion](https://www.notion.so/) `freemium`
-  - [Evernote](https://evernote.com/) `freemium`
-  - [todoist](https://todoist.com/) `freemium`
-  - [Taskade](https://www.taskade.com/) `freemium`
-  - [Trello](https://trello.com/) `freemium`
+  - [Things](https://culturedcode.com/things/) - award-winning personal task manager that helps you achieve your goals. `iOS` `macOS`
+  - [Notion](https://www.notion.so/)
+  - [Evernote](https://evernote.com/)
+  - [todoist](https://todoist.com/)
+  - [Taskade](https://www.taskade.com/)
+  - [Trello](https://trello.com/)
+  - [Airtable](https://airtable.com/)
 
 - Android
   - [English Dictionary](https://play.google.com/store/apps/details?id=livio.pack.lang.en_US&hl=en_US) - offline English dictionary based on English Wiktionary.
@@ -63,7 +65,7 @@
 - Office Suites
   - [Zoho](https://www.zoho.com/) - Privacy-friendly Alternative to Microsoft Office and Google Docs.
   - [Microsoft Office](https://www.office.com/) `proprietary`
-  - [Google Docs]() `proprietary`
+  - [Google Docs](https://www.google.com/docs/about/) `proprietary`
 
 - Other
   - Software

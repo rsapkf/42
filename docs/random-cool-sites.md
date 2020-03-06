@@ -31,6 +31,9 @@
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
     - [CTF>101](https://ctf101.org/) - learn the techniques, thought processes, and methodologies you need to succeed in Capture the Flag competitions.
     - [Quick, Draw](https://quickdraw.withgoogle.com/) -  Can a neural network learn to recognize doodling?
+    - [random.country](https://random.country/)
+    - [random.city](https://randomcity.net/)
+    - [Radiooooo](http://radiooooo.com/) - The wonderful musical machine that allows you to travel through space and time!
 
 - YouTube/
     - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -59,6 +62,13 @@
     - [Grand Illusions](https://www.youtube.com/channel/UCnmgSO_4g6QcRzy0yFeglyA) - Tim Rowett.
     
 - Reddit/
+    - Personal Finance/
+      - [r/personalfinance](https://www.reddit.com/r/personalfinance)
+      - [r/Frugal](https://www.reddit.com/r/Frugal)
+      - [r/investing](https://www.reddit.com/r/investing)
+      - [r/financialindependence](https://www.reddit.com/r/financialindependence)
+      - [r/stocks](https://www.reddit.com/r/stocks)
+    
     - Outdoors
       - [r/camping](https://www.reddit.com/r/camping)
       - [r/CampingandHiking](https://www.reddit.com/r/CampingandHiking)
@@ -77,11 +87,14 @@
       - [r/starterpacks](https://www.reddit.com/r/starterpacks)
       - [r/MadeMeSmile](https://www.reddit.com/r/MadeMeSmile)
       - [r/madlads](https://www.reddit.com/r/madlads)
+      - [r/therewasanattempt](https://www.reddit.com/r/therewasanattempt)
       - [r/4chan](https://www.reddit.com/r/4chan)
       - [r/greentext](https://www.reddit.com/r/greentext)
       - [r/BikiniBottomTwitter](https://www.reddit.com/r/BikiniBottomTwitter)
 
-    - Other 
+    - Other
+      - [r/IAmA](https://www.reddit.com/r/IAmA)
+      - [r/Showerthoughts](https://www.reddit.com/r/Showerthoughts)
       - [r/news](https://www.reddit.com/r/news)
       - [r/worldnews](https://www.reddit.com/r/worldnews)
       - [r/UpliftingNews](https://www.reddit.com/r/UpliftingNews)
@@ -92,11 +105,12 @@
       - [r/MovieDetails](https://www.reddit.com/r/MovieDetails)
       - [r/movies](https://www.reddit.com/r/movies)
       - [r/HistoryPorn](https://www.reddit.com/r/HistoryPorn)
+      - [r/AskHistorians](https://www.reddit.com/r/AskHistorians)
       - [r/LifeProTips](https://www.reddit.com/r/LifeProTips)
       - [r/pics](https://www.reddit.com/r/pics)
       - [r/InternetIsBeautiful)](https://www.reddit.com/r/InternetIsBeautiful)
       - [r/AskReddit](https://www.reddit.com/r/AskReddit)
-      - [r/IAmA](https://www.reddit.com/r/IAmA)
+      - [r/changemyview](https://www.reddit.com/r/changemyview)
       - [r/Damnthatsinteresting](https://www.reddit.com/r/Damnthatsinteresting)
       - [r/Interestingasf ck](https://www.reddit.com/r/Interestingasfuck)
       - [r/mildlyinteresting](https://www.reddit.com/r/mildlyinteresting)
@@ -121,6 +135,7 @@
       - [r/BeAmazed](https://www.reddit.com/r/BeAmazed)
       - [r/blackmagicfuckery](https://www.reddit.com/r/blackmagicfuckery)
       - [r/nextf ckinglevel](https://www.reddit.com/r/nextfuckinglevel)
+      - [r/youseeingthisshit](https://www.reddit.com/r/youseeingthisshit)
       - [r/BetterEveryLoop](https://www.reddit.com/r/BetterEveryLoop)
       - [r/woahdude](https://www.reddit.com/r/woahdude)
       - [r/Music](https://www.reddit.com/r/Music)

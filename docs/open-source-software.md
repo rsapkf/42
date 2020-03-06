@@ -67,6 +67,7 @@
 - [Wire Swiss GmbH](https://github.com/wireapp) - Wire open source secure messenger.
 - [Mullvad VPN](https://github.com/mullvad) - Privacy is a universal right.
 - [WireGuard](https://github.com/WireGuard) - Mirror of various WireGuard-related projects. See https://www.wireguard.com/repositories/ for official repositories.
+- [Simple Mobile Tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
 - [Airbnb](https://github.com/airbnb)
 - [YouTube](https://github.com/youtube)
 - [todo.txt](https://github.com/todotxt)
@@ -142,6 +143,7 @@
   - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
   - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
   - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives. https://opensource.builders.
+  - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
 
 - Algorithms
   - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - nteractive Online Platform that Visualizes Algorithms from Code. https://algorithm-visualizer.org.
@@ -309,7 +311,7 @@
   - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks.
 
 - Books Code
-  - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for RealPython tutorials https://realpython.com.
+  - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for RealPython tutorials. https://realpython.com.
   - [fluentpython/example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python.
   - [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book.
   - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries.
@@ -521,7 +523,7 @@
     - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
     - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs.
     - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
-    - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units https://insect.sh.
+    - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units. https://insect.sh.
     
   - Graphical Applications
     - Video Editors
@@ -780,6 +782,7 @@
     - [karlstav/cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa.
     - [mtoyoda/sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
     - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
+    - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
     - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
     - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization.
     - [mpv-player/mpv](https://github.com/mpv-player/mpv) - Command line video player.
@@ -1134,7 +1137,6 @@
     - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
     - [mochajs/mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser.
   - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
-  - [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman) - A free, fast & beautiful API request builder (web alternative to Postman).
   - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser.
   - [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
   - [pugjs/pug](https://github.com/pugjs/pug) – robust, elegant, feature rich template engine for Node.js.
@@ -1161,10 +1163,18 @@
   - [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android.
   - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android.
   - [VREMSoftwareDevelopment/WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer) - Android application to analyze WiFi signals.
-  - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app. `unmaintained`
   - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits.
   - [meefik/busybox](https://github.com/meefik/busybox) - BusyBox for Android.
   - [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012).
+  
+  - Calendar
+    - [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) -  A simple calendar with events, customizable widgets and no ads.
+    - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
+  
+  - GitHub Clients
+    - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
+    - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app. `unmaintained`
+    - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) = An open source GitHub Android client app, faster and concise.
 
 - Mac/iOS
   - [Homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
@@ -1360,7 +1370,11 @@
 - HTTP Clients
   - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features.
   - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative.
+  - [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman) - A free, fast & beautiful API request builder (web alternative to Postman).
   - [Kong/insomnia](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL Client.
+  - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
+  - [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
+  - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application.
 
 - Penetration Testing/OSINT
   - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
@@ -1397,6 +1411,7 @@
   - [firasdib/Regex101](https://github.com/firasdib/Regex101) - Online Regex Tester and Debugger. Issue Tracker for https://regex101.com.
 
 - General
+  - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All. https://faceswap.dev.
   - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox.
   - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
   - [cdr/code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
@@ -1462,6 +1477,7 @@
   - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables.
   - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
   - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+  - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 
 - VSCode Extensions
   - [Microsoft/vscode-docker](https://github.com/Microsoft/vscode-docker) - Docker extension for VS Code.

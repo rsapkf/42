@@ -24,6 +24,7 @@ Roadmap to Web Development:
 - [Text Editors and IDEs](#text-editors-and-ides)
 - [Regular Expressions and Algorithms](#regular-expressions-and-algorithms)
 - [Developer Tools](#developer-tools)
+- [APIs](#apis)
 - [Extra Resources](#extra-resources)
 
 ---
@@ -262,7 +263,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 ---
 
 ### Text Editors and IDEs:
-See [text-editors-and-ides.md](text-editors-and-ides.md)
+See [./text-editors-and-ides.md](./text-editors-and-ides.md)
 
 ---
 
@@ -282,41 +283,50 @@ See [text-editors-and-ides.md](text-editors-and-ides.md)
 ### Developer Tools:
 See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab)
 - Sites/
-    - [MDN CSS Color Picker Tools](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool) ([DuckDuckGo](https://duckduckgo.com/?t=ffab&q=color+picker&ia=answer) Instant Answer/[Google](https://www.google.com/search?hl=en&q=color%20picker))
-    - [Dan's Tools](https://www.danstools.com/) - Collection of various tools helpful for developers.
-    - [Who is my ISP?](https://www.whoismyisp.org/)
+  - [MDN CSS Color Picker Tools](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool) ([DuckDuckGo](https://duckduckgo.com/?t=ffab&q=color+picker&ia=answer) Instant Answer/[Google](https://www.google.com/search?hl=en&q=color%20picker))
+  - [Dan's Tools](https://www.danstools.com/) - Collection of various tools helpful for developers.
+  - [Who is my ISP?](https://www.whoismyisp.org/)
 
 - Design Tools/
-    - [LogoMakr](https://logomakr.com/) `freemium`
-    - [Figma](https://www.figma.com/) - collaborative interface design tool `closed-source` `freemium`
-    - [svgator](https://www.svgator.com) - SVG Animation Creator `commercial`
-    - [Neumorphism.io](https://neumorphism.io/) - Soft UI CSS shadow generator.
+  - [LogoMakr](https://logomakr.com/) `freemium`
+  - [Figma](https://www.figma.com/) - collaborative interface design tool `closed-source` `freemium`
+  - [svgator](https://www.svgator.com) - SVG Animation Creator `commercial`
+  - [Neumorphism.io](https://neumorphism.io/) - Soft UI CSS shadow generator.
 
 - Speed Test/
-    - [Speedtest.net by Ookla](https://www.speedtest.net/)
-    - [Fast.com by Netflix](https://fast.com)
+  - [Speedtest.net by Ookla](https://www.speedtest.net/)
+  - [Fast.com by Netflix](https://fast.com)
 
 - Fake APIs/
-    - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
+  - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
 
 - Text Generators/
-    - [Lorem Ipsum](https://lipsum.com/)
+  - [Lorem Ipsum](https://lipsum.com/)
 
 - Images/SVGs/
-    - [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine
-    - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
+  - [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine
+  - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 
 - Patterns/
-    - [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.
-    - [Cool Backgrounds](https://coolbackgrounds.io/) - collection of tools to create compelling, colorful images for blogs and websites.
+  - [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.
+  - [Cool Backgrounds](https://coolbackgrounds.io/) - collection of tools to create compelling, colorful images for blogs and websites.
     
 - Deployment/
-    - [Cloudflare](https://www.cloudflare.com/) - The Integrated Global Cloud Platform.
-    - [Netlify](https://netlify.com) -  Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
-    - [Heroku](https://www.heroku.com/) - Build data-driven apps with fully managed data services.
-    - [ZEIT Now](https://zeit.co/) - The easiest way to deploy websites.
-    - [surge](https://surge.sh/) - Static web publishing for Front-End Developers.
-    
+  - [Cloudflare](https://www.cloudflare.com/) - The Integrated Global Cloud Platform.
+  - [Netlify](https://netlify.com) -  Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
+  - [Heroku](https://www.heroku.com/) - Build data-driven apps with fully managed data services.
+  - [ZEIT Now](https://zeit.co/) - The easiest way to deploy websites.
+  - [surge](https://surge.sh/) - Static web publishing for Front-End Developers.
+
+- API Testing/
+  - [Postman](https://www.postman.com/) - The Collaboration Platform for API Development.
+
+---
+
+### APIs
+  - [NASA APIs](https://api.nasa.gov/) - NASA data, including imagery, eminently accessible to application developers.
+  - [Reddit API](https://www.reddit.com/dev/api)
+  
 ---
 
 ### Extra Resources:

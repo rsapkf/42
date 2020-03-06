@@ -72,6 +72,7 @@
     - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
 
 - Sites+Blogs/
+    - [NASA](https://www.nasa.gov/)
     - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Take a tour of the major moons in our celestial menagerie, including those that are among the most mystifying—or scientifically intriguing—places in our local neighborhood.
     - [Space.com](https://www.space.com/)
     - [ScienceMag](https://www.sciencemag.org/)
@@ -87,15 +88,15 @@
     - [JunkScience](https://junkscience.com/)
 
 - Reddit/
-    - [r/science](https://old.reddit.com/r/science)
+    - [r/science](https://www.reddit.com/r/science)
     - [r/askscience](https://www.reddit.com/r/askscience)
     - [r/todayilearned](https://www.reddit.com/r/todayilearned)
-    - [r/Physics](https://old.reddit.com/r/Physics)
-    - [r/chemistry](https://old.reddit.com/r/chemistry)
+    - [r/Physics](https://www.reddit.com/r/Physics)
+    - [r/chemistry](https://www.reddit.com/r/chemistry)
     - [r/space](https://www.reddit.com/r/space)
-    - [r/biology](https://old.reddit.com/r/biology)
-    - [r/Astronomy](https://old.reddit.com/r/Astronomy)
-    - [r/environment](https://old.reddit.com/r/environment)
+    - [r/biology](https://www.reddit.com/r/biology)
+    - [r/Astronomy](https://www.reddit.com/r/Astronomy)
+    - [r/environment](https://www.reddit.com/r/environment)
     - [r/astrophotography](https://www.reddit.com/r/astrophotography)
     - [r/Futurology](https://www.reddit.com/r/Futurology)
     - [r/EarthPorn](https://www.reddit.com/r/EarthPorn)
@@ -106,6 +107,7 @@
     - [r/NatureIsF ckingLit](https://www.reddit.com/r/NatureIsFuckingLit)
     - [r/philosophy](https://www.reddit.com/r/philosophy)
     - [r/scifi](https://www.reddit.com/r/scifi)
+    - [r/educationalgifs](https://www.reddit.com/r/educationalgifs)
 
 ---
 
