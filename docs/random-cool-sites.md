@@ -27,13 +27,17 @@
     - [Sketchysite](https://www.sketchywebsite.net/) - You can trust this.
     - [Emojipedia](https://emojipedia.org/) - Emojipedia.
     - [TimeAndDate.com](https://www.timeanddate.com/)
-    - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension
-    - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
+    - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension.
     - [CTF>101](https://ctf101.org/) - learn the techniques, thought processes, and methodologies you need to succeed in Capture the Flag competitions.
     - [Quick, Draw](https://quickdraw.withgoogle.com/) -  Can a neural network learn to recognize doodling?
     - [random.country](https://random.country/)
     - [random.city](https://randomcity.net/)
     - [Radiooooo](http://radiooooo.com/) - The wonderful musical machine that allows you to travel through space and time!
+    - [Wikia/FANDOM Explore](https://www.fandom.com/explore) - The Fan-trusted Source in Entertainment.
+    
+  - Dictionaries  
+    - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
+    - [Merrian Webster](https://www.merriam-webster.com/) - since 1828.
 
 - YouTube/
     - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -199,6 +203,8 @@
     - [Infobesity](https://en.wikipedia.org/wiki/Information_overload)
     - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
     - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+    - [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism) ([List of autodidacts](https://en.wikipedia.org/wiki/List_of_autodidacts))
+    - [Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
  
 - Other/
     - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) by Eric S. Raymond.

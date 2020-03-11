@@ -31,6 +31,7 @@
 - [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. ([GitHub](https://github.com/d2l-ai/d2l-en))
 - [Pro Git](https://github.com/progit/progit2) - Scott Chacon, Ben Straub ([GitHub](https://github.com/progit/progit2))
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) ([GitHub](http://github.com/pomax/BezierInfo-2))
+- [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google.
 
 ### Mathematics
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.HTM) - Gerard E. Dallal.

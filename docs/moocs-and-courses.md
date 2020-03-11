@@ -47,7 +47,6 @@
 
 ### Courses
 - [Linux From Scratch](http://www.linuxfromscratch.org/) - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
-- [Open Source Guides - GitHub](https://opensource.guide/) - Learn how to launch and grow your project.
 - [The Theoretical Minimum Lectures](https://theoreticalminimum.com/) - Leonard Susskind
 - [CS 144: Introduction to Computer Networking, Fall 2019 - Stanford](https://cs144.github.io/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2019 - Stanford](http://cs231n.stanford.edu/)

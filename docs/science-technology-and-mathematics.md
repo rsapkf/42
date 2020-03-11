@@ -66,12 +66,14 @@
     - [Tibees](https://www.youtube.com/channel/UC52kszkc08-acFOuogFl5jw)
     - [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
     - [yeti dynamics](https://www.youtube.com/channel/UCfzLXKMZqf8-nR920SbQJLA)
+    - [Andrew Dotson](https://www.youtube.com/channel/UCnFmWQbVW_YbqPQZGNuq8sA)
 
 - People/
     - [Sean Caroll](https://www.preposterousuniverse.com/)
     - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
 
 - Sites+Blogs/
+    - [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
     - [NASA](https://www.nasa.gov/)
     - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Take a tour of the major moons in our celestial menagerie, including those that are among the most mystifying—or scientifically intriguing—places in our local neighborhood.
     - [Space.com](https://www.space.com/)
@@ -125,6 +127,7 @@
     - [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg)
     - [blackpenredpen](https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA)
     - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ)
+    - [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)
 
 - Sites+Blogs/
     - [WolframAlpha](https://www.wolframalpha.com/)
@@ -149,7 +152,7 @@
     - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
     - [Terrence Tao's Blog](https://terrytao.wordpress.com)
     - [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
-    - [3blue1brown](https://www.3blue1brown.com/) - By Grant Sanderson.
+    - [3blue1brown](https://www.3blue1brown.com/) - Grant Sanderson.
     - [Erich's Place](https://www2.stetson.edu/~efriedma/index.html) - Prof. Erich Friedman's Webpage.
 
 - Reddit/
@@ -280,12 +283,12 @@
 
     - Miscellaneous:
       - [Feedly Discover](https://feedly.com/i/discover/)
-      - [Hacker News](https://news.ycombinator.com/)([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
+      - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
       - [Y Combinator Company List](https://yclist.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
       - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
       - [Best of Show HN all time](https://bestofshowhn.com/)
-      - [Lobsters](https://lobste.rs/)
+      - [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
       - [Stack Overflow](https://stackoverflow.com/)
       - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
       - [Reddit](https://reddit.com/)
@@ -334,6 +337,8 @@
       - [lifewire](https://lifewire.com)
       - [HowToGeek](https://www.howtogeek.com/)
       - [XDA Developers](https://www.xda-developers.com/)
+      - [AngelList](https://angel.co/) - Experience the startup ecosystem — invest in startups, research the fastest-growing companies, and find a job you love.
+      - [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
 
     - Hacking
       - [Null Byte](https://null-byte.wonderhowto.com/)

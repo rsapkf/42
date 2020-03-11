@@ -3,10 +3,18 @@
 **Note**: This file only contains resources that are NOT in the [./linux-configuration.md](./linux-configuration.md) file.
 
 ## Contents:
+- [Email Providers](#email-providers)
 - [Cloud Storage](#cloud-storage)
 - [Search Engines](#search-engines)
 - [Browser Extensions](#browser-extensions)
 - [More Resources](#more-resources)
+
+---
+
+### Email Providers
+- [Mailfence](https://mailfence.com/)
+
+---
 
 ### Cloud Storage:
 - [Sync.com](https://www.sync.com/)
@@ -28,7 +36,7 @@ See Also:
 
 ---
 
-### Browser Extensions
+### Browser Add-ons/Extensions
 - [Ghostery Privacy Ad Blocker](https://www.ghostery.com/)
 
 ---

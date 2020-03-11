@@ -1,55 +1,67 @@
 # Programming
 
-### C++
-- [Standard C++](https://isocpp.org/)
-- [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network
-- [cppreference.com](https://en.cppreference.com/w/)
-- [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-- [Microsoft Docs](https://docs.microsoft.com/en-us/)
+- Developer Portals
+  - [GitHub Developers](https://developer.github.com/)
+  - [IBM Developer](https://developer.ibm.com/)
+  - [Google Developers](https://developers.google.com/) - Build anything with Google.
+  - [Facebook for Developers](https://developers.facebook.com/)
+  - [Oracle Develoepr](https://developer.oracle.com/)
+  - [Discord Developer Portal]()
+  - [Twitter Developer](https://developer.twitter.com/)
+  - [Microsoft Developer](https://developer.microsoft.com/en-us/)
+  - [Amazon Developer](https://developer.amazon.com/)
+  - [Apple Developer](https://developer.apple.com/)
 
-### Java
-- [Java Docs](https://www.oracle.com/technetwork/java/)
+- C++
+  - [Standard C++](https://isocpp.org/)
+  - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network
+  - [cppreference.com](https://en.cppreference.com/w/)
+  - [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+  - [Microsoft Docs](https://docs.microsoft.com/en-us/)
 
-### Elixir
-- [Elixir Docs](https://elixir-lang.org/)
-- [Elixir school](https://elixirschool.com/en/) -  Premier destination for people looking to learn and master the Elixir programming language.
+- Java
+  - [Java Docs](https://www.oracle.com/technetwork/java/)
 
-### Typescript
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)
+- Elixir
+  - [Elixir Docs](https://elixir-lang.org/)
+  - [Elixir school](https://elixirschool.com/en/) -  Premier destination for people looking to learn and master the Elixir programming language.
 
-### Kotlin
-- [Kotlin Docs](https://kotlinlang.org/docs/reference/)
+- Typescript
+  - [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)
 
-### Go
-- [Go Documentation](https://golang.org/doc/)
+- Kotlin
+  - [Kotlin Docs](https://kotlinlang.org/docs/reference/)
 
-### R
-- [R Documentation](https://www.r-project.org/)
+- Go
+  - [Go Documentation](https://golang.org/doc/)
 
-### Perl
-- [Perl Docs](https://learn.perl.org/)
+- R
+  - [R Documentation](https://www.r-project.org/)
 
-### Haskell
-- [Haskell Documentation](https://www.haskell.org/documentation/)
+- Perl
+  - [Perl Docs](https://learn.perl.org/)
 
-### Rust
-- [Rust Lang Documentation](https://www.rust-lang.org/learn/get-started)
-- [Rust Cheat Sheet](https://cheats.rs/)
+- Haskell
+  - [Haskell Documentation](https://www.haskell.org/documentation/)
 
-### D
-- [D Lang Documentation](https://dlang.org/)
+- Rust
+  - [Rust Lang Documentation](https://www.rust-lang.org/learn/get-started)
+  - [Rust Cheat Sheet](https://cheats.rs/)
 
-### Clojure
-- [Clojure Docs](https://clojure.org/)
+- D
+  - [D Lang Documentation](https://dlang.org/)
 
-### Scala
-- [Scala Documentation](https://docs.scala-lang.org/)
+- Clojure
+  - [Clojure Docs](https://clojure.org/)
 
-### Crystal
-- [Crystal Docs](https://crystal-lang.org/)
+- Scala
+  - [Scala Documentation](https://docs.scala-lang.org/)
 
-### Nim
-- [Nim Docs](https://nim-lang.org/)
+- Crystal
+  - [Crystal Docs](https://crystal-lang.org/)
 
-### PHP
-- [PHP Docs](https://www.php.net/)
+- Nim
+  - [Nim Docs](https://nim-lang.org/)
+
+- PHP
+  - [PHP Docs](https://www.php.net/)

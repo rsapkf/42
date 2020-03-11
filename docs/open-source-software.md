@@ -22,6 +22,7 @@
 - [WebAssembly](https://github.com/webassembly) - Development of WebAssembly and associated infrastructure.
 - [Bitwarden](https://github.com/bitwarden) - Open source password management solutions for individuals, teams, and business organizations.
 - [Kotlin](https://github.com/kotlin) - Kotlin Tools and Libraries.
+- [Discord](https://github.com/discordapp) - t's time to ditch Skype and Teamspeak. Discord is the only free and secure all-in-one voice+text app designed for gamers that works on your desktop and phone.
 - [QISKit](https://github.com/QISKit) - An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 - [Facebook](https://github.com/facebook) - We are working to build community through open source technology. NB: members must have two-factor auth.
 - [Facebook Experimental](https://github.com/facebookexperimental) - These are Facebook projects that are not necessarily used in production but are being developed in the open nevertheless.
@@ -29,6 +30,7 @@
 - [Netlify](https://github.com/netlify) - Netlify builds, deploys and hosts your front-end.
 - [Google](https://github.com/google) - Google ❤️ Open Source.
 - [Netflix, Inc.](https://github.com/Netflix) - Netflix Open Source Platform.
+- [Netflix-Skunkworks](https://github.com/Netflix-Skunkworks)
 - [Keybase](https://github.com/keybase) - Crypto for everyone!
 - [Python](https://github.com/python) - Repositories related to the Python Programming language.
 - [Standard Notes](https://github.com/standardnotes) - An end-to-end encrypted note-taking app.
@@ -53,7 +55,6 @@
 - [Mapbox](https://github.com/mapbox) - Mapbox is the location data platform for mobile and web applications. We're changing the way people move around cities and explore our world.
 - [WHATWG](https://github.com/whatwg) - Please leave your sense of logic at the door. All are welcome to participate.
 - [Tidyverse](https://github.com/tidyverse) - The tidyverse is a collection of R packages that share common principles and are designed to work together seamlessly.
-- [Leanote](https://github.com/leanote) - Leanote, Not Just A Notepad! Open source cloud notepad.
 - [Microsoft Azure](https://github.com/Azure) - APIs, SDKs and open source projects from Microsoft Azure.
 - [Changelog Media](https://github.com/thechangelog) - News and podcasts for developers.
 - [New Vector](https://github.com/vector-im) - We make Riot.im, a decentralised encrypted comms app for the Matrix.org ecosystem.
@@ -68,6 +69,9 @@
 - [Mullvad VPN](https://github.com/mullvad) - Privacy is a universal right.
 - [WireGuard](https://github.com/WireGuard) - Mirror of various WireGuard-related projects. See https://www.wireguard.com/repositories/ for official repositories.
 - [Simple Mobile Tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
+- [Eclipse Foundation](https://github.com/eclipse)
+- [fast.ai](https://github.com/fastai)
+- [Spotify](https://github.com/Spotify)
 - [Airbnb](https://github.com/airbnb)
 - [YouTube](https://github.com/youtube)
 - [todo.txt](https://github.com/todotxt)
@@ -125,7 +129,6 @@
 - [h5bp](https://github.com/h5bp)
 - [tmux-plugins](https://github.com/tmux-plugins)
 - [StylishThemes](https://github.com/StylishThemes)
-- [Codrops](https://github.com/codrops)
 - [Lambda School, Inc.](https://github.com/LambdaSchool)
 
 ---
@@ -137,16 +140,24 @@
   - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers.
   - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
   - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
-  - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
   - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
   - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
   - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
   - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
   - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives. https://opensource.builders.
-  - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
 
-- Algorithms
-  - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - nteractive Online Platform that Visualizes Algorithms from Code. https://algorithm-visualizer.org.
+  - Vim
+    - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
+    - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
+    - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
+    - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
+      
+  - Emacs
+    - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+    - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year.
+
+- Regular Expressions and Algorithms
+  - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
 - Python
   - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
@@ -202,7 +213,8 @@
 
 - C
   - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey.
-
+  - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C.
+  
 - C++
   - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
@@ -243,10 +255,16 @@
 
 - Source Control
   - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition.
-  - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - git and git flow cheat sheet
+  - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - git and git flow cheat sheet.
   - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
   - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
   - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.
+  - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects. https://firstcontributions.github.io.
+    
+- Open Source
+  - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source.
+  - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project. https://choosealicense.com.
+  - [github/opensource.guide](https://github.com/github/opensource.guide) - Community guides for open source creators. https://opensource.guide.
 
 - Tensorflow
   - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2).
@@ -254,21 +272,20 @@
 
 - System Administration/Site Reliability/Production Engineering
   - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-  - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. sre.xyz.
+  - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. https://sre.xyz.
 
 - Cheatsheets
   - [Kapeli/cheatsheets](https://github.com/Kapeli/cheatsheets) - Collection of Dash cheat sheets https://kapeli.com/cheatsheets.
   - [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets.
-  - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - @rstacruz's cheatsheets.
-  - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
+  - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - @rstacruz's cheatsheets. https://devhints.io.
 
 - Privacy and Security
   - [privacytoolsIO/privacytools.io](https://github.com/privacytoolsIO/privacytools.io) - You are being watched. Protect your privacy against global mass surveillance.
   - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-  - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 - Penetration Testing
   - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
+  - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
   - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet.
   - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
   - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category.
@@ -284,13 +301,14 @@
 - Natural Language Processing
   - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples.
 
-- Interviewing
+- Interviewing/Jobs
   - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
   - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
   - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
   - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
   - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
   - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
+  - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job/) - A curated list of awesome remote jobs and resources.
 
 - Mac/iOS
   - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
@@ -303,12 +321,19 @@
   - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
   - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
   - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
-  - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C.
 
+- Computer Science
+  - [ossu/computer-science](https://github.com/ossu/computer-science) -  Path to a free self-taught education in Computer Science!
+  - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Open Source CS Curriculum. 
+  - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula.
+  
 - Courses/Books
+  - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
   - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course.
   - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education. https://missing.csail.mit.edu.
   - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks.
+  - [GoogleChrome/essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook. https://images.guide.
+  - [fastai/fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book.
 
 - Books Code
   - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for RealPython tutorials. https://realpython.com.
@@ -327,29 +352,21 @@
   - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
   - [LisaDziuba/Awesome-Design-Tools ](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything.
   - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-  - [ossu/computer-science](https://github.com/ossu/computer-science) -  Path to a free self-taught education in Computer Science!
-  - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Open Source CS Curriculum. 
-  - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-  - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula.
-  - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
   - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
   - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.
   - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
-  - [GoogleChrome/essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook images.guide.
   - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅.
   - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!.
   - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
   - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
   - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
   - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
-  - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job/) - A curated list of awesome remote jobs and resources.
   - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in.
   - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation.
   - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. https://free-for.dev.
   - [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
   - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from [here](http://www.pouet.net/topic.php?which=10882&page=1).
   - [heroku/12factor](https://github.com/heroku/12factor) - 12factor.net.
-  - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
   - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
   - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
   - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends.
@@ -364,6 +381,7 @@
   - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
   - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
+  - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
 
 ---
 
@@ -375,6 +393,7 @@
     - BSD
       - [freebsd/freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror). `Mirror` https://www.freebsd.org.
       - [openbsd/src](https://github.com/openbsd/src) - Public git conversion mirror of OpenBSD's official CVS src repository. `Mirror` https://www.openbsd.org.
+      - (Web)[NetBSD](https://www.netbsd.org/) - “Of course it runs NetBSD”.
 
     - Distros
       - (Web) [Ubuntu](https://www.ubuntu.com/)
@@ -401,6 +420,7 @@
       - (Web) [LineageOS](https://www.lineageos.org/)
       - (Web) [postmarketOS](https://postmarketos.org/) - A real Linux distribution for phones and other mobile devices
       - (Web) [Replicant](https://www.replicant.us/)
+      - (Web) [PureOS](https://pureos.net/) - A user friendly, secure and freedom respecting OS used by Librem 5 Phone.
       - (Web) [Ubuntu Touch](https://ubuntu-touch.io/)
       - (Web) [Android](https://android.com/)
         
@@ -443,21 +463,39 @@
     - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon.
     - [sboli/twmn](https://github.com/sboli/twmn) - A notification system for tiling window managers.
 
-  - Text Based Editors
-    - [vim/vim](https://github.com/vim/vim) - The official Vim repository.
-    - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
-    - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs _and_ Vim!.
-    - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration.
-    - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim.
-    - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
-    - [veonim/veonim](https://github.com/veonim/veonim) - simple modal IDE built on neovim.
-    - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer.
+  - Text Editors and IDEs
+    - Text Based Editors
+      - [vim/vim](https://github.com/vim/vim) - The official Vim repository.
+      - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for Mac OS X. `macOS`
+      - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+      - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration.
+      - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim.
+      - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
+      - [veonim/veonim](https://github.com/veonim/veonim) - simple modal IDE built on neovim.
+      - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor.
+      - (Web) [GNU Emacs](https://www.gnu.org/software/emacs) - An extensible, customizable, free/libre text editor — and more.
+      - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs _and_ Vim!.
+      - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer.
+      - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included.
+      - (Web) [GNU Nano](https://www.nano-editor.org)
 
-  - GUI Editors
-    - [atom/atom](https://github.com/atom/atom) - The hackable text editor.
-    - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-    - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing.
-    - [Microsoft/vscode](https://github.com/Microsoft/vscode) - Visual Studio Code.
+    - GUI Editors
+      - [atom/atom](https://github.com/atom/atom) - The hackable text editor.
+      - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+      - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing.
+      - [Microsoft/vscode](https://github.com/Microsoft/vscode) - Visual Studio Code.
+      - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later. https://macromates.com. `macOS`
+      
+    - IDEs
+      - (Web) [Eclipse](https://www.eclipse.org/)
+      - (Web) [Pycharm-CE](https://www.jetbrains.com/pycharm/)
+      - (Web) [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
+      - (Web) [Anaconda](https://www.anaconda.com/distribution/) - The World's Most Popular Python/R Data Science Platform.
+      
+    - Cloud Editors
+      - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. https://theia-ide.org.
+      - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor. https://stackedit.io.
+      - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online code editor tailored for web application development. https://codesandbox.io.
 
   - File Managers
     - Command Line File Managers
@@ -524,6 +562,7 @@
     - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs.
     - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
     - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units. https://insect.sh.
+    - [rupa/z](https://github.com/rupa/z) - z - jump around.
     
   - Graphical Applications
     - Video Editors
@@ -538,8 +577,7 @@
     - (Web) [Blender](https://blender.org/)
     - (Web) [GIMP](https://gimp.org/)
     - (Web) [VirtualBox](https://www.virtualbox.org/)
-    - (Web) [Pycharm-CE](https://www.jetbrains.com/pycharm/)
-    - (Web) [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
+    - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
     - (Web) [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
     - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player.
     - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor.
@@ -547,10 +585,12 @@
     - [qemu/qemu](https://github.com/qemu/qemu) - the FAST! processor emulator. `Mirror` https://www.qemu.org.
     
   - Vim Plugins
-    - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim.
-    - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath.
-    - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
-    - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
+    - Plugin Managers
+      - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim.
+      - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath.
+      - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
+      - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
+    
     - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
     - [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
     - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing.
@@ -570,6 +610,12 @@
     - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - Defaults everyone can agree on.
     - [tpope/vim-surround](https://github.com/tpope/vim-surround) - quoting/parenthesizing made simple.
     - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - comment stuff out.
+    - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist.
+    - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim.
+    - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'.
+    - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf 💜 vim.
+    - [wincent/command-t](https://github.com/wincent/command-t) - Fast file navigation for VIM.
+    - [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
     - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor.
     - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim.
     - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim.
@@ -577,9 +623,15 @@
     - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - Dark powered asynchronous completion framework for neovim/Vim8.
     - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim.
     - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - All the world's indeed a stage and we are merely players.
-    - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf 💜 vim.
     - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim.
+    - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with ".".
+    - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 
+  - Emacs Packages
+    - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
+    - [magit/magit](https://github.com/magit/magit) - Magit-A Git porcelain inside Emacs.
+    - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+ 
   - Tmux
     - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code.
     - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager. built on libtmux.
@@ -594,12 +646,7 @@
   - Tmux Alternatives
     - (Web) [GNU Screen](https://www.gnu.org/software/screen/) - full-screen window manager that multiplexes a physical terminal between several processes, typically interactive shells.
     - (Web) [Byobu](https://byobu.org/) - text-based window manager and terminal multiplexer.
-
-  - Emacs
-    - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
-    - [magit/magit](https://github.com/magit/magit) - Magit-A Git porcelain inside Emacs.
-    - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
-  
+ 
   - LaTeX
     - [latex3/latex3](https://github.com/latex3/latex3) - The LaTeX3 Development Repository.
     - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor.
@@ -620,17 +667,28 @@
     - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
 
   - Themes/Color Schemes
-    - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes.
     - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - A dark theme for all the things!.
+    - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes.
     - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes.
     - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly.
     - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
     - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes. https://terminal.sexy.
 
-  - Note-Taking/Personal Knowledge Base/Read It Later
+    - Vim Color Schemes
+      - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
+      - [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
+      - [sjl/badwolf](https://github.com/sjl/badwolf) - A Vim color scheme.
+      - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
+      - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim.
+      - [nanotech/jellybeans.vim](https://github.com/nanotech/jellybeans.vim) - A colorful, dark color scheme for Vim.
+      - [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim.
+      - [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
+
+  - Note-Taking/Personal Knowledge Base/Bookmarking
+    - (Web) [Orgmode](https://orgmode.org/) - document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the free software text editor Emacs in a fast and effective plain-text system.
     - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
     - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
-    - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/.
+    - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
     - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
     - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux.
     - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep.
@@ -638,9 +696,13 @@
     - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
     - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
     - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
+    - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them. `Mirror` https://stevelosh.com/projects/t.
     - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
     - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management.
     - [leo-editor/leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an Outliner, Editor, and Personal Information Manager written in 100% Python.
+  
+  - Read Later/Bookmarking
+    - [shaarli/shaarli](https://github.com/shaarli/shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo.
     - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
   
   - Project Management
@@ -681,6 +743,7 @@
   - Password Managers
     - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
     - [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
+    - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client. `macOS`
     - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - KeePass implementation for android with material design and deluxe features.
     - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
     - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera.
@@ -689,21 +752,71 @@
     - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - Buttercup credentials management application.
 
   - Email Clients
-    - (Web) [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!
+    - (Web) [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!  
     - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
     - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features.
+    - [rainloop/rainloop-webmail](https://github.com/rainloop/rainloop-webmail) - Simple, modern & fast web-based email client. https://rainloop.net.
+
+  - Thunderbird Add-ons/Extensions
+    - (Web) [Enigmail](https://enigmail.net/) -  A simple interface for OpenPGP email security.
+
+    See Also:
+      - [Featured Extensions – Add-ons for Thunderbird](https://addons.thunderbird.net/en-US/thunderbird/extensions/?sort=featured)
+      - [Thunderbird Add-ons](https://addons.thunderbird.net/en-US/thunderbird/)
 
   - Web Browsers
     - (Web) [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) - Get 2000+ trackers off your trail — including Facebook.
     - (Web) [Tor](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
-    - (Web) [Chromium](https://www.chromium.org/Home) - free and open-source software project from Google.
+    - (Web) [Chromium/src](https://source.chromium.org/chromium) - free and open-source software project from Google.
     - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, and eventually Android.
     - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
     - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
     - [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox source code repository.
     - [MoonchildProductions/Pale-Moon](https://github.com/MoonchildProductions/Pale-Moon) - Pale Moon web browser.
-    - (Web) [Vivaldi](https://vivaldi.com/) `Partially Open Source`
+    - (Web) [Vivaldi](https://vivaldi.com/) `partially open source`
+    
+  - Browser Add-ons/Extensions
+    - Developer Tools
+      - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser.
+      - [facebook/react/devtools](https://github.com/facebook/react) - React DevTools.
+      - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
+      - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
+      - [30-seconds/30_seconds_of_knowledge](https://github.com/30-seconds/30_seconds_of_knowledge)Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
+      - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids.
+    
+    - Privacy Tools
+      - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+      - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+      - [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+      - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes.
+      - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
+      - [hackademix/noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
+      - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera.
+      - [ourresearch/unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles.
+      - (GitLab) [Synzvato/decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Local emulation of Content Delivery Networks.
+      - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+      - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable.
+      - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+      - [gorhill/uMatrix](https://github.com/gorhill/uMatrix)
+      - [mozilla/notes](https://github.com/mozilla/notes) - A notepad for Firefox.
+      - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results.
+    
+    - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+    - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+    - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
+    - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.  
+    - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+    - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite.
+    - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+    - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file.
+    - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus Userstyles Manager.
+    - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
+    - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
   
+  See Also:
+    - [Featured Extensions – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/)
+
   - Search Engines
     - [asciimoo/searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine.
     - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
@@ -758,6 +871,7 @@
   - Screenshot/Screen Recorders
     - [lupoDharkael/flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
     - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
+    - [wulkano/kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. `macOS`
 
   - Calendars
     - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application.
@@ -768,10 +882,26 @@
   - Podcast Clients
     - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal.
     
-  - Games
+  - Games and Tools
     - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
     - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
     - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
+	  
+	- Learning
+	  - Vim
+      - Install Vim and type `vimtutor` in your terminal.
+	    - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - a game that teaches you vim commands.
+	    - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim. https://openvim.com.
+
+    - Regular Expressions and Algorithms
+      - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
+      - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io - The Regex Cheat Sheet. https://iHateRegex.io.
+      - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive Online Platform that Visualizes Algorithms from Code. https://algorithm-visualizer.org.
+
+    - Git
+      - [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub. https://github.github.com/training-kit. 
+      - [git/git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference.
+      - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide. http://rogerdudler.github.com/git-guide.
 
   - General
     - [zfsonlinux/zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
@@ -792,6 +922,7 @@
     - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool.
     - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader.
     - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights.
+    - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. `macOS`
 
 - Python
   - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -814,16 +945,24 @@
     - [James1345/django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django rest auth.
     - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework. `discontinued`
   - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-  - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python.
-  - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
-  - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
+  
+  - Data Science
+    - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python.
+    - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+    - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
+    - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
+    - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
+  
+  - Dependency/Package Management
+    - [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem.
+    - [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+
+  - [kennethreitz/requests](https://github.com/kennethreitz/requests) - A simple, yet elegant HTTP library.  
   - [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
   - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
   - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
   - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-  - [kennethreitz/requests](https://github.com/kennethreitz/requests) - A simple, yet elegant HTTP library.
   - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™.
-  - [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
   - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
   - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
   - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile.
@@ -957,6 +1096,9 @@
   - [1j01/jspaint](https://github.com/1j01/jspaint) - Classic MS Paint, ＲＥＶＩＶＥＤ + Extras https://jspaint.app.
   - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js.
   - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+  - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native.
+  - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. https://jsonbox.io.
+  - [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -983,6 +1125,7 @@
   - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
   - [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust.
   - [dessalines/lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
+  - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust.
 
 - C++
   - (GitLab) [mbunkus/mkvtoolnix](https://gitlab.com/mbunkus/mkvtoolnix) - Creating and working with Matroska files.
@@ -992,14 +1135,16 @@
   - [google/differential-privacy](https://github.com/google/differential-privacy) - Google's C++ differential privacy library.
   - [Microsoft/vcpkg](https://github.com/Microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS.
   - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+  - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library(5 KLOC) for all platforms.
 
 - Go
   - [golang/go](https://github.com/golang/go) - The Go programming language.
   - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
   - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
+  - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
   - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets.
   - (GitLab) [commento/commento](https://gitlab.com/commento/commento) - Commento is a fast, privacy-focused commenting platform.
-  - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
+  - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool(self-hosted).
 
 - Ruby
   - [rails/rails](https://github.com/rails/rails) - Ruby on Rails.
@@ -1024,6 +1169,7 @@
   - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more).
 
 - C
+  - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
   - (GitLab) [graphviz/graphviz](https://gitlab.com/graphviz/graphviz) - Graph Visualization Tools.
   - [antirez/redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
   - [google/brotli](https://github.com/google/brotli) - Brotli compression format.
@@ -1033,6 +1179,7 @@
   - [openwrt/openwrt](https://github.com/openwrt/openwrt) - The OpenWrt Project is a Linux operating system targeting embedded devices. `Mirror` https://git.openwrt.org/openwrt/openwrt.git.
   - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox: The Swiss Army Knife of Embedded Linux. `Mirror` https://git.busybox.net/busybox.
   - [urbit/urbit](https://github.com/urbit/urbit) - A personal server operating function.
+  - [littlevgl/lvgl](https://github.com/littlevgl/lvgl) - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
 
 - C#
   - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
@@ -1060,6 +1207,7 @@
   - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - GitHub Repository Card for Every Web Site.
   - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
   - [cli/cli](https://github.com/cli/cli) - The GitHub CLI.
+  - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
 
 - GitHub Alternatives
   - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror. `Mirror`
@@ -1176,10 +1324,12 @@
     - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app. `unmaintained`
     - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) = An open source GitHub Android client app, faster and concise.
 
+  - Reddit Clients
+    - [ccrama/Slide](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android.
+    - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
+
 - Mac/iOS
   - [Homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
-  - [wulkano/kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology.
-  - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client.
   - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS.
   
 - Link Shorteners
@@ -1189,7 +1339,7 @@
 
 - Documentation Browsers
   - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash.
-  - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets. `iOS and macOS only`
+  - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets. `iOS` `macOS`
   - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser.
   - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org.
   - [sunaku/dasht](https://github.com/sunaku/dasht) - Search API docs offline, in terminal or browser.
@@ -1204,58 +1354,18 @@
   - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
     - (GitLab) [antora/antora](https://gitlab.com/antora/antora) - A modular documentation site generator. Designed for users of Asciidoctor.
 
-- Online Code Editors
-  - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online code editor tailored for web application development 🏖️.
-
-- Instant Messaging/Communication:
+- Instant Messaging/Communication/Video Conferencing:
   - [Signal](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux.
   - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [vector-im/riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
   - [wireapp/wire-server](https://github.com/wireapp/wire-server) - Wire back-end services.
+  - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 
 - Email Providers:
   - [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
     - [amdelamar/pm-theme](https://github.com/amdelamar/pm-theme) - Easy Themes for ProtonMail (v3.16.x).
     - [csalmeida/protonmail-themes](https://github.com/csalmeida/protonmail-themes) - Customise ProtonMail with themes and enhance your encrypted email experience.
   - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
-
-- Browser Extensions
-  - Developer Tools
-    - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser.
-    - [facebook/react/devtools](https://github.com/facebook/react) - React DevTools.
-    - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
-    - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
-    - [30-seconds/30_seconds_of_knowledge](https://github.com/30-seconds/30_seconds_of_knowledge)Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
-    - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids.
-  
-  - Privacy Tools
-    - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-    - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
-    - [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-    - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes.
-    - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
-    - [hackademix/noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
-    - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera.
-    - [ourresearch/unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles.
-    - (GitLab) [Synzvato/decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Local emulation of Content Delivery Networks.
-    - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
-    - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable.
-    - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    - [gorhill/uMatrix](https://github.com/gorhill/uMatrix)
-    - [mozilla/notes](https://github.com/mozilla/notes) - A notepad for Firefox.
-    - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results.
-  
-  - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-  - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-  - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
-  - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.  
-  - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-  - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite.
-  - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
-  - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file.
-  - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus Userstyles Manager.
-  - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
-  - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
 
 - Automation
   - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -1296,6 +1406,7 @@
 
 - Encryption
   - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
+  - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
   - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability. age-encryption.org.
 
 - Penetration Testing
@@ -1315,6 +1426,10 @@
   - [nextcloud/server](https://github.com/nextcloud/server) - Nextcloud server, a safe home for all your data.
   - [owncloud/core](https://github.com/owncloud/core) - ownCloud web server core (Files, DAV, etc.).
   - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+  - [gdrive-org/gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI Client.
+
+- Cloud Storage
+  - [meganz/webclient](https://github.com/meganz/webclient) - The mega.nz web client.
 
 - Programming Languages
   - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
@@ -1325,6 +1440,7 @@
 - Distributed Networks/Blockchain
   - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
   - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
+  - (GitLab) [NebulousLabs/Sia](https://gitlab.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. https://sia.tech.
   - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network.
   - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
   - [tootsuite/mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
@@ -1381,7 +1497,7 @@
   - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository. `Mirror` https://wireshark.org.
 
 - Windows Only
-  - (GitLab) [tortoisegit/tortoisegit/](https://gitlab.com/tortoisegit/tortoisegit) - Windows Shell Interface to Git. `Windows only`
+  - (GitLab) [tortoisegit/tortoisegit/](https://gitlab.com/tortoisegit/tortoisegit) - Windows Shell Interface to Git.
   - (Web) [KeePass](https://keepass.info/) - free, open source, light-weight and easy-to-use password manager.
   - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader.
   - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
@@ -1515,6 +1631,9 @@
 - Pycharm Plugins
   - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme.
 
+- Visual Studio Plugins
+  - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+.
+
 - Sublime Text Plugins
   - [wbond/package_control](https://github.com/wbond/package_control) - The Sublime Text package manager.
   - [titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
@@ -1532,6 +1651,10 @@
     
   - Git
     - [jisaacks/GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter.
+    
+  - Note-Taking/Project Management
+    - [danielmagnussons/orgmode](https://github.com/danielmagnussons/orgmode) - orgmode for Sublime Text 2 & 3.
+    - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3).
 
 - Show HN
   - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding.

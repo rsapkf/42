@@ -7,7 +7,6 @@
   - [Open Source Software](docs/open-source-software.md)
   - [Linux Configuration](docs/linux-configuration.md)
   - [Privacy Tools](docs/privacy-tools.md)
-  - [Text Editors and IDEs](docs/text-editors-and-ides.md)
   - [Software and Services](docs/software-and-services.md)
   - [Coding Challenges](docs/coding-challenges.md)
   - [Science, Technology and Mathematics](docs/science-technology-and-mathematics.md)

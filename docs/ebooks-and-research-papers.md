@@ -6,6 +6,7 @@
 - Sites/
     - [HN Search 'books'](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=books&sort=byPopularity&type=story)
     - [OpenStax](https://openstax.org/)
+    - [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
     - [Archive.org](https://archive.org/)
     - [Project Gutenberg](https://www.gutenberg.org/)
     - [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)

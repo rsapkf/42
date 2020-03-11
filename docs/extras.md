@@ -16,6 +16,7 @@
 - [linux-tutorial.info](http://www.linux-tutorial.info/) - Linux Knowledge Base and Tutorial.
 - [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/) - 240+ Python Tutorials - Learn Python from Scratch.
 - [Tao Te Ching](http://taoteching.org.uk/)
+- [Cheat-Sheets.org](http://www.cheat-sheets.org/) -  All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - GDrive Reddit Guy(got these links from a Reddit comment)
   - [Computer Science and Programming - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pWVBFX0hqTzA0dUU)
   - [Mathematics and Science - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pMlRwbC11MjZRYk0)

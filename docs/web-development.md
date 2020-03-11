@@ -30,11 +30,7 @@ Roadmap to Web Development:
 ---
 
 ### Offline Documentation:
-- [Devdocs.io](https://devdocs.io)
-- [readthedocs.org](https://readthedocs.org/)
-- [Zeal](https://zealdocs.org/) - `Linux` `Windows`
 - [Velocity](https://velocity.silverlakesoftware.com/) - `Windows only`
-- [Dash](https://kapeli.com/dash) - `macOS` `iOS`
 
 ---
 
@@ -46,13 +42,9 @@ Roadmap to Web Development:
 
 ### Git:
 - Sites/
-    - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-    - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-    - [Git Reference](https://git.github.io/git-reference/)
     - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
     - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
     - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
-    - [Official GitHub Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 - GitHub/
     - [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
@@ -80,9 +72,6 @@ Roadmap to Web Development:
       - [LambdaSchool Free Online Web Mini Bootcamp](https://lambdaschool.com/courses/cs/web/bootcamp/) - HTML, CSS, JS
       - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
       - [CSS-Tricks](https://css-tricks.com/)
-      - [CodePen](https://codepen.io/) - Build, Test, and Discover Front-end Code
-      - [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
-      - [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials
       - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
       - [Codrops](https://tympanus.net/codrops/) - Web Dev and Design News.
         
@@ -263,20 +252,21 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 ---
 
 ### Text Editors and IDEs:
-See [./text-editors-and-ides.md](./text-editors-and-ides.md)
+- Interactive Online Code Editors:
+  - [Scrimba](https://scrimba.com/c/cKp6LhL) - HTML, CSS, JavaScript
+  - [JSFiddle](https://jsfiddle.net) - HTML, CSS, JavaScript, CoffeeScript
+  - [CodePen](https://codepen.io/) - HTML, CSS, JavaScript
+  - [SoloLearn](https://code.sololearn.com/) - HTML, CSS, JavaScript
 
 ---
 
 ### Regular Expressions and Algorithms:
 - Sites/
-    - [Big-O Complexity Chart](https://www.bigocheatsheet.com) - Know Thy Complexities!
     - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
     - [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
     - [Regular-Expressions.info](https://www.regular-expressions.info/)
     - [RexEgg](https://www.rexegg.com/)
-    - [iHateRegex.io](https://ihateregex.io/)
     - [Regex Crossword](https://regexcrossword.com/)
-    - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
 ---
 
@@ -317,6 +307,10 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
   - [Heroku](https://www.heroku.com/) - Build data-driven apps with fully managed data services.
   - [ZEIT Now](https://zeit.co/) - The easiest way to deploy websites.
   - [surge](https://surge.sh/) - Static web publishing for Front-End Developers.
+
+- CI/CD
+  - [Travis-CI](https://travis-ci.org/)
+  - [circleci](https://circleci.com/)
 
 - API Testing/
   - [Postman](https://www.postman.com/) - The Collaboration Platform for API Development.
@@ -372,23 +366,18 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
   - [r/emacs](https://www.reddit.com/r/emacs)
 
 - Sites/
-  - [Dash Cheat Sheets - Kapeli](https://kapeli.com/cheatsheets)
-  - [Devhints](https://devhints.io/) - TL;DR for developer documentation
   - [The changelog](https://changelog.com/)
   - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
   - [repl.it](https://repl.it/)
   - [Grep.app](https://grep.app/) - Search code in GitHub repos using regular expressions.
   - [Glitch](https://glitch.com/)
-  - [Learn-Anything](https://learn-anything.xyz/)
   - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
   - [freeCodeCamp Guide](https://guide.freecodecamp.org/) - articles about all things related to programming.
-  - [Learn X in Y Minutes](https://learnxinyminutes.com) - quick reference sheets for the syntax of many different languages (generally not sufficient on their own for learning something, but very helpful)
   - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
   - [JAMstack](https://jamstack.org/) - JavaScript, APIs, and Markup
   - [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
   - [tuts+](https://tutsplus.com/)
   - [thoughtbot Blog](https://thoughtbot.com/blog) - Giant Robots Smashing Into Other Giant Robots.
-  - [The Twelve-Factor App](https://12factor.net/)
   - [Twilio Tutorials](https://www.twilio.com/docs/tutorials)
   - [scotch.io](https://scotch.io/) - fun and practical web development tutorials.
   - [Pusher Developer Tutorials](https://pusher.com/tutorials)
