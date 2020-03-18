@@ -35,12 +35,18 @@
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io.
 - [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io) - A curated list of startpages for your browser.
 
+### Collections
+- [Lab45 Link Garden](https://lab46.g7n.org/documentation/linkgarden) - Corning Community College Portal to the Universe.
+- [Things and Stuff Wiki](https://wiki.thingsandstuff.org/Resources)
+
 ### YouTube
 - [PewDiePie](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw) - Felix Kjellberg.
 - [MrBeast](https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA) - Jimmy Donaldson.
 - [Ben Shapiro](https://www.youtube.com/channel/UCnQC_G5Xsjhp9fEJKuIcrSw) - Ben Shapiro.
 
 ### Sites
+- [The Onion](https://www.theonion.com/) - America's Finest News Source.
+- [4chan](https://4chan.org/)
 - [Improve Your Social Skills](https://www.improveyoursocialskills.com/)
 - [devRant](https://devrant.com/) - Share and bond over successes and frustrations with code, tech and life as a programmer.
 - [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX, HTML, Markdown, MediaWiki Tables Online.

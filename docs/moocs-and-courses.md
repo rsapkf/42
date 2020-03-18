@@ -3,6 +3,7 @@
 - Sites/
     - [Wikipedia](https://wikipedia.org/)
     - [edX.org](https://www.edx.org/)
+    - [The Linux Foundation Training](https://training.linuxfoundation.org/)
     - [freeCodeCamp](https://freecodecamp.org/) - Learn to Code for Free.
     - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
     - [MIT Deep Learning](https://deeplearning.mit.edu/)
@@ -47,6 +48,7 @@
 
 ### Courses
 - [Linux From Scratch](http://www.linuxfromscratch.org/) - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
+- [A Beginner's Guide to Linux Kernel Development](https://training.linuxfoundation.org/resources/free-courses/a-beginners-guide-to-linux-kernel-development/) - The Linux Foundation.
 - [The Theoretical Minimum Lectures](https://theoreticalminimum.com/) - Leonard Susskind
 - [CS 144: Introduction to Computer Networking, Fall 2019 - Stanford](https://cs144.github.io/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2019 - Stanford](http://cs231n.stanford.edu/)

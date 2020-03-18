@@ -1,4 +1,4 @@
-# Free-To-Read Books
+# Free-To-Read Books and Guides
 
 ### CS/Software Development
 - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) - Jack Crenshaw.
@@ -32,6 +32,10 @@
 - [Pro Git](https://github.com/progit/progit2) - Scott Chacon, Ben Straub ([GitHub](https://github.com/progit/progit2))
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) ([GitHub](http://github.com/pomax/BezierInfo-2))
 - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google.
+
+## Guides
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab
+- [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics.
 
 ### Mathematics
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.HTM) - Gerard E. Dallal.

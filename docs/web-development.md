@@ -252,6 +252,8 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 ---
 
 ### Text Editors and IDEs:
+- [Sublime Text](https://www.sublimetext.com/)
+
 - Interactive Online Code Editors:
   - [Scrimba](https://scrimba.com/c/cKp6LhL) - HTML, CSS, JavaScript
   - [JSFiddle](https://jsfiddle.net) - HTML, CSS, JavaScript, CoffeeScript
@@ -383,3 +385,9 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
   - [Pusher Developer Tutorials](https://pusher.com/tutorials)
   - [Cooperpress](https://cooperpress.com/) - Weekly email newsletters to developers and software engineers.
   - [RisingStack Blog](https://blog.risingstack.com/)
+  
+- Pastebins
+  - [GitHub Gists](https://gist.github.com/) - Instantly share code, notes, and snippets.
+  - [Pastebin](https://pastebin.com/)
+  - [Ubuntu Pastebin](https://paste.ubuntu.com/)
+  

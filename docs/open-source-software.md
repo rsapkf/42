@@ -69,6 +69,7 @@
 - [Mullvad VPN](https://github.com/mullvad) - Privacy is a universal right.
 - [WireGuard](https://github.com/WireGuard) - Mirror of various WireGuard-related projects. See https://www.wireguard.com/repositories/ for official repositories.
 - [Simple Mobile Tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
+- [IRCCloud Ltd.](https://github.com/irccloud) - Chat on IRC from anywhere, and never miss a message.
 - [Eclipse Foundation](https://github.com/eclipse)
 - [fast.ai](https://github.com/fastai)
 - [Spotify](https://github.com/Spotify)
@@ -143,18 +144,37 @@
   - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
   - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
   - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
-  - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
+
   - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives. https://opensource.builders.
 
   - Vim
     - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
     - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
     - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
-    - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
+    - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Some simple methods for exiting vim.
       
   - Emacs
     - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
     - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year.
+
+  - Shells
+    - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+
+  - LaTeX
+    - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
+
+  - Dotfiles
+    - [GitHub Search "dotfiles"](https://github.com/search?q=dotfiles)
+    - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+    - [Dotfiles - ArchWiki](https://wiki.archlinux.org/index.php/Dotfiles)
+    - [holman/dotfiles](https://github.com/holman/dotfiles) - Zach Holman's Dotfiles.
+    - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - Mathias Bynen's Dotfiles.
+    - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - Jess Frazelle's Dotfiles.
+    - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - Luke Smith's Dotfiles.
+    - [wincent/wincent](https://github.com/wincent/wincent) - Greg Hurrell's Dotfiles.
+    - (GitLab) [dwt1/dotfiles](https://gitlab.com/dwt1/dotfiles) - Distrotube's Dotfiles
+    - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
+    - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
 
 - Regular Expressions and Algorithms
   - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
@@ -382,6 +402,7 @@
   - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
   - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
+  - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems.
 
 ---
 
@@ -457,6 +478,7 @@
 
   - Status Bars
     - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar.
+      - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants.
     - [liamg/shox](https://github.com/liamg/shox) - A customisable, universally compatible terminal status bar.
 
   - Notification Daemons
@@ -465,7 +487,7 @@
 
   - Text Editors and IDEs
     - Text Based Editors
-      - [vim/vim](https://github.com/vim/vim) - The official Vim repository.
+      - [vim/vim](https://github.com/vim/vim) - The official Vim repository. https://vimhelp.org.
       - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for Mac OS X. `macOS`
       - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
       - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration.
@@ -485,12 +507,17 @@
       - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing.
       - [Microsoft/vscode](https://github.com/Microsoft/vscode) - Visual Studio Code.
       - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later. https://macromates.com. `macOS`
+      - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository. `Windows`
+      - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE.
+      - [Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
+      - (Web) [gedit](https://wiki.gnome.org/Apps/Gedit) - GNOME text editor.
       
     - IDEs
       - (Web) [Eclipse](https://www.eclipse.org/)
       - (Web) [Pycharm-CE](https://www.jetbrains.com/pycharm/)
       - (Web) [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
       - (Web) [Anaconda](https://www.anaconda.com/distribution/) - The World's Most Popular Python/R Data Science Platform.
+      - (Web) [Qt](https://www.qt.io/) - One framework. One codebase. Any platform.
       
     - Cloud Editors
       - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. https://theia-ide.org.
@@ -523,6 +550,10 @@
     
   - Dotfiles
     - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles.
+    
+  - Fonts
+    - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
+    - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more.
 
   - Terminal Applications
     - (Web) [lynx](http://lynx.browser.org) - text browser for the World Wide Web.
@@ -531,7 +562,6 @@
     - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation. https://ctags.io.
     - [jarun/ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
     - [jarun/googler](https://github.com/jarun/googler) - Google from the terminal.
-    - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
     - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
     - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts (https://www.shellcheck.net).
     - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
@@ -539,7 +569,6 @@
     - [nvbn/thef ck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
     - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick 7.
     - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video. `Mirror` https://git.ffmpeg.org/ffmpeg.git.
-    - [neomutt/neomutt](https://github.com/neomutt/neomutt) - Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net.
     - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
     - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
     - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -550,10 +579,12 @@
     - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
     - [timvisee/ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
     - (GitLab) [timvisee/ffsend](https://gitlab.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
+    - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
     - [Y2Z/monolith](https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
     - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
     - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface.
     - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees.
+    - [ogham/exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
     - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net.
     - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal. `discontinued`
     - (GitLab) [ajak/tuir](https://gitlab.com/ajak/tuir) - A TUI to view and interact with Reddit from your terminal forked from rtv.
@@ -563,6 +594,7 @@
     - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
     - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units. https://insect.sh.
     - [rupa/z](https://github.com/rupa/z) - z - jump around.
+    - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
     
   - Graphical Applications
     - Video Editors
@@ -579,7 +611,6 @@
     - (Web) [VirtualBox](https://www.virtualbox.org/)
     - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
     - (Web) [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
-    - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player.
     - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor.
     - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
     - [qemu/qemu](https://github.com/qemu/qemu) - the FAST! processor emulator. `Mirror` https://www.qemu.org.
@@ -591,16 +622,20 @@
       - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
       - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
     
-    - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-    - [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
-    - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing.
-    - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim.
-    - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - The ultimate snippet solution for Vim.
     - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode.
     - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim.
     - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support.
     - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim.
     - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - Dark powered asynchronous completion framework for neovim/Vim8.
+    - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim.
+    - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
+    
+    - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+    - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air.
+    
+    - [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
+    - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim.
+    - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - The ultimate snippet solution for Vim.
     - [scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Vim plugin for intensely orgasmic commenting.
     - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
     - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status.
@@ -610,6 +645,9 @@
     - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - Defaults everyone can agree on.
     - [tpope/vim-surround](https://github.com/tpope/vim-surround) - quoting/parenthesizing made simple.
     - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - comment stuff out.
+    - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing.
+    - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings.
+    - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with ".".
     - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist.
     - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim.
     - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'.
@@ -620,12 +658,13 @@
     - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim.
     - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim.
     - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair.
-    - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - Dark powered asynchronous completion framework for neovim/Vim8.
     - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim.
     - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - All the world's indeed a stage and we are merely players.
     - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim.
-    - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with ".".
+    - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim.
     - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
+    - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - Vim plugin that shows keybindings in popup.
+    - [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
 
   - Emacs Packages
     - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
@@ -633,13 +672,13 @@
     - [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
  
   - Tmux
+    - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager.
     - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code.
     - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - tmux session manager. built on libtmux.
     - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily.
     - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
     - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
     - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works).
-    - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager.
     - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on.
     - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider.
     
@@ -669,6 +708,7 @@
   - Themes/Color Schemes
     - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - A dark theme for all the things!.
     - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes.
+    - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
     - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes.
     - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly.
     - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
@@ -681,6 +721,8 @@
       - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
       - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim.
       - [nanotech/jellybeans.vim](https://github.com/nanotech/jellybeans.vim) - A colorful, dark color scheme for Vim.
+      - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
+      - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - Light & Dark Vim color schemes inspired by Google's Material Design.
       - [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim.
       - [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
 
@@ -696,6 +738,8 @@
     - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
     - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
     - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
+    - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
+    - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers.
     - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them. `Mirror` https://stevelosh.com/projects/t.
     - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
     - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management.
@@ -718,6 +762,8 @@
     - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh.
 
   - System Monitors
+    - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+    - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
     - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
     - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 
@@ -725,19 +771,27 @@
     - [davatorium/rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
     - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher.
     - (Web) [dmenu](https://tools.suckless.org/dmenu/) 
-    - [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
+      - [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
+
+  - Compositors
+    - [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
+    - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork).
 
   - Shells
     - (Web) [GNU Bash](https://www.gnu.org/software/bash/) - Bash(Bourne Again SHell) is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh).
     - (Web) [Zsh](https://www.zsh.org/) - a shell designed for interactive use, although it is also a powerful scripting language.
       - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
       - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh.
+      - [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh.
+      - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+      - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - A tool for building the most useful CLI possible, customized for you.
       - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts.
     - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
       - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework.   
     - [nushell/nushell](https://github.com/nushell/nushell) - A modern shell written in Rust.
     - [PapyElGringo/material-shell](https://github.com/PapyElGringo/material-shell) - New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort.
     - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+      - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theming engine for Powershell.
     - [starship/starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts.
 
   - Password Managers
@@ -752,10 +806,15 @@
     - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - Buttercup credentials management application.
 
   - Email Clients
-    - (Web) [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!  
-    - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
-    - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features.
-    - [rainloop/rainloop-webmail](https://github.com/rainloop/rainloop-webmail) - Simple, modern & fast web-based email client. https://rainloop.net.
+    - Text Based Email Clients
+      - (GitLab) [muttmua/mutt](https://gitlab.com/muttmua/mutt) - "All mail clients suck. This one just sucks less."
+      - [neomutt/neomutt](https://github.com/neomutt/neomutt) - Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net.
+    
+    - Graphical Email Clients
+      - (Web) [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!  
+      - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+      - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features.
+      - [rainloop/rainloop-webmail](https://github.com/rainloop/rainloop-webmail) - Simple, modern & fast web-based email client. https://rainloop.net.
 
   - Thunderbird Add-ons/Extensions
     - (Web) [Enigmail](https://enigmail.net/) -  A simple interface for OpenPGP email security.
@@ -813,6 +872,10 @@
     - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
     - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
   
+  - UserScript Managers
+    - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
+    - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+  
   See Also:
     - [Featured Extensions – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
     - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/)
@@ -823,6 +886,7 @@
   
   - BitTorrent Clients
     - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client.
+    - [webtorrent/webtorrent)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. https://webtorrent.io.
     - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent BitTorrent client (Enhanced Edition).
     - [transmission/transmission](https://github.com/transmission/transmission) - BitTorrent client. See Also [Transmission-cli](https://wiki.archlinux.org/index.php/Transmission).
     - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
@@ -830,13 +894,14 @@
     
   - Document Viewers
     - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager.
-    - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer.
+    - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer. `Mirror` https://pwmt.org/projects/zathura.
     - (Web) [Okular](https://okular.kde.org/) - universal document viewer developed by KDE.
     - (Web) [Evince](https://wiki.gnome.org/Apps/Evince) - document viewer for multiple document formats.
 
   - Terminal Emulators
     - (Web) [urxvt(rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
     - (Web) [st](https://st.suckless.org/)
+    - [LukeSmithxyz/st](https://github.com/lukesmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
     - (Web) [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
     - (Web) [Konsole](https://konsole.kde.org/)
     - (Web) [xterm](https://invisible-island.net/xterm/xterm.html)
@@ -844,7 +909,8 @@
     - [jwilm/alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
     - [thestinger/termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support..
     - [zeit/hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
-    - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. `Mac OSX only`
+    - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. `macOS`
+    - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. `Windows`
 
   - Bookmark Managers
     - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
@@ -854,30 +920,56 @@
     - (Gogs) [fox/tt-rss](https://git.tt-rss.org/fox/tt-rss) - Tiny Tiny RSS: Self-hosted feed reader.
     - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
     - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals.
-    - [ciderpunx/twitrssme](https://github.com/ciderpunx/twitrssme) - TwitRSS.me: Tool to make Twittter timelines and searches into RSS feeds.
     - [miniflux/miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader.
     - [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader.
     - [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME.
     - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
     - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
+    - [ciderpunx/twitrssme](https://github.com/ciderpunx/twitrssme) - Tool to make Twitter timelines and searches into RSS feeds.
 
   - Chat Clients
     - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future.
     - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
     - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client.
+    - [thelounge/thelounge](https://github.com/thelounge/thelounge) - Modern, responsive, cross-platform, self-hosted web IRC client. https://thelounge.chat.
     - [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) - Next generation of the Kiwi IRC web client.
     - (Bitbucket) [pidgin/main](https://bitbucket.org/pidgin/main/src/) - Main Pidgin Repository.
+    - [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App.
 
   - Screenshot/Screen Recorders
     - [lupoDharkael/flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
     - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
     - [wulkano/kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. `macOS`
+    
+  - Video Players
+    - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player.
+    - [mpv-player/mpv](https://github.com/mpv-player/mpv) - Command line video player.
+  
+  - Music Players
+    - [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player.
+    - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+    - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc.
+    - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - Clementine Music Player.
+    - (Web) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)
+    - (Web) [Amarok](https://amarok.kde.org/)
+    - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player.
+
+    - Spotify Clients
+      - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon.
+      - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust.
+      - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 
   - Calendars
     - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application.
 
+  - Presentation
+    - (Web) [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool by suckless.org.
+
   - Image Viewers
     - [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer.
+    - [eXeC64/imv](https://github.com/eXeC64/imv) - Image viewer for X11/Wayland.
+    - [derf/feh](https://github.com/derf/feh) -  fast and light image viewer.
+    - [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows.
 
   - Podcast Clients
     - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal.
@@ -889,7 +981,7 @@
 	  
 	- Learning
 	  - Vim
-      - Install Vim and type `vimtutor` in your terminal.
+	    - Install Vim and type `vimtutor` in your terminal.
 	    - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - a game that teaches you vim commands.
 	    - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim. https://openvim.com.
 
@@ -915,14 +1007,13 @@
     - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
     - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
     - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization.
-    - [mpv-player/mpv](https://github.com/mpv-player/mpv) - Command line video player.
-    - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - Clementine Music Player.
     - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager.
     - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers.
     - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool.
     - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader.
     - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights.
     - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. `macOS`
+    - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. `macOS`
 
 - Python
   - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -982,6 +1073,7 @@
   - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
   - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
   - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
+  - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
   - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
   - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform.
   - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
@@ -1005,6 +1097,7 @@
 
 - JavaScript
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
+  - [webslides/webslides](https://github.com/webslides/webslides) - Create HTML presentations in seconds.
   - [babel/babel](https://github.com/babel/babel) - Babel is a compiler for writing next generation JavaScript.
   - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
   - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript.
@@ -1045,7 +1138,6 @@
   - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) -  Most modern mobile touch slider with hardware accelerated transitions.
   - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
   - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides.
-  - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - React MDX-based presentation decks.
   - [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
   - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
   - [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
@@ -1099,6 +1191,8 @@
   - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native.
   - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. https://jsonbox.io.
   - [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
+  - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲ ● ■.
+  - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transition between your website's pages.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -1106,6 +1200,7 @@
   - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular tiny.cloud.
   - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
   - [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers.
+  - [copy/v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS. https://copy.sh/v86.
 
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1116,8 +1211,6 @@
   - [sapir/gcc-rust](https://github.com/sapir/gcc-rust) - a (WIP) Rust frontend for gcc.
   - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
   - [remacs/remacs](https://github.com/remacs/remacs) - Rust 💜 Emacs.
-  - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon.
-  - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust.
   - [bayard-search/bayard](https://github.com/bayard-search/bayard) - Bayard is a full-text search and indexing server written in Rust.
   - [samuela/rustybox)](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust.
   - [dabreegster/abstreet](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
@@ -1139,7 +1232,6 @@
 
 - Go
   - [golang/go](https://github.com/golang/go) - The Go programming language.
-  - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
   - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
   - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
   - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets.
@@ -1208,6 +1300,7 @@
   - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
   - [cli/cli](https://github.com/cli/cli) - The GitHub CLI.
   - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
+  - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 
 - GitHub Alternatives
   - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror. `Mirror`
@@ -1248,6 +1341,8 @@
     - [chakra-ui/chakra-ui/](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
     - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises.
     - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears.
+    - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - React MDX-based presentation decks.
+    - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
     - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10.
     - [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
     - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - React, React Native and Vue UI components for building data-driven apps with Elasticsearch.
@@ -1291,6 +1386,9 @@
   - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
   - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators.
 
+- Jekyll Themes
+  - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+
 - Android Only
   - (GitLab) [fdroid/fdroidclient](https://gitlab.com/fdroid/fdroidclient) - Android client application.
   - (GitLab) [AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - An Open Source alternative for Google Play Store.
@@ -1301,9 +1399,6 @@
   - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app.
   - [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
   - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind.
-  - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists.
-  - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead.
-  - [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android.
   - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS.
   - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
   - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader.
@@ -1314,6 +1409,11 @@
   - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits.
   - [meefik/busybox](https://github.com/meefik/busybox) - BusyBox for Android.
   - [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012).
+  
+  - Note-Taking
+    - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists.
+    - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead.
+    - [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android.
   
   - Calendar
     - [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) -  A simple calendar with events, customizable widgets and no ads.
@@ -1357,6 +1457,7 @@
 - Instant Messaging/Communication/Video Conferencing:
   - [Signal](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux.
   - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
+  - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React.
   - [vector-im/riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
   - [wireapp/wire-server](https://github.com/wireapp/wire-server) - Wire back-end services.
   - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -1377,12 +1478,12 @@
   - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell.
   - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️Build lightning fast websites and apps with Vue.js.
   - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in.
+  - [jekyll/jekyll](https://github.com/jekyll/jekyll) - Jekyll is a blog-aware static site generator in Ruby.
   - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-  - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?.
+  - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
+  - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
   - [zeit/next.js](https://github.com/zeit/next.js) - The React Framework.
   - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-  - [jekyll/jekyll](https://github.com/jekyll/jekyll) - Jekyll is a blog-aware static site generator in Ruby.
-  - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
   - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
     - [netlify-templates/victor-hugo](https://github.com/netlify-templates/victor-hugo) - Victor Hugo is a Hugo boilerplate for creating truly epic websites!
   - [react-static/react-static](https://github.com/react-static/react-static) - A progressive static site generator for React.
@@ -1440,6 +1541,8 @@
 - Distributed Networks/Blockchain
   - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
   - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
+  - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
+  - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency.
   - (GitLab) [NebulousLabs/Sia](https://gitlab.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. https://sia.tech.
   - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network.
   - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
@@ -1462,6 +1565,7 @@
 
 - APIs
   - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
+  - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
   - [phalt/swapi](https://github.com/phalt/swapi) - The Star Wars API.
   - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
   - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
@@ -1496,7 +1600,12 @@
   - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot, the most complete OSINT collection and reconnaissance tool.
   - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository. `Mirror` https://wireshark.org.
 
+- Bitcoin Wallets
+  - [bitcoin-wallet/bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. `Android Only`
+  - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet. https://electrum.org.
+
 - Windows Only
+  - (Web) [Cygwin](https://cygwin.com/) - Get that Linux feeling - on Windows.
   - (GitLab) [tortoisegit/tortoisegit/](https://gitlab.com/tortoisegit/tortoisegit) - Windows Shell Interface to Git.
   - (Web) [KeePass](https://keepass.info/) - free, open source, light-weight and easy-to-use password manager.
   - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader.
@@ -1507,7 +1616,8 @@
   - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
   - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows.
   - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
-
+  - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows.
+  
 - Forums/Sites
   - (GitLab) [gitlab-org/gitter](https://gitlab.com/gitlab-org/gitter) - Gitter is a community for software developers.
   - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion.
@@ -1517,7 +1627,6 @@
   - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform.
   - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow.
   - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to https://draw.io.
-  - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React.
   - [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups.
   - [frab/frab](https://github.com/frab/frab) - conference management system.
   - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Opensource alternative to Intercom, Drift, Zendesk, FreshChat.
@@ -1593,8 +1702,26 @@
   - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables.
   - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
   - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+  - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting. https://sentry.io.
   - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+  - [spotify/backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals.
 
+- Website Templates
+  - Bootstrap Templates
+    - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template.
+    - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4 & 3.
+    - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates.
+  
+  - Jekyll Themes
+    - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+    - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - Build a beautiful and simple website in literally minutes.
+    - [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template.
+    - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
+
+  - Hugo Themes
+    - [gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) - The website builder for Hugo. Build and deploy a beautiful website in minutes!
+    - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
+    
 - VSCode Extensions
   - [Microsoft/vscode-docker](https://github.com/Microsoft/vscode-docker) - Docker extension for VS Code.
   - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - Vim for Visual Studio Code.

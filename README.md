@@ -1,6 +1,6 @@
 ## goodies
 
-This is an ongoing personal collection of over 2000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Most of these are from my browser bookmarks. Contains blogs, websites, software that I use, my GitHub/GitLab/... stars(which I manage with my bookmark manager, not GH itself), Gists, Subreddits, YouTube channels, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/StackOverflow/Codepen profiles/articles I follow, Podcasts I listen to, Browser Add-ons, Linux Hacks, Vim/Tmux/Emacs plugins I use and everything.
+This is an ongoing personal collection of over 2500+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Most of these are from my browser bookmarks. Contains blogs, websites, software that I use, my GitHub/GitLab/... stars(which I manage with my bookmark manager, not GH itself), Gists, Subreddits, YouTube channels, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/StackOverflow/Codepen profiles/articles I follow, Podcasts I listen to, Browser Add-ons, Linux Hacks, Vim/Tmux/Emacs plugins I use and everything.
 
 In short, this is my attempt to organize my knowledge. Feedbacks and [contributions](CONTRIBUTING.md) welcome.
 
@@ -23,7 +23,7 @@ GitBook: [goodies.gitbook.io/](https://goodies.gitbook.io/)
 - [Massive Open Online Courses](docs/moocs-and-courses.md)
 - [Cubing, Puzzles and Magic](docs/cubing-puzzles-and-magic.md)
 - [Random Cool Sites](docs/random-cool-sites.md)
-- [Free to Read Books](docs/free-to-read-books.md)
+- [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
 - [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
 - [High School](docs/high-school.md)
 - [Extras](docs/extras.md)

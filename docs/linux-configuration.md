@@ -20,13 +20,22 @@
   - [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
   - [r/debian](https://www.reddit.com/r/debian)
   - [r/kde](https://www.reddit.com/r/kde)
-  - [r/startpages](https://www.reddit.com/r/startpages)
+
+- Browser Customization
+  - Sites
+    - [mozillaZine](http://kb.mozillazine.org/Knowledge_Base)
+    - [userChrome.org](https://www.userchrome.org/)
+    
+  - Subredditts
+    - [r/firefox](https://www.reddit.com/r/firefox)
+    - [r/startpages](https://www.reddit.com/r/startpages)
+    - [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS)
 
 - Software Alternatives
   - Email Encryption
     - [OpenPGP.org/software](https://www.openpgp.org/software/)
 
-  - [List of Applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
+  - [ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
   - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page)
   - [Debian Wiki](https://wiki.debian.org/)
   - [suckless.org](https://suckless.org/) - software that sucks less
@@ -44,6 +53,7 @@
   - [freedesktop.org](https://www.freedesktop.org/wiki/)
   - [SourceForge](https://sourceforge.net/)
   - [AlternativeTo](https://alternativeto.net/)
+  - [List.community](https://list.community/) - an easy way to browse curated lists on GitHub.
   - [Slant](https://www.slant.co/) - Choose the best
   - [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
 

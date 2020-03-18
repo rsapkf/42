@@ -4,10 +4,12 @@
     - [Firefox Monitor](https://monitor.firefox.com/) - See if you’ve been part of an online data breach.
     - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach.
     - [LKML.ORG](https://lkml.org/) - the Linux Kernel Mailing List Archive.
+    - [Google Code Search](https://cs.opensource.google/) - Search all projects for code or files.
     - [One Page Calendar 2020](https://davebakker.io/onepagecalendar/)
     - [Faces of Open Source](http://www.facesofopensource.com/)
     - [Start Your Own ISP](https://startyourownisp.com/)
     - [Where is Starman](https://www.whereisroadster.com/)
+    - [Appscope](https://appsco.pe/) - directory for Progressive Web Apps (PWAs).
     - [Esolangs](https://esolangs.org/wiki/Main_Page)
     - [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
     - [Is This Prime?](http://isthisprime.com/game/)
@@ -194,6 +196,7 @@
     - [How to get your IP unbanned on HN.](https://news.ycombinator.com/item?id=4761102)
     - [What's the most valuable thing you can learn in an hour?](https://news.ycombinator.com/item?id=21581361)
     - [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
+    - [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797)
 
 - Wikipedia Pages/
     - [SOLID](https://en.wikipedia.org/wiki/SOLID)
@@ -205,6 +208,9 @@
     - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
     - [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism) ([List of autodidacts](https://en.wikipedia.org/wiki/List_of_autodidacts))
     - [Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
+    - [Year 2038 problem](https://en.wikipedia.org/wiki/Year_2038_problem)
+    - [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem)
+    - [Rickrolling](https://en.wikipedia.org/wiki/Rickrolling)
  
 - Other/
     - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) by Eric S. Raymond.

@@ -74,7 +74,9 @@
 
 - Sites+Blogs/
     - [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
-    - [NASA](https://www.nasa.gov/)
+    - [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration.
+    - [ESA](https://www.esa.int/) - European Space Agency.
+    - [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization.
     - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Take a tour of the major moons in our celestial menagerie, including those that are among the most mystifying—or scientifically intriguing—places in our local neighborhood.
     - [Space.com](https://www.space.com/)
     - [ScienceMag](https://www.sciencemag.org/)
@@ -258,6 +260,7 @@
       - [Salvatore Sanfilippo's Blog](http://antirez.com)
       - [fasterlime](https://fasterthanli.me/)
       - [catonmat.net - Peter Krumins](https://catonmat.net/) - powered by Alien Technology.
+      - [Dan Luu](https://danluu.com/)
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
@@ -278,16 +281,21 @@
       - [DistroWatch](https://distrowatch.com)
       - [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
       - [Wait But Why](https://waitbutwhy.com/)
-      - [It's FOSS](https://itsfoss.com/)
       - [Logical Increments](http://www.logicalincrements.com/) - PC building guides
 
     - Miscellaneous:
       - [Feedly Discover](https://feedly.com/i/discover/)
-      - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
-      - [Y Combinator Company List](https://yclist.com/)
-      - [n-gate.com](http://n-gate.com/) - we can't both be right.
-      - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
-      - [Best of Show HN all time](https://bestofshowhn.com/)
+      
+      - HackerNews/Y Combinator
+        - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
+        - [HN/leaders](https://news.ycombinator.com/lists) - Users with most karma.
+        - [HN/front](https://news.ycombinator.com/front) - Front page submissions for a given day (e.g. 2016-06-20).
+        - [HN Lists](https://news.ycombinator.com/lists)
+        - [Y Combinator Company List](https://yclist.com/)
+        - [n-gate.com](http://n-gate.com/) - we can't both be right.
+        - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
+        - [Best of Show HN all time](https://bestofshowhn.com/)
+      
       - [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
       - [Stack Overflow](https://stackoverflow.com/)
       - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
@@ -323,6 +331,7 @@
       - [TechCrunch](https://techcrunch.com/)
       - [The Guardian](https://www.theguardian.com/)
       - [The Verge](https://www.theverge.com/)
+      - [ProgrammableWeb](https://www.programmableweb.com/) - leading source of news and information about Internet-based APIs.
       - [Harvard Business Review](https://hbr.org/)
       - [Stratechery](https://stratechery.com)
       - [Serializer](https://serializer.io)
@@ -339,6 +348,8 @@
       - [XDA Developers](https://www.xda-developers.com/)
       - [AngelList](https://angel.co/) - Experience the startup ecosystem — invest in startups, research the fastest-growing companies, and find a job you love.
       - [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
+      - [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
+      - [It's FOSS](https://itsfoss.com/)
 
     - Hacking
       - [Null Byte](https://null-byte.wonderhowto.com/)
@@ -374,6 +385,10 @@
       - [Kenneth Reitz](https://www.kennethreitz.org/)
       - [Derek Sivers](https://sivers.org/)
       - [Schneier on Security - Bruce Schneier](https://www.schneier.com/)
+      - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+      
+    - Research Papers
+      - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto.
     
     - Reddit Profiles
       - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.
