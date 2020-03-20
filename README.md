@@ -35,6 +35,8 @@ Go to [docs/](https://github.com/rsapkf/goodies/blob/master/docs) subdirectory t
 
 **Disclaimer**: The categorization of resources and software that I list here are for personal reference only. Not every open source software out there is more secure than other proprietary options. Please do a thorough research before using any of this stuff.
 
+---
+
 ### Support this project
 Curating, adding and categorizing links takes an unexpectedly long time but I don't want to quit this project anytime soon. If you find this helpful in any way, consider making a contribution:
 

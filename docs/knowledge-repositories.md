@@ -47,7 +47,6 @@
 
 ### Regular Expressions and Algorithms
   - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
-  
   - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
   - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io - The Regex Cheat Sheet. https://iHateRegex.io.
 
@@ -153,7 +152,6 @@
   - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
   - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.
   - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects. https://firstcontributions.github.io.
-  
   - [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub. https://github.github.com/training-kit. 
   - [git/git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference.
   - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide. http://rogerdudler.github.com/git-guide.
