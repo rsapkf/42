@@ -1,408 +1,9 @@
 # Open Source Software
 
 ## Contents
-- [Organizations](#organizations)
-- [Learning](#learning)
 - [Tools](#tools)
-
----
-
-### Organizations
-- (GitLab) [GitLab.com](https://gitlab.com/gitlab-com) - GitLab company related projects.
-- (GitLab) [GitLab.org](https://gitlab.com/gitlab-org) - Open source software to collaborate on code.
-- (GitLab) [Minds](https://gitlab.com/minds) - Minds is a free & open source social network dedicated to privacy and freedom.
-- [GitHub](https://github.com/github) - How people build software.
-- [Mozilla](https://github.com/mozilla) - This technology could fall into the right hands.
-- [Mozilla Mobile](https://github.com/mozilla-mobile) - Mozilla Mobile Applications.
-- [JetBrains](https://github.com/jetbrains) - JetBrains open source projects.
-- [DuckDuckGo](https://github.com/duckduckgo) - The search engine that doesn't track you.
-- [Automattic](https://github.com/Automattic) - We are passionate about making the web a better place.
-- [Nextcloud](https://github.com/nextcloud) - A safe home for all your data – community-driven, free & open source.
-- [ownCloud](https://github.com/owncloud) - A safe home for all your data.
-- [WebAssembly](https://github.com/webassembly) - Development of WebAssembly and associated infrastructure.
-- [Bitwarden](https://github.com/bitwarden) - Open source password management solutions for individuals, teams, and business organizations.
-- [Kotlin](https://github.com/kotlin) - Kotlin Tools and Libraries.
-- [Discord](https://github.com/discordapp) - t's time to ditch Skype and Teamspeak. Discord is the only free and secure all-in-one voice+text app designed for gamers that works on your desktop and phone.
-- [QISKit](https://github.com/QISKit) - An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
-- [Facebook](https://github.com/facebook) - We are working to build community through open source technology. NB: members must have two-factor auth.
-- [Facebook Experimental](https://github.com/facebookexperimental) - These are Facebook projects that are not necessarily used in production but are being developed in the open nevertheless.
-- [Microsoft](https://github.com/microsoft) - Open source, from Microsoft with love.
-- [Netlify](https://github.com/netlify) - Netlify builds, deploys and hosts your front-end.
-- [Google](https://github.com/google) - Google ❤️ Open Source.
-- [Netflix, Inc.](https://github.com/Netflix) - Netflix Open Source Platform.
-- [Netflix-Skunkworks](https://github.com/Netflix-Skunkworks)
-- [Keybase](https://github.com/keybase) - Crypto for everyone!
-- [Python](https://github.com/python) - Repositories related to the Python Programming language.
-- [Standard Notes](https://github.com/standardnotes) - An end-to-end encrypted note-taking app.
-- [Taiga.io](https://github.com/taigaio/) - Your Agile, Free and Open Source Project Management Tool.
-- [Sentry](https://github.com/getsentry/) - Real-time crash reporting for your web apps, mobile apps, and games.
-- [Mattermost](https://github.com/mattermost) - All team communication in one place, searchable and accessible anywhere. 
-- [SeleniumHQ](https://github.com/SeleniumHQ) - Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
-- [edX](https://github.com/edx) - The Open edX platform is open-source code that powers http://edx.org.
-- [shadowsocks](https://github.com/shadowsocks) - A secure socks5 proxy, designed to protect your Internet traffic.
-- [Prettier](https://github.com/prettier) - Prettier is an opinionated code formatter.
-- [Termux](https://github.com/termux/) - Android terminal and Linux environment.
-- [Video.js](https://github.com/videojs) - Web Video Framework.
-- [systemd](https://github.com/systemd) - System and Service Manager.
-- [ZEIT](https://github.com/zeit) - Making cloud computing accessible to everyone.
-- [Spectrum](https://github.com/withspectrum) - Where communities live.
-- [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment.
-- [World Wide Web Consortium](https://github.com/w3c) - The World Wide Web Consortium (W3C) is the main international standards organization for the World Wide Web.
-- [Callstack](https://github.com/callstack/) - We support and inspire other developers and companies to launch their products for everyone at the same time, on every platform.
-- [Infinite Red, Inc.](https://github.com/infinitered) - Development Studio.
-- [Redux](https://github.com/reduxjs) - Redux is a predictable state container for JavaScript apps.
-- [Ecma TC39](https://github.com/tc39) - Ecma International, Technical Committee 39 - ECMAScript.
-- [Mapbox](https://github.com/mapbox) - Mapbox is the location data platform for mobile and web applications. We're changing the way people move around cities and explore our world.
-- [WHATWG](https://github.com/whatwg) - Please leave your sense of logic at the door. All are welcome to participate.
-- [Tidyverse](https://github.com/tidyverse) - The tidyverse is a collection of R packages that share common principles and are designed to work together seamlessly.
-- [Microsoft Azure](https://github.com/Azure) - APIs, SDKs and open source projects from Microsoft Azure.
-- [Changelog Media](https://github.com/thechangelog) - News and podcasts for developers.
-- [New Vector](https://github.com/vector-im) - We make Riot.im, a decentralised encrypted comms app for the Matrix.org ecosystem.
-- [matrix.org](https://github.com/matrix-org) - A new basis for open, interoperable, decentralised real-time communication.
-- [Wikimedia](https://github.com/wikimedia) - Wikimedia is a global movement whose mission is to bring free educational content to the world.
-- [Android Open Source Project](https://github.com/aosp-mirror) - These aren't the droids you're looking for.
-- [Hak5](https://github.com/hak5) - Welcome to the Hak5 Open Source Repos!
-- [ntop](https://github.com/ntop) - Open source network traffic monitoring software.
-- [Actix](https://github.com/actix) - actor framework for Rust.
-- [Talk Python](https://github.com/talkpython) - Talk Python (podcast and training) materials. You'll also find some of on @mikeckennedy's profile.
-- [Wire Swiss GmbH](https://github.com/wireapp) - Wire open source secure messenger.
-- [Mullvad VPN](https://github.com/mullvad) - Privacy is a universal right.
-- [WireGuard](https://github.com/WireGuard) - Mirror of various WireGuard-related projects. See https://www.wireguard.com/repositories/ for official repositories.
-- [Simple Mobile Tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
-- [IRCCloud Ltd.](https://github.com/irccloud) - Chat on IRC from anywhere, and never miss a message.
-- [Eclipse Foundation](https://github.com/eclipse)
-- [fast.ai](https://github.com/fastai)
-- [Spotify](https://github.com/Spotify)
-- [Airbnb](https://github.com/airbnb)
-- [YouTube](https://github.com/youtube)
-- [todo.txt](https://github.com/todotxt)
-- [Signal](https://github.com/signalapp)
-- [Firebase](https://github.com/firebase)
-- [openwrt](https://github.com/openwrt)
-- [Twilio](https://github.com/twilio)
-- [LBRY](https://github.com/lbryio)
-- [Ubuntu](https://github.com/ubuntu)
-- [DigitalOcean](https://github.com/digitalocean)
-- [The Rust Programming Language](https://github.com/rust-lang)
-- [ProtonMail](https://github.com/ProtonMail)
-- [ProtonVPN](https://github.com/ProtonVPN)
-- [Bitcoin](https://github.com/bitcoin)
-- [Facebook Research](https://github.com/facebookresearch)
-- [ethereum](https://github.com/ethereum)
-- [pytorch](https://github.com/pytorch)
-- [GraphQL](https://github.com/graphql)
-- [Django](https://github.com/django)
-- [GoogleChrome](https://github.com/GoogleChrome)
-- [Xamarin](https://github.com/xamarin)
-- [Shopify](https://github.com/Shopify)
-- [Tutao GmbH](https://github.com/tutao)
-- [Spring](https://github.com/spring-projects)
-- [Material UI](https://github.com/mui-org)
-- [Linode](https://github.com/linode)
-- [Elastic](https://github.com/elastic)
-- [Plotly](https://github.com/plotly)
-- [Postman Inc.](https://github.com/postmanlabs)
-- [Arduino](https://github.com/arduino)
-- [docopt](https://github.com/docopt)
-- [Auth0](https://github.com/auth0)
-- [Sass](https://github.com/sass)
-- [PayPal](https://github.com/paypal)
-- [Raspberry Pi](https://github.com/raspberrypi)
-- [Matplotlib Developers](https://github.com/matplotlib)
-- [GitLab](https://github.com/gitlabhq)
-- [Square](https://github.com/square)
-- [CareerCup](https://github.com/careercup)
-- [Mega Limited](https://github.com/meganz)
-- [The Reddit Archives](https://github.com/reddit-archive) - Projects where changes are no longer publicly published.
-- [30 seconds](https://github.com/30-seconds) - The team behind 30-seconds-of-code and official 30-seconds projects.
-- [The World Cube Association](https://github.com/thewca) - Official projects for the World Cube Association (WCA).
-- [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
-- [React Training](https://github.com/ReactTraining) - High-quality open source software from React Training.
-- [thoughtbot](https://github.com/thoughtbot) - We work with organizations of all sizes to design, develop, and grow their web and mobile products.
-- [Real Python](https://github.com/realpython) - Python developers resource center: Python news, tutorials, code examples, snippets, articles, and more.
-- [You Don't Need](https://github.com/you-dont-need) - People choose popular projects, often not because it applies to their problems.
-- [Foundation](https://github.com/foundation) - The most advanced responsive front-end framework in the world.
-- [Oxide Computer Company](https://github.com/oxidecomputer) - Hyperscaler infrastructure for the rest of us.
-- [Zalando SE](https://github.com/zalando) - The org page for Zalando, Europe's leading online fashion platform.
-- [CreateJS](https://github.com/CreateJS) - A suite of open source libraries and tools for building rich interactive content on open web technologies.
-- [Packt](https://github.com/PacktPublishing) - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users.
-- [NodeSchool](https://github.com/nodeschool) - Open source workshops that teach web software skills.
-- [h5bp](https://github.com/h5bp)
-- [tmux-plugins](https://github.com/tmux-plugins)
-- [StylishThemes](https://github.com/StylishThemes)
-- [Lambda School, Inc.](https://github.com/LambdaSchool)
-
----
-
-### Learning
-- Linux
-  - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-  - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
-  - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers.
-  - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
-  - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
-  - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
-  - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-  - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
-
-  - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives. https://opensource.builders.
-
-  - Vim
-    - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
-    - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
-    - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
-    - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Some simple methods for exiting vim.
-      
-  - Emacs
-    - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
-    - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year.
-
-  - Shells
-    - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-
-  - LaTeX
-    - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
-
-  - Dotfiles
-    - [GitHub Search "dotfiles"](https://github.com/search?q=dotfiles)
-    - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-    - [Dotfiles - ArchWiki](https://wiki.archlinux.org/index.php/Dotfiles)
-    - [holman/dotfiles](https://github.com/holman/dotfiles) - Zach Holman's Dotfiles.
-    - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - Mathias Bynen's Dotfiles.
-    - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - Jess Frazelle's Dotfiles.
-    - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - Luke Smith's Dotfiles.
-    - [wincent/wincent](https://github.com/wincent/wincent) - Greg Hurrell's Dotfiles.
-    - (GitLab) [dwt1/dotfiles](https://gitlab.com/dwt1/dotfiles) - Distrotube's Dotfiles
-    - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-    - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
-
-- Regular Expressions and Algorithms
-  - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
-
-- Python
-  - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
-  - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
-  - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
-  - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python.
-  - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
-  - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python.
-  - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
-  - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Free software that works great, and also happens to be open-source Python.
-  - [geekcomputers/Python](https://github.com/geekcomputers/Python) - @geekcomputers' Python Examples.
-  - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.
-  - [machinelearningmindset/machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
-  - [chrisalbon/notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence.
-  - [chrisalbon/code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science.
-
-- JavaScript
-  - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide.
-  - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
-  - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
-  - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
-  - [yangshun/awesome-spinners](https://github.com/yangshun/awesome-spinners) - A curated collection of dazzling web spinners.
-  - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge.
-  - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
-  - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial.
-  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-  - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
-  - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples.
-  - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-  - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-  - [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
-  - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-  - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin.
-  - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin.
-  - [vlandham/js_data](https://github.com/vlandham/js_data) - Data manipulation and processing in JavaScript.
-  - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
-  - [dexteryy/spellbook-of-modern-webdev/](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
-  - [usablica/front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
-  
-- TypeScript
-  - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-
-- HTML/CSS
-  - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that _could_ go in the head of your document.
-  - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
-  - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - "Short CSS code snippets for all your development needs.
-
-- Rust
-  - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust.
-
-- Elixir
-  - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool/) - Premier destination to learn and master the Elixir programming language.
-
-- C
-  - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey.
-  - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C.
-  
-- C++
-  - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++.
-
-- Go
-  - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place.
-  - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost. `unmaintained`
-
-- Java
-  - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java.
-  - [teivah/algodeck](https://github.com/teivah/algodeck) - Algo Deck is an Open-Source Collection of +200 Algorithmic Cards to Help you Preparing your Algorithm & Data Structure Interview.
-  - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures.
-
-- Swift
-  - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
-
-- APIs
-  - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines.
-  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
-  - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml.
-
-- Data Science/Scientific Computing
-  - [scipy-lectures/scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem.
-  - [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets.
-
-- Quantum Computing
-  - [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing.
-
-- AI and Deep Learning/Machine Learning
-  - [practicalAI/practicalAI](https://github.com/practicalAI/practicalAI) - A practical approach to machine learning to enable everyone to learn, explore and build.
-  - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-  - [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
-  - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow 2.
-  - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) -  Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
-
-- System Design
-  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-  - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect.
-
-- Source Control
-  - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition.
-  - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - git and git flow cheat sheet.
-  - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
-  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-  - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.
-  - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects. https://firstcontributions.github.io.
-    
-- Open Source
-  - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source.
-  - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project. https://choosealicense.com.
-  - [github/opensource.guide](https://github.com/github/opensource.guide) - Community guides for open source creators. https://opensource.guide.
-
-- Tensorflow
-  - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2).
-  - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow.
-
-- System Administration/Site Reliability/Production Engineering
-  - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-  - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. https://sre.xyz.
-
-- Cheatsheets
-  - [Kapeli/cheatsheets](https://github.com/Kapeli/cheatsheets) - Collection of Dash cheat sheets https://kapeli.com/cheatsheets.
-  - [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets.
-  - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - @rstacruz's cheatsheets. https://devhints.io.
-
-- Privacy and Security
-  - [privacytoolsIO/privacytools.io](https://github.com/privacytoolsIO/privacytools.io) - You are being watched. Protect your privacy against global mass surveillance.
-  - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-
-- Penetration Testing
-  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
-  - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-  - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet.
-  - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
-  - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category.
-  - [SundownDEV/hacker-roadmap](https://github.com/SundownDEV/hacker-roadmap) - A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.
-  - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties.
-
-- Decentralization
-  - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-
-- Video Production
-  - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
-
-- Natural Language Processing
-  - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples.
-
-- Interviewing/Jobs
-  - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-  - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.
-  - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-  - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
-  - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-  - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
-  - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job/) - A curated list of awesome remote jobs and resources.
-
-- Mac/iOS
-  - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
-  - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - Collaborative List of Open-Source iOS Apps.
-  - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing.
-
-- Project Based Learning
-  - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here).
-  - [karan/Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
-  - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
-  - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-  - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
-
-- Computer Science
-  - [ossu/computer-science](https://github.com/ossu/computer-science) -  Path to a free self-taught education in Computer Science!
-  - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Open Source CS Curriculum. 
-  - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula.
-  
-- Courses/Books
-  - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
-  - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course.
-  - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education. https://missing.csail.mit.edu.
-  - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks.
-  - [GoogleChrome/essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook. https://images.guide.
-  - [fastai/fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book.
-
-- Books Code
-  - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for RealPython tutorials. https://realpython.com.
-  - [fluentpython/example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python.
-  - [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book.
-  - [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries.
-
-- General
-  - [GitHub Search 'awesome'](https://github.com/search?q=awesome)
-  - [GitHub Explore](https://github.com/explore)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
-  - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere.
-  - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
-  - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming.
-  - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-  - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-  - [LisaDziuba/Awesome-Design-Tools ](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything.
-  - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-  - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.
-  - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
-  - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅.
-  - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!.
-  - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-  - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
-  - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
-  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Curated list of falsehoods programmers believe in.
-  - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation.
-  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. https://free-for.dev.
-  - [dumb-password-rules/dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
-  - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from [here](http://www.pouet.net/topic.php?which=10882&page=1).
-  - [heroku/12factor](https://github.com/heroku/12factor) - 12factor.net.
-  - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
-  - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-  - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends.
-  - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list.
-  - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification.
-  - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples.
-  - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
-  - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages.
-  - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels.
-  - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: https://holloway.com/g/equity-compensation.
-  - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - A curated list of awesome Raspberry Pi tools, projects, images and resources.
-  - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-  - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
-  - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
-  - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
-  - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems.
+- [Organizations](#organizations)
+- [People](#people)
 
 ---
 
@@ -414,7 +15,7 @@
     - BSD
       - [freebsd/freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror). `Mirror` https://www.freebsd.org.
       - [openbsd/src](https://github.com/openbsd/src) - Public git conversion mirror of OpenBSD's official CVS src repository. `Mirror` https://www.openbsd.org.
-      - (Web)[NetBSD](https://www.netbsd.org/) - “Of course it runs NetBSD”.
+      - (Web) [NetBSD](https://www.netbsd.org/) - “Of course it runs NetBSD”.
 
     - Distros
       - (Web) [Ubuntu](https://www.ubuntu.com/)
@@ -465,7 +66,7 @@
       - [i3/i3lock](https://github.com/i3/i3lock) - improved screen locker.
       - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text.
       - [unix121/i3wm-themer](https://github.com/unix121/i3wm-themer) - My collection of Themes and scripts for i3-wm.
-    - (Web) [dwm](https://dwm.suckless.org/)
+    - (Web) [dwm](https://dwm.suckless.org/) - dynamic window manager for X.
     - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning.
       - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon.
     - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager.
@@ -551,6 +152,15 @@
   - Dotfiles
     - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles.
     
+  - Learning
+    - Vim
+      - Install Vim and type `vimtutor` in your terminal.
+      - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - a game that teaches you vim commands.
+      - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim. https://openvim.com.
+      
+    - Algorithms
+      - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive Online Platform that Visualizes Algorithms from Code. https://algorithm-visualizer.org.
+    
   - Fonts
     - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
     - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more.
@@ -603,17 +213,22 @@
 
     - Office Suites
       - (Web) [LibreOffice](https://www.libreoffice.org/)
-         
-    - (GitLab) [inkscape/inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape vector illustrator.
-    - (Web) [OBS](https://obsproject.com/)
-    - (Web) [Blender](https://blender.org/)
-    - (Web) [GIMP](https://gimp.org/)
-    - (Web) [VirtualBox](https://www.virtualbox.org/)
-    - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
-    - (Web) [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
-    - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor.
-    - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
-    - [qemu/qemu](https://github.com/qemu/qemu) - the FAST! processor emulator. `Mirror` https://www.qemu.org.
+    
+    - Creativity Tools
+      - (GitLab) [inkscape/inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape vector illustrator.
+      - (Web) [OBS](https://obsproject.com/)
+      - (Web) [Blender](https://blender.org/)
+      - (Web) [GIMP](https://gimp.org/)
+      - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor.
+      - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
+      - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer.
+      - [KDE/krita](https://github.com/KDE/krita) - Krita is a free digital painting application. Digital Painting, Creative Freedom!
+    
+    - Virtualization
+      - (Web) [VirtualBox](https://www.virtualbox.org/)
+      - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
+      - (Web) [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
+      - [qemu/qemu](https://github.com/qemu/qemu) - the FAST! processor emulator. `Mirror` https://www.qemu.org.
     
   - Vim Plugins
     - Plugin Managers
@@ -913,6 +528,7 @@
     - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. `Windows`
 
   - Bookmark Managers
+    - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server.
     - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
     - [jarun/buku](https://github.com/jarun/buku) - Browser-independent bookmark manager.
 
@@ -978,22 +594,6 @@
     - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
     - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
     - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
-	  
-	- Learning
-	  - Vim
-	    - Install Vim and type `vimtutor` in your terminal.
-	    - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - a game that teaches you vim commands.
-	    - [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim. https://openvim.com.
-
-    - Regular Expressions and Algorithms
-      - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
-      - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io - The Regex Cheat Sheet. https://iHateRegex.io.
-      - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive Online Platform that Visualizes Algorithms from Code. https://algorithm-visualizer.org.
-
-    - Git
-      - [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub. https://github.github.com/training-kit. 
-      - [git/git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference.
-      - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide. http://rogerdudler.github.com/git-guide.
 
   - General
     - [zfsonlinux/zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
@@ -1461,6 +1061,7 @@
   - [vector-im/riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
   - [wireapp/wire-server](https://github.com/wireapp/wire-server) - Wire back-end services.
   - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+  - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - Easy videoconference in your web or mobile app.
 
 - Email Providers:
   - [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
@@ -1505,6 +1106,10 @@
   - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter.
   - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
+- Pastebins
+  - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. https://privatebin.info.
+  - [seejohnrun/haste-server](https://github.com/seejohnrun/haste-server) - open source pastebin written in node.js. https://hastebin.com.
+
 - Encryption
   - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
   - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
@@ -1521,6 +1126,7 @@
   - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans.
   - [Theano/Theano](https://github.com/Theano/Theano) -  Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
   - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
+  - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
 - File Synchronization
   - [syncthing/syncthing](https://github.com/syncthing/syncthing/) - Open Source Continuous File Synchronization.
@@ -1569,8 +1175,9 @@
   - [phalt/swapi](https://github.com/phalt/swapi) - The Star Wars API.
   - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
   - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
+  - [NickCarneiro/curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir. https://curl.trillworks.com.
 
-- Collaboration Editors
+- Collaborative Editors
   - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - The Encrypted Collaboration Suite.
   - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor.
 
@@ -1705,6 +1312,7 @@
   - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting. https://sentry.io.
   - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
   - [spotify/backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals.
+  - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
 - Website Templates
   - Bootstrap Templates
@@ -1794,3 +1402,135 @@
   - (sourcehut git) [~sircmpwn/shit](https://git.sr.ht/~sircmpwn/shit) - An implementation of git in (almost) pure POSIX shell.
   - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards.
 
+---
+
+### Organizations
+- (GitLab) [GitLab.com](https://gitlab.com/gitlab-com) - GitLab company related projects.
+- (GitLab) [GitLab.org](https://gitlab.com/gitlab-org) - Open source software to collaborate on code.
+- (GitLab) [Minds](https://gitlab.com/minds) - Minds is a free & open source social network dedicated to privacy and freedom.
+- [GitHub](https://github.com/github) - How people build software.
+- [Mozilla](https://github.com/mozilla) - This technology could fall into the right hands.
+- [Mozilla Mobile](https://github.com/mozilla-mobile) - Mozilla Mobile Applications.
+- [JetBrains](https://github.com/jetbrains) - JetBrains open source projects.
+- [DuckDuckGo](https://github.com/duckduckgo) - The search engine that doesn't track you.
+- [Automattic](https://github.com/Automattic) - We are passionate about making the web a better place.
+- [Nextcloud](https://github.com/nextcloud) - A safe home for all your data – community-driven, free & open source.
+- [ownCloud](https://github.com/owncloud) - A safe home for all your data.
+- [WebAssembly](https://github.com/webassembly) - Development of WebAssembly and associated infrastructure.
+- [Bitwarden](https://github.com/bitwarden) - Open source password management solutions for individuals, teams, and business organizations.
+- [Kotlin](https://github.com/kotlin) - Kotlin Tools and Libraries.
+- [Discord](https://github.com/discordapp) - t's time to ditch Skype and Teamspeak. Discord is the only free and secure all-in-one voice+text app designed for gamers that works on your desktop and phone.
+- [QISKit](https://github.com/QISKit) - An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
+- [Facebook](https://github.com/facebook) - We are working to build community through open source technology. NB: members must have two-factor auth.
+- [Facebook Experimental](https://github.com/facebookexperimental) - These are Facebook projects that are not necessarily used in production but are being developed in the open nevertheless.
+- [Microsoft](https://github.com/microsoft) - Open source, from Microsoft with love.
+- [Netlify](https://github.com/netlify) - Netlify builds, deploys and hosts your front-end.
+- [Google](https://github.com/google) - Google ❤️ Open Source.
+- [Netflix, Inc.](https://github.com/Netflix) - Netflix Open Source Platform.
+- [Netflix-Skunkworks](https://github.com/Netflix-Skunkworks)
+- [Keybase](https://github.com/keybase) - Crypto for everyone!
+- [Python](https://github.com/python) - Repositories related to the Python Programming language.
+- [Standard Notes](https://github.com/standardnotes) - An end-to-end encrypted note-taking app.
+- [Taiga.io](https://github.com/taigaio/) - Your Agile, Free and Open Source Project Management Tool.
+- [Sentry](https://github.com/getsentry/) - Real-time crash reporting for your web apps, mobile apps, and games.
+- [Mattermost](https://github.com/mattermost) - All team communication in one place, searchable and accessible anywhere. 
+- [SeleniumHQ](https://github.com/SeleniumHQ) - Selenium is an umbrella project for a range of tools and libraries that enable and support the automation of web browsers.
+- [edX](https://github.com/edx) - The Open edX platform is open-source code that powers http://edx.org.
+- [shadowsocks](https://github.com/shadowsocks) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [Prettier](https://github.com/prettier) - Prettier is an opinionated code formatter.
+- [Termux](https://github.com/termux/) - Android terminal and Linux environment.
+- [Video.js](https://github.com/videojs) - Web Video Framework.
+- [systemd](https://github.com/systemd) - System and Service Manager.
+- [ZEIT](https://github.com/zeit) - Making cloud computing accessible to everyone.
+- [Spectrum](https://github.com/withspectrum) - Where communities live.
+- [spinnaker](https://github.com/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+- [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment.
+- [World Wide Web Consortium](https://github.com/w3c) - The World Wide Web Consortium (W3C) is the main international standards organization for the World Wide Web.
+- [Callstack](https://github.com/callstack/) - We support and inspire other developers and companies to launch their products for everyone at the same time, on every platform.
+- [Infinite Red, Inc.](https://github.com/infinitered) - Development Studio.
+- [Redux](https://github.com/reduxjs) - Redux is a predictable state container for JavaScript apps.
+- [Ecma TC39](https://github.com/tc39) - Ecma International, Technical Committee 39 - ECMAScript.
+- [Mapbox](https://github.com/mapbox) - Mapbox is the location data platform for mobile and web applications. We're changing the way people move around cities and explore our world.
+- [WHATWG](https://github.com/whatwg) - Please leave your sense of logic at the door. All are welcome to participate.
+- [Tidyverse](https://github.com/tidyverse) - The tidyverse is a collection of R packages that share common principles and are designed to work together seamlessly.
+- [Microsoft Azure](https://github.com/Azure) - APIs, SDKs and open source projects from Microsoft Azure.
+- [Changelog Media](https://github.com/thechangelog) - News and podcasts for developers.
+- [New Vector](https://github.com/vector-im) - We make Riot.im, a decentralised encrypted comms app for the Matrix.org ecosystem.
+- [matrix.org](https://github.com/matrix-org) - A new basis for open, interoperable, decentralised real-time communication.
+- [Wikimedia](https://github.com/wikimedia) - Wikimedia is a global movement whose mission is to bring free educational content to the world.
+- [Android Open Source Project](https://github.com/aosp-mirror) - These aren't the droids you're looking for.
+- [Hak5](https://github.com/hak5) - Welcome to the Hak5 Open Source Repos!
+- [ntop](https://github.com/ntop) - Open source network traffic monitoring software.
+- [Actix](https://github.com/actix) - actor framework for Rust.
+- [Talk Python](https://github.com/talkpython) - Talk Python (podcast and training) materials. You'll also find some of on @mikeckennedy's profile.
+- [Wire Swiss GmbH](https://github.com/wireapp) - Wire open source secure messenger.
+- [Mullvad VPN](https://github.com/mullvad) - Privacy is a universal right.
+- [WireGuard](https://github.com/WireGuard) - Mirror of various WireGuard-related projects. See https://www.wireguard.com/repositories/ for official repositories.
+- [Simple Mobile Tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
+- [IRCCloud Ltd.](https://github.com/irccloud) - Chat on IRC from anywhere, and never miss a message.
+- [OpenAI](https://github.com/openai)
+- [Eclipse Foundation](https://github.com/eclipse)
+- [fast.ai](https://github.com/fastai)
+- [Spotify](https://github.com/Spotify)
+- [Airbnb](https://github.com/airbnb)
+- [YouTube](https://github.com/youtube)
+- [todo.txt](https://github.com/todotxt)
+- [Signal](https://github.com/signalapp)
+- [Firebase](https://github.com/firebase)
+- [openwrt](https://github.com/openwrt)
+- [Twilio](https://github.com/twilio)
+- [LBRY](https://github.com/lbryio)
+- [Ubuntu](https://github.com/ubuntu)
+- [DigitalOcean](https://github.com/digitalocean)
+- [The Rust Programming Language](https://github.com/rust-lang)
+- [ProtonMail](https://github.com/ProtonMail)
+- [ProtonVPN](https://github.com/ProtonVPN)
+- [Bitcoin](https://github.com/bitcoin)
+- [Facebook Research](https://github.com/facebookresearch)
+- [ethereum](https://github.com/ethereum)
+- [pytorch](https://github.com/pytorch)
+- [GraphQL](https://github.com/graphql)
+- [Django](https://github.com/django)
+- [GoogleChrome](https://github.com/GoogleChrome)
+- [Xamarin](https://github.com/xamarin)
+- [Shopify](https://github.com/Shopify)
+- [Tutao GmbH](https://github.com/tutao)
+- [Spring](https://github.com/spring-projects)
+- [Material UI](https://github.com/mui-org)
+- [Linode](https://github.com/linode)
+- [Elastic](https://github.com/elastic)
+- [Plotly](https://github.com/plotly)
+- [Postman Inc.](https://github.com/postmanlabs)
+- [Arduino](https://github.com/arduino)
+- [docopt](https://github.com/docopt)
+- [Auth0](https://github.com/auth0)
+- [Sass](https://github.com/sass)
+- [PayPal](https://github.com/paypal)
+- [Raspberry Pi](https://github.com/raspberrypi)
+- [Matplotlib Developers](https://github.com/matplotlib)
+- [GitLab](https://github.com/gitlabhq)
+- [Square](https://github.com/square)
+- [CareerCup](https://github.com/careercup)
+- [Mega Limited](https://github.com/meganz)
+- [The Reddit Archives](https://github.com/reddit-archive) - Projects where changes are no longer publicly published.
+- [30 seconds](https://github.com/30-seconds) - The team behind 30-seconds-of-code and official 30-seconds projects.
+- [The World Cube Association](https://github.com/thewca) - Official projects for the World Cube Association (WCA).
+- [ReactiveX](https://github.com/ReactiveX) - Reactive Extensions for Async Programming.
+- [React Training](https://github.com/ReactTraining) - High-quality open source software from React Training.
+- [thoughtbot](https://github.com/thoughtbot) - We work with organizations of all sizes to design, develop, and grow their web and mobile products.
+- [Real Python](https://github.com/realpython) - Python developers resource center: Python news, tutorials, code examples, snippets, articles, and more.
+- [You Don't Need](https://github.com/you-dont-need) - People choose popular projects, often not because it applies to their problems.
+- [Foundation](https://github.com/foundation) - The most advanced responsive front-end framework in the world.
+- [Oxide Computer Company](https://github.com/oxidecomputer) - Hyperscaler infrastructure for the rest of us.
+- [Zalando SE](https://github.com/zalando) - The org page for Zalando, Europe's leading online fashion platform.
+- [CreateJS](https://github.com/CreateJS) - A suite of open source libraries and tools for building rich interactive content on open web technologies.
+- [Packt](https://github.com/PacktPublishing) - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users.
+- [NodeSchool](https://github.com/nodeschool) - Open source workshops that teach web software skills.
+- [h5bp](https://github.com/h5bp)
+- [tmux-plugins](https://github.com/tmux-plugins)
+- [StylishThemes](https://github.com/StylishThemes)
+- [Lambda School, Inc.](https://github.com/LambdaSchool)
+
+---
+
+### People

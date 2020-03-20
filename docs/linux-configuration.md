@@ -54,7 +54,7 @@
   - [SourceForge](https://sourceforge.net/)
   - [AlternativeTo](https://alternativeto.net/)
   - [List.community](https://list.community/) - an easy way to browse curated lists on GitHub.
-  - [Slant](https://www.slant.co/) - Choose the best
+  - [Slant](https://www.slant.co/) - Choose the best.
   - [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
 
 - Learning

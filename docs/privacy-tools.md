@@ -49,7 +49,7 @@ Sites/
 - [Track This](https://trackthis.link) - A new kind of Incognito.
 - [Panopticlick](https://panopticlick.eff.org/) - Is your browser safe against tracking?
 - [Google Takeout](https://takeout.google.com/) - Export a copy of content in your Google Account.
-- [Google My Activity](https://myactivity.google.com/myactivity) - Deactivate all Google Activitty logs.
+- [Google My Activity](https://myactivity.google.com/myactivity) - Deactivate all Google Activity logs.
 - [YouTube Subscription Manager](https://www.youtube.com/subscription_manager) - Export your YouTube Subscriptions to OPML.
 
 Reddit/

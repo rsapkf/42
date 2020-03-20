@@ -2,6 +2,7 @@
 
 - [goodies](README.md)
 - [docs/](README.md)
+  - [Knowledge Repositories (mostly on GitHub)](docs/knowledge-repositories.md)
   - [Web Development](docs/web-development.md)
   - [Programming](docs/programming.md)
   - [Open Source Software](docs/open-source-software.md)
@@ -13,7 +14,7 @@
   - [Massive Open Online Courses](docs/moocs-and-courses.md)
   - [Cubing, Puzzles and Magic](docs/cubing-puzzles-and-magic.md)
   - [Random Cool Sites](docs/random-cool-sites.md)
-  - [Free to Read Books](docs/free-to-read-books.md)
+  - [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
   - [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
   - [High School](docs/high-school.md)
   - [Extras](docs/extras.md)

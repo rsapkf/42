@@ -1,6 +1,6 @@
 # Web Development
 
-**Note**: This file only contains resources that are NOT in the [./open-source-software.md#Learning](./open-source-software.md#Learning) file.
+**Note**: This file only contains resources that are NOT in the [./knowledge-repositories](./knowledge-repositories.md) file.
 
 >If you are completely new to web development, **I HIGHLY RECOMMEND** you visit these links first:
 

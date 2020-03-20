@@ -211,6 +211,7 @@
     - [Year 2038 problem](https://en.wikipedia.org/wiki/Year_2038_problem)
     - [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem)
     - [Rickrolling](https://en.wikipedia.org/wiki/Rickrolling)
+    - [1% Rule (Internet culture)](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture))
  
 - Other/
     - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) by Eric S. Raymond.
