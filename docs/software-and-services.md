@@ -100,6 +100,7 @@
     - [Google Earth](https://google.com/earth)
     - [Google Maps](https://google.com/maps)
     - [Typora](https://typora.io/) - A new way to read and write Markdown.
+    - [Caret](https://caret.io/) - Markdown editor for Mac, Windows and Linux.
     - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
     - [bitly](https://bitly.com/) - Link Shortener
@@ -116,9 +117,10 @@
     - [Tixati BitTorrent Client](https://tixati.com/)
     - [BitTorrent Bittorrent Client](https://www.bittorrent.com/)
 
-  - Games/
+  - Games
+    - [Universe Sandbox](http://universesandbox.com/) - Physics-based space simulation software that allows anyone to create & destroy on an unimaginable scale.
     - [SpaceEngine](http://spaceengine.org/)
 
-  - Sites/
+  - Sites
     - [Prototypr.io](https://www.prototypr.io/tools/)
     - [UptimeRobot](https://uptimerobot.com/) - Free Website Monitoring.

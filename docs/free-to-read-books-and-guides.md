@@ -34,7 +34,8 @@
 - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google.
 
 ## Guides
-- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab.
+- [Technical Writing Courses](https://developers.google.com/tech-writing) - Google.
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics.
 
 ### Mathematics

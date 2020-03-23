@@ -68,7 +68,7 @@
     - [Grand Illusions](https://www.youtube.com/channel/UCnmgSO_4g6QcRzy0yFeglyA) - Tim Rowett.
     
 - Reddit/
-    - Personal Finance/
+    - Personal Finance
       - [r/personalfinance](https://www.reddit.com/r/personalfinance)
       - [r/Frugal](https://www.reddit.com/r/Frugal)
       - [r/investing](https://www.reddit.com/r/investing)
@@ -83,12 +83,14 @@
       - [r/Survival](https://www.reddit.com/r/Survival)
 
     - Memes
+      - [r/memes](https://www.reddit.com/r/memes)
       - [r/HighQualityGifs](https://www.reddit.com/r/HighQualityGifs)
       - [r/Unexpected](https://www.reddit.com/r/Unexpected)
       - [r/MurderedByWords](https://www.reddit.com/r/MurderedByWords)
       - [r/BrandNewSentence](https://www.reddit.com/r/BrandNewSentence)
       - [r/iamverysmart](https://www.reddit.com/r/iamverysmart)
       - [r/hmmm](https://www.reddit.com/r/hmmm)
+      - [r/me_irl](https://www.reddit.com/r/me_irl)
       - [r/wholesomememes](https://www.reddit.com/r/wholesomememes)
       - [r/starterpacks](https://www.reddit.com/r/starterpacks)
       - [r/MadeMeSmile](https://www.reddit.com/r/MadeMeSmile)
@@ -177,6 +179,8 @@
       - [IRL: Online Life Is Real Life](https://irlpodcast.org/) - Mozilla.
       - [TechStuff](https://www.iheart.com/podcast/105-techstuff-26941194/)
       - [Reply All](https://gimletmedia.com/reply-all/)
+      - [Malicious Life](https://malicious.life/)
+      - [The Chernobyl Podcast](https://www.youtube.com/playlist?list=PLO79iP69FaZPKaMDoSPAtGdoa3wd3lp9n) - HBO.
 
     - Philosophy/General
       - [The Joe Rogan Experience](https://www.joerogan.com/#jre-section) - Joe Rogan.

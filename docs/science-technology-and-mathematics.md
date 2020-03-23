@@ -67,6 +67,8 @@
     - [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
     - [yeti dynamics](https://www.youtube.com/channel/UCfzLXKMZqf8-nR920SbQJLA)
     - [Andrew Dotson](https://www.youtube.com/channel/UCnFmWQbVW_YbqPQZGNuq8sA)
+    - [The Q](https://www.youtube.com/channel/UCZdGJgHbmqQcVZaJCkqDRwg)
+    - [Adam Savage's Tested](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
 
 - People/
     - [Sean Caroll](https://www.preposterousuniverse.com/)
@@ -77,6 +79,7 @@
     - [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration.
     - [ESA](https://www.esa.int/) - European Space Agency.
     - [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization.
+    - [The Newton Project](http://www.newtonproject.ox.ac.uk/) - a comprehensive edition of all of Newton’s printed and unpublished writings.
     - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Take a tour of the major moons in our celestial menagerie, including those that are among the most mystifying—or scientifically intriguing—places in our local neighborhood.
     - [Space.com](https://www.space.com/)
     - [ScienceMag](https://www.sciencemag.org/)
@@ -245,6 +248,7 @@
       - [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
 
     - Blogs
+      - [Vitalik Buterin's website](https://vitalik.ca/)
       - [Distill](https://distill.pub/) - articles about machine learning
       - [Julia Evans](https://jvns.ca/)
       - [StackOverflow Blog](https://stackoverflow.blog/)
@@ -350,6 +354,11 @@
       - [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
       - [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
       - [It's FOSS](https://itsfoss.com/)
+      
+    - Magazines/Newspapers
+      - [Fortune](https://fortune.com/)
+      - [The New York Times](https://www.nytimes.com/)
+      - [The Wall Street Journal](https://www.wsj.com/)
 
     - Hacking
       - [Null Byte](https://null-byte.wonderhowto.com/)

@@ -42,6 +42,7 @@
       - (Web) [LineageOS](https://www.lineageos.org/)
       - (Web) [postmarketOS](https://postmarketos.org/) - A real Linux distribution for phones and other mobile devices
       - (Web) [Replicant](https://www.replicant.us/)
+      - (Web) [GrapheneOS](https://grapheneos.org/) - open source privacy and security focused mobile OS with Android app compatibility.
       - (Web) [PureOS](https://pureos.net/) - A user friendly, secure and freedom respecting OS used by Librem 5 Phone.
       - (Web) [Ubuntu Touch](https://ubuntu-touch.io/)
       - (Web) [Android](https://android.com/)
@@ -52,6 +53,7 @@
       
   - Desktop Environments
     - (Web) [Gnome](https://www.gnome.org)
+      - [pop-os/shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven layer for GNOME Shell which allows for quick and sensible navigation and management of windows.
     - (Web) [KDE](https://kde.org)
     - (Web) [Xfce](https://xfce.org)
     - (Web) [MATE](https://mate-desktop.org/)
@@ -138,6 +140,7 @@
       - (Web) [Dolphin](https://kde.org/applications/system/dolphin/)
       - (Web) [Nautilus](https://wiki.gnome.org/Apps/Files)
       - (Web) [Thunar](https://docs.xfce.org/xfce/thunar/start)
+      - (Web) [Double Commander](https://doublecmd.sourceforge.io/)
       - [linuxmint/nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon.
 
   - Command Line Cheat Sheets
@@ -178,6 +181,7 @@
     - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor.
     - [nvbn/thef ck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
     - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick 7.
+    - [junegunn/fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
     - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video. `Mirror` https://git.ffmpeg.org/ffmpeg.git.
     - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
     - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
@@ -447,6 +451,7 @@
     - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
     - [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox source code repository.
     - [MoonchildProductions/Pale-Moon](https://github.com/MoonchildProductions/Pale-Moon) - Pale Moon web browser.
+    - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is Chromium plus ad blocking and privacy enhancements; take back your browser!ssss
     - (Web) [Vivaldi](https://vivaldi.com/) `partially open source`
     
   - Browser Add-ons/Extensions
@@ -852,7 +857,7 @@
   - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework.
   - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
   - [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java.
-  - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
+  - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling.
 
 - Haskell
   - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
@@ -872,9 +877,6 @@
   - [mirror/busybox](https://github.com/mirror/busybox) - BusyBox: The Swiss Army Knife of Embedded Linux. `Mirror` https://git.busybox.net/busybox.
   - [urbit/urbit](https://github.com/urbit/urbit) - A personal server operating function.
   - [littlevgl/lvgl](https://github.com/littlevgl/lvgl) - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
-
-- C#
-  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
 
 - R
   - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R.
@@ -991,15 +993,12 @@
 
 - Android Only
   - (GitLab) [fdroid/fdroidclient](https://gitlab.com/fdroid/fdroidclient) - Android client application.
-  - (GitLab) [AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - An Open Source alternative for Google Play Store.
-  - (GitLab) [Commit451/LabCoat](https://gitlab.com/Commit451/LabCoat) - Manage your GitLab projects on the go! GitLab app for Android.
+  - (GitLab) [AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - An Open Source alternative for Google Play Store.  
   - [duckduckgo/android](https://github.com/duckduckgo/android) - DuckDuckGo Android App.
-  - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment.
   - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenPGP implementation for Android.
   - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app.
   - [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
-  - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind.
-  - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS.
+  - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind. 
   - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
   - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader.
   - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android.
@@ -1008,8 +1007,17 @@
   - [VREMSoftwareDevelopment/WifiAnalyzer](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer) - Android application to analyze WiFi signals.
   - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits.
   - [meefik/busybox](https://github.com/meefik/busybox) - BusyBox for Android.
+  - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, 200kb Android launcher.
   - [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012).
-  
+    
+  - Email Clients
+    - [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android.
+    - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
+    
+  - Terminal Emulators
+    - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment.
+    - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS.
+ 
   - Note-Taking
     - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists.
     - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead.
@@ -1019,18 +1027,24 @@
     - [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) -  A simple calendar with events, customizable widgets and no ads.
     - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
   
-  - GitHub Clients
+  - GitHub/GitLab Clients
     - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
     - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app. `unmaintained`
-    - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) = An open source GitHub Android client app, faster and concise.
+    - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
+    - (GitLab) [Commit451/LabCoat](https://gitlab.com/Commit451/LabCoat) - Manage your GitLab projects on the go! GitLab app for Android.
 
   - Reddit Clients
     - [ccrama/Slide](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android.
     - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
+    
+  - Feed Readers
+    - (GitLab) [spacecowboy/Feeder](https://gitlab.com/spacecowboy/Feeder) - Android RSS reader app.
 
 - Mac/iOS
   - [Homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
   - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS.
+  - [tbodt/ish](https://github.com/tbodt/ish) - Linux shell for iOS. https://ish.app.
+  - [confirmedcode/Lockdown-iOS](https://github.com/confirmedcode/Lockdown-iOS) - Open Source and free firewall for your iOS device.
   
 - Link Shorteners
   - [cydrobolt/polr](https://github.com/cydrobolt/polr) - A modern, powerful, and robust URL shortener. https://polrproject.org.
@@ -1050,7 +1064,7 @@
   - [marktext/marktext](https://github.com/marktext/marktext) - A simple and elegant markdown editor.
   - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
   - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-  - [junegunn/fzf](https://github.com/junegunn/fzf) - A markdown parser and compiler. Built for speed.
+  - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
   - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
     - (GitLab) [antora/antora](https://gitlab.com/antora/antora) - A modular documentation site generator. Designed for users of Asciidoctor.
 
@@ -1060,6 +1074,7 @@
   - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React.
   - [vector-im/riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
   - [wireapp/wire-server](https://github.com/wireapp/wire-server) - Wire back-end services.
+  - (Web) [briar/briar](https://code.briarproject.org/briar/briar) - Secure messaging, anywhere.
   - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
   - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - Easy videoconference in your web or mobile app.
 
@@ -1114,6 +1129,10 @@
   - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
   - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
   - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability. age-encryption.org.
+
+- Media Servers
+  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
+  - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 
 - Penetration Testing
   - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework.
@@ -1210,6 +1229,7 @@
 - Bitcoin Wallets
   - [bitcoin-wallet/bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. `Android Only`
   - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet. https://electrum.org.
+  - [bitpay/copay](https://github.com/bitpay/copay) - Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices. https://copay.io.
 
 - Windows Only
   - (Web) [Cygwin](https://cygwin.com/) - Get that Linux feeling - on Windows.
@@ -1313,6 +1333,8 @@
   - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
   - [spotify/backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals.
   - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+  - [encrypted-dev/userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
+  - [osmandapp/Osmand](https://github.com/osmandapp/Osmand) - map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
 
 - Website Templates
   - Bootstrap Templates
@@ -1365,6 +1387,9 @@
 
 - Pycharm Plugins
   - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme.
+
+- Eclipse Plugins
+  - [vrapper/vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse.
 
 - Visual Studio Plugins
   - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+.
@@ -1534,3 +1559,79 @@
 ---
 
 ### People
+- [Raymond Hill](https://github.com/gorhill) - The Cathedral and The Bazaar, uBlock Origin.
+- [Luke Smith](https://github.com/lukesmithxyz)
+- [Tim Pope](https://github.com/tpope)
+- [Christopher Olah](https://github.com/colah)
+- [Daniel Shiffman](https://github.com/shiffman) - The Coding Train.
+- [Grant Sanderson](https://github.com/3b1b) - 3blue1brown.
+- [Donne Martin](https://github.com/donnemartin)
+- [Siraj Raval](https://github.com/llSourcell)
+- [Michael Nielsen](https://github.com/mnielsen)
+- [Lex Fridman](https://github.com/lexfridman) - The AI Podcast.
+- [Wes Bos](https://github.com/wesbos)
+- [Dan Abramov](https://github.com/gaearon) - Creator of Redux.js.
+- [Kyle Mathews](https://github.com/KyleAMathews)
+- [Sindre Sorhus](https://github.com/sindresorhus)
+- [David Peter](https://github.com/sharkdp)
+- [Samy Pessé](https://github.com/SamyPesse)
+- [Junegunn Choi](https://github.com/junegunn)
+- [Nikita Voloboev](https://github.com/nikitavoloboev)
+- [Kyle Simpson](https://github.com/getify)
+- [Rico Sta. Cruz](https://github.com/rstacruz)
+- [Shougo](https://github.com/Shougo)
+- [Bogdan Popescu](https://github.com/Kapeli)
+- [Brett Cannon](https://github.com/brettcannon)
+- [Al Sweigart](https://github.com/asweigart)
+- [Thomas Park](https://github.com/thomaspark)
+- [Kenneth Reitz](https://github.com/kennethreitz)
+- [Jess Frazelle](https://github.com/jessfraz)
+- [Dan Bader](https://github.com/dbader)
+- [Chris Wanstrath](https://github.com/defunkt)
+- [Miguel Grinberg](https://github.com/miguelgrinberg)
+- [Alex Gaynor](https://github.com/alex)
+- [Armin Ronacher](https://github.com/mitsuhiko)
+- [Nicolas Gallagher](https://github.com/necolas)
+- [Paul Irish](https://github.com/paulirish)
+- [Harrison](https://github.com/Sentdex)
+- [Colt Steele](https://github.com/colt)
+- [Brett Slatkin](https://github.com/bslatkin)
+- [Ned Batchelder](https://github.com/nedbat)
+- [Trey Hunner](https://github.com/treyhunner)
+- [Jeremy Thomas](https://github.com/jgthms)
+- [Paul Hallett](https://github.com/phalt)
+- [Douglas Crockford](https://github.com/douglascrockford)
+- [Lea Verou](https://github.com/LeaVerou)
+- [Wenting Zhang](https://github.com/wentin)
+- [Juha Lindstedt](https://github.com/pakastin)
+- [Rodrigo Pombo](https://github.com/pomber)
+- [Bob Nystrom](https://github.com/munificent)
+- [Brock Whitten](https://github.com/sintaxi)
+- [Christopher Jeffrey (JJ)](https://github.com/chjj)
+- [Brad Traversy](https://github.com/bradtraversy) - Traversy Media.
+- [Todd Motto](https://github.com/toddmotto)
+- [Taylor Otwell](https://github.com/taylorotwell)
+- [Scott Chacon](https://github.com/schacon)
+- [Max Stoiber](https://github.com/mxstbr)
+- [Álvaro](https://github.com/alvarotrigo)
+- [Remy Sharp](https://github.com/remy)
+- [Mike Bostock](https://github.com/mbostock)
+- [Salvatore Sanfilippo](https://github.com/antirez)
+- [Ryan Dahl](https://github.com/ry)
+- [Marijn Haverbeke](https://github.com/marijnh)
+- [Anish Athalye](https://github.com/anishathalye)
+- [Bozhidar Batsov](https://github.com/bbatsov)
+- [Sundeep Agarwal](https://github.com/learnbyexample)
+- [Peter Krumins](https://github.com/pkrumins)
+- [Hakim El Hattab](https://github.com/hakimel)
+- [Florin Pop](https://github.com/florinpop17)
+- [Curran Kelleher](https://github.com/curran)
+- [Drew DeVault](https://github.com/ddevault)
+- [Tim Berners-Lee](https://github.com/timbl)
+- [Simo Edwin](https://github.com/developedbyed)
+- [Steve Losh](https://github.com/sjl)
+- [Feross Aboukhadijeh](https://github.com/feross)
+- [mattn](https://github.com/mattn)
+- [Zach Holman](https://github.com/holman)
+- [Vitalik Buterin](https://github.com/vbuterin) - Etheruem Co-founder.
+- [apenwarr](https://github.com/apenwarr)

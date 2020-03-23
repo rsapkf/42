@@ -12,7 +12,7 @@ GitBook: [goodies.gitbook.io/](https://goodies.gitbook.io/)
 
 ### Contents
 
-- [Knowledge Repositories (mostly on GitHub)](docs/knowledge-repositories.md)
+- [Knowledge Repositories](docs/knowledge-repositories.md) (mostly on GitHub)
 - [Web Development](docs/web-development.md)
 - [Programming](docs/programming.md)
 - [Open Source Software](docs/open-source-software.md)
@@ -22,9 +22,9 @@ GitBook: [goodies.gitbook.io/](https://goodies.gitbook.io/)
 - [Coding Challenges](docs/coding-challenges.md)
 - [Science, Technology and Mathematics](docs/science-technology-and-mathematics.md)
 - [Massive Open Online Courses](docs/moocs-and-courses.md)
+- [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
 - [Cubing, Puzzles and Magic](docs/cubing-puzzles-and-magic.md)
 - [Random Cool Sites](docs/random-cool-sites.md)
-- [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
 - [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
 - [High School](docs/high-school.md)
 - [Extras](docs/extras.md)
@@ -37,13 +37,13 @@ Go to [docs/](https://github.com/rsapkf/goodies/blob/master/docs) subdirectory t
 
 ---
 
-### Support this project
+## Support this project
 Curating, adding and categorizing links takes an unexpectedly long time but I don't want to quit this project anytime soon. If you find this helpful in any way, consider making a contribution:
 
 **BTC**:<br>
 1BbVzfZ164GUrwKKrSifddxTFuoNfdJorJ
 
-**BTC (SegWit / Bech32 / bc1):**<br>
+**BTC (SegWit / Bech32 / bc1)**:<br>
 bc1qecyw0ueqxl9g5r86y93g58u60300kd9swz83jd
 
 **ETH**:<br>
