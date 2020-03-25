@@ -6,7 +6,7 @@ In short, this is my attempt to organize my knowledge. Feedbacks and [contributi
 
 mdBook: [rsapkf.github.io/42/](https://rsapkf.github.io/42/)
 
-GitBook: [https://rsapkff.gitbook.io/42/](https://rsapkff.gitbook.io/42/)
+GitBook: [rsapkff.gitbook.io/42/](https://rsapkff.gitbook.io/42/)
 
 ---
 
@@ -37,22 +37,22 @@ Go to [docs/](https://github.com/rsapkf/42/blob/master/docs) subdirectory to see
 
 ---
 
-## Support this project
+## :gem: Support The Project
 Curating, adding and categorizing links takes an unexpectedly long time but I don't want to quit this project anytime soon. If you find this helpful in any way, consider making a contribution:
 
-**BTC**:<br>
+**BTC / Bitcoin**:<br>
 1BbVzfZ164GUrwKKrSifddxTFuoNfdJorJ
 
-**BTC (SegWit / Bech32 / bc1)**:<br>
+**BTC / Bitcoin (SegWit / Bech32 / bc1)**:<br>
 bc1qecyw0ueqxl9g5r86y93g58u60300kd9swz83jd
 
-**ETH**:<br>
+**ETH / Ethereum**:<br>
 0x4B3B5CE13E1991D1C55D107A69f4C87d4De27b84
 
-**Litecoin**<br>
+**LTC / Litecoin**:<br>
 LekQQNuz8cjxJkP6WyTf5E4WGE3TqcmenA
 
-**Monero**<br>
+**XMR / Monero**:<br>
 47fuWL5kfawJi33cwCaf7BEX1Kvx3yGjALPrfxsnmsfV1V4Q1XvHMxEEd6u2pa9uQrHp8y868ZdsocE7hxvKJaLLGVg2BCT
 
 
