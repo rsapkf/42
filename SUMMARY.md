@@ -1,6 +1,6 @@
 # Summary
 
-- [goodies](README.md)
+- [42](README.md)
 - [docs/](README.md)
   - [Knowledge Repositories (mostly on GitHub)](docs/knowledge-repositories.md)
   - [Web Development](docs/web-development.md)
