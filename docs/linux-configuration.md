@@ -35,10 +35,10 @@
   - Email Encryption
     - [OpenPGP.org/software](https://www.openpgp.org/software/)
 
-  - [ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications).
+  - [ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
   - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page)
   - [Debian Wiki](https://wiki.debian.org/)
-  - [suckless.org](https://suckless.org/) - software that sucks less
+  - [suckless.org](https://suckless.org/) - software that sucks less.
   - [GNU Recommendations](https://www.gnu.org/software/free-software-for-education.html)
   - [Free Software Foundation](https://www.fsf.org/)
   - [DistroWatch](https://distrowatch.com)
@@ -48,7 +48,7 @@
   - [List of applications - ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
   - [Luke Smith's Programs and Equipments](https://lukesmith.xyz/programs.html)
   - [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)
-  - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
+  - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations.
   - [Encyclopedia of things considered harmful](http://harmful.cat-v.org/)
   - [freedesktop.org](https://www.freedesktop.org/wiki/)
   - [SourceForge](https://sourceforge.net/)
@@ -85,3 +85,4 @@
   
   - [htop explained](https://peteris.rocks/blog/htop/) - Explanation of everything you can see in htop/top on Linux.
   - [crontab guru](https://crontab.guru/) - An easy to use editor for crontab schedules.
+  - [ip command cheatsheet for Red Hat Enterprise Linux](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf)

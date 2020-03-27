@@ -19,6 +19,7 @@ Roadmap to Web Development:
 - [Web Frameworks](#web-frameworks)
   - [Front-End Web Frameworks](#front-end-web-frameworks)
   - [Back-End Web Frameworks](#back-end-web-frameworks)
+- [Data Visualization](#data-visualization)
 - [Static Site Generators](#static-site-generators)
 - [DataBases](#databases)
 - [Text Editors and IDEs](#text-editors-and-ides)
@@ -222,6 +223,13 @@ Roadmap to Web Development:
       - [Ruby on Rails Tutorial (Rails 5) ](https://www.railstutorial.org/book) by [Michael Hartl](https://twitter.com/mhartl)
 
 See Also [HotFrameworks](https://hotframeworks.com/)
+
+---
+
+### Data Visualization
+- D3js/
+  - [ObservableHQ D3.js Tutorial](https://observablehq.com/@d3/learn-d3) - Mike Bostock, Creator of D3.js.
+
 ---
 
 ### Static Site Generators:

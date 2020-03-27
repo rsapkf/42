@@ -200,6 +200,8 @@
     - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees.
     - [ogham/exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
     - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net.
+    - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI.
+    - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com.
     - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal. `discontinued`
     - (GitLab) [ajak/tuir](https://gitlab.com/ajak/tuir) - A TUI to view and interact with Reddit from your terminal forked from rtv.
     - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text.
@@ -314,6 +316,7 @@
     - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile.
     - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN is an open source VPN daemon.
     - (Web) [Wireguard](https://www.wireguard.com/) - extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
+      - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
     
   - Raspberry Pi
     - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi.
@@ -350,6 +353,7 @@
     - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
     - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
     - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+    - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
     - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
     - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux.
     - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep.
@@ -357,6 +361,7 @@
     - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
     - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
     - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
+    - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
     - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
     - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers.
     - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them. `Mirror` https://stevelosh.com/projects/t.
@@ -382,6 +387,7 @@
 
   - System Monitors
     - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+    - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
     - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
     - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
     - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
@@ -569,6 +575,7 @@
   - Music Players
     - [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player.
     - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+    - [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
     - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc.
     - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - Clementine Music Player.
     - (Web) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)
@@ -603,7 +610,6 @@
   - General
     - [zfsonlinux/zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
     - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor) (https://ace.c9.io).
-    - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
     - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (https://firejail.wordpress.com).
     - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
     - [karlstav/cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa.
@@ -705,6 +711,7 @@
   - [webslides/webslides](https://github.com/webslides/webslides) - Create HTML presentations in seconds.
   - [babel/babel](https://github.com/babel/babel) - Babel is a compiler for writing next generation JavaScript.
   - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+  - [MrRio/jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
   - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript.
   - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
   - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript (https://jsdoc.app/).
@@ -798,6 +805,7 @@
   - [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
   - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲ ● ■.
   - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transition between your website's pages.
+  - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 3kb gzipped.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -824,6 +832,10 @@
   - [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust.
   - [dessalines/lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
   - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust.
+
+- Databases
+  - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 
 - C++
   - (GitLab) [mbunkus/mkvtoolnix](https://gitlab.com/mbunkus/mkvtoolnix) - Creating and working with Matroska files.
@@ -968,7 +980,7 @@
   - [stimulusjs/stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have.
 
 - Back-End JavaScript Frameworks/CMSs
-  - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing.
+  - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing.
   - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript.
   - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
   - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -978,6 +990,7 @@
     - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js.
     - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
     - [shelljs/shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
+    - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
     - [microsoft/playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
     - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
     - [mochajs/mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser.
@@ -987,6 +1000,7 @@
   - [pugjs/pug](https://github.com/pugjs/pug) – robust, elegant, feature rich template engine for Node.js.
   - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
   - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators.
+  - [hoodiehq/hoodie](https://github.com/hoodiehq/hoodie) - The Offline First JavaScript Backend.
 
 - Jekyll Themes
   - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
@@ -1068,7 +1082,7 @@
   - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
     - (GitLab) [antora/antora](https://gitlab.com/antora/antora) - A modular documentation site generator. Designed for users of Asciidoctor.
 
-- Instant Messaging/Communication/Video Conferencing:
+- Instant Messaging/Communication/Video Conferencing
   - [Signal](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux.
   - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React.
@@ -1077,8 +1091,9 @@
   - (Web) [briar/briar](https://code.briarproject.org/briar/briar) - Secure messaging, anywhere.
   - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
   - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - Easy videoconference in your web or mobile app.
+  - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
 
-- Email Providers:
+- Email Providers
   - [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
     - [amdelamar/pm-theme](https://github.com/amdelamar/pm-theme) - Easy Themes for ProtonMail (v3.16.x).
     - [csalmeida/protonmail-themes](https://github.com/csalmeida/protonmail-themes) - Customise ProtonMail with themes and enhance your encrypted email experience.
@@ -1161,6 +1176,7 @@
   - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
   - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
   - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language.
+  - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
   - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 
 - Distributed Networks/Blockchain
@@ -1212,6 +1228,7 @@
   - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures.
   - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone.
   - [astrit/css.gg](https://github.com/astrit/css.gg) - 500+ CSS Icons. Customizable, Retina Ready with API & NPM.
+  - [hjnilsson/country-flags](https://github.com/hjnilsson/country-flags) - SVG and PNG renders of all countries' flags.
 
 - HTTP Clients
   - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features.
@@ -1335,6 +1352,7 @@
   - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
   - [encrypted-dev/userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
   - [osmandapp/Osmand](https://github.com/osmandapp/Osmand) - map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
+  - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
 
 - Website Templates
   - Bootstrap Templates
@@ -1631,7 +1649,8 @@
 - [Simo Edwin](https://github.com/developedbyed)
 - [Steve Losh](https://github.com/sjl)
 - [Feross Aboukhadijeh](https://github.com/feross)
+- [Yangshun Tay](https://github.com/yangshun)
 - [mattn](https://github.com/mattn)
 - [Zach Holman](https://github.com/holman)
 - [Vitalik Buterin](https://github.com/vbuterin) - Etheruem Co-founder.
-- [apenwarr](https://github.com/apenwarr)
+- [Avery Pennarun](https://github.com/apenwarr)

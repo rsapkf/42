@@ -223,6 +223,8 @@
   - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula.
   
 ### Courses/Books
+  - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
+  - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. https://paperswelove.org.
   - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
   - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course.
   - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education. https://missing.csail.mit.edu.

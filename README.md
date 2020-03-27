@@ -24,7 +24,7 @@ GitBook: [rsapkff.gitbook.io/42/](https://rsapkff.gitbook.io/42/)
 - [Massive Open Online Courses](docs/moocs-and-courses.md)
 - [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
 - [Cubing, Puzzles and Magic](docs/cubing-puzzles-and-magic.md)
-- [Random Cool Sites](docs/random-cool-sites.md)
+- [Random Useful Sites](docs/random-useful-sites.md)
 - [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
 - [High School](docs/high-school.md)
 - [Extras](docs/extras.md)
@@ -37,7 +37,7 @@ Go to [docs/](https://github.com/rsapkf/42/blob/master/docs) subdirectory to see
 
 ---
 
-## :gem: Support The Project
+### Support this project
 Curating, adding and categorizing links takes an unexpectedly long time but I don't want to quit this project anytime soon. If you find this helpful in any way, consider making a contribution:
 
 **BTC / Bitcoin**:<br>

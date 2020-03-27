@@ -315,6 +315,7 @@
       - [Linux.com](https://www.linux.com/) - resource for open source professionals to learn about the latest in Linux and open source technology.
       - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
       - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
+      - [linux.die.net](https://linux.die.net/) - Linux Documentation.
       - [LWN.net](https://lwn.net/) - News from the source.
       - [Wayback Machine](https://archive.org/web/)
       - [Wikipedia](https://wikipedia.org)
