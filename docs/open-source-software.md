@@ -182,13 +182,12 @@
     - [nvbn/thef ck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
     - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick 7.
     - [junegunn/fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+    - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
     - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video. `Mirror` https://git.ffmpeg.org/ffmpeg.git.
     - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
-    - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
     - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
     - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
-    - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-    - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme.
+    - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
     - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
     - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
     - [timvisee/ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -242,6 +241,8 @@
       - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath.
       - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
       - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
+
+    - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim.
     
     - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode.
     - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim.
@@ -253,14 +254,18 @@
     
     - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
     - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air.
+    - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim.
     
+    - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf 💜 vim.
+    - [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
+    - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'.
+
     - [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
+    - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status.
     - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim.
     - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - The ultimate snippet solution for Vim.
     - [scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Vim plugin for intensely orgasmic commenting.
     - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
-    - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status.
-    - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim.
     - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.
     - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - A Git wrapper so awesome, it should be illegal.
     - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - Defaults everyone can agree on.
@@ -271,12 +276,8 @@
     - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with ".".
     - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist.
     - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim.
-    - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'.
-    - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf 💜 vim.
     - [wincent/command-t](https://github.com/wincent/command-t) - Fast file navigation for VIM.
-    - [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
     - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor.
-    - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim.
     - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim.
     - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair.
     - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim.
@@ -286,6 +287,8 @@
     - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
     - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - Vim plugin that shows keybindings in popup.
     - [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
+    - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more.
+    - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing.
 
   - Emacs Packages
     - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
@@ -353,7 +356,6 @@
     - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
     - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
     - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
-    - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
     - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
     - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux.
     - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep.
@@ -364,6 +366,7 @@
     - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
     - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
     - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers.
+    - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
     - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them. `Mirror` https://stevelosh.com/projects/t.
     - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
     - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management.
@@ -410,6 +413,7 @@
       - [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh.
       - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
       - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - A tool for building the most useful CLI possible, customized for you.
+      - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme.
       - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts.
     - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
       - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework.   
@@ -882,7 +886,6 @@
   - (GitLab) [graphviz/graphviz](https://gitlab.com/graphviz/graphviz) - Graph Visualization Tools.
   - [antirez/redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
   - [google/brotli](https://github.com/google/brotli) - Brotli compression format.
-  - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
   - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree.
   - [ozkl/soso](https://github.com/ozkl/soso) - A Simple Unix-like operating system.
   - [openwrt/openwrt](https://github.com/openwrt/openwrt) - The OpenWrt Project is a Linux operating system targeting embedded devices. `Mirror` https://git.openwrt.org/openwrt/openwrt.git.

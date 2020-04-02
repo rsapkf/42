@@ -16,7 +16,7 @@
   - [Grammarly for Firefox](https://addons.mozilla.org/en-US/android/addon/grammarly-1/)
   - [Enhancer for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
   - [Wikiwand: Wikipedia Modernized](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
-  - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - userscript manager. `open source upto version 2.9`
+  - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - userscript manager. `open source upto v2.9`
 
 - Web Browsers:
   - [Google Chrome](https://www.google.com/chrome/)
@@ -57,6 +57,8 @@
   - [Dropbox Paper](https://www.dropbox.com/paper)
   - [Zenkit](https://zenkit.com/)
   - [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose. `iOS` `macOS`
+  - [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. `open-source upto v1.5.1`
+  - [Typora](https://typora.io/) - A new way to read and write Markdown.
 
 - Read Later/Bookmarking
   - [Pocket](https://getpocket.com/) - When you find something you want to view later, put it in Pocket. `owned by Mozilla`
@@ -68,7 +70,6 @@
 - Instant Messaging/Communication/Video Conferencing
   - [Skype](https://www.skype.com/)
   - [Hangouts](https://hangouts.google.com/)
-  - [Zoom](https://zoom.us/)
 
 - Design Tools
   - [Adobe](https://adobe.com) - Creativity for all.
@@ -99,7 +100,6 @@
   - Software
     - [Google Earth](https://google.com/earth)
     - [Google Maps](https://google.com/maps)
-    - [Typora](https://typora.io/) - A new way to read and write Markdown.
     - [Caret](https://caret.io/) - Markdown editor for Mac, Windows and Linux.
     - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
