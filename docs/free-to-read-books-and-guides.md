@@ -1,6 +1,8 @@
 # Free-To-Read Books and Guides
 
 ### CS/Software Development
+- [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/) - Machtelt Garrels.
+- [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/) - Mendel Cooper.
 - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) - Jack Crenshaw.
 - [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. ([formatted version on arp242.net](https://www.arp242.net/the-art-of-unix-programming/))
 - [The Cathedral and the Bazaar](http://catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) - Eric S. Raymond.

@@ -58,17 +58,29 @@
   - [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
 
 - Learning
+  - Linux
+    - [Linux.com](https://www.linux.com/) - resource for open source professionals to learn about the latest in Linux and open source technology.
+    - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
+    - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
+    - [linux.die.net](https://linux.die.net/) - Linux Documentation.
+    - [LWN.net](https://lwn.net/) - News from the source.
+  
   - Vim
     - Sites/
       - [VimDocs](http://vimdoc.sourceforge.net/)
       - [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
       - [Vimcasts.org](http://vimcasts.org/categories/) - Vim screencasts
+      
+      - [Best of Vim Tips](http://zzapper.co.uk/vimtips.html)
+      - [Derek Wyatt's Vim Videos](http://derekwyatt.org/vim/tutorials/)
+      - [Vim.zeef.com](https://vim.zeef.com/patrick.schanen)
 	    
     - Games/
       - [Vim Adventures](https://vim-adventures.com/)
-  
+
   - Emacs
     - [Emacswiki](https://www.emacswiki.org/emacs/SiteMap)
+    - [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU Emacs Reference Card
     
   - LaTeX
     - [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) by Overleaf.

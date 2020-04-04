@@ -69,6 +69,7 @@
 
 - Instant Messaging/Communication/Video Conferencing
   - [Skype](https://www.skype.com/)
+  - [Discord](https://discordapp.com/)
   - [Hangouts](https://hangouts.google.com/)
 
 - Design Tools

@@ -281,4 +281,5 @@
   - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
   - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems.
   - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020.
+  - [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - commonly used features in a side-by-side format. https://hyperpolyglot.org.
 

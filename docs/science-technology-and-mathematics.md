@@ -276,8 +276,9 @@
       - [Discord Blog](https://blog.discordapp.com/)
       - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
       - [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
-      - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
+      - [Addy Osmani](https://medium.com/@addyosmani) - Eng. Manager at Google working on Chrome • Passionate about making the web fast.
       - [Smashing Magazine](https://medium.com/@smashingmag) - useful and innovative information to web designers and developers.
+      - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
 
     - NerdStuff:
       - [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
@@ -312,11 +313,6 @@
       - [Dribble](https://dribbble.com/) - Find and showcase creative work from world's best design professionals.
       - [Triplebyte](https://triplebyte.com/) - Software Engineer Job Search.
       - [fossjobs.net](https://www.fossjobs.net/)
-      - [Linux.com](https://www.linux.com/) - resource for open source professionals to learn about the latest in Linux and open source technology.
-      - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
-      - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
-      - [linux.die.net](https://linux.die.net/) - Linux Documentation.
-      - [LWN.net](https://lwn.net/) - News from the source.
       - [Wayback Machine](https://archive.org/web/)
       - [Wikipedia](https://wikipedia.org)
       - [MIT Technology Review](https://www.technologyreview.com/)
