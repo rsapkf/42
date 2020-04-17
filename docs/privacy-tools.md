@@ -5,6 +5,7 @@
 ## Contents:
 - [Email Providers](#email-providers)
 - [Cloud Storage](#cloud-storage)
+- [Instant Messaging](#instant-messaging)
 - [Search Engines](#search-engines)
 - [Browser Extensions](#browser-extensions)
 - [More Resources](#more-resources)
@@ -21,6 +22,11 @@
 - [pCloud](https://www.pcloud.com/)
 - [Tresorit](https://www.tresorit.com/) - End-to-End Encrypted Cloud Storage for Businesses.
 - [SpiderOak](https://spideroak.com/) - End-to-End Encrypted, No Knowledge Privacy.
+
+---
+
+### Instant Messaging
+- [Wickr](https://wickr.com/)
 
 ---
 

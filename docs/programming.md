@@ -1,7 +1,8 @@
 # Programming
 
-- Developer Portals
+### Developer Portals
   - [GitHub Developers](https://developer.github.com/)
+  - [Red Hat Developer](https://developers.redhat.com/)
   - [IBM Developer](https://developer.ibm.com/)
   - [Google Developers](https://developers.google.com/) - Build anything with Google.
   - [Facebook for Developers](https://developers.facebook.com/)
@@ -12,6 +13,7 @@
   - [Amazon Developer](https://developer.amazon.com/)
   - [Apple Developer](https://developer.apple.com/)
 
+### Languages
 - C++
   - [Standard C++](https://isocpp.org/)
   - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network
@@ -65,3 +67,6 @@
 
 - PHP
   - [PHP Docs](https://www.php.net/)
+  
+### Other Resources
+- [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)

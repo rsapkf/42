@@ -28,7 +28,8 @@
     - [Git.io](https://git.io/) - Official GitHub link shortener.
     - [Sketchysite](https://www.sketchywebsite.net/) - You can trust this.
     - [Emojipedia](https://emojipedia.org/) - Emojipedia.
-    - [TimeAndDate.com](https://www.timeanddate.com/)
+    - [timeanddate.com](https://www.timeanddate.com/)
+    - [Looper](https://www.looper.com/) - Endless Entertainment.
     - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Things to Make and Do in the Fourth Dimension.
     - [CTF>101](https://ctf101.org/) - learn the techniques, thought processes, and methodologies you need to succeed in Capture the Flag competitions.
     - [Quick, Draw](https://quickdraw.withgoogle.com/) -  Can a neural network learn to recognize doodling?
@@ -36,10 +37,12 @@
     - [random.city](https://randomcity.net/)
     - [Radiooooo](http://radiooooo.com/) - The wonderful musical machine that allows you to travel through space and time!
     - [Wikia/FANDOM Explore](https://www.fandom.com/explore) - The Fan-trusted Source in Entertainment.
+    - [TV Chart](https://tvchart.benmiz.com/) - see a graph of any TV show's IMDb ratings, by episode.
     
   - Dictionaries  
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
     - [Merrian Webster](https://www.merriam-webster.com/) - since 1828.
+    - [Urban Dictionary](https://www.urbandictionary.com/) - crowdsourced online dictionary for slang words and phrases.
 
 - YouTube/
     - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -66,6 +69,9 @@
     - [JRE Clips](https://www.youtube.com/channel/UCnxGkOGNMqQEUMvroOWps6Q) - Joe Rogan.
     - [Jordan B Peterson](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q) - Jordan B Peterson.
     - [Grand Illusions](https://www.youtube.com/channel/UCnmgSO_4g6QcRzy0yFeglyA) - Tim Rowett.
+    - [TheOdd1sOut](https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ)
+    - [Jaiden Animations](https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA)
+    - [Looper](https://www.youtube.com/channel/UCP1iRaFlS5EYjJBryFV9JPw)
     
 - Reddit/
     - Personal Finance
@@ -107,6 +113,7 @@
       - [r/worldnews](https://www.reddit.com/r/worldnews)
       - [r/UpliftingNews](https://www.reddit.com/r/UpliftingNews)
       - [r/Videos](https://www.reddit.com/r/Videos)
+      - [r/MapPorn](https://www.reddit.com/r/MapPorn)
       - [r/books](https://www.reddit.com/r/books)
       - [r/Art](https://www.reddit.com/r/Art)
       - [r/Documentaries](https://www.reddit.com/r/Documentaries)
@@ -201,6 +208,9 @@
     - [What's the most valuable thing you can learn in an hour?](https://news.ycombinator.com/item?id=21581361)
     - [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
     - [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797)
+
+- Reddit Threads/
+    - [What is the coolest website you’ve visited that no one knows about? (r/AskReddit, 25 Feb 2020)](https://old.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)
 
 - Wikipedia Pages/
     - [SOLID](https://en.wikipedia.org/wiki/SOLID)

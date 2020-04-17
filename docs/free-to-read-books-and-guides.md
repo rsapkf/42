@@ -34,8 +34,10 @@
 - [Pro Git](https://github.com/progit/progit2) - Scott Chacon, Ben Straub ([GitHub](https://github.com/progit/progit2))
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) ([GitHub](http://github.com/pomax/BezierInfo-2))
 - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google.
+- [Building Secure and Reliable Systems](https://landing.google.com/sre/static/pdf/SRS.pdf) - Google.
 
 ## Guides
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall.
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab.
 - [Technical Writing Courses](https://developers.google.com/tech-writing) - Google.
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics.

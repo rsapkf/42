@@ -69,6 +69,7 @@
     - [Andrew Dotson](https://www.youtube.com/channel/UCnFmWQbVW_YbqPQZGNuq8sA)
     - [The Q](https://www.youtube.com/channel/UCZdGJgHbmqQcVZaJCkqDRwg)
     - [Adam Savage's Tested](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
+    - [Engineering Explained](https://www.youtube.com/channel/UClqhvGmHcvWL9w3R48t9QXQ)
 
 - People/
     - [Sean Caroll](https://www.preposterousuniverse.com/)
@@ -138,6 +139,7 @@
     - [WolframAlpha](https://www.wolframalpha.com/)
     - [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
     - [The Pi-Search Page](https://www.angio.net/pi/)
+    - [Pr∞fWiki](https://proofwiki.org/wiki/Main_Page)
     - [Better Explained](https://betterexplained.com/) - Finally understand math, don't memorize it.
     - [Things to Make and Do in the Fourth Dimension](https://makeanddo4d.com/)
     - [Great Internet Mersenne Prime Search - PrimeNet](https://www.mersenne.org/)
@@ -152,6 +154,7 @@
     - [The On-Line Encyclopedia of Integer Sequences(OEIS)](https://oeis.org/) - 
     - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
     - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - a complete set of free online (and downloadable) notes/tutorials for classes that Prof. Paul Dawkins teaches at Lamar University.
+    - [Real Not Complex](https://realnotcomplex.com/) - Discover Incredible FREE Resources to Study Mathematics.
 
 - People/
     - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
@@ -311,6 +314,7 @@
       - [Indie Hackers](https://www.indiehackers.com/)
       - [Medium](https://medium.com/)
       - [Dribble](https://dribbble.com/) - Find and showcase creative work from world's best design professionals.
+      - [Behance](https://www.behance.net/) - showcase and discover creative work.
       - [Triplebyte](https://triplebyte.com/) - Software Engineer Job Search.
       - [fossjobs.net](https://www.fossjobs.net/)
       - [Wayback Machine](https://archive.org/web/)
@@ -351,11 +355,14 @@
       - [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
       - [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
       - [It's FOSS](https://itsfoss.com/)
+      - [Social Blade](https://socialblade.com/) - Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!
       
     - Magazines/Newspapers
       - [Fortune](https://fortune.com/)
       - [The New York Times](https://www.nytimes.com/)
+      - [The Wasington Post](https://www.washingtonpost.com/)
       - [The Wall Street Journal](https://www.wsj.com/)
+      - [Variety](https://variety.com/)
 
     - Hacking
       - [Null Byte](https://null-byte.wonderhowto.com/)

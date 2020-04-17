@@ -68,9 +68,13 @@
   - [Raindrop.io](https://raindrop.io/) - Your Smart Bookmarks.
 
 - Instant Messaging/Communication/Video Conferencing
+  - [Slack](https://slack.com/)
   - [Skype](https://www.skype.com/)
   - [Discord](https://discordapp.com/)
   - [Hangouts](https://hangouts.google.com/)
+
+- Remote Desktop Clients
+  - [TeamViewer](https://www.teamviewer.com/) - remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
 - Design Tools
   - [Adobe](https://adobe.com) - Creativity for all.
@@ -97,14 +101,20 @@
   - [Apollo Reddit Client](https://apolloapp.io/) - A beautiful Reddit app built for power and speed.
   - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS.
 
+- CAPTCHA Services
+  - [reCAPTCHA](https://www.google.com/recaptcha/) - Easy on Humans, Hard on Bots.
+  - [hCaptcha](https://www.hcaptcha.com/) - Private. Secure. Faster. And they pay you to use it.
+
 - Other
   - Software
     - [Google Earth](https://google.com/earth)
     - [Google Maps](https://google.com/maps)
+    - [VMware](https://www.vmware.com/)
     - [Caret](https://caret.io/) - Markdown editor for Mac, Windows and Linux.
     - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
-    - [bitly](https://bitly.com/) - Link Shortener
+    - [bitly](https://bitly.com/) - Link Shortener.
+    - [Star Walk](http://www.vitotechnology.com/star-walk.html)
     - [Grammarly](https://www.grammarly.com/)
     - [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - compatibility layer for running Linux binary executables natively on Windows.
     - [Cloudflare 1.1.1.1](https://1.1.1.1/) - The free app that makes your Internet safer.

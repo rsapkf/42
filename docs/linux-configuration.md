@@ -71,7 +71,7 @@
       - [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
       - [Vimcasts.org](http://vimcasts.org/categories/) - Vim screencasts
       
-      - [Best of Vim Tips](http://zzapper.co.uk/vimtips.html)
+      - [Best of Vim Tips by ZZapper](http://zzapper.co.uk/vimtips.html)
       - [Derek Wyatt's Vim Videos](http://derekwyatt.org/vim/tutorials/)
       - [Vim.zeef.com](https://vim.zeef.com/patrick.schanen)
 	    
@@ -88,6 +88,9 @@
   - Bash
     - [GNU Readline Cheatsheet - VI Mode](http://readline.kablamo.org/vi.html) ([Emacs Mode](http://readline.kablamo.org/emacs.html))
     - [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
+    
+  - Zsh
+    - [ZSH Tips by ZZapper](http://www.zzapper.co.uk/zshtips.html)
   
   - Tmux
     - [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
