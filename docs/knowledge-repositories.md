@@ -18,6 +18,7 @@
     - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
     - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
     - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
+    - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - Vim-themed advent calendar. https://vimways.org.
       
   - Emacs
     - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
@@ -89,6 +90,7 @@
   - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
   - [dexteryy/spellbook-of-modern-webdev/](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
   - [usablica/front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
+  - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations.
   
 ### TypeScript
   - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -233,6 +235,7 @@
   - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks.
   - [GoogleChrome/essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook. https://images.guide.
   - [fastai/fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book.
+  - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) -  A curated list of awesome programming books.
 
 ### Books Code
   - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for RealPython tutorials. https://realpython.com.

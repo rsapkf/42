@@ -14,6 +14,7 @@
 - Subreddits
   - [r/unixporn](https://www.reddit.com/r/unixporn)
   - [r/vim](https://www.reddit.com/r/vim)
+  - [r/suckless](https://www.reddit.com/r/suckless)
   - [r/archlinux](https://www.reddit.com/r/archlinux)
   - [r/i3wm](https://www.reddit.com/r/i3wm)
   - [r/linux](https://www.reddit.com/r/linux)
@@ -49,6 +50,8 @@
   - [Luke Smith's Programs and Equipments](https://lukesmith.xyz/programs.html)
   - [LARBS—Luke's Auto-Rice Bootstrapping Scripts](https://larbs.xyz/)
   - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations.
+  - [Stuff that sucks](https://suckless.org/sucks/) - Software with ideas against the suckless philosophy.
+  - [Stuff that rocks](https://suckless.org/rocks/) - Software with ideas similar to the suckless philosophy.
   - [Encyclopedia of things considered harmful](http://harmful.cat-v.org/)
   - [freedesktop.org](https://www.freedesktop.org/wiki/)
   - [SourceForge](https://sourceforge.net/)

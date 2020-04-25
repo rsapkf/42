@@ -122,6 +122,7 @@
       - [r/HistoryPorn](https://www.reddit.com/r/HistoryPorn)
       - [r/AskHistorians](https://www.reddit.com/r/AskHistorians)
       - [r/LifeProTips](https://www.reddit.com/r/LifeProTips)
+      - [r/ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips)
       - [r/pics](https://www.reddit.com/r/pics)
       - [r/InternetIsBeautiful)](https://www.reddit.com/r/InternetIsBeautiful)
       - [r/AskReddit](https://www.reddit.com/r/AskReddit)
@@ -157,6 +158,7 @@
       - [r/IsItBullshit](https://www.reddit.com/r/IsItBullshit)
       - [r/findareddit](https://www.reddit.com/r/findareddit)
       - [r/IWantToLearn](https://www.reddit.com/r/IWantToLearn)
+      - [r/UnresolvedMysteries](https://www.reddit.com/r/UnresolvedMysteries)
       - [r/rickandmorty](https://www.reddit.com/r/rickandmorty)
       - [r/breakingbad](https://www.reddit.com/r/breakingbad)
 
@@ -208,6 +210,7 @@
     - [What's the most valuable thing you can learn in an hour?](https://news.ycombinator.com/item?id=21581361)
     - [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
     - [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797)
+    - [Ask HN: I'm a software engineer going blind, how should I prepare?](https://news.ycombinator.com/item?id=22918980)
 
 - Reddit Threads/
     - [What is the coolest website you’ve visited that no one knows about? (r/AskReddit, 25 Feb 2020)](https://old.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)

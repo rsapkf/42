@@ -51,6 +51,7 @@
     - Other
       - (GitLab) [Redox OS](https://gitlab.redox-os.org/redox-os) - Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
       - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system.
+      - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System.
       
   - Desktop Environments
     - (Web) [Gnome](https://www.gnome.org)
@@ -182,6 +183,11 @@
       - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
       - [pixelb/fslint](https://github.com/pixelb/fslint) - Linux file system lint checker/cleaner.
       - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files.
+      
+    - Calculators
+      - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units. https://insect.sh.
+      - (GitLab) [GNOME/gnome-calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - Calculator for solving mathematical equations.
+      - [galculator/galculator](https://github.com/galculator/galculator) - GTK 2 / GTK 3 based scientific calculator.
      
     - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
     - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation. https://ctags.io.
@@ -218,12 +224,11 @@
     - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text.
     - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
     - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs.
-    - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
-    - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units. https://insect.sh.
-    - [rupa/z](https://github.com/rupa/z) - jump around.
+    - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.    - [rupa/z](https://github.com/rupa/z) - jump around.
     - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
     - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior: Commandline Time Reporting.
     - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+    - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights.
 
   - Graphical Applications
     - Video Editors
@@ -565,6 +570,7 @@
     - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer. `Mirror` https://pwmt.org/projects/zathura.
     - (Web) [Okular](https://okular.kde.org/) - universal document viewer developed by KDE.
     - (Web) [Evince](https://wiki.gnome.org/Apps/Evince) - document viewer for multiple document formats.
+    - [buggins/coolreader](https://github.com/buggins/coolreader) - cross platform open source e-book reader.
 
   - Terminal Emulators
     - (Web) [urxvt(rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
@@ -579,7 +585,7 @@
     - [zeit/hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
     - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. `macOS`
       - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio.
-    - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. `Windows`
+    - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3.
 
   - Bookmark Managers
     - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server.
@@ -734,8 +740,10 @@
   - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
   - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform.
   - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
+  - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser.
+  - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
 
-- HTMl/CSS
+- HTML/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
   - [metafizzy/flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable carousels.
   - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
@@ -748,6 +756,7 @@
   - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) -  A collection of loading indicators animated with CSS.
   - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
   - [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. `discontinued`
+  - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
 - SVG
   - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG.
@@ -859,6 +868,8 @@
   - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js.
   - [dundalek/markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps.
   - [gera2ld/markmap-lib](https://github.com/gera2ld/markmap-lib) - Visualize your Markdown as mindmaps with Markmap.
+  - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+  - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -891,8 +902,12 @@
   - (Web) [MySQL](https://www.mysql.com/)
   - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
   - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac.
   - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
-
+  - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi.
+  - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+  - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications.
+  
 - C++
   - (GitLab) [mbunkus/mkvtoolnix](https://gitlab.com/mbunkus/mkvtoolnix) - Creating and working with Matroska files.
   - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. `Mirror` https://llvm.org.
@@ -969,6 +984,7 @@
   - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
   - [cli/cli](https://github.com/cli/cli) - The GitHub CLI.
   - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
+  - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git.
   - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
   - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format.
 
@@ -981,7 +997,7 @@
   - [phacility/phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game.
   - (Web) [sourcehut](https://sourcehut.org/) - open source software development platform.
 
-- CSS Frameworks
+- CSS Frameworks/Design Systems
   - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS.
   - [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer.
   - [andybrewer/mvp](https://github.com/andybrewer/mvp) - Minimalist stylesheet for HTML elements.
@@ -997,6 +1013,8 @@
   - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap.
   - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
   - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+  - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System.
+  - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs.
 
 - Front-End JavaScript Frameworks
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -1090,6 +1108,9 @@
   - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, 200kb Android launcher.
   - [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012).
     
+  - Ebook Readers
+    - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android.
+        
   - Email Clients
     - [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android.
     - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
@@ -1272,6 +1293,9 @@
   - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
   - [dtube/dtube](https://github.com/dtube/dtube) DTube App.
 
+- Google Analytics Alternatives
+  - [plausible-insights/plausible](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics for your website.
+
 - APIs
   - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
   - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
@@ -1283,10 +1307,6 @@
 - Collaborative Editors
   - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - The Encrypted Collaboration Suite.
   - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor.
-
-- Databases
-  - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-  - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications.
 
 - Fonts, Icons and Emojis
   - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit.
@@ -1326,12 +1346,14 @@
   - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader.
   - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
   - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host - all in the same place!.
+  - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
   - [chocolatey/choco](https://github.com/chocolatey/choco) - The package manager for Windows.
   - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
   - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
   - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows.
   - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
   - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows.
+  - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
   
 - Forums/Sites
   - (GitLab) [gitlab-org/gitter](https://gitlab.com/gitlab-org/gitter) - Gitter is a community for software developers.
@@ -1399,7 +1421,6 @@
   - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
   - [gravitational/teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
   - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers.
-  - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi.
   - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
   - [TomaszRewak/C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications.
   - [whitequark/unfork](https://github.com/whitequark/unfork) - unfork(2) is the inverse of fork(2). sort of.
@@ -1630,6 +1651,7 @@
 - [Raspberry Pi](https://github.com/raspberrypi)
 - [Matplotlib Developers](https://github.com/matplotlib)
 - [GitLab](https://github.com/gitlabhq)
+- [Canonical](https://github.com/canonical)
 - [Square](https://github.com/square)
 - [CareerCup](https://github.com/careercup)
 - [Mega Limited](https://github.com/meganz)
@@ -1732,3 +1754,4 @@
 - [Zach Holman](https://github.com/holman)
 - [Vitalik Buterin](https://github.com/vbuterin) - Etheruem Co-founder.
 - [Avery Pennarun](https://github.com/apenwarr)
+- [Greg Hurrell](https://github.com/wincent)

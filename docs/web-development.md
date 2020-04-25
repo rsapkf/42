@@ -358,6 +358,7 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
 
 - Reddit/
   - [r/git](https://www.reddit.com/r/git)
+  - [r/learnprogramming](https://www.reddit.com/r/learnprogramming)
   - [r/programming](https://www.reddit.com/r/programming)
   - [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)
   - [r/MachineLearning](https://www.reddit.com/r/MachineLearning)

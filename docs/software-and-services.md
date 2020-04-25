@@ -16,7 +16,7 @@
   - [Grammarly for Firefox](https://addons.mozilla.org/en-US/android/addon/grammarly-1/)
   - [Enhancer for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
   - [Wikiwand: Wikipedia Modernized](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
-  - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - userscript manager. `open source upto v2.9`
+  - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - userscript manager. `open-source upto v2.9`
 
 - Web Browsers:
   - [Google Chrome](https://www.google.com/chrome/)
@@ -38,6 +38,7 @@
 - Document Readers
   - [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) `PDF`
   - [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) `PDF`
+  - [FBReader](https://fbreader.org/) `open-source until 2015`
 
 - YouTube Alternatives
   - [BitChute](https://www.bitchute.com/) - allows video uploaders to avoid content rules enforced on other platforms, such as YouTube. 
@@ -114,7 +115,7 @@
     - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
     - [bitly](https://bitly.com/) - Link Shortener.
-    - [Star Walk](http://www.vitotechnology.com/star-walk.html)
+    - [Star Walk](https://starwalk.space/en) - The sky at your fingertips.
     - [Grammarly](https://www.grammarly.com/)
     - [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - compatibility layer for running Linux binary executables natively on Windows.
     - [Cloudflare 1.1.1.1](https://1.1.1.1/) - The free app that makes your Internet safer.

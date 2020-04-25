@@ -28,6 +28,7 @@
     - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) - PBS.
     - [Periodic Videos](https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw) - Brady Haran.
     - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA) - Dianna Cowern.
+    - [Data Is Beautiful](https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg)
     - [Reigarw Comparisons](https://www.youtube.com/channel/UCcM-EIxza5g1S0dpnoO_ePA)
     - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - Hank Green.
     - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A) - Scott Manley.
@@ -344,7 +345,6 @@
       - [YCombinator](https://www.ycombinator.com)
       - [BoingBoing](https://boingboing.net/)
       - [lifehacker](https://lifehacker.com/)
-      - [MakeUseOf](https://www.makeuseof.com/)
       - [Fast Company](https://www.fastcompany.com/)
       - [HowStuffWorks](https://www.howstuffworks.com/)
       - [aeon](https://aeon.co/) - Essays, Ideas, Videos
@@ -356,6 +356,7 @@
       - [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
       - [It's FOSS](https://itsfoss.com/)
       - [Social Blade](https://socialblade.com/) - Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!
+      - [MakeUseOf](https://www.makeuseof.com/)
       
     - Magazines/Newspapers
       - [Fortune](https://fortune.com/)
