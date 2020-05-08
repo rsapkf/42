@@ -146,6 +146,7 @@
     - [Great Internet Mersenne Prime Search - PrimeNet](https://www.mersenne.org/)
     - [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
     - [Mathematical Association of America Homepage](https://www.maa.org/)
+    - [Fermat's Library](https://fermatslibrary.com/) - software to help illuminate academic papers.
     - [Brilliant](https://brilliant.org/) `paid`
     - [Math Professor Quotes](https://mathprofessorquotes.com/) - The absurd things math professors say.
     - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver.
@@ -170,7 +171,7 @@
 
 ---
 
-## Tech:
+## Tech
 - YouTube/
     - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)- Mozilla.
     - [Mozilla Hacks](https://www.youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA) - Mozilla.
@@ -201,7 +202,7 @@
     - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - Patrick Shyu.
     - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
     - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-    - [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
+    - [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Andrew Price.
     - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
     - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
     - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
@@ -209,6 +210,8 @@
     - [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
     - [JerryRigEverything](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ)
     - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+    - [Mrwhosetheboss](https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA) - Arun Maini.
+    - [Austin Evans](https://www.youtube.com/channel/UCXGgrKt94gR6lmN4aN3mYTg) - Austin Evans.
 
 - Reddit/
     - [r/technology](https://www.reddit.com/r/technology)  
@@ -272,6 +275,7 @@
 
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
+      - [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
       - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
       - [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
       - [Sindre Sorhus](https://medium.com/@sindresorhus)
@@ -329,12 +333,14 @@
       - [Adobe Open Source](https://opensource.adobe.com/)
       - [Google Developers Blog](https://developers.googleblog.com/)
       - [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News
+      - [ZDNet](https://www.zdnet.com/)
       - [Reuters](https://www.reuters.com)
       - [Product Hunt](https://www.producthunt.com/) - Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
       - [techradar](https://www.techradar.com/)
       - [Hacker Noon](https://hackernoon.com/)
       - [Ars Technica](https://arstechnica.com/)
       - [TechCrunch](https://techcrunch.com/)
+      - [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
       - [The Guardian](https://www.theguardian.com/)
       - [The Verge](https://www.theverge.com/)
       - [ProgrammableWeb](https://www.programmableweb.com/) - leading source of news and information about Internet-based APIs.
@@ -365,7 +371,9 @@
       - [The Wall Street Journal](https://www.wsj.com/)
       - [Variety](https://variety.com/)
 
-    - Hacking
+    - Hacking/ Cybersecurity
+      - [Schneier on Security - Bruce Schneier](https://www.schneier.com/)
+      - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation.
       - [Null Byte](https://null-byte.wonderhowto.com/)
       - [Web Security Academy](https://portswigger.net/web-security) - Cybersecurity Training from PortSwigger
       - [Objective-See](https://objective-see.com/index.html)
@@ -398,7 +406,6 @@
       - [Sindre Sorhus](https://sindresorhus.com/)
       - [Kenneth Reitz](https://www.kennethreitz.org/)
       - [Derek Sivers](https://sivers.org/)
-      - [Schneier on Security - Bruce Schneier](https://www.schneier.com/)
       - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
       
     - Research Papers
@@ -407,4 +414,19 @@
     - Reddit Profiles
       - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.
       - [u/thisisbillgates](https://www.reddit.com/user/thisisbillgates) - Bill Gates.
+      - [u/SuddenlySnowden](https://www.reddit.com/user/SuddenlySnowden) - Edward Snowden.
       - [u/GovSchwarzenegger](https://www.reddit.com/user/GovSchwarzenegger) - Arnold Schwarzenegger.
+
+---
+
+## Philosophy
+- People/
+  - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
+  - [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+
+- Sites/
+  - [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/) - A Peer-Reviewed Academic Resource.
+  
+## Literature
+- [plainlanguage.gov](https://plainlanguage.gov/) - community of federal employees dedicated to the idea that citizens deserve clear communications from government.
+- [PoeStories](https://poestories.com) - short stories and poems by Edgar Allan Poe.

@@ -2,6 +2,9 @@
 
 **Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
 
+- Programming Tools
+  - [kite](https://kite.com/) - code completion plugin for Python that works with PyCharm, VS Code, Vim, Spyder, & more.
+
 - Operating Systems
   - For PC
     - [Oracle Solaris](https://www.oracle.com/solaris)
@@ -45,6 +48,7 @@
   - [Vimeo](https://vimeo.com/) - ad-free video platform.
 
 - Note Taking, Project Management, Collaboration
+  - [Roam](https://roamresearch.com/) - A note-taking tool for networked thoughts.
   - [Things](https://culturedcode.com/things/) - award-winning personal task manager that helps you achieve your goals. `iOS` `macOS`
   - [Notion](https://www.notion.so/)
   - [Evernote](https://evernote.com/)
@@ -72,6 +76,7 @@
   - [Slack](https://slack.com/)
   - [Skype](https://www.skype.com/)
   - [Discord](https://discordapp.com/)
+  - [Zoom](https://zoom.us/)
   - [Hangouts](https://hangouts.google.com/)
 
 - Remote Desktop Clients
@@ -88,6 +93,8 @@
 
 - Movie Ratings and Reviews
   - [IMDb](imdb.com/) - Internet Movie Database.
+    - [IMDb Advanced Search](https://www.imdb.com/search/)
+    - [Sort your IMDb ratings by title type](https://help.imdb.com/article/imdb/track-movies-tv/how-do-i-sort-my-ratings-by-the-title-type/G4LHN2ZSCPNM5W2S)
   - [Metacritic](https://www.metacritic.com/)
   - [Rotten Tomatoes](https://rottentomatoes.com/)
 
@@ -101,6 +108,7 @@
 - iOS/Mac
   - [Apollo Reddit Client](https://apolloapp.io/) - A beautiful Reddit app built for power and speed.
   - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS.
+  - [Alfred](https://www.alfredapp.com/) - award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
 
 - CAPTCHA Services
   - [reCAPTCHA](https://www.google.com/recaptcha/) - Easy on Humans, Hard on Bots.
@@ -108,6 +116,8 @@
 
 - Other
   - Software
+    - [SAP](https://www.sap.com/index.html) - enterprise software to manage business operations and customer relations.
+    - [snapcraft](https://snapcraft.io/) - The app store for Linux.
     - [Google Earth](https://google.com/earth)
     - [Google Maps](https://google.com/maps)
     - [VMware](https://www.vmware.com/)
@@ -120,6 +130,7 @@
     - [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - compatibility layer for running Linux binary executables natively on Windows.
     - [Cloudflare 1.1.1.1](https://1.1.1.1/) - The free app that makes your Internet safer.
     - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - DaVinci Resolve includes everything professional editors need to cut blockbuster films, television shows, and commercials.
+    - [HitFilm Express](https://fxhome.com/) - VFX software for the filmmaking revolution.
     - [IFTTT](https://ifttt.com/) - make your apps and devices work together in new ways.
     - [Hootsuite](https://hootsuite.com/) - Manage all your social media in one place.
     - [Buffer](https://buffer.com/) - Build your audience and grow your brand on social media.

@@ -138,6 +138,7 @@ Roadmap to Web Development:
       - [pythonprogramming.net](https://pythonprogramming.net/)
       - [How To Think Like A Computer Scientist](https://greenteapress.com/wp/) - a free online book recommended by [MIT OpenCourseWare]()
       - [RealPython](https://realpython.com/)
+      - [Google's Python Class](https://developers.google.com/edu/python/)
       - [Python Discord](https://pythondiscord.com/)
       - [Full Stack Python](https://www.fullstackpython.com/)
       - [William Vincent's Blog](https://wsvincent.com/)
@@ -189,6 +190,7 @@ Roadmap to Web Development:
 - #### Vue(JavaScript):
     - Sites/
       - [Vue Docs](https://vuejs.org/v2/guide/)
+      - [VueSchool](https://vueschool.io/) - Learn Vue.js from core-team members and industry experts.
 
 #### Back-End Web Frameworks:
 - #### Django(Python):

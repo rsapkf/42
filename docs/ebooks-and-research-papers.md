@@ -9,6 +9,8 @@
     - [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
     - [Archive.org](https://archive.org/)
     - [Project Gutenberg](https://www.gutenberg.org/)
+    - [The Internet Classics Archive](http://classics.mit.edu/) - Bringing the wisdom of the classics to the Internet since 1994.
+    
     - [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)
     - [freecomputerbooks.com](http://freecomputerbooks.com/)
     - [ZLibrary](https://b-ok.org/)

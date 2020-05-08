@@ -72,6 +72,7 @@
       - [unix121/i3wm-themer](https://github.com/unix121/i3wm-themer) - My collection of Themes and scripts for i3-wm.
       - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
     - (Web) [dwm](https://dwm.suckless.org/) - dynamic window manager for X.
+      - (Web) [dwmstatus](https://dwm.suckless.org/status_monitor/) - Barebone status monitor with basic functions written in C.
     - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning.
       - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon.
     - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager.
@@ -88,6 +89,10 @@
     - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar.
       - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants.
     - [liamg/shox](https://github.com/liamg/shox) - A customisable, universally compatible terminal status bar.
+    - [jaor/xmobar](https://github.com/jaor/xmobar) - A minimalistic, mostly text-based status bar.
+
+  - Panels
+    - (GitLab) [o9000/tint2](https://gitlab.com/o9000/tint2) - A lightweight panel/taskbar for Linux and BSD.
 
   - Notification Daemons
     - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon.
@@ -96,17 +101,17 @@
   - Text Editors and IDEs
     - Text Based Editors
       - [vim/vim](https://github.com/vim/vim) - The official Vim repository. https://vimhelp.org.
-      - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for Mac OS X. `macOS`
-      - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
-      - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration.
-      - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim.
-      - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
-      - [veonim/veonim](https://github.com/veonim/veonim) - simple modal IDE built on neovim.
-      - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor.
+        - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for Mac OS X. `macOS`
+        - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+        - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration.
+        - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim.
+        - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
+        - [veonim/veonim](https://github.com/veonim/veonim) - simple modal IDE built on neovim.
       - (Web) [GNU Emacs](https://www.gnu.org/software/emacs) - An extensible, customizable, free/libre text editor — and more.
-      - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs _and_ Vim!.
-      - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer.
-      - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included.
+        - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs _and_ Vim!.
+        - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer.
+        - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included.
+      - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor.
       - (Web) [GNU Nano](https://www.nano-editor.org)
 
     - GUI Editors
@@ -150,6 +155,7 @@
 
   - Command Line Cheat Sheets
     - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+      - [ostera/tldr.jsx](https://github.com/ostera/tldr.jsx) - A Reactive web client for tldr-pages.
     - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need.
     - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line.
     - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal.
@@ -173,11 +179,17 @@
     - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
     - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more.
 
-  - Terminal Applications
+  - Terminal Applications/Console Services
     - Web Browsers
       - (Web) [lynx](http://lynx.browser.org) - text browser for the World Wide Web.
       - (Web) [surf](https://surf.suckless.org) - simple web browser based on WebKit2/GTK+.
       - (Web) [w3m](http://w3m.sourceforge.net) - text-based web browser as well as a pager like `more' or `less'.
+        
+    - Search Tools
+      - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
+      - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+      - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
+      - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
     
     - Duplicate File Cleaning
       - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
@@ -202,10 +214,6 @@
     - [junegunn/fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
     - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
     - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - A complete, cross-platform solution to record, convert and stream audio and video. `Mirror` https://git.ffmpeg.org/ffmpeg.git.
-    - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
-    - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-    - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
-    - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
     - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
     - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
     - [timvisee/ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -229,7 +237,18 @@
     - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior: Commandline Time Reporting.
     - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
     - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights.
-
+    - [chubin/pyphoon](https://github.com/chubin/pyphoon) - ASCII Art Phase of the Moon (Python version).
+    - [chubin/wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather. https://wttr.in.
+    - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service. https://ifconfig.co.
+    - [chubin/rate.sx](https://github.com/chubin/rate.sx) - curl cryptocurrencies exchange rates.
+    
+    - Fun
+      - (Web) [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) - program that displays a pseudorandom message from a database of quotations.
+      - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
+      - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal.
+      - [tnalpgge/rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - generates ASCII pictures of a cow with a message.
+      - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - The Party Parrot on your terminal.
+    
   - Graphical Applications
     - Video Editors
       - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor.
@@ -265,6 +284,7 @@
 
     - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim.
     
+    - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python.
     - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support.
     - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim.
     - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode.
@@ -273,6 +293,7 @@
     - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim.
     - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim.
     - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
+    - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made easy.
     
     - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
     - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air.
@@ -383,7 +404,7 @@
       - [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim.
       - [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
 
-  - Note-Taking/Personal Knowledge Base/Bookmarking
+  - Note-Taking/Personal Knowledge Base/Bookmarking/Wiki
     - (Web) [Orgmode](https://orgmode.org/) - document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the free software text editor Emacs in a fast and effective plain-text system.
     - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
     - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
@@ -392,7 +413,6 @@
     - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux.
     - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep.
     - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb).
-    - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
     - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine.
     - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
     - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -416,6 +436,7 @@
     - [wekan/wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor).
     - [RestyaPlatform/board](https://github.com/RestyaPlatform/board) - Trello like kanban board. Based on Restya platform.
     - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+    - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt.
 
   - System Info Scripts
     - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
@@ -426,6 +447,7 @@
     - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
     - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
     - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
+    - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
     - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
     - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 
@@ -434,6 +456,10 @@
     - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher.
     - (Web) [dmenu](https://tools.suckless.org/dmenu/) 
       - [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
+    - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher.
+    - [geommer/yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
+    - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb.
+    - [robm/dzen](https://github.com/robm/dzen) - Dzen is a general purpose messaging, notification and menuing program for X11.
 
   - Compositors
     - [chjj/compton](https://github.com/chjj/compton) - A compositor for X11.
@@ -459,12 +485,12 @@
     - [starship/starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts.
 
   - Password Managers
+    - (Web) [pass](https://www.passwordstore.org/) - the standard unix password manager.
     - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
     - [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
     - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client. `macOS`
     - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - KeePass implementation for android with material design and deluxe features.
     - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-    - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera.
     - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool.
     - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass.
     - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - Buttercup credentials management application.
@@ -562,6 +588,8 @@
     - [webtorrent/webtorrent)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. https://webtorrent.io.
     - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent BitTorrent client (Enhanced Edition).
     - [transmission/transmission](https://github.com/transmission/transmission) - BitTorrent client. See Also [Transmission-cli](https://wiki.archlinux.org/index.php/Transmission).
+    - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client.
+      - [pyroscope/rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
     - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
     - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client `Mirror` https://deluge-torrent.org.
     
@@ -614,6 +642,7 @@
     - [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App.
 
   - Screenshot/Screen Recorders
+    - (Web) [Scrot](https://en.wikipedia.org/wiki/Scrot) - minimalist command line screen capturing application.
     - [lupoDharkael/flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
     - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
     - [wulkano/kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. `macOS`
@@ -642,6 +671,7 @@
 
   - Presentation
     - (Web) [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool by suckless.org.
+    - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
   - Image Viewers
     - [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer.
@@ -658,7 +688,11 @@
     - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 
   - General
+    - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework.
+    - [AppImage/appimagekit](https://github.com/AppImage/appimagekit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives.
+    - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
     - [zfsonlinux/zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
+    - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers.
     - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor) (https://ace.c9.io).
     - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (https://firejail.wordpress.com).
     - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
@@ -677,29 +711,32 @@
     - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. `macOS`
 
 - Python
-  - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-    - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
-    - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
-    - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
-    - [axnsan12/drf-yasg)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-    - [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS.
-    - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
-    - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-    - [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
-    - [SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
-    - [niwinz/django-redis](https://github.com/niwinz/django-redis) - Full featured redis cache backend for Django.
-    - [Bouke/django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
-    - [dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen page.
-    - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-    - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
-    - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
-    - [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-    - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
-    - [James1345/django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django rest auth.
-    - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework. `discontinued`
-  - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+  - Web Frameworks
+    - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+      - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
+      - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
+      - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
+      - [axnsan12/drf-yasg)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
+      - [divio/django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS.
+      - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
+      - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
+      - [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
+      - [SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
+      - [niwinz/django-redis](https://github.com/niwinz/django-redis) - Full featured redis cache backend for Django.
+      - [Bouke/django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
+      - [dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen page.
+      - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+      - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
+      - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+      - [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
+      - [etianen/django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
+      - [James1345/django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django rest auth.
+      - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework. `discontinued`
+    - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+    - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
   
   - Data Science
+    - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
     - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python.
     - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
     - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
@@ -708,40 +745,51 @@
   
   - Dependency/Package Management
     - [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem.
+    - [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments.
     - [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
+  - Libraries/Modules
   - [kennethreitz/requests](https://github.com/kennethreitz/requests) - A simple, yet elegant HTTP library.  
+  - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™.
+  - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
+  - [nltk/nltk](https://github.com/nltk/nltk) - Natural Language Toolkit.
+  - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine learning in Python.
+  - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+  - (launchpad) [~leonardr/beautifulsoup](https://code.launchpad.net/~leonardr/beautifulsoup/bs4) - library that makes it easy to scrape information from web pages.
+  - [pygame/pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
+  - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
+  - [PyQt](https://pypi.org/project/PyQt5/) - Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in.
+  - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
+  - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile.
+  - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
+  - [google/python-fire](https://github.com/google/python-fire/) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+  - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+  - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
+  - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) -  A lightweight library for converting complex objects to and from simple Python datatypes.
+  - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
+  - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
+  - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform.
+  - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser.
+  - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
+  - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
   - [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
   - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-  - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
   - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-  - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™.
-  - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
-  - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
   - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
-  - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile.
   - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - A pure Python interface for the Telegram Bot API.
-  - [google/python-fire](https://github.com/google/python-fire/) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
   - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.  
-  - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
   - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
   - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
-  - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
   - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) -  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
   - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python.
   - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
   - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
-  - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) -  A lightweight library for converting complex objects to and from simple Python datatypes.
   - [sunainapai/makesite](https://github.com/sunainapai/makesite) -  Simple, lightweight, and magic-free static site/blog generator for Python coders.
   - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
   - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
-  - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
-  - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
   - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
-  - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform.
   - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
-  - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser.
-  - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
 
 - HTML/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
@@ -771,6 +819,9 @@
     - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework.
     - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
     - [pshihn/rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance.
+    - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
+    
+    - (Web) [Observable](https://observablehq.com/) - The magic notebook for data visualization.
 
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
   - [webslides/webslides](https://github.com/webslides/webslides) - Create HTML presentations in seconds.
@@ -795,7 +846,7 @@
   - [lerna/lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
   - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
   - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
-  - [googlechrome/workbox](https://github.com/googlechrome/workbox) - JavaScript libraries for Progressive Web Apps.
+  - [googlechrome/workbox](https://github.com/googlechrome/workbox) - JavaScript lhttps://github.com/scikit-learn/scikit-learnhttps://github.com/scikit-learn/scikit-learnhttps://github.com/scikit-learn/scikit-learnibraries for Progressive Web Apps.
   - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - Automatically add next page.
   - [mishoo/UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit.
   - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
@@ -884,6 +935,7 @@
   - [actix/actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework. https://actix.rs.
   - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust.
   - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
+  - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility.
   - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
   - [sapir/gcc-rust](https://github.com/sapir/gcc-rust) - a (WIP) Rust frontend for gcc.
   - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
@@ -907,7 +959,12 @@
   - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi.
   - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
   - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications.
-  
+
+- Web Servers
+  - (Web) [Nginx](https://nginx.org/)
+  - (Web) [Apache](https://httpd.apache.org/)
+  - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
+
 - C++
   - (GitLab) [mbunkus/mkvtoolnix](https://gitlab.com/mbunkus/mkvtoolnix) - Creating and working with Matroska files.
   - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. `Mirror` https://llvm.org.
@@ -984,9 +1041,12 @@
   - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
   - [cli/cli](https://github.com/cli/cli) - The GitHub CLI.
   - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files.
+  - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output.
   - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git.
   - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
   - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format.
+  - [github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+  - (Web) [Official GitHub Ribbons](https://github.blog/2008-12-19-github-ribbons/) `deprecated`
 
 - GitHub Alternatives
   - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror. `Mirror`
@@ -1015,6 +1075,8 @@
   - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
   - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System.
   - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs.
+  - [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts.
+  - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive css framework (395 bytes).
 
 - Front-End JavaScript Frameworks
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -1081,8 +1143,16 @@
   - [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
   - [pugjs/pug](https://github.com/pugjs/pug) – robust, elegant, feature rich template engine for Node.js.
   - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-  - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators.
   - [hoodiehq/hoodie](https://github.com/hoodiehq/hoodie) - The Offline First JavaScript Backend.
+  
+- CMSs
+  - [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators.
+  - (Web) [Wordpress.org](https://wordpress.org/) - free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.
+  - (Web) [Drupal](https://www.drupal.org/) - free and open-source web content management framework written in PHP.
+  - (GitLab) [tikiwiki/tiki](https://gitlab.com/tikiwiki/tiki))
+
+- Web Development Tools
+  - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - Generate basic CSS Grid code to make dynamic layouts!
 
 - Jekyll Themes
   - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
@@ -1108,6 +1178,9 @@
   - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, 200kb Android launcher.
   - [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012).
     
+  - Secure Communication
+    - [inputmice/Conversations](https://github.com/inputmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android.
+  
   - Ebook Readers
     - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android.
         
@@ -1140,6 +1213,10 @@
     
   - Feed Readers
     - (GitLab) [spacecowboy/Feeder](https://gitlab.com/spacecowboy/Feeder) - Android RSS reader app.
+
+  - Accounting
+    - (Web) [GnuCash](https://gnucash.org/) - personal and small-business financial-accounting software.
+    - [frappe/erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP.
 
 - Mac/iOS
   - [Homebrew/brew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
@@ -1267,6 +1344,7 @@
   - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language.
   - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
   - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
+  - [racket/racket](https://github.com/racket/racket) - The Racket repository.
 
 - Distributed Networks/Blockchain
   - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
@@ -1291,6 +1369,7 @@
   - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
   - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
   - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+  - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy.
   - [dtube/dtube](https://github.com/dtube/dtube) DTube App.
 
 - Google Analytics Alternatives
@@ -1445,6 +1524,8 @@
   - [encrypted-dev/userbase](https://github.com/encrypted-dev/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
   - [osmandapp/Osmand](https://github.com/osmandapp/Osmand) - map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
   - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
+  - [samaaron/sonic-pi](https://github.com/samaaron/sonic-pi) - Code. Music. Live.
+  - [cryptii/cryptii](https://github.com/cryptii/cryptii) - Web app and framework offering modular conversion, encoding and encryption.
 
 - Website Templates
   - Bootstrap Templates
@@ -1610,6 +1691,7 @@
 - [IRCCloud Ltd.](https://github.com/irccloud) - Chat on IRC from anywhere, and never miss a message.
 - [Samsung](https://github.com/Samsung) - Samsung Electronics Co.,Ltd.
 - [Salesforce UX](https://github.com/salesforce-ux) - Clarity. Efficiency. Consistency. Beauty. The product design team at Salesforce.
+- [U.S. General Services Administration](https://github.com/gsa) - The U.S. General Services Administration.
 - [OpenAI](https://github.com/openai)
 - [Eclipse Foundation](https://github.com/eclipse)
 - [fast.ai](https://github.com/fastai)
@@ -1680,11 +1762,11 @@
 - [Raymond Hill](https://github.com/gorhill) - The Cathedral and The Bazaar, uBlock Origin.
 - [Luke Smith](https://github.com/lukesmithxyz)
 - [Tim Pope](https://github.com/tpope)
+- [Evan You](https://github.com/yyx990803) - Creator of VueJS.
 - [Christopher Olah](https://github.com/colah)
 - [Daniel Shiffman](https://github.com/shiffman) - The Coding Train.
 - [Grant Sanderson](https://github.com/3b1b) - 3blue1brown.
 - [Donne Martin](https://github.com/donnemartin)
-- [Siraj Raval](https://github.com/llSourcell)
 - [Michael Nielsen](https://github.com/mnielsen)
 - [Lex Fridman](https://github.com/lexfridman) - The AI Podcast.
 - [Wes Bos](https://github.com/wesbos)
@@ -1755,3 +1837,4 @@
 - [Vitalik Buterin](https://github.com/vbuterin) - Etheruem Co-founder.
 - [Avery Pennarun](https://github.com/apenwarr)
 - [Greg Hurrell](https://github.com/wincent)
+- [Sarah Drasner](https://github.com/sdras)

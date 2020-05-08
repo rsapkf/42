@@ -12,6 +12,7 @@
   - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives. https://opensource.builders.
   - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Rizon network.
   - [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Learn the ways of Linux-fu, for free. https://linuxjourney.com.
+  - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).
 
   - Vim
     - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Some simple methods for exiting vim.
@@ -91,7 +92,9 @@
   - [dexteryy/spellbook-of-modern-webdev/](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
   - [usablica/front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
   - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations.
-  
+  - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)? https://1loc.dev.
+  - [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. https://htmldom.dev.
+
 ### TypeScript
   - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
@@ -99,12 +102,19 @@
   - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that _could_ go in the head of your document.
   - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
   - [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - "Short CSS code snippets for all your development needs.
+  - [phuoc-ng/csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
+
+### Design
+  - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more.
 
 ### Rust
   - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust.
 
+### Haskell
+  - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell.
+  
 ### Elixir
-  - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool/) - Premier destination to learn and master the Elixir programming language.
+  - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language.
 
 ### C
   - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey.
@@ -179,7 +189,7 @@
   - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - @rstacruz's cheatsheets. https://devhints.io.
 
 ### Privacy and Security
-  - [privacytoolsIO/privacytools.io](https://github.com/privacytoolsIO/privacytools.io) - You are being watched. Protect your privacy against global mass surveillance.
+  - [privacytoolsIO/privacytools.io](https://github.com/privacytoolsIO/privacytools.io) - You are being watched. Protect your privacy against global mass surveillance. https://privacytools.io.
   - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 
 ### Penetration Testing
@@ -209,10 +219,12 @@
   - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
   - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job/) - A curated list of awesome remote jobs and resources.
 
-### Mac/iOS
+### macOS/iOS
   - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
   - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - Collaborative List of Open-Source iOS Apps.
   - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing.
+  - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows.
+  - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - A collection of Alfred 3 and 4 workflows that will rock your world.
 
 ### Project Based Learning
   - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here).

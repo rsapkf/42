@@ -69,4 +69,5 @@
   - [PHP Docs](https://www.php.net/)
   
 ### Other Resources
+- [Google TechDevGuide](https://techdevguide.withgoogle.com/) - Google’s Guide to Technical Development.
 - [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)

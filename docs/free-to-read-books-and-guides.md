@@ -35,6 +35,8 @@
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) ([GitHub](http://github.com/pomax/BezierInfo-2))
 - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google.
 - [Building Secure and Reliable Systems](https://landing.google.com/sre/static/pdf/SRS.pdf) - Google.
+- [The Debian Administrator's Handbook](https://debian-handbook.info/) - Raphaël Hertzog and Roland Mas.
+- [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - By Dan Boneh, Victor Shoup.
 
 ## Guides
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall.
@@ -47,5 +49,11 @@
 - [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) - J. Ström, K. Åström, T. Akenine-Möller.
 - [Mathematics All-in-One Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf) - Alex Spartalis.
 - [Calculus Made Easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf) - Silvanus Thompson.
+
+### Philosophy
+- [Meditations](http://classics.mit.edu/Antoninus/meditations.html) - Marcus Aurelius.
+
+### General Knowledge
+- [Encyclopedia Britannica](https://www.britannica.com/)
 
 See Also [./ebooks-and-research-papers.md](ebooks-and-research-papers.md)

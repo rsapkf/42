@@ -38,11 +38,14 @@
     - [Radiooooo](http://radiooooo.com/) - The wonderful musical machine that allows you to travel through space and time!
     - [Wikia/FANDOM Explore](https://www.fandom.com/explore) - The Fan-trusted Source in Entertainment.
     - [TV Chart](https://tvchart.benmiz.com/) - see a graph of any TV show's IMDb ratings, by episode.
+    - [Famous Scientists](https://www.famousscientists.org/) - educational resource focusing on the lives and achievements of the most famous scientists and inventors in history.
     
   - Dictionaries  
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
     - [Merrian Webster](https://www.merriam-webster.com/) - since 1828.
     - [Urban Dictionary](https://www.urbandictionary.com/) - crowdsourced online dictionary for slang words and phrases.
+    - [Dictionary.com](https://www.dictionary.com/)
+    - [Webopedia](https://www.webopedia.com/) - Online Tech Dictionary for Students, Educators and IT Professionals.
 
 - YouTube/
     - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -211,24 +214,29 @@
     - [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
     - [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797)
     - [Ask HN: I'm a software engineer going blind, how should I prepare?](https://news.ycombinator.com/item?id=22918980)
+    - [How I Hacked Hacker News (with arc security advisory)](https://news.ycombinator.com/item?id=639976)
 
 - Reddit Threads/
     - [What is the coolest website you’ve visited that no one knows about? (r/AskReddit, 25 Feb 2020)](https://old.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)
 
 - Wikipedia Pages/
-    - [SOLID](https://en.wikipedia.org/wiki/SOLID)
-    - [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))
-    - [HTTP 451](https://en.wikipedia.org/wiki/HTTP_451)
-    - [Editor War](https://en.wikipedia.org/wiki/Editor_war)
-    - [Infobesity](https://en.wikipedia.org/wiki/Information_overload)
-    - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
-    - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
-    - [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism) ([List of autodidacts](https://en.wikipedia.org/wiki/List_of_autodidacts))
-    - [Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
-    - [Year 2038 problem](https://en.wikipedia.org/wiki/Year_2038_problem)
-    - [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem)
-    - [Rickrolling](https://en.wikipedia.org/wiki/Rickrolling)
-    - [1% Rule (Internet culture)](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture))
+    - Phiolosophy/Psychology 
+      - [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
+      - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+      - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+      - [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism) ([List of autodidacts](https://en.wikipedia.org/wiki/List_of_autodidacts))
+
+    - Computing
+      - [SOLID](https://en.wikipedia.org/wiki/SOLID)
+      - [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))
+      - [HTTP 451](https://en.wikipedia.org/wiki/HTTP_451)
+      - [Editor War](https://en.wikipedia.org/wiki/Editor_war)
+      - [Infobesity](https://en.wikipedia.org/wiki/Information_overload)
+      - [Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
+      - [Year 2038 problem](https://en.wikipedia.org/wiki/Year_2038_problem)
+      - [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem)
+      - [Rickrolling](https://en.wikipedia.org/wiki/Rickrolling)
+      - [1% Rule (Internet culture)](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture))
  
 - Other/
     - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) by Eric S. Raymond.
