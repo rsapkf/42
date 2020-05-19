@@ -25,7 +25,6 @@ Roadmap to Web Development:
 - [Text Editors and IDEs](#text-editors-and-ides)
 - [Regular Expressions and Algorithms](#regular-expressions-and-algorithms)
 - [Developer Tools](#developer-tools)
-- [APIs](#apis)
 - [Extra Resources](#extra-resources)
 
 ---
@@ -75,11 +74,6 @@ Roadmap to Web Development:
       - [CSS-Tricks](https://css-tricks.com/)
       - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
       - [Codrops](https://tympanus.net/codrops/) - Web Dev and Design News.
-        
-    - YouTube/
-      - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-      - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-      - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 - #### JavaScript:
     - Sites/
@@ -91,14 +85,6 @@ Roadmap to Web Development:
       - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - By Kyle Cook.
       - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
       - [Rodrigo Pombo's Blog](https://pomb.us/)
-
-    - YouTube/
-      - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - Quincy Larson.
-      - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)([Website](https://thecodingtrain.com/))
-      - [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
-      - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-      - [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
-      - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA) - Joshua Fluke.
 
 - #### HTML/CSS:
     - Sites/
@@ -119,9 +105,6 @@ Roadmap to Web Development:
       - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
       - [CSS Gradient](https://cssgradient.io/) - free tool that lets you create a gradient background for websites and technical articles.
       - [CSS3 Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
-
-    - YouTube/
-      - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 
 ### Back-End Programming Languages
 - #### Python:
@@ -145,10 +128,6 @@ Roadmap to Web Development:
       - [Ned Batchelder's Blog](https://nedbatchelder.com/)
       - [Trey Hunner's Blog](https://treyhunner.com/)
       - [Python Developer’s Guide](https://devguide.python.org/) - A comprehensive resource for contributing to Python.
-
-    - YouTube/
-      - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-      - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 - #### Ruby:
   - Sites/
@@ -309,6 +288,7 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
 - Images/SVGs/
   - [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine
   - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
+  - [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE.
 
 - Patterns/
   - [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.
@@ -328,28 +308,12 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
 - API Testing/
   - [Postman](https://www.postman.com/) - The Collaboration Platform for API Development.
 
----
+- UI Inspiration/
+  - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
 
-### APIs
-  - [NASA APIs](https://api.nasa.gov/) - NASA data, including imagery, eminently accessible to application developers.
-  - [Reddit API](https://www.reddit.com/dev/api)
-  
 ---
 
 ### Extra Resources:
-- YouTube/
-  - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-  - [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
-  - [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
-  - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - Jeff from Fireship :)
-  - [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
-  - [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA) - Caleb Curry.
-  - [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) - Clément Mihailescu.
-  - [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
-  - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
-  - [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
-  - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
-
 - Codepen Profiles/
   - [Chris Coyier](https://codepen.io/chriscoyier) - Founder of CSS-Tricks.
   - [Florin Pop](https://codepen.io/FlorinPop17)
@@ -358,33 +322,11 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
 - Dribble Profiles/
   - [Google](https://dribbble.com/google)
 
-- Reddit/
-  - [r/git](https://www.reddit.com/r/git)
-  - [r/learnprogramming](https://www.reddit.com/r/learnprogramming)
-  - [r/programming](https://www.reddit.com/r/programming)
-  - [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)
-  - [r/MachineLearning](https://www.reddit.com/r/MachineLearning)
-  - [r/webdev](https://www.reddit.com/r/webdev)
-  - [r/devops](https://www.reddit.com/r/devops)
-  - [r/Python](https://www.reddit.com/r/Python)
-  - [r/django](https://www.reddit.com/r/django)
-  - [r/node](https://www.reddit.com/r/node)
-  - [r/compsci](https://www.reddit.com/r/compsci)
-  - [r/C_Programming](https://www.reddit.com/r/C_Programming)
-  - [r/cpp](https://www.reddit.com/r/cpp)
-  - [r/golang](https://www.reddit.com/r/golang)
-  - [r/haskell](https://www.reddit.com/r/haskell)
-  - [r/java](https://www.reddit.com/r/java)
-  - [r/javascript](https://www.reddit.com/r/javascript)
-  - [r/rust](https://www.reddit.com/r/rust)
-  - [r/emacs](https://www.reddit.com/r/emacs)
-
 - Sites/
   - [web.dev](https://web.dev/) -  learn to build for the modern web.
   - [sitepoint](https://www.sitepoint.com/)
+  - [Extension Workshop](https://extensionworkshop.com/) - Get help creating and publishing Firefox add-ons that make browsing smarter, safer, and faster.
   - [The changelog](https://changelog.com/)
-  - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
-  - [Grep.app](https://grep.app/) - Search code in GitHub repos using regular expressions.
   - [Glitch](https://glitch.com/)
   - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials/)
   - [freeCodeCamp Guide](https://guide.freecodecamp.org/) - articles about all things related to programming.

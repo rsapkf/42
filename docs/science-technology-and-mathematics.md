@@ -1,77 +1,6 @@
 # Science, Technology and Mathematics
 
 ## Science, Mostly
-- YouTube/
-    - [2veritasium](https://www.youtube.com/channel/UC2LZO6swZ9SLUEOks3WnsfA) - Derek Muller.
-    - [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) - Mitchell Moffit, Gregory Brown.
-    - [BBC Earth](https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg) - BBC.
-    - [Brave Wilderness](https://www.youtube.com/channel/UC6E2mP01ZLH_kbAyeazCNdg) - Coyote Peterson.
-    - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w) - CGP Grey.
-    - [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) -  Michael Stevens, Kevin Lieber, Jake Roper.
-    - [DALLMYD](https://www.youtube.com/channel/UCI4fHQkguBNW3SwTqmehzjw) - Jake from DALLMYD.
-    - [DeepSkyVideos](https://www.youtube.com/channel/UCo-3ThNQmPmQSQL_L6Lx1_w) - Brady Haran.
-    - [ElectroBOOM](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA) - Mehdi Sadaghdar.
-    - [For the Allure of Physics](https://www.youtube.com/channel/UCliSRiiRVQuDfgxI_QN_Fmw) - Prof. Walter Lewin.
-    - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw) - Wendover Productions.
-    - [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g) - Isaac Arthur.
-    - [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw) - Dr. Joe Hanson.
-    - [Kurzgesagt - In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) - Kurzgesagt.
-    - [Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw) - Prof. Walter Lewin.
-    - [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg) - Mark Rober.
-    - [Mike Boyd](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ) - Mike Boyd.
-    - [MinuteEarth](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w) - Henry Reich.
-    - [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)- NASA.
-    - [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A) - National Geographic.
-    - [Objectivity](https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg) - Brady Haran.
-    - [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) - PBS.
-    - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g) - PBS.
-    - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) - PBS.
-    - [Periodic Videos](https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw) - Brady Haran.
-    - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA) - Dianna Cowern.
-    - [Data Is Beautiful](https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg)
-    - [Reigarw Comparisons](https://www.youtube.com/channel/UCcM-EIxza5g1S0dpnoO_ePA)
-    - [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow) - Hank Green.
-    - [Scott Manley](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A) - Scott Manley.
-    - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Simon Giertz.
-    - [Sixty Symbols](https://www.youtube.com/channel/UCvBqzzvUBLCs8Y7Axb-jZew) - Brady Haran.
-    - [SmarterEveryDay](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA) - Destin Sandlin.
-    - [Smarter Every Day 2](https://www.youtube.com/channel/UC8VkNBOwvsTlFjoSnNSMmxw) - Destin Sandlin.
-    - [SpaceX](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) - Elon Musk and Company :)
-    - [TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA) - TED.
-    - [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) - TED.
-    - [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q) - TED.
-    - [The Action Lab](https://www.youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ) - @theactionlabman
-    - [The Royal Institution](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw) - The Royal Institution.
-    - [The Slow Mo Guys](https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w) - Gavin Free, Daniel Charles Gruchy.
-    - [The Sound Traveler](https://www.youtube.com/channel/UC0tq0g5u2bo-TErZt7SJM6w) - Destin Sandlin.
-    - [TheBackyardScientist](https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw) - Kevin from TheBackyardScientist :)
-    - [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ) - The Verge.
-    - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) - Derek Muller.
-    - [Vsauce2](https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw) - Kevin Lieber.
-    - [Vsauce3](https://www.youtube.com/channel/UCwmFOfFuvRPI112vR5DNnrA) - Jake Roper.
-    - [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) - Michael Stevens.
-      - [MindField Season 1](https://www.youtube.com/watch?v=iqKdEhx-dD4&list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2)
-      - [MindField Season 2](https://www.youtube.com/watch?v=1sl5KJ69qiA&list=PLZRRxQcaEjA7wmh3Z6EQuOK9fm1CqnJCI)
-      - [MindField Season 3](https://www.youtube.com/watch?v=ktkjUjcZid0&list=PLZRRxQcaEjA7LX19uAySGlc9hmprBxfEP)
-    - [Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew) - Stephen Welch.
-    - [Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ) - Wendover Productions.
-    - [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g) - What If.
-    - [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) - Henry Reich.
-    - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ) - Tim Blais.
-    - [Applied Science](https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw) -  Ben Krasnow.
-    - [Geography Now](https://www.youtube.com/channel/UCmmPgObSUPw1HL2lq6H4ffA) - Paul Barbs.
-    - [Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA)
-    - [StarTalk](https://www.youtube.com/channel/UCqoAEDirJPjEUFcF2FklnBA)
-    - [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
-    - [thebrainscoop](https://www.youtube.com/channel/UCkyfHZ6bY2TjqbJhiH8Y2QQ)
-    - [Tibees](https://www.youtube.com/channel/UC52kszkc08-acFOuogFl5jw)
-    - [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
-    - [yeti dynamics](https://www.youtube.com/channel/UCfzLXKMZqf8-nR920SbQJLA)
-    - [Andrew Dotson](https://www.youtube.com/channel/UCnFmWQbVW_YbqPQZGNuq8sA)
-    - [The Q](https://www.youtube.com/channel/UCZdGJgHbmqQcVZaJCkqDRwg)
-    - [Adam Savage's Tested](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
-    - [Engineering Explained](https://www.youtube.com/channel/UClqhvGmHcvWL9w3R48t9QXQ)
-
 - People/
     - [Sean Caroll](https://www.preposterousuniverse.com/)
     - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
@@ -95,47 +24,10 @@
     - [Popular Science](https://www.popsci.com/)
     - [Scientific American](https://www.scientificamerican.com/)
     - [JunkScience](https://junkscience.com/)
-
-- Reddit/
-    - [r/science](https://www.reddit.com/r/science)
-    - [r/askscience](https://www.reddit.com/r/askscience)
-    - [r/todayilearned](https://www.reddit.com/r/todayilearned)
-    - [r/Physics](https://www.reddit.com/r/Physics)
-    - [r/chemistry](https://www.reddit.com/r/chemistry)
-    - [r/space](https://www.reddit.com/r/space)
-    - [r/biology](https://www.reddit.com/r/biology)
-    - [r/Astronomy](https://www.reddit.com/r/Astronomy)
-    - [r/environment](https://www.reddit.com/r/environment)
-    - [r/astrophotography](https://www.reddit.com/r/astrophotography)
-    - [r/Futurology](https://www.reddit.com/r/Futurology)
-    - [r/EarthPorn](https://www.reddit.com/r/EarthPorn)
-    - [r/History](https://www.reddit.com/r/History)
-    - [r/Economics](https://www.reddit.com/r/Economics)
-    - [r/MachinePorn](https://www.reddit.com/r/MachinePorn)
-    - [r/nasa](https://www.reddit.com/r/nasa)
-    - [r/NatureIsF ckingLit](https://www.reddit.com/r/NatureIsFuckingLit)
-    - [r/philosophy](https://www.reddit.com/r/philosophy)
-    - [r/scifi](https://www.reddit.com/r/scifi)
-    - [r/educationalgifs](https://www.reddit.com/r/educationalgifs)
-
+    
 ---
 
 ## Mathematics
-- YouTube/
-    - [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) - Brady Haran.
-    - [Numberphile2](https://www.youtube.com/channel/UCyp1gCHZJU_fGWFf2rtMkCg) - Brady Haran.
-    - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - Grant Sanderson.
-    - [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg) - Burkard Polster.
-    - [standupmaths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A) - Matt Parker.
-    - [singingbanana](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA) - James Grime.
-    - [Vihart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg) - Victoria Hart.
-    - [Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A) - Steve Mould.
-    - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
-    - [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg)
-    - [blackpenredpen](https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA)
-    - [patrickJMT](https://www.youtube.com/channel/UCFe6jenM1Bc54qtBsIJGRZQ)
-    - [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)
-
 - Sites+Blogs/
     - [WolframAlpha](https://www.wolframalpha.com/)
     - [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
@@ -165,73 +57,9 @@
     - [3blue1brown](https://www.3blue1brown.com/) - Grant Sanderson.
     - [Erich's Place](https://www2.stetson.edu/~efriedma/index.html) - Prof. Erich Friedman's Webpage.
 
-- Reddit/
-    - [r/learnmath](https://www.reddit.com/r/learnmath)
-    - [r/math](https://www.reddit.com/r/math)
-
 ---
 
 ## Tech
-- YouTube/
-    - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)- Mozilla.
-    - [Mozilla Hacks](https://www.youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA) - Mozilla.
-    - [Google](https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA) - Google.
-    - [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) - Google.
-    - [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg) - Y Combinator.
-    - [Apple](https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw) - Apple.
-    - [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) - Lex Fridman.
-    - [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ) - GitHub.
-    - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) - Linus Sebastian.
-    - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q) - Linus Sebastian.
-    - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA) - Linus Sebastian.
-    - [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A) - Tom Scott.
-    - [Unbox Therapy](https://www.youtube.com/channel/UCsTcErHg8oDvUnTzoqsYeNw) - Lewis Hilsenteger.
-    - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ) - Marquees Brownlee.
-    - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - Brady Haran.
-    - [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) - Dave Lee.
-    - [Bill Gates](https://www.youtube.com/channel/UCnEiGCE13SUI7ZvojTAVBKw) - Bill Gates.
-    - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A) - Dagogo Altraide.
-    - [WIRED](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw) - WIRED.
-    - [Curious Droid](https://www.youtube.com/channel/UC726J5A0LLFRxQ0SZqr2mYQ) - Paul Shillito.
-    - [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg) - Evan from Polymatter :)
-    - [The Modern Rogue](https://www.youtube.com/channel/UC42VsoDtra5hMiXZSsD6eGg) - Brian Brushwood, Jason Murphy.
-    - [Captain Disillusion](https://www.youtube.com/channel/UCEOXxzW2vU0P-0THehuIIeg) - Captain Disillusion :)
-    - [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)
-    - [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ) - WSJ.
-    - [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw) - Android Authority.
-    - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - Patrick Shyu.
-    - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
-    - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-    - [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Andrew Price.
-    - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-    - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
-    - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
-    - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
-    - [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
-    - [JerryRigEverything](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ)
-    - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
-    - [Mrwhosetheboss](https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA) - Arun Maini.
-    - [Austin Evans](https://www.youtube.com/channel/UCXGgrKt94gR6lmN4aN3mYTg) - Austin Evans.
-
-- Reddit/
-    - [r/technology](https://www.reddit.com/r/technology)  
-    - [r/Bitcoin](https://www.reddit.com/r/Bitcoin)
-    - [r/ethereum](https://www.reddit.com/r/ethereum)
-    - [r/Monero](https://www.reddit.com/r/Monero)
-    - [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi)
-    - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency)
-    - [r/geek](https://www.reddit.com/r/geek)
-    - [r/LineageOS](https://www.reddit.com/r/LineageOS)
-    - [r/cybersecurity](https://www.reddit.com/r/cybersecurity)
-    - [r/DataHoarder](https://www.reddit.com/r/DataHoarder)
-    - [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
-    - [r/DesignPorn](https://www.reddit.com/r/DesignPorn)
-    - [r/hacking](https://www.reddit.com/r/hacking)
-    - [r/pihole](https://www.reddit.com/r/pihole)
-    - [r/Piracy](https://www.reddit.com/r/Piracy)
-    - [r/teslamotors](https://www.reddit.com/r/teslamotors)
-    - [r/TOR](https://www.reddit.com/r/TOR)
-
 - Sites+Blogs/
     - Privacy
       - [gnu.org](https://www.gnu.org/)
@@ -317,6 +145,7 @@
       - [Stratechery](https://stratechery.com/) - Ben Thompson.
       - [dev.to](https://dev.to/)
       - [Indie Hackers](https://www.indiehackers.com/)
+      - [Failory](https://www.failory.com/) - Learn from other entrepreneur's mistakes.
       - [Medium](https://medium.com/)
       - [Dribble](https://dribbble.com/) - Find and showcase creative work from world's best design professionals.
       - [Behance](https://www.behance.net/) - showcase and discover creative work.
@@ -347,6 +176,7 @@
       - [Harvard Business Review](https://hbr.org/)
       - [Stratechery](https://stratechery.com)
       - [Serializer](https://serializer.io)
+      - [Investopedia](https://www.investopedia.com/)
       - [Engadget](https://www.engadget.com/)
       - [YCombinator](https://www.ycombinator.com)
       - [BoingBoing](https://boingboing.net/)
@@ -361,6 +191,7 @@
       - [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
       - [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
       - [It's FOSS](https://itsfoss.com/)
+      - [techdirt](https://www.techdirt.com/)
       - [Social Blade](https://socialblade.com/) - Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!
       - [MakeUseOf](https://www.makeuseof.com/)
       
@@ -371,7 +202,7 @@
       - [The Wall Street Journal](https://www.wsj.com/)
       - [Variety](https://variety.com/)
 
-    - Hacking/ Cybersecurity
+    - Hacking/Cybersecurity
       - [Schneier on Security - Bruce Schneier](https://www.schneier.com/)
       - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation.
       - [Null Byte](https://null-byte.wonderhowto.com/)
@@ -384,6 +215,7 @@
 
     - People
       - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
+      - [Brian Kernighan](https://www.cs.princeton.edu/~bwk/)
       - [Don Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
       - [Paul Graham](http://paulgraham.com/)
       - [Gates Notes](http://gatesnotes.com/)
@@ -410,12 +242,6 @@
       
     - Research Papers
       - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto.
-    
-    - Reddit Profiles
-      - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.
-      - [u/thisisbillgates](https://www.reddit.com/user/thisisbillgates) - Bill Gates.
-      - [u/SuddenlySnowden](https://www.reddit.com/user/SuddenlySnowden) - Edward Snowden.
-      - [u/GovSchwarzenegger](https://www.reddit.com/user/GovSchwarzenegger) - Arnold Schwarzenegger.
 
 ---
 
@@ -429,4 +255,6 @@
   
 ## Literature
 - [plainlanguage.gov](https://plainlanguage.gov/) - community of federal employees dedicated to the idea that citizens deserve clear communications from government.
+- [Poetry Foundation](http://www.poetryfoundation.org/)
+- [SparkNotes](https://www.sparknotes.com/) - Source for help with Shakespeare and English literature, plus history, math, biology, and more.
 - [PoeStories](https://poestories.com) - short stories and poems by Edgar Allan Poe.

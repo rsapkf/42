@@ -61,5 +61,3 @@ Sites/
 Reddit/
 - [This](https://www.reddit.com/r/privacy/comments/byzq4w/megathread_cutting_google_out_of_your_life_2019/?utm_source=share&utm_medium=web2x) thread on [r/privacy](https://www.reddit.com/r/privacy/) - Cutting Google out of your life.
 - [r/privacy wiki](https://www.reddit.com/r/privacy/wiki/de-google)
-- [r/privacy](https://www.reddit.com/r/privacy)
-- [r/privacytoolsIO](https://www.reddit.com/r/privacytoolsIO)

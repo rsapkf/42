@@ -38,6 +38,8 @@
       - (Web) [Trisquel GNU/Linux](https://trisquel.info/en)
       - (Web) [Parabola GNU/Linux](https://www.parabola.nu/)
       - (Web) [Alpine Linux](https://alpinelinux.org/)
+      - (Web) [Chromium OS](https://www.chromium.org/chromium-os)
+        - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment.
       
     - For Mobile
       - (Web) [LineageOS](https://www.lineageos.org/)
@@ -85,6 +87,9 @@
     - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
     - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Simula is a VR window manager for Linux that runs on top of Godot.
 
+  - Shells
+    - [PapyElGringo/material-shell](https://github.com/PapyElGringo/material-shell) - New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort.
+
   - Status Bars
     - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar.
       - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants.
@@ -124,6 +129,7 @@
       - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE.
       - [Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit) - Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
       - (Web) [gedit](https://wiki.gnome.org/Apps/Gedit) - GNOME text editor.
+      - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua.
       
     - IDEs
       - (Web) [Eclipse](https://www.eclipse.org/)
@@ -241,6 +247,8 @@
     - [chubin/wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather. https://wttr.in.
     - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service. https://ifconfig.co.
     - [chubin/rate.sx](https://github.com/chubin/rate.sx) - curl cryptocurrencies exchange rates.
+    - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool.
+    - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software.
     
     - Fun
       - (Web) [fortune](https://en.wikipedia.org/wiki/Fortune_(Unix)) - program that displays a pseudorandom message from a database of quotations.
@@ -251,6 +259,8 @@
     
   - Graphical Applications
     - Video Editors
+      - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
+      - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor.
       - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor.
       - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 
@@ -263,7 +273,6 @@
       - (Web) [Blender](https://blender.org/)
       - (Web) [GIMP](https://gimp.org/)
       - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor.
-      - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
       - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer.
       - [KDE/krita](https://github.com/KDE/krita) - Krita is a free digital painting application. Digital Painting, Creative Freedom!
     
@@ -274,6 +283,8 @@
       - [qemu/qemu](https://github.com/qemu/qemu) - the FAST! processor emulator. `Mirror` https://www.qemu.org.
       - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt.
       - (Web) [Kernel Virtual Machine](https://www.linux-kvm.org/page/Main_Page) - a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
+    
+    - (Web) [meld](https://gitlab.gnome.org/GNOME/meld) - Meld is a visual diff and merge tool targeted at developers.
     
   - Vim Plugins
     - Plugin Managers
@@ -334,8 +345,11 @@
     - [majutsushi/tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope.
     - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - Vim plugin that shows keybindings in popup.
     - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - Play with nvim/vim's builtin terminal.
+    - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
     
     - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
+    
+    - [lervag/vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files.
     
     - [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
     
@@ -384,11 +398,11 @@
     - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
 
   - Themes/Color Schemes
+    - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly.
     - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - A dark theme for all the things!.
     - [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes.
     - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
     - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes.
-    - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly.
     - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
     - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes. https://terminal.sexy.
 
@@ -402,11 +416,14 @@
       - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
       - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - Light & Dark Vim color schemes inspired by Google's Material Design.
       - [rakr/vim-one](https://github.com/rakr/vim-one) - Adaptation of one-light and one-dark colorschemes for Vim.
+      - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs.
       - [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
+      - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - Dark blue color scheme for Vim and Neovim.
 
   - Note-Taking/Personal Knowledge Base/Bookmarking/Wiki
     - (Web) [Orgmode](https://orgmode.org/) - document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the free software text editor Emacs in a fast and effective plain-text system.
-    - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
+      - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
+      - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers. https://organice.200ok.ch.
     - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
     - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
     - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
@@ -479,9 +496,10 @@
       - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework.
       - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell. 
     - [nushell/nushell](https://github.com/nushell/nushell) - A modern shell written in Rust.
-    - [PapyElGringo/material-shell](https://github.com/PapyElGringo/material-shell) - New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort.
     - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
       - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theming engine for Powershell.
+    
+  - Shell Prompts
     - [starship/starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts.
 
   - Password Managers
@@ -567,6 +585,8 @@
     - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus Userstyles Manager.
     - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
     - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
+    - [samueljun/tomato-clock](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
+    - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.
   
   - UserScript Managers
     - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
@@ -574,8 +594,9 @@
   
   - Chrome Only
     - [babyman/quick-tabs-chrome-extension](https://github.com/babyman/quick-tabs-chrome-extension) - A quick tab list and switch plugin inspired by the intelliJ IDEA java IDE.
+    - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome.
     
-  See Also:
+    See Also:
     - [Featured Extensions – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
     - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/)
 
@@ -683,6 +704,7 @@
     - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal.
     
   - Games and Tools
+    - [lutris/lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux.
     - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
     - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
     - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
@@ -690,6 +712,9 @@
   - General
     - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework.
     - [AppImage/appimagekit](https://github.com/AppImage/appimagekit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives.
+    - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to https://app.diagrams.net, previously https://draw.io.
+      - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net.
+      - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code.
     - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
     - [zfsonlinux/zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
     - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers.
@@ -734,6 +759,7 @@
       - [marcgibbons/django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework. `discontinued`
     - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
     - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
+    - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
   
   - Data Science
     - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
@@ -749,47 +775,47 @@
     - [sdispater/poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
   - Libraries/Modules
-  - [kennethreitz/requests](https://github.com/kennethreitz/requests) - A simple, yet elegant HTTP library.  
-  - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™.
-  - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
-  - [nltk/nltk](https://github.com/nltk/nltk) - Natural Language Toolkit.
-  - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine learning in Python.
-  - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-  - (launchpad) [~leonardr/beautifulsoup](https://code.launchpad.net/~leonardr/beautifulsoup/bs4) - library that makes it easy to scrape information from web pages.
-  - [pygame/pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
-  - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
-  - [PyQt](https://pypi.org/project/PyQt5/) - Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in.
-  - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
-  - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile.
-  - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
-  - [google/python-fire](https://github.com/google/python-fire/) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-  - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
-  - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
-  - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) -  A lightweight library for converting complex objects to and from simple Python datatypes.
-  - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
-  - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
-  - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform.
-  - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser.
-  - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
-  - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+    - [kennethreitz/requests](https://github.com/kennethreitz/requests) - A simple, yet elegant HTTP library.  
+    - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™.
+    - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
+    - [nltk/nltk](https://github.com/nltk/nltk) - Natural Language Toolkit.
+    - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine learning in Python.
+    - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+    - (launchpad) [~leonardr/beautifulsoup](https://code.launchpad.net/~leonardr/beautifulsoup/bs4) - library that makes it easy to scrape information from web pages.
+    - [pygame/pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
+    - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
+    - [PyQt](https://pypi.org/project/PyQt5/) - Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in.
+    - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
+    - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile.
+    - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
+    - [google/python-fire](https://github.com/google/python-fire/) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+    - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+    - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3.
+    - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) -  A lightweight library for converting complex objects to and from simple Python datatypes.
+    - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter.
+    - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
+    - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform.
+    - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser.
+    - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
+    - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
-  - [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
-  - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
-  - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-  - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
-  - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - A pure Python interface for the Telegram Bot API.
-  - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.  
-  - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
-  - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
-  - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) -  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
-  - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python.
-  - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
-  - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
-  - [sunainapai/makesite](https://github.com/sunainapai/makesite) -  Simple, lightweight, and magic-free static site/blog generator for Python coders.
-  - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
-  - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
-  - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
-  - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
+    - [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
+    - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
+    - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+    - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
+    - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - A pure Python interface for the Telegram Bot API.
+    - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.  
+    - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
+    - [dw/mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python.
+    - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) -  A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
+    - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python.
+    - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python.
+    - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+    - [sunainapai/makesite](https://github.com/sunainapai/makesite) -  Simple, lightweight, and magic-free static site/blog generator for Python coders.
+    - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
+    - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
+    - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
+    - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
 
 - HTML/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
@@ -921,6 +947,8 @@
   - [gera2ld/markmap-lib](https://github.com/gera2ld/markmap-lib) - Visualize your Markdown as mindmaps with Markmap.
   - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
   - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library.
+  - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library.
+  - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -933,6 +961,7 @@
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
   - [actix/actix-web](https://github.com/actix/actix-web) - Actix web is a small, pragmatic, and extremely fast rust web framework. https://actix.rs.
+  - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs.
   - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust.
   - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
   - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility.
@@ -1109,6 +1138,7 @@
     - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma.
   - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform.
   - [emberjs/ember.js/](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
+    - [glimmerjs/glimmer.js](https://github.com/glimmerjs/glimmer.js) - Fast and light-weight UI components for the web.
   - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps.
   - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
   - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library.
@@ -1248,6 +1278,7 @@
 
 - Instant Messaging/Communication/Video Conferencing
   - [Signal](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux.
+  - [loki-project/session-desktop](https://github.com/loki-project/session-desktop) - Session Desktop - Onion routing based messenger.
   - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React.
   - [vector-im/riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
@@ -1287,6 +1318,7 @@
 
 - Application Development
   - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+    - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
     - [infinitered/ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
     - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
     - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS).
@@ -1442,14 +1474,12 @@
   - [edx/edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX!
   - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform.
   - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow.
-  - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to https://draw.io.
   - [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups.
   - [frab/frab](https://github.com/frab/frab) - conference management system.
   - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Opensource alternative to Intercom, Drift, Zendesk, FreshChat.
   - [sebst/pythonic-news](https://github.com/sebst/pythonic-news) - A Hacker News lookalike written in Python/Django, powering news.python.sc.
   - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
   - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
-  - [firasdib/Regex101](https://github.com/firasdib/Regex101) - Online Regex Tester and Debugger. Issue Tracker for https://regex101.com.
 
 - General
   - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All. https://faceswap.dev.
@@ -1526,6 +1556,7 @@
   - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
   - [samaaron/sonic-pi](https://github.com/samaaron/sonic-pi) - Code. Music. Live.
   - [cryptii/cryptii](https://github.com/cryptii/cryptii) - Web app and framework offering modular conversion, encoding and encryption.
+  - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 
 - Website Templates
   - Bootstrap Templates
@@ -1544,7 +1575,7 @@
   - Hugo Themes
     - [gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) - The website builder for Hugo. Build and deploy a beautiful website in minutes!
     - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
-    
+
 - VSCode Extensions
   - [Microsoft/vscode-docker](https://github.com/Microsoft/vscode-docker) - Docker extension for VS Code.
   - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - Vim for Visual Studio Code.
@@ -1610,6 +1641,7 @@
     - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3).
 
 - Show HN/Extras
+  - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist. https://thisworddoesnotexist.com.
   - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding.
   - [idan/gistio](https://github.com/idan/gistio) - A gist-backed pretty display for markdown.
   - [loadzero/si78c](https://github.com/loadzero/si78c) - si78c is a memory accurate reimplementation of Space Invaders in C.
@@ -1621,6 +1653,7 @@
   - [ashlinchak/mdanki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards.
   - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. https://rxresu.me.
   - [edouardklein/falsisign](https://gitlab.com/edouardklein/falsisign) - Make it look like a PDF has been hand signed and scanned.
+  - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API.
 
 ---
 
@@ -1692,6 +1725,7 @@
 - [Samsung](https://github.com/Samsung) - Samsung Electronics Co.,Ltd.
 - [Salesforce UX](https://github.com/salesforce-ux) - Clarity. Efficiency. Consistency. Beauty. The product design team at Salesforce.
 - [U.S. General Services Administration](https://github.com/gsa) - The U.S. General Services Administration.
+- [WakaTime](https://github.com/wakatime) - Open source plugins for automatic programming metrics.
 - [OpenAI](https://github.com/openai)
 - [Eclipse Foundation](https://github.com/eclipse)
 - [fast.ai](https://github.com/fastai)
@@ -1714,6 +1748,7 @@
 - [ethereum](https://github.com/ethereum)
 - [pytorch](https://github.com/pytorch)
 - [GraphQL](https://github.com/graphql)
+- [Yubico](https://github.com/yubico)
 - [Django](https://github.com/django)
 - [GoogleChrome](https://github.com/GoogleChrome)
 - [Xamarin](https://github.com/xamarin)

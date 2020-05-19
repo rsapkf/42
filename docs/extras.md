@@ -37,15 +37,12 @@
 ### Collections
 - [Lab45 Link Garden](https://lab46.g7n.org/documentation/linkgarden) - Corning Community College Portal to the Universe.
 - [Things and Stuff Wiki](https://wiki.thingsandstuff.org/Resources)
+- [Curlie.org](https://www.curlie.org/en) - the largest human-edited directory of the Web.
+- [weboasis](https://weboas.is/)
 
 ### Cheatsheets
 - [Shiar's cheat sheets](https://sheet.shiar.nl/)
 - [Cheat-Sheets.org](http://www.cheat-sheets.org/) -  All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
-
-### YouTube
-- [PewDiePie](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw) - Felix Kjellberg.
-- [MrBeast](https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA) - Jimmy Donaldson.
-- [Ben Shapiro](https://www.youtube.com/channel/UCnQC_G5Xsjhp9fEJKuIcrSw) - Ben Shapiro.
 
 ### Sites
 - [The Onion](https://www.theonion.com/) - America's Finest News Source.
@@ -56,7 +53,6 @@
 - [Letters To A New Developer](https://letterstoanewdeveloper.com/) - Dan Moore.
 
 ### Other Resources
-- [SymPy Gamma](https://sympygamma.com/) - A SymPy version of WolframAlpha.
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [hntitlenator](https://victorribeiro.com/hntitlenator) - Test your HN title against a neural network.
 

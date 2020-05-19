@@ -135,6 +135,11 @@
     - [Hootsuite](https://hootsuite.com/) - Manage all your social media in one place.
     - [Buffer](https://buffer.com/) - Build your audience and grow your brand on social media.
     - [Duolingo](https://www.duolingo.com) - Learn a language for free. Forever.
+    - [SSL Labs](https://www.ssllabs.com/)
+    
+  - Game Engines
+    - [Unreal Engine](http://www.unrealengine.com/) `Source-available software`
+    - [Unity](https://unity.com/)
 
   - Bittorrent Clients
     - [Tixati BitTorrent Client](https://tixati.com/)
@@ -143,7 +148,10 @@
   - Games
     - [Universe Sandbox](http://universesandbox.com/) - Physics-based space simulation software that allows anyone to create & destroy on an unimaginable scale.
     - [SpaceEngine](http://spaceengine.org/)
+    - [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
+    - [Chess.com](https://www.chess.com/)
 
   - Sites
+    - [Grep.app](https://grep.app/) - Search code in GitHub repos using regular expressions.
     - [Prototypr.io](https://www.prototypr.io/tools/)
     - [UptimeRobot](https://uptimerobot.com/) - Free Website Monitoring.

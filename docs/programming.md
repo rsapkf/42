@@ -67,7 +67,12 @@
 
 - PHP
   - [PHP Docs](https://www.php.net/)
-  
+
+### APIs
+  - [NASA APIs](https://api.nasa.gov/) - NASA data, including imagery, eminently accessible to application developers.
+  - [Reddit API](https://www.reddit.com/dev/api)
+  - [Marvel Developer Portal](https://developer.marvel.com/) - The Marvel Comics API.
+ 
 ### Other Resources
 - [Google TechDevGuide](https://techdevguide.withgoogle.com/) - Google’s Guide to Technical Development.
 - [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)

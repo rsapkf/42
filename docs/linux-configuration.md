@@ -1,36 +1,10 @@
 # Linux Configuration
 
 **Note**: This file only contains resources that are NOT in the [./open-source-software.md#Tools#Linux](./open-source-software.md#tools) section.
-
-- YouTube Channels
-  - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA) - Luke Smith.
-  - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg) - Derek Taylor.
-  - [Bryan Lunduke](https://www.youtube.com/channel/UCkK9UDm_ZNrq_rIXCz3xCGA)
-  - [gotbletu](https://www.youtube.com/channel/UCkf4VIqu3Acnfzuk3kRIFwA)
-  - [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ) - Dave Cohen.
-  - [Wolfgang's Channel](https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg)
-  - [Chris Titus Tech](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
-
-- Subreddits
-  - [r/unixporn](https://www.reddit.com/r/unixporn)
-  - [r/vim](https://www.reddit.com/r/vim)
-  - [r/suckless](https://www.reddit.com/r/suckless)
-  - [r/archlinux](https://www.reddit.com/r/archlinux)
-  - [r/i3wm](https://www.reddit.com/r/i3wm)
-  - [r/linux](https://www.reddit.com/r/linux)
-  - [r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace)
-  - [r/debian](https://www.reddit.com/r/debian)
-  - [r/kde](https://www.reddit.com/r/kde)
-
 - Browser Customization
   - Sites
     - [mozillaZine](http://kb.mozillazine.org/Knowledge_Base)
     - [userChrome.org](https://www.userchrome.org/)
-    
-  - Subredditts
-    - [r/firefox](https://www.reddit.com/r/firefox)
-    - [r/startpages](https://www.reddit.com/r/startpages)
-    - [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS)
 
 - Software Alternatives
   - Email Encryption
@@ -55,7 +29,6 @@
   - [Encyclopedia of things considered harmful](http://harmful.cat-v.org/)
   - [freedesktop.org](https://www.freedesktop.org/wiki/)
   - [SourceForge](https://sourceforge.net/)
-  - [AlternativeTo](https://alternativeto.net/)
   - [List.community](https://list.community/) - an easy way to browse curated lists on GitHub.
   - [Slant](https://www.slant.co/) - Choose the best.
   - [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
@@ -67,6 +40,7 @@
     - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
     - [linux.die.net](https://linux.die.net/) - Linux Documentation.
     - [LWN.net](https://lwn.net/) - News from the source.
+    - [kernel.org](https://www.kernel.org/) - The Linux Kernel Archives.
   
   - Vim
     - Sites/

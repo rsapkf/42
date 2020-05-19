@@ -8,7 +8,7 @@ To contribute, please read the following guidelines.
 
 If you would like to improve this project by adding/suggesting edits to the contents, pulls requests are always welcome. Please:
 
-* I am trying to make each list/section as self-contained as I can. So, please feel free to add duplicate links to different lists if necessary. Use [GitHub Search](https://github.com/rsapkf/42/search?q=something&unscoped_q=something) or [mdBook Search](https://rsapkf.github.io/42/?search=something) or [GitBook Search](https://rsapkff.gitbook.io/42/?q=something) if necessary.
+* <del>I am trying to make each list/section as self-contained as I can. So, please feel free to add duplicate links to different lists if necessary.</del> Please DONOT add duplicate links. Use [GitHub Search](https://github.com/rsapkf/42/search?q=something&unscoped_q=something) or [mdBook Search](https://rsapkf.github.io/42/?search=something) or [GitBook Search](https://rsapkff.gitbook.io/42/?q=something) if necessary.
 
 * Only try to submit free **and quality** resources related to the topics included in the [table of contents](README.md#table-of-contents). Only submit __high quality__ paid resources with a `paid` tag at the end of the list you are adding to.
 

@@ -11,6 +11,7 @@
     - [CodeAcademy](https://www.codecademy.com/)
     - [deeplearning.ai](https://www.deeplearning.ai/)
     - [Startup School](https://www.startupschool.org/)
+    - [Khan Academy](https://www.khanacademy.org/)
     - [Hyperskill | JetBrains Academy](https://hi.hyperskill.org)
     - [MOOC.fi](https://www.mooc.fi/en/)
     - [fast.ai](https://www.fast.ai/) - Making neural nets uncool again.
@@ -38,14 +39,6 @@
     - [egghead.io](https://egghead.io/) - Short, instructional screencast video tutorials for web developers. `paid`
     - [Google CodeLabs](https://codelabs.developers.google.com)
     - [Google Developers Certification](https://developers.google.com/certification) - demonstrate your proficiency and skill and earn certifications.
-
-- YouTube/
-    - [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
-    - [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
-    - [stanfordonline](https://www.youtube.com/channel/UCBa5G_ESCn8Yd4vw5U-gIcg)
-    - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-    - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) - MIT.
-    - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ) - Prof. Steven Skiena.
 
 ### Courses
 - [Linux From Scratch](http://www.linuxfromscratch.org/) - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
