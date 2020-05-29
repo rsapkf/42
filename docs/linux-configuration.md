@@ -63,6 +63,7 @@
     - [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) by Overleaf.
   
   - Bash
+    - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
     - [GNU Readline Cheatsheet - VI Mode](http://readline.kablamo.org/vi.html) ([Emacs Mode](http://readline.kablamo.org/emacs.html))
     - [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
     

@@ -2,6 +2,7 @@
 
 **Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
 
+### Software
 - Programming Tools
   - [kite](https://kite.com/) - code completion plugin for Python that works with PyCharm, VS Code, Vim, Spyder, & more.
 
@@ -48,7 +49,6 @@
   - [Vimeo](https://vimeo.com/) - ad-free video platform.
 
 - Note Taking, Project Management, Collaboration
-  - [Roam](https://roamresearch.com/) - A note-taking tool for networked thoughts.
   - [Things](https://culturedcode.com/things/) - award-winning personal task manager that helps you achieve your goals. `iOS` `macOS`
   - [Notion](https://www.notion.so/)
   - [Evernote](https://evernote.com/)
@@ -63,6 +63,8 @@
   - [Zenkit](https://zenkit.com/)
   - [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose. `iOS` `macOS`
   - [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. `open-source upto v1.5.1`
+  - [Obsidian](https://obsidian.md/) - powerful knowledge base that works on top of a local folder of plain text Markdown files.
+  - [Roam](https://roamresearch.com/) - A note-taking tool for networked thoughts.
   - [Typora](https://typora.io/) - A new way to read and write Markdown.
 
 - Read Later/Bookmarking
@@ -110,6 +112,9 @@
   - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS.
   - [Alfred](https://www.alfredapp.com/) - award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
 
+- Meditation
+  - [Waking Up](https://wakingup.com/) - explore the practice of meditation and examines the theory behind it with Sam Harris.
+
 - CAPTCHA Services
   - [reCAPTCHA](https://www.google.com/recaptcha/) - Easy on Humans, Hard on Bots.
   - [hCaptcha](https://www.hcaptcha.com/) - Private. Secure. Faster. And they pay you to use it.
@@ -118,24 +123,27 @@
   - Software
     - [SAP](https://www.sap.com/index.html) - enterprise software to manage business operations and customer relations.
     - [snapcraft](https://snapcraft.io/) - The app store for Linux.
-    - [Google Earth](https://google.com/earth)
-    - [Google Maps](https://google.com/maps)
     - [VMware](https://www.vmware.com/)
     - [Caret](https://caret.io/) - Markdown editor for Mac, Windows and Linux.
     - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
-    - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
-    - [bitly](https://bitly.com/) - Link Shortener.
     - [Star Walk](https://starwalk.space/en) - The sky at your fingertips.
-    - [Grammarly](https://www.grammarly.com/)
     - [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - compatibility layer for running Linux binary executables natively on Windows.
     - [Cloudflare 1.1.1.1](https://1.1.1.1/) - The free app that makes your Internet safer.
     - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - DaVinci Resolve includes everything professional editors need to cut blockbuster films, television shows, and commercials.
     - [HitFilm Express](https://fxhome.com/) - VFX software for the filmmaking revolution.
+    
+    - [Imgur](https://imgur.com/)
+    - [Google Earth](https://google.com/earth)
+    - [Google Maps](https://google.com/maps)
+    - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
+    - [Grammarly](https://www.grammarly.com/)
+    - [bitly](https://bitly.com/) - Link Shortener.
     - [IFTTT](https://ifttt.com/) - make your apps and devices work together in new ways.
     - [Hootsuite](https://hootsuite.com/) - Manage all your social media in one place.
     - [Buffer](https://buffer.com/) - Build your audience and grow your brand on social media.
     - [Duolingo](https://www.duolingo.com) - Learn a language for free. Forever.
     - [SSL Labs](https://www.ssllabs.com/)
+    - [Shopify](https://www.shopify.com/) - E-commerce platform for online stores and retail point-of-sale systems.
     
   - Game Engines
     - [Unreal Engine](http://www.unrealengine.com/) `Source-available software`
@@ -149,9 +157,17 @@
     - [Universe Sandbox](http://universesandbox.com/) - Physics-based space simulation software that allows anyone to create & destroy on an unimaginable scale.
     - [SpaceEngine](http://spaceengine.org/)
     - [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
+    - [GTA](https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series))
     - [Chess.com](https://www.chess.com/)
+
+    - Mobile
+      - [Temple Run](https://imangistudios.com/)
 
   - Sites
     - [Grep.app](https://grep.app/) - Search code in GitHub repos using regular expressions.
     - [Prototypr.io](https://www.prototypr.io/tools/)
     - [UptimeRobot](https://uptimerobot.com/) - Free Website Monitoring.
+ 
+### Hardware
+  - [Amazon Kindle](https://www.amazon.com/kindle)
+  - [reMarkable](https://remarkable.com/) - digital device that gives you a pen-to-paper note-taking experience.

@@ -36,172 +36,163 @@ Roadmap to Web Development:
 
 ### Command Line:
 - Sites/
-    - [SS64 (Command line reference - Database and OS scripting)](https://ss64.com/)
+  - [SS64 (Command line reference - Database and OS scripting)](https://ss64.com/)
 
 ---
 
 ### Git:
 - Sites/
-    - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
-    - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-    - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
+  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
+  - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+  - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
 
 - GitHub/
-    - [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
+  - [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
 
 - Git Clients/
-    - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows `closed-source`
-    - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime `freemium`
-    - [GitKraken](https://www.gitkraken.com) `freemium`
+  - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows `closed-source`
+  - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime `freemium`
+  - [GitKraken](https://www.gitkraken.com) `freemium`
 
 
 ---
 
 ### Programming Languages:
 #### Front-End Programming Languages
-- #### HTML+CSS+JavaScript:
-    - Sites/
-      - [Mozilla Developer Network(MDN) Docs](https://developer.mozilla.org/en-US/)--(Highly Recommended)-- - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
-      - [freeCodeCamp.org](https://www.freecodecamp.org/)--(Highly Recommended)-- - an excellent [open source]() resource for learning web development in an interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
-      - [The Odin Project](https://www.theodinproject.com/) - another excellent [open source]() resource similar to the freeCodeCamp project. Covers Ruby, RubyOnRails.
-      - [w3schools](https://www.w3schools.com/) - While this site is pretty decent for quick syntax lookup and reference, I --DO NOT-- recommend this over MDN to learn -how to program-. Before choosing w3schools over above resources, please go through [this](https://news.ycombinator.com/item?id=6422998) hackernews thread and [this](https://www.w3fools.com) site by the mods of [r/learnprogramming](www.reddit.com/learnprogramming). This site also has references to Ajax, Node, PHP, SQL, XML, Java, Python, ASP, Angular, jQuery, Bootstrap, C++ and Raspberry Pi.
-      - [Deep Dive Into Modern Web Development - University of Helsinki](https://fullstackopen.com/en) - React, Node, Express, GraphQL
-      - [HTML Dog](https://htmldog.com/) - HTML, CSS, JavaScript
-      - [Scrimba](https://scrimba.com/) - Interactive way to learn and test HTML, CSS and JavaScript code and lessons on React, Vue and Angular frameworks.
-      - [SoloLean](https://www.sololearn.com/) - Learn HTML, CSS, JavaScript, PHP, Ruby, SQL, jQuery, Java, C, C++, C#, Swift on the [Web](https://www.sololearn.com/) or their Mobile App [Google Play](https://play.google.com/store/apps/details?id=com.sololearn) | [App Store](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
-      - [LambdaSchool Free Online Web Mini Bootcamp](https://lambdaschool.com/courses/cs/web/bootcamp/) - HTML, CSS, JS
-      - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
-      - [CSS-Tricks](https://css-tricks.com/)
-      - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
-      - [Codrops](https://tympanus.net/codrops/) - Web Dev and Design News.
+- HTML+CSS+JavaScript:
+  - [Mozilla Developer Network(MDN) Docs](https://developer.mozilla.org/en-US/)--(Highly Recommended)-- - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
+  - [freeCodeCamp.org](https://www.freecodecamp.org/)--(Highly Recommended)-- - an excellent [open source]() resource for learning web development in an interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
+  - [The Odin Project](https://www.theodinproject.com/) - another excellent [open source]() resource similar to the freeCodeCamp project. Covers Ruby, RubyOnRails.
+  - [w3schools](https://www.w3schools.com/) - While this site is pretty decent for quick syntax lookup and reference, I --DO NOT-- recommend this over MDN to learn -how to program-. Before choosing w3schools over above resources, please go through [this](https://news.ycombinator.com/item?id=6422998) hackernews thread and [this](https://www.w3fools.com) site by the mods of [r/learnprogramming](www.reddit.com/learnprogramming). This site also has references to Ajax, Node, PHP, SQL, XML, Java, Python, ASP, Angular, jQuery, Bootstrap, C++ and Raspberry Pi.
+  - [Deep Dive Into Modern Web Development - University of Helsinki](https://fullstackopen.com/en) - React, Node, Express, GraphQL
+  - [HTML Dog](https://htmldog.com/) - HTML, CSS, JavaScript
+  - [Scrimba](https://scrimba.com/) - Interactive way to learn and test HTML, CSS and JavaScript code and lessons on React, Vue and Angular frameworks.
+  - [SoloLean](https://www.sololearn.com/) - Learn HTML, CSS, JavaScript, PHP, Ruby, SQL, jQuery, Java, C, C++, C#, Swift on the [Web](https://www.sololearn.com/) or their Mobile App [Google Play](https://play.google.com/store/apps/details?id=com.sololearn) | [App Store](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
+  - [LambdaSchool Free Online Web Mini Bootcamp](https://lambdaschool.com/courses/cs/web/bootcamp/) - HTML, CSS, JS
+  - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
+  - [CSS-Tricks](https://css-tricks.com/)
+  - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
+  - [Codrops](https://tympanus.net/codrops/) - Web Dev and Design News.
 
-- #### JavaScript:
-    - Sites/
-      - [The Modern JavaScript Tutorial](https://javascript.info/)
-      - [Eloquent JavaScript](https://eloquentjavascript.net/)
-      - [JavaScript30](https://www.javascript30.com)(GitHub - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30))
-      - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
-      - [William Vincent's JavaScript Guide](https://wsvincent.com/javascript-guide/)
-      - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - By Kyle Cook.
-      - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
-      - [Rodrigo Pombo's Blog](https://pomb.us/)
+- JavaScript:
+  - [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - [JavaScript30](https://www.javascript30.com)(GitHub - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30))
+  - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
+  - [William Vincent's JavaScript Guide](https://wsvincent.com/javascript-guide/)
+  - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - By Kyle Cook.
+  - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
+  - [Rodrigo Pombo's Blog](https://pomb.us/)
 
-- #### HTML/CSS:
-    - Sites/
-      - [HTML Reference](https://htmlreference.io/) - A free guide to HTML.
-      - [CSS Reference](https://cssreference.io/) - A free visual guide to CSS.
-      - [Marksheet](https://marksheet.io/) - A free HTML and CSS Tutorial.
-      - [What The Flexbox](https://flexbox.io/) - a set of 20 free videos to learn CSS flexbox layout by [Wes Bos](https://twitter.com/wesbos). Also check his [command line power user](https://commandlinepoweruser.com/) videos.
-      - [CSSGrid.io](https://cssgrid.io/) - a set of 20 free videos to learn CSS grid layout by [Wes Bos](https://twitter.com/wesbos).
-      - [CSS-TRICKS](https://css-tricks.com/)
-      - [Mozilla Grid Playground](https://mozilladevelopers.github.io/playground/css-grid) - Learn about CSS Grid Layout and the Firefox DevTools layout panel.
-      - [Grid by Example](https://gridbyexample.com/).
-      - [Flexbox Froggy](https://flexboxfroggy.com/) - a simple 24 level game learn CSS flexbox.
-      - [Flexbox Defense](http://www.flexboxdefense.com/) - Learn CSS Flexbox by playing a tower defense game. 
-      - [Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid Layout by playing 28 different levels of Grid Garden. 
-      - [HTML periodic table](https://websitesetup.org/html5-periodical-table/)
-      - [All The Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
-      - [STRML](https://www.strml.net/)
-      - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
-      - [CSS Gradient](https://cssgradient.io/) - free tool that lets you create a gradient background for websites and technical articles.
-      - [CSS3 Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
+- HTML/CSS:
+  - [HTML Reference](https://htmlreference.io/) - A free guide to HTML.
+  - [CSS Reference](https://cssreference.io/) - A free visual guide to CSS.
+  - [Marksheet](https://marksheet.io/) - A free HTML and CSS Tutorial.
+  - [What The Flexbox](https://flexbox.io/) - a set of 20 free videos to learn CSS flexbox layout by [Wes Bos](https://twitter.com/wesbos). Also check his [command line power user](https://commandlinepoweruser.com/) videos.
+  - [CSSGrid.io](https://cssgrid.io/) - a set of 20 free videos to learn CSS grid layout by [Wes Bos](https://twitter.com/wesbos).
+  - [CSS-TRICKS](https://css-tricks.com/)
+  - [Mozilla Grid Playground](https://mozilladevelopers.github.io/playground/css-grid) - Learn about CSS Grid Layout and the Firefox DevTools layout panel.
+  - [Grid by Example](https://gridbyexample.com/).
+  - [Flexbox Froggy](https://flexboxfroggy.com/) - a simple 24 level game learn CSS flexbox.
+  - [Flexbox Defense](http://www.flexboxdefense.com/) - Learn CSS Flexbox by playing a tower defense game. 
+  - [Grid Garden](https://cssgridgarden.com/) - Learn CSS Grid Layout by playing 28 different levels of Grid Garden. 
+  - [HTML periodic table](https://websitesetup.org/html5-periodical-table/)
+  - [All The Tags](https://www.html-5-tutorial.com/all-html-tags.htm)
+  - [STRML](https://www.strml.net/)
+  - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) - Learn the basics of web design in 4 minutes with this interactive tutorial
+  - [CSS Gradient](https://cssgradient.io/) - free tool that lets you create a gradient background for websites and technical articles.
+  - [CSS3 Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
 
 ### Back-End Programming Languages
-- #### Python:
-    - Sites/
-      - [Official Python Docs](https://www.python.org/doc/) - the official and easy to understand documentation of the Python programming language.
-      - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - The best practice to installation, configuration and usage of Python on a daily basis.
-      - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [Al Sweigart](https://twitter.com/AlSweigart). His other free to read online books- [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed), [Making Games With Python and PyGame](https://inventwithpython.com/pygame/) and [Cracking Codes With Python](https://inventwithpython.com/cracking/).
-      - [Awesome Python](https://python.libhunt.com/) (GitHub - [vinta/awesome-python](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, packages, software and resources.
-      - [Python Wiki](https://wiki.python.org/moin/)
-      - [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
-      - [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-      - [Python Tutor](http://www.pythontutor.com/) -  Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution.
-      - [Dive Into Python 3](https://www.diveinto.org/python3/) by Mark Pilgrim.
-      - [pythonprogramming.net](https://pythonprogramming.net/)
-      - [How To Think Like A Computer Scientist](https://greenteapress.com/wp/) - a free online book recommended by [MIT OpenCourseWare]()
-      - [RealPython](https://realpython.com/)
-      - [Google's Python Class](https://developers.google.com/edu/python/)
-      - [Python Discord](https://pythondiscord.com/)
-      - [Full Stack Python](https://www.fullstackpython.com/)
-      - [William Vincent's Blog](https://wsvincent.com/)
-      - [Ned Batchelder's Blog](https://nedbatchelder.com/)
-      - [Trey Hunner's Blog](https://treyhunner.com/)
-      - [Python Developer’s Guide](https://devguide.python.org/) - A comprehensive resource for contributing to Python.
+- Python:
+  - [Official Python Docs](https://www.python.org/doc/) - the official and easy to understand documentation of the Python programming language.
+  - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - The best practice to installation, configuration and usage of Python on a daily basis.
+  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [Al Sweigart](https://twitter.com/AlSweigart). His other free to read online books- [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed), [Making Games With Python and PyGame](https://inventwithpython.com/pygame/) and [Cracking Codes With Python](https://inventwithpython.com/cracking/).
+  - [Awesome Python](https://python.libhunt.com/) (GitHub - [vinta/awesome-python](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, packages, software and resources.
+  - [Python Wiki](https://wiki.python.org/moin/)
+  - [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+  - [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+  - [Python Tutor](http://www.pythontutor.com/) -  Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution.
+  - [Dive Into Python 3](https://www.diveinto.org/python3/) by Mark Pilgrim.
+  - [pythonprogramming.net](https://pythonprogramming.net/)
+  - [How To Think Like A Computer Scientist](https://greenteapress.com/wp/) - a free online book recommended by [MIT OpenCourseWare]()
+  - [RealPython](https://realpython.com/)
+  - [Google's Python Class](https://developers.google.com/edu/python/)
+  - [Python Discord](https://pythondiscord.com/)
+  - [Full Stack Python](https://www.fullstackpython.com/)
+  - [William Vincent's Blog](https://wsvincent.com/)
+  - [Ned Batchelder's Blog](https://nedbatchelder.com/)
+  - [Trey Hunner's Blog](https://treyhunner.com/)
+  - [Python Developer’s Guide](https://devguide.python.org/) - A comprehensive resource for contributing to Python.
 
-- #### Ruby:
-  - Sites/
-      - [Ruby Docs](https://www.ruby-lang.org/en/documentation/)
-      - [The Ruby Style Guide](https://rubystyle.guide/)
+- Ruby:
+  - [Ruby Docs](https://www.ruby-lang.org/en/documentation/)
+  - [The Ruby Style Guide](https://rubystyle.guide/)
 
-- #### PHP:
-    - Sites/
-      - [Official PHP Manuals](https://www.php.net/manual/en/index.php)
-      - [PHP Pastebin](https://pastebin.com/gfBPg24A) - Collection of PHP links
+- PHP:
+  - [Official PHP Manuals](https://www.php.net/manual/en/index.php)
+  - [PHP Pastebin](https://pastebin.com/gfBPg24A) - Collection of PHP links
 
 ---
 
 ### Web Frameworks:
 ####  Front-End Web Frameworks:
-- #### Bootstrap(CSS):
-    - Sites/
-      - [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+- Bootstrap(CSS):
+  - [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
         
-- #### Bulma(CSS):
-    - Sites/
-      - [Bulma Documentation](https://bulma.io/documentation/)
+- Bulma(CSS):
+  - [Bulma Documentation](https://bulma.io/documentation/)
 
-- #### React(JavaScript):
-    - Sites/
-      - [Official React Docs](https://reactjs.org/docs/hello-world.html)
-      - [Official Tutorial for building a small game using React](https://reactjs.org/tutorial/tutorial.html)
-      - [Overreacted](https://overreacted.io/) - Dan Abramov, Creator of ReduxJS.
-      - [Josh W. Comeau](https://joshwcomeau.com/) - Josh W. Comeau, Developer @GatsbyJS.
+- React(JavaScript):
+  - [Official React Docs](https://reactjs.org/docs/hello-world.html)
+  - [Official Tutorial for building a small game using React](https://reactjs.org/tutorial/tutorial.html)
+  - [React Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+  - [Overreacted](https://overreacted.io/) - Dan Abramov, Creator of ReduxJS.
+  - [Josh W. Comeau](https://joshwcomeau.com/) - Josh W. Comeau, Developer @GatsbyJS.
 
-- #### Redux(JavaScript):
-    - Sites/
-      - [Official Redux Tutorial](https://redux.js.org/basics/basic-tutorial)
+- Redux(JavaScript):
+  - [Official Redux Tutorial](https://redux.js.org/basics/basic-tutorial)
 
-- #### Angular(JavaScript):
-    - Sites/
-      - [Angular Docs](https://angular.io/docs)
+- Angular(JavaScript):
+  - [Angular Docs](https://angular.io/docs)
 
-- #### Vue(JavaScript):
-    - Sites/
-      - [Vue Docs](https://vuejs.org/v2/guide/)
-      - [VueSchool](https://vueschool.io/) - Learn Vue.js from core-team members and industry experts.
+- Vue(JavaScript):
+  - [Vue Docs](https://vuejs.org/v2/guide/)
+  - [Vue Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
+  - [VueSchool](https://vueschool.io/) - Learn Vue.js from core-team members and industry experts.
 
 #### Back-End Web Frameworks:
-- #### Django(Python):
-    - Sites/
-      - [Official Django Tutorial](https://www.djangoproject.com/start/)
-      - [Django Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) - a library catalog website in Django.
-      - [Django Girls](https://djangogirls.org/)
-      - [Django Tutorial](https://pythonprogramming.net/django-web-development-with-python-intro/) by sentdex.
-      - [Learn Django](https://learndjango.com/) by William Vincent.
+- Django(Python):
+  - Sites/
+    - [Official Django Tutorial](https://www.djangoproject.com/start/)
+    - [Django Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) - a library catalog website in Django.
+    - [Django Girls](https://djangogirls.org/)
+    - [Django Tutorial](https://pythonprogramming.net/django-web-development-with-python-intro/) by sentdex.
+    - [Learn Django](https://learndjango.com/) by William Vincent.
 
-    - YouTube/
-      - [Django Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+  - YouTube/
+    - [Django Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
-- #### Flask(Python):
-    - Sites/
-      - [Official Flask Tutorial](http://flask.pocoo.org/docs/0.12/tutorial/)
-      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-    
-    - YouTube/
-      - [Flask Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- Flask(Python):
+  - Sites/
+    - [Official Flask Tutorial](http://flask.pocoo.org/docs/0.12/tutorial/)
+    - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  
+  - YouTube/
+    - [Flask Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 
-- #### NodeJS/ExpressJS(JavaScript):
-    - Sites/
-      - [Node.js Docs](https://nodejs.org/en/docs/)
-      - [NodeJs Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a library catalog website in NodeJS/ExpressJS.
-      - [Node.js resources- Stack Overflow](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/5511507#5511507)
-      - [ExpressJS Documentation](https://expressjs.com/)
+- NodeJS/ExpressJS(JavaScript):
+  - [Node.js Docs](https://nodejs.org/en/docs/)
+  - [NodeJs Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a library catalog website in NodeJS/ExpressJS.
+  - [Node.js resources- Stack Overflow](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/5511507#5511507)
+  - [ExpressJS Documentation](https://expressjs.com/)
 
-- #### RubyOnRails(Ruby):
-    - Sites/
-      - [Offcial RubyOnRails Guides](https://guides.rubyonrails.org/)
-      - [Ruby on Rails Tutorial (Rails 5) ](https://www.railstutorial.org/book) by [Michael Hartl](https://twitter.com/mhartl)
+- Ember(JavaScript):
+  - [Ember Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)
+
+- RubyOnRails(Ruby):
+  - [Offcial RubyOnRails Guides](https://guides.rubyonrails.org/)
+  - [Ruby on Rails Tutorial (Rails 5) ](https://www.railstutorial.org/book) by [Michael Hartl](https://twitter.com/mhartl)
 
 See Also [HotFrameworks](https://hotframeworks.com/)
 
@@ -214,29 +205,29 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 ---
 
 ### Static Site Generators:
-- #### Sites/ 
-    - [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators.
-    - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
-    - [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
-    - [Forestry](https://forestry.io/) - A static CMS that commits.
-    - [GatsbyGuides](https://gatsbyguides.com/) - Build blazing fast web applications with Gatsby 101.
+- Sites/ 
+  - [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators.
+  - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
+  - [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
+  - [Forestry](https://forestry.io/) - A static CMS that commits.
+  - [GatsbyGuides](https://gatsbyguides.com/) - Build blazing fast web applications with Gatsby 101.
         
 ---
 
 ### DataBases:
-- #### SQL:
-    - Sites/
-      - [SQL Tutorial](http://www.sqltutorial.org/)
-      - [SQLBolt](https://sqlbolt.com/)
-      - [SQLZOO](https://sqlzoo.net/)
+- SQL:
+  - Sites/
+    - [SQL Tutorial](http://www.sqltutorial.org/)
+    - [SQLBolt](https://sqlbolt.com/)
+    - [SQLZOO](https://sqlzoo.net/)
 
-- #### PostgreSQL:
-    - Sites/
-      - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- PostgreSQL:
+  - Sites/
+    - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 
-- #### SQLite:
-    - Sites/
-      - [SQLite Docs](https://sqlite.org/docs.html)
+- SQLite:
+  - Sites/
+    - [SQLite Docs](https://sqlite.org/docs.html)
 
 ---
 
@@ -254,11 +245,11 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ### Regular Expressions and Algorithms:
 - Sites/
-    - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
-    - [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
-    - [Regular-Expressions.info](https://www.regular-expressions.info/)
-    - [RexEgg](https://www.rexegg.com/)
-    - [Regex Crossword](https://regexcrossword.com/)
+  - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
+  - [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
+  - [Regular-Expressions.info](https://www.regular-expressions.info/)
+  - [RexEgg](https://www.rexegg.com/)
+  - [Regex Crossword](https://regexcrossword.com/)
 
 ---
 
@@ -274,6 +265,7 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
   - [Figma](https://www.figma.com/) - collaborative interface design tool `closed-source` `freemium`
   - [svgator](https://www.svgator.com) - SVG Animation Creator `commercial`
   - [Neumorphism.io](https://neumorphism.io/) - Soft UI CSS shadow generator.
+  - [Canva](https://www.canva.com/) - Create beautiful designs with your team.
 
 - Speed Test/
   - [Speedtest.net by Ookla](https://www.speedtest.net/)
@@ -289,6 +281,7 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
   - [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine
   - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
   - [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE.
+  - [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
 - Patterns/
   - [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.

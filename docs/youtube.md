@@ -123,6 +123,7 @@
 - [thebrainscoop](https://www.youtube.com/channel/UCkyfHZ6bY2TjqbJhiH8Y2QQ)
 - [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
 - [Primal Space](https://www.youtube.com/channel/UClZbmi9JzfnB2CEb0fG8iew)
+- [Seeker](https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw)
 
 ### Mathematics
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -141,6 +142,7 @@
 ### Technology
 - [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw)
 - [Apple](https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw)
+- [Netflix](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
 - [Austin Evans](https://www.youtube.com/channel/UCXGgrKt94gR6lmN4aN3mYTg)
 - [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
 - [Bill Gates](https://www.youtube.com/channel/UCnEiGCE13SUI7ZvojTAVBKw)
@@ -193,10 +195,12 @@
 - [Sam Harris](https://www.youtube.com/channel/UCNAxrHudMfdzNi6NxruKPLw)
 - [The Infographics Show](https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA)
 - [The Film Theorists](https://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q)
+- [CinemaSins](https://www.youtube.com/channel/UCYUQQgogVeQY8cMQamhHJcg)
 - [bald and bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
 - [Nexpo](https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw)
 - [ScareTheater](https://www.youtube.com/channel/UCaGOgwGKnDVOKY0DrFsBAiA)
 - [VICE](https://www.youtube.com/channel/UCn8zNIfYAQNdrFRrr8oibKw)
+- [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w)
 
 ### Magic + Puzzles
 - [Grand Illusions](https://www.youtube.com/channel/UCnmgSO_4g6QcRzy0yFeglyA)
@@ -208,6 +212,7 @@
 - [The Modern Rogue](https://www.youtube.com/channel/UC42VsoDtra5hMiXZSsD6eGg)
 
 ### Gaming + Memes
+- [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw)
 - [Dude Perfect](https://www.youtube.com/channel/UCRijo3ddMTht_IHyNSNXpNQ)
 - [MrBeast](https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA)
 - [PewDiePie](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw)

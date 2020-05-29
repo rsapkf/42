@@ -14,14 +14,17 @@
   - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).
   
   - [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Learn the ways of Linux-fu, for free. https://linuxjourney.com.
+  - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide. https://guide.bash.academy.
 
   - Vim
     - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Some simple methods for exiting vim.
+    
     - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
     - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
     - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
     - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - Vim-themed advent calendar. https://vimways.org.
-      
+    - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you? http://www.vimgolf.com.
+    
   - Emacs
     - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
     - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year.
@@ -57,6 +60,9 @@
   - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io - The Regex Cheat Sheet. https://iHateRegex.io.
   - [firasdib/Regex101](https://github.com/firasdib/Regex101) - Online Regex Tester and Debugger. Issue Tracker for https://regex101.com.
   - (GitLab) [javallone/regexper-static](https://gitlab.com/javallone/regexper-static) - Regular Expression Visualization Site. https://regexper.com.
+
+### Programming
+  - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials.
 
 ### Python
   - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
@@ -192,6 +198,7 @@
   - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. https://sre.xyz.
 
 ### Cheatsheets
+  - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
   - [Kapeli/cheatsheets](https://github.com/Kapeli/cheatsheets) - Collection of Dash cheat sheets https://kapeli.com/cheatsheets.
   - [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets.
   - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - @rstacruz's cheatsheets. https://devhints.io.
@@ -273,6 +280,7 @@
   - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
   - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
   - [LisaDziuba/Awesome-Design-Tools ](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything.
+  - [LisaDziuba/Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
   - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
   - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
   - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers.

@@ -22,7 +22,10 @@
   - [Philosophy and History of Science and Mathematics and Pedagody - Google Drive](https://drive.google.com/drive/folders/1l4hjiSgO1hTbaQjt9IG1wxQxNi7JtjYE)
   - [Advance Physics - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pbzhEX3J0dkhSTTg)
   - [Advance Math - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pNkhSVzVoYmRtTHM)
-  
+
+### Programming
+- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/)
+
 ### GitHub
 - [jschr/vscodethemes](https://github.com/jschr/vscodethemes) - Preview themes from the VSCode marketplace.
 - [functionalCS/curriculum](https://github.com/functionalCS/curriculum) - A Modern CompSci Curriculum.
@@ -36,17 +39,22 @@
 
 ### Collections
 - [Lab45 Link Garden](https://lab46.g7n.org/documentation/linkgarden) - Corning Community College Portal to the Universe.
+- [Rosetta Code: Similar Sites](https://rosettacode.org/wiki/Help:Similar_Sites)
 - [Things and Stuff Wiki](https://wiki.thingsandstuff.org/Resources)
+- [LinuxLinks Directory](https://www.linuxlinks.com/links/)
 - [Curlie.org](https://www.curlie.org/en) - the largest human-edited directory of the Web.
 - [weboasis](https://weboas.is/)
+- [SimilarSites](https://www.similarsites.com/)
 
 ### Cheatsheets
 - [Shiar's cheat sheets](https://sheet.shiar.nl/)
 - [Cheat-Sheets.org](http://www.cheat-sheets.org/) -  All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 
 ### Sites
+- [Worldometer](https://www.worldometers.info/) - real time world statistics.
 - [The Onion](https://www.theonion.com/) - America's Finest News Source.
 - [4chan](https://4chan.org/)
+- [LessWrong](https://lesswrong.com/) - community blog and forum focused on discussion of cognitive biases, philosophy, psychology, economics, rationality, and artificial intelligence.
 - [Improve Your Social Skills](https://www.improveyoursocialskills.com/)
 - [devRant](https://devrant.com/) - Share and bond over successes and frustrations with code, tech and life as a programmer.
 - [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX, HTML, Markdown, MediaWiki Tables Online.
@@ -58,3 +66,6 @@
 
 ### Show HN
 - [Free Postcard Mailer](https://postcardmailer.herokuapp.com/)
+
+### Extras
+- [FossHub](https://www.fosshub.com/) - No adware, No spyware, No bundles, No malware, Fast downloads, Free services and a single ad.

@@ -104,6 +104,7 @@
     - Medium Blogs
       - [Instagram Engineering](https://instagram-engineering.com/)
       - [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
+      - [Brian Armstrong](https://blog.coinbase.com/@barmstrong) - Co-Founder and CEO at Coinbase.
       - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
       - [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
       - [Sindre Sorhus](https://medium.com/@sindresorhus)

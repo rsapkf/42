@@ -12,8 +12,8 @@
     - [The Internet Classics Archive](http://classics.mit.edu/) - Bringing the wisdom of the classics to the Internet since 1994.
     
     - [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)
-    - [freecomputerbooks.com](http://freecomputerbooks.com/)
     - [ZLibrary](https://b-ok.org/)
+    - [freecomputerbooks.com](http://freecomputerbooks.com/)
     - [The Pirate Bay](https://en.wikipedia.org/wiki/The_Pirate_Bay)
 
 - GitHub/
@@ -45,7 +45,7 @@
 
 ### Audiobooks:
 - Sites/
-    - [LibriVox](https://librivox.org/) ([Android](https://play.google.com/store/apps/details?id=app.librivox.android&hl=en_US) / [iOS](https://apps.apple.com/us/app/librivox-audio-books/id596159212))
+    - [LibriVox](https://librivox.org/) - free public domain audiobooks.
 
 - Audiobooks
   - [Audible](https://www.audible.co.uk/) `paid`

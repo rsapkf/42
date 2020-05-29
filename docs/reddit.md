@@ -51,18 +51,25 @@
 - [r/me_irl](https://www.reddit.com/r/me_irl/)
 - [r/wholesomememes](https://www.reddit.com/r/wholesomememes/)
 - [r/starterpacks](https://www.reddit.com/r/starterpacks/)
+- [r/facepalm](https://www.reddit.com/r/facepalm/)
 - [r/MadeMeSmile](https://www.reddit.com/r/MadeMeSmile/)
 - [r/madlads](https://www.reddit.com/r/madlads/)
 - [r/therewasanattempt](https://www.reddit.com/r/therewasanattempt/)
 - [r/4chan](https://www.reddit.com/r/4chan/)
 - [r/greentext](https://www.reddit.com/r/greentext/)
 - [r/BikiniBottomTwitter](https://www.reddit.com/r/BikiniBottomTwitter/)
-- [r/WTF](https://old.reddit.com/r/WTF/)
+- [r/WTF](https://www.reddit.com/r/WTF/)
 
 ### TV Shows
 - [r/rickandmorty](https://www.reddit.com/r/rickandmorty/)
 - [r/breakingbad](https://www.reddit.com/r/breakingbad/)
 - [r/witcher](https://www.reddit.com/r/witcher/)
+- [r/blackmirror](https://www.reddit.com/r/blackmirror/)
+- [r/StarWars](https://www.reddit.com/r/StarWars/)
+  - [r/PrequelMemes](https://www.reddit.com/r/PrequelMemes/)
+  - [r/SequelMemes](https://www.reddit.com/r/SequelMemes/)
+- [r/startrek](https://www.reddit.com/r/startrek/)
+- [r/TheLastAirbender](https://www.reddit.com/r/TheLastAirbender/)
 
 ### Science
 - [r/science](https://www.reddit.com/r/science/)
@@ -140,6 +147,8 @@
 - [r/AskHistorians](https://www.reddit.com/r/AskHistorians/)
 - [r/LifeProTips](https://www.reddit.com/r/LifeProTips/)
 - [r/ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/)
+- [r/IllegalLifeProTips](https://www.reddit.com/r/IllegalLifeProTips/)
+- [r/aww](https://www.reddit.com/r/aww/)
 - [r/pics](https://www.reddit.com/r/pics/)
 - [r/InternetIsBeautiful)](https://www.reddit.com/r/InternetIsBeautiful/)
 - [r/AskReddit](https://www.reddit.com/r/AskReddit/)
@@ -176,7 +185,7 @@
 - [r/findareddit](https://www.reddit.com/r/findareddit/)
 - [r/IWantToLearn](https://www.reddit.com/r/IWantToLearn/)
 - [r/UnresolvedMysteries](https://www.reddit.com/r/UnresolvedMysteries/)
-
+- [r/trashy](https://www.reddit.com/r/trashy/)
 
 ### Reddit Profiles
 - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.

@@ -40,6 +40,7 @@
       - (Web) [Alpine Linux](https://alpinelinux.org/)
       - (Web) [Chromium OS](https://www.chromium.org/chromium-os)
         - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment.
+      - (Web) [TempleOS](https://en.wikipedia.org/wiki/TempleOS) - (formerly J OS, SparrowOS, LoseThos) a biblical-themed lightweight operating system developed by American programmer Terry A. Davis.
       
     - For Mobile
       - (Web) [LineageOS](https://www.lineageos.org/)
@@ -150,6 +151,7 @@
       - [jarun/nnn](https://github.com/jarun/nnn) - The missing terminal file manager for X.
       - [dylanaraps/fff](https://github.com/dylanaraps/fff) - A simple file manager written in bash.
       - [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt. vifm.info
+      - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager.
       - [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu.
 
     - Graphical File Managers
@@ -184,6 +186,9 @@
   - Fonts
     - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
     - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more.
+    - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments.
+    - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
+    - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 
   - Terminal Applications/Console Services
     - Web Browsers
@@ -203,6 +208,7 @@
       - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files.
       
     - Calculators
+      - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal.
       - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units. https://insect.sh.
       - (GitLab) [GNOME/gnome-calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - Calculator for solving mathematical equations.
       - [galculator/galculator](https://github.com/galculator/galculator) - GTK 2 / GTK 3 based scientific calculator.
@@ -256,6 +262,7 @@
       - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal.
       - [tnalpgge/rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - generates ASCII pictures of a cow with a message.
       - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - The Party Parrot on your terminal.
+      - (Web) [FIGlet](http://www.figlet.org/) - generate text banners, in a variety of typefaces, composed of letters made up of conglomerations of smaller ASCII characters.
     
   - Graphical Applications
     - Video Editors
@@ -578,13 +585,24 @@
     - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
     - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
     - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.  
-    - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+    
+    - Organizing Tabs
+      - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+      - [drive4ik/simple-tab-groups](https://github.com/drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app.
+    
+    - Gestures
+      - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+      - [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures) - Mouse gestures for Firefox.
+    
+    - Color Schemes
+      - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
+      - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites.
+    
     - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite.
     - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
     - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file.
     - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus Userstyles Manager.
     - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
-    - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
     - [samueljun/tomato-clock](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
     - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.
   
@@ -734,6 +752,7 @@
     - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights.
     - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. `macOS`
     - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. `macOS`
+    - [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 
 - Python
   - Web Frameworks
@@ -760,6 +779,8 @@
     - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
     - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library, originally developed at FriendFeed.
     - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
+    - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
+    - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
   
   - Data Science
     - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
@@ -798,9 +819,10 @@
     - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser.
     - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
     - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+    - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI.
 
     - [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
-    - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
+    - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
     - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
     - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
     - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - A pure Python interface for the Telegram Bot API.
@@ -851,8 +873,8 @@
 
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
   - [webslides/webslides](https://github.com/webslides/webslides) - Create HTML presentations in seconds.
-  - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime.
   - [babel/babel](https://github.com/babel/babel) - Babel is a compiler for writing next generation JavaScript.
+  - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
   - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
   - [MrRio/jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
   - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript.
@@ -949,6 +971,7 @@
   - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library.
   - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library.
   - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever.
+  - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -957,6 +980,7 @@
   - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
   - [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers.
   - [copy/v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS. https://copy.sh/v86.
+  - [pshihn/rough-notation](https://github.com/pshihn/rough-notation) - Create and animate hand-drawn annotations on a web page.
 
 - Rust
   - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -980,6 +1004,7 @@
 
 - Databases
   - (Web) [PostgreSQL](https://www.postgresql.org/ftp/source/)
+  - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
   - (Web) [MySQL](https://www.mysql.com/)
   - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
   - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -1102,10 +1127,12 @@
   - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap.
   - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
   - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-  - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System.
-  - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs.
   - [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts.
   - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive css framework (395 bytes).
+  
+  - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub. https://primer.style/css.
+  - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System.
+  - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs.
 
 - Front-End JavaScript Frameworks
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -1151,7 +1178,9 @@
   - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
     - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk Middleware for Redux.
     - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps.
+  - [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces.
   - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
+  - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 
 - Back-End JavaScript Frameworks/CMSs
   - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing.
@@ -1160,6 +1189,7 @@
   - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
     - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
   - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime.
+    - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy.
     - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8).
     - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js.
     - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
@@ -1168,6 +1198,7 @@
     - [microsoft/playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API.
     - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
     - [mochajs/mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser.
+  - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime.
   - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
   - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser.
   - [kimmobrunfeldt/concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
@@ -1286,6 +1317,7 @@
   - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications. https://tox.chat.
   - (Web) [briar/briar](https://code.briarproject.org/briar/briar) - Secure messaging, anywhere.
   - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+    - (Web) [Brave Together](https://together.brave.com/)
   - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - Easy videoconference in your web or mobile app.
   - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
 
@@ -1343,6 +1375,7 @@
   - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability. age-encryption.org.
 
 - Media Servers
+  - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine.
   - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
   - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 
@@ -1351,6 +1384,8 @@
   - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework.
   - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock/) - Find usernames across social networks.
   - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices.
+  - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit.
+  - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
   
 - Machine Learning/Deep Learning/Computer Vision Frameworks
   - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
@@ -1480,10 +1515,12 @@
   - [sebst/pythonic-news](https://github.com/sebst/pythonic-news) - A Hacker News lookalike written in Python/Django, powering news.python.sc.
   - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
   - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
+  - [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions. http://www.arxiv-sanity.com.
 
 - General
   - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All. https://faceswap.dev.
   - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox.
+  - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. https://securedrop.org.
   - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
   - [cdr/code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
   - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Productive. Reliable. Fast.
@@ -1557,6 +1594,8 @@
   - [samaaron/sonic-pi](https://github.com/samaaron/sonic-pi) - Code. Music. Live.
   - [cryptii/cryptii](https://github.com/cryptii/cryptii) - Web app and framework offering modular conversion, encoding and encryption.
   - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+  - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. https://odoo.com.
+  - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 
 - Website Templates
   - Bootstrap Templates
