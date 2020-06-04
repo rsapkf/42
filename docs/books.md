@@ -234,8 +234,8 @@
 
 - Haskell
   - [Real World Haskell: Code You Can Believe In - Bryan O'Sullivan](https://www.goodreads.com/book/show/3226758-real-world-haskell?ac=1&from_search=true&qid=e3ACCjHitv&rank=1)
-  - [Code: The Hidden Language of Computer Hardware and Software - Charles Petzold](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software)
   
+- [Code: The Hidden Language of Computer Hardware and Software - Charles Petzold](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software)  
 - [The Mythical Man-Month - Fred Brooks](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [Code Complete - Steve McConnell](https://en.wikipedia.org/wiki/Code_Complete)
 - [Cracking the Coding Interview - Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview)
