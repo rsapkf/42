@@ -52,6 +52,7 @@
       - (Web) [Android](https://android.com/)
         
     - Other
+      - (Web) [Fuchsia](https://fuchsia.dev/) - open-source OS developed by Google based on Zircon microkernel.
       - (GitLab) [Redox OS](https://gitlab.redox-os.org/redox-os) - Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
       - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system.
       - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System.
@@ -437,7 +438,9 @@
     - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux.
     - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep.
     - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb).
+    - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
     - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine.
+    - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - graphical text editor used to maintain a collection of wiki pages.
     - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
     - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
     - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
@@ -519,6 +522,9 @@
     - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool.
     - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass.
     - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - Buttercup credentials management application.
+
+  - Access management
+    - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management.
 
   - Email Clients
     - Text Based Email Clients
@@ -637,6 +643,7 @@
     - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer. `Mirror` https://pwmt.org/projects/zathura.
     - (Web) [Okular](https://okular.kde.org/) - universal document viewer developed by KDE.
     - (Web) [Evince](https://wiki.gnome.org/Apps/Evince) - document viewer for multiple document formats.
+    - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK eBook reader.
     - [buggins/coolreader](https://github.com/buggins/coolreader) - cross platform open source e-book reader.
 
   - Terminal Emulators
@@ -808,6 +815,8 @@
     - [PyQt](https://pypi.org/project/PyQt5/) - Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in.
     - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos.
     - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile.
+    - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - The official Python client library for Google's discovery based APIs.
+    - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API.
     - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
     - [google/python-fire](https://github.com/google/python-fire/) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
     - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
@@ -838,6 +847,7 @@
     - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
     - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python.
     - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
+    - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships.
 
 - HTML/CSS
   - [STRML/strml.net](https://github.com/STRML/strml.net) - STRML: Projects & Work.
@@ -864,6 +874,7 @@
       - [palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components built on D3.
       - [eventbrite/britecharts](https://github.com/eventbrite/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
       - [naver/billboard.js](https://github.com/naver/billboard.js) - Re-usable, easy interface JavaScript chart library based on D3 v4+.
+      - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.
     - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework.
     - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
     - [pshihn/rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance.
@@ -972,6 +983,7 @@
   - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library.
   - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever.
   - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
+  - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -1006,6 +1018,7 @@
   - (Web) [PostgreSQL](https://www.postgresql.org/ftp/source/)
   - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
   - (Web) [MySQL](https://www.mysql.com/)
+  - (Web) [Apache Cassandra](https://cassandra.apache.org/)
   - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
   - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
   - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac.
@@ -1013,6 +1026,11 @@
   - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi.
   - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
   - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications.
+  - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - PouchDB is a pocket-sized database.
+  - [liquidata-inc/dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data.
+
+- Big Data
+  - (Web) [Apache Hadoop](https://hadoop.apache.org/) - framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
 
 - Web Servers
   - (Web) [Nginx](https://nginx.org/)
@@ -1031,6 +1049,7 @@
 
 - Go
   - [golang/go](https://github.com/golang/go) - The Go programming language.
+  - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go.
   - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.
   - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
   - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
@@ -1134,7 +1153,7 @@
   - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System.
   - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs.
 
-- Front-End JavaScript Frameworks
+- Front-End JavaScript Frameworks/Libraries
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
   - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
     - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -1157,7 +1176,7 @@
     - [prevwong/craft.js](https://github.com/prevwong/craft.js) - A React Framework for building extensible drag and drop page editors.
     - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
     - [hshoff/vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components.
-    - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.
+    - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
   - [vuejs/vue](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
     - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
     - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
@@ -1171,6 +1190,7 @@
   - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library.
   - [infernojs/inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
   - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅.
+  - [ryansolid/solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - [choojs/choo](https://github.com/choojs/choo) - sturdy 4kb frontend framework.
   - [stimulusjs/stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have.
 
@@ -1391,6 +1411,7 @@
   - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
   - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans.
   - [Theano/Theano](https://github.com/Theano/Theano) -  Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+    - [Lasagne/Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano.
   - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
   - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
   - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
@@ -1413,11 +1434,16 @@
   - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
   - [racket/racket](https://github.com/racket/racket) - The Racket repository.
 
+- Cryptocurrency
+  - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
+  - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency.
+  - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
+    - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
+    - [status-im/status-react](https://github.com/status-im/status-react) - a free (libre) open source, mobile OS for Ethereum.
+    - [ensdomains/ens](https://github.com/ensdomains/ens) - Implementations for ENS core functionality: The registry, registrars, and public resolvers.
+
 - Distributed Networks/Blockchain
   - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
-  - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
-  - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
-  - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency.
   - (GitLab) [NebulousLabs/Sia](https://gitlab.com/NebulousLabs/Sia) - Blockchain-based marketplace for file storage. https://sia.tech.
   - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network.
   - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
@@ -1527,12 +1553,12 @@
   - [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) - Open source home automation that puts local control and privacy first.
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management.
   - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
-  - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
   - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol.
+  - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
   - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
   - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver.
   - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf. Your agents are standing by!
-  - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
   - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free node based Workflow Automation Tool. Easily automate tasks across different services.
   - [gravitational/teleport](https://github.com/gravitational/teleport) - Privileged access management for elastic infrastructure.
   - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -1713,12 +1739,14 @@
 - [Kotlin](https://github.com/kotlin) - Kotlin Tools and Libraries.
 - [Algolia](https://github.com/algolia) - Open source tools for building search. Learn more at community.algolia.com.
 - [Discord](https://github.com/discordapp) - t's time to ditch Skype and Teamspeak. Discord is the only free and secure all-in-one voice+text app designed for gamers that works on your desktop and phone.
+- [HashiCorp](https://github.com/hashicorp) - Consistent workflows to provision, secure, connect, and run any infrastructure for any application.
 - [QISKit](https://github.com/QISKit) - An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 - [Facebook](https://github.com/facebook) - We are working to build community through open source technology. NB: members must have two-factor auth.
 - [Facebook Experimental](https://github.com/facebookexperimental) - These are Facebook projects that are not necessarily used in production but are being developed in the open nevertheless.
 - [Microsoft](https://github.com/microsoft) - Open source, from Microsoft with love.
 - [Netlify](https://github.com/netlify) - Netlify builds, deploys and hosts your front-end.
 - [Google](https://github.com/google) - Google ❤️ Open Source.
+- [Google APIs](https://github.com/googleapis) - Clients for Google APIs and tools that help produce them.
 - [Netflix, Inc.](https://github.com/Netflix) - Netflix Open Source Platform.
 - [Netflix-Skunkworks](https://github.com/Netflix-Skunkworks)
 - [Keybase](https://github.com/keybase) - Crypto for everyone!
@@ -1765,6 +1793,7 @@
 - [Salesforce UX](https://github.com/salesforce-ux) - Clarity. Efficiency. Consistency. Beauty. The product design team at Salesforce.
 - [U.S. General Services Administration](https://github.com/gsa) - The U.S. General Services Administration.
 - [WakaTime](https://github.com/wakatime) - Open source plugins for automatic programming metrics.
+- [WebTorrent](https://github.com/webtorrent) - Streaming torrent client for the web, Node.js, Mac, Windows, & Linux.
 - [OpenAI](https://github.com/openai)
 - [Eclipse Foundation](https://github.com/eclipse)
 - [fast.ai](https://github.com/fastai)
@@ -1811,6 +1840,7 @@
 - [Square](https://github.com/square)
 - [CareerCup](https://github.com/careercup)
 - [Mega Limited](https://github.com/meganz)
+- [mongodb](https://github.com/mongodb)
 - [The Reddit Archives](https://github.com/reddit-archive) - Projects where changes are no longer publicly published.
 - [30 seconds](https://github.com/30-seconds) - The team behind 30-seconds-of-code and official 30-seconds projects.
 - [The World Cube Association](https://github.com/thewca) - Official projects for the World Cube Association (WCA).

@@ -8,8 +8,8 @@
 - [Producing Open Source Software](https://producingoss.com/en/index.html) - Karl Fogel.
 - [LinuxCommand.org](http://www.linuxcommand.org/index.php) - William Shotts.
 - [Distributed Systems](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/) - Maarten van Steen.
-- [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh.
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Jonathan Tang.
+- [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.HTM) - Gerard E. Dallal.
 - [yet another insignificant programming notes](https://www.ntu.edu.sg/home/ehchua/programming/) - Chua Hock Chuan.
 - [Butterick's Practical Typography](https://practicaltypography.com/) - Matthew Butterick.
 - [ExploringJS](https://exploringjs.com/) - JavaScript books for programmers by Dr. Axel Rauschmayer.
@@ -69,3 +69,4 @@
 
 ### Extras
 - [FossHub](https://www.fosshub.com/) - No adware, No spyware, No bundles, No malware, Fast downloads, Free services and a single ad.
+

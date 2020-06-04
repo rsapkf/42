@@ -1,3 +1,5 @@
+# YouTube
+
 ### MOOCs
 - [stanfordonline](https://www.youtube.com/channel/UCBa5G_ESCn8Yd4vw5U-gIcg)
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
@@ -32,6 +34,7 @@
 - [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
 - [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
 - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
+- [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ)
 - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
@@ -114,6 +117,7 @@
 - [Vsauce2](https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw)
 - [Vsauce3](https://www.youtube.com/channel/UCwmFOfFuvRPI112vR5DNnrA)
 - [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA)
+- [The Create Unknown](https://www.youtube.com/channel/UC4Abl9Z_dKFxA7fRFnGPLiA)
 - [Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ)
 - [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)
 - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ)
@@ -177,8 +181,11 @@
 - [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ)
 - [The New York Times](https://www.youtube.com/channel/UCqnbDFdCpuN8CMEg0VuEBqA)
 - [WIRED](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw)
+- [Engadget](https://www.youtube.com/channel/UC-6OW5aJYBFM33zXQlBKPNA)
+- [TechCrunch](https://www.youtube.com/channel/UCCjyq_K1Xwfg8Lndy7lKMpA)
 
 ### Miscellaneous
+- [bill wurtz](https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ)
 - [Ben Shapiro](https://www.youtube.com/channel/UCnQC_G5Xsjhp9fEJKuIcrSw)
 - [Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w)
 - [Channel Super Fun](https://www.youtube.com/channel/UCBZiUUYeLfS5rIj4TQvgSvA)

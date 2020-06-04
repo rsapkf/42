@@ -1,6 +1,6 @@
 # Privacy Tools
 
-**Note**: This file only contains resources that are NOT in the [./linux-configuration.md](./linux-configuration.md) file.
+> **Note**: This file only contains resources that are NOT in the [./linux-configuration.md](./linux-configuration.md) file.
 
 ## Contents:
 - [Email Providers](#email-providers)
@@ -33,6 +33,8 @@
 ### Search Engines:
 - [Startpage](https://www.startpage.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
+  - [DuckDuckGo !Bang](https://duckduckgo.com/bang)
+  - [DuckDuckGo Instant Answers](https://duck.co/ia)
 - [Qwant](http://qwant.com/)
 - [Ecosia](https://www.ecosia.org/)
 

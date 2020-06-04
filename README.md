@@ -1,8 +1,8 @@
 ## 42
 
-This is an ongoing personal collection of over 3000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Most of these are from my browser bookmarks. Contains blogs, websites, software that I use, my GitHub/GitLab/... stars(which I manage with my bookmark manager, not GH itself), Gists, Subreddits, YouTube channels, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/StackOverflow/Codepen profiles/articles I follow, Podcasts I listen to, Browser Add-ons, Linux Hacks, Vim/Tmux/Emacs plugins I use and everything.
+This is an ongoing personal collection of over 3000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Contains blogs, websites, software that I use, my GitHub/GitLab/... stars(which I manage with my bookmark manager, not GH itself), Gists, Subreddits, YouTube channels, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/StackOverflow/Codepen profiles/articles I follow, Podcasts I listen to, Browser Add-ons, Linux Hacks, Vim/Tmux/Emacs plugins I use and everything.
 
-In short, this is my attempt to organize my knowledge. Feedbacks and [contributions](CONTRIBUTING.md) are appreciated.
+In short, this is my attempt to organize my knowledge, a directory of my "public" bookmarks. Feedbacks and [contributions](CONTRIBUTING.md) are appreciated.
 
 mdBook: [rsapkf.github.io/42/](https://rsapkf.github.io/42/)
 
@@ -15,20 +15,23 @@ GitBook: [rsapkff.gitbook.io/42/](https://rsapkff.gitbook.io/42/)
 - [Knowledge Repositories](docs/knowledge-repositories.md) (mostly on GitHub)
 - [Web Development](docs/web-development.md)
 - [Programming](docs/programming.md)
+- [Coding Challenges](docs/coding-challenges.md)
 - [Open Source Software](docs/open-source-software.md)
 - [Linux Configuration](docs/linux-configuration.md)
 - [Privacy Tools](docs/privacy-tools.md)
 - [Software and Services](docs/software-and-services.md)
-- [Coding Challenges](docs/coding-challenges.md)
 - [Science, Technology and Mathematics](docs/science-technology-and-mathematics.md)
+- [Psychology, Philosophy, Literature and Art](docs/psychology-philosophy-literature-and-art.md)
 - [Massive Open Online Courses](docs/moocs-and-courses.md)
-- [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
 - [Cubing, Puzzles and Magic](docs/cubing-puzzles-and-magic.md)
 - [Reddit Subscriptions](docs/reddit.md)
 - [YouTube Subscriptions](docs/youtube.md)
-- [Random Useful Sites](docs/random-useful-sites.md)
+- [Books](docs/books.md)
+- [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
 - [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
+- [Random Useful Sites](docs/random-useful-sites.md)
 - [High School](docs/high-school.md)
+- [Lists and Articles](docs/lists-and-articles.md)
 - [Extras](docs/extras.md)
 - [Unsorted](docs/unsorted.md)
 

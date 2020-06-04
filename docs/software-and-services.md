@@ -1,9 +1,11 @@
 # Software and Services
 
-**Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
+> **Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
 
 ### Software
 - Programming Tools
+  - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database. `source-available software`
+  - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost. `open-source upto v1.x`
   - [kite](https://kite.com/) - code completion plugin for Python that works with PyCharm, VS Code, Vim, Spyder, & more.
 
 - Operating Systems
@@ -82,7 +84,7 @@
   - [Hangouts](https://hangouts.google.com/)
 
 - Remote Desktop Clients
-  - [TeamViewer](https://www.teamviewer.com/) - remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
+  - [TeamViewer](https://www.teamviewer.com/) - Remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
 - Design Tools
   - [Adobe](https://adobe.com) - Creativity for all.
@@ -110,43 +112,51 @@
 - iOS/Mac
   - [Apollo Reddit Client](https://apolloapp.io/) - A beautiful Reddit app built for power and speed.
   - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS.
-  - [Alfred](https://www.alfredapp.com/) - award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
+  - [Alfred](https://www.alfredapp.com/) - Award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
 
 - Meditation
-  - [Waking Up](https://wakingup.com/) - explore the practice of meditation and examines the theory behind it with Sam Harris.
+  - [Waking Up](https://wakingup.com/) - Explore the practice of meditation and examines the theory behind it with Sam Harris.
 
 - CAPTCHA Services
   - [reCAPTCHA](https://www.google.com/recaptcha/) - Easy on Humans, Hard on Bots.
   - [hCaptcha](https://www.hcaptcha.com/) - Private. Secure. Faster. And they pay you to use it.
 
+- Web Analytics
+  - [Simple Analytics](https://simpleanalytics.com/)
+  - [Google Analytics](https://analytics.google.com/analytics/web/)
+
 - Other
   - Software
-    - [SAP](https://www.sap.com/index.html) - enterprise software to manage business operations and customer relations.
+    - [SAP](https://www.sap.com/index.html) - Enterprise software to manage business operations and customer relations.
     - [snapcraft](https://snapcraft.io/) - The app store for Linux.
     - [VMware](https://www.vmware.com/)
     - [Caret](https://caret.io/) - Markdown editor for Mac, Windows and Linux.
-    - [GeoGebra](https://www.geogebra.org/) - free online math tools for graphing, geometry, 3D, and more!
+    - [GeoGebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more!
     - [Star Walk](https://starwalk.space/en) - The sky at your fingertips.
     - [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - compatibility layer for running Linux binary executables natively on Windows.
     - [Cloudflare 1.1.1.1](https://1.1.1.1/) - The free app that makes your Internet safer.
     - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - DaVinci Resolve includes everything professional editors need to cut blockbuster films, television shows, and commercials.
     - [HitFilm Express](https://fxhome.com/) - VFX software for the filmmaking revolution.
-    
+
+  - Services
     - [Imgur](https://imgur.com/)
     - [Google Earth](https://google.com/earth)
     - [Google Maps](https://google.com/maps)
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
-    - [Grammarly](https://www.grammarly.com/)
+    - [Grammarly](https://www.grammarly.com/) - Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.
     - [bitly](https://bitly.com/) - Link Shortener.
-    - [IFTTT](https://ifttt.com/) - make your apps and devices work together in new ways.
+    - [IFTTT](https://ifttt.com/) - Make your apps and devices work together in new ways.
     - [Hootsuite](https://hootsuite.com/) - Manage all your social media in one place.
     - [Buffer](https://buffer.com/) - Build your audience and grow your brand on social media.
     - [Duolingo](https://www.duolingo.com) - Learn a language for free. Forever.
     - [SSL Labs](https://www.ssllabs.com/)
     - [Shopify](https://www.shopify.com/) - E-commerce platform for online stores and retail point-of-sale systems.
+    - [Gumroad](https://gumroad.com/) - Online platform that enables creators to sell products directly to consumers.
+    - [Podia](https://www.podia.com/) - Sell online courses, downloads, webinars, and memberships without worrying about the tech.
+    - [Teachable](https://teachable.com/) - Create and sell beautiful online courses.
     
   - Game Engines
-    - [Unreal Engine](http://www.unrealengine.com/) `Source-available software`
+    - [Unreal Engine](http://www.unrealengine.com/) `source-available software`
     - [Unity](https://unity.com/)
 
   - Bittorrent Clients

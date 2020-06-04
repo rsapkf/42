@@ -25,7 +25,7 @@ Roadmap to Web Development:
 - [Text Editors and IDEs](#text-editors-and-ides)
 - [Regular Expressions and Algorithms](#regular-expressions-and-algorithms)
 - [Developer Tools](#developer-tools)
-- [Extra Resources](#extra-resources)
+- [Other Resources](#other-resources)
 
 ---
 
@@ -254,7 +254,6 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 ---
 
 ### Developer Tools:
-See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab)
 - Sites/
   - [MDN CSS Color Picker Tools](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool) ([DuckDuckGo](https://duckduckgo.com/?t=ffab&q=color+picker&ia=answer) Instant Answer/[Google](https://www.google.com/search?hl=en&q=color%20picker))
   - [Dan's Tools](https://www.danstools.com/) - Collection of various tools helpful for developers.
@@ -306,7 +305,11 @@ See More: [Gist by Brad Traversy](https://gist.github.com/bradtraversy/61171a9b8
 
 ---
 
-### Extra Resources:
+### Other Resources:
+- Magazines/
+  - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
+  - [Increment Magazine](https://increment.com/) - print and digital magazine about how teams build and operate software systems at scale.
+      
 - Codepen Profiles/
   - [Chris Coyier](https://codepen.io/chriscoyier) - Founder of CSS-Tricks.
   - [Florin Pop](https://codepen.io/FlorinPop17)

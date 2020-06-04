@@ -1,6 +1,7 @@
 # Free-To-Read Books and Guides
 
-### CS/Software Development
+### Programming/CS/Software Development
+- [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted version on GitHub](https://sarabander.github.io/sicp/html/index.xhtml))
 - [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/) - Machtelt Garrels.
 - [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/) - Mendel Cooper.
 - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) - Jack Crenshaw.
@@ -12,7 +13,6 @@
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Swigart.
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovaca.
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. and Andrea C. Arpaci-Dusseau.
-- [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted version on GitHub](https://sarabander.github.io/sicp/html/index.xhtml))
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/) - Michael Nelson.
 - [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville.
 - [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) - Debian Project.
@@ -38,14 +38,13 @@
 - [The Debian Administrator's Handbook](https://debian-handbook.info/) - Raphaël Hertzog and Roland Mas.
 - [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - By Dan Boneh, Victor Shoup.
 
-## Guides
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall.
-- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab.
-- [Technical Writing Courses](https://developers.google.com/tech-writing) - Google.
-- [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics.
+- Mathematics for CS/
+  - [MIT 6.042J Mathematics for CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+
+- Vim/
+  - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh.
 
 ### Mathematics
-- [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.HTM) - Gerard E. Dallal.
 - [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) - J. Ström, K. Åström, T. Akenine-Möller.
 - [Mathematics All-in-One Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf) - Alex Spartalis.
 - [Calculus Made Easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf) - Silvanus Thompson.
@@ -56,4 +55,12 @@
 ### General Knowledge
 - [Encyclopedia Britannica](https://www.britannica.com/)
 
-See Also [./ebooks-and-research-papers.md](ebooks-and-research-papers.md)
+## Guides
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall.
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab.
+- [Technical Writing Courses](https://developers.google.com/tech-writing) - Google.
+- [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics.
+
+See Also:
+- [MIT OpenCourseWare Index of Online Textbooks](https://ocw.mit.edu/courses/online-textbooks/)
+- [./ebooks-and-research-papers.md](ebooks-and-research-papers.md)

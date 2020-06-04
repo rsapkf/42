@@ -19,11 +19,12 @@
   - Vim
     - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Some simple methods for exiting vim.
     
-    - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
-    - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
-    - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
-    - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - Vim-themed advent calendar. https://vimways.org.
-    - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you? http://www.vimgolf.com.
+    - Websites/
+      - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
+      - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
+      - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
+      - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - Vim-themed advent calendar. https://vimways.org.
+      - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you? http://www.vimgolf.com.
     
   - Emacs
     - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
@@ -43,7 +44,7 @@
   - Dotfiles
     - [GitHub Search "dotfiles"](https://github.com/search?q=dotfiles)
     - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-    - [Dotfiles - ArchWiki](https://wiki.archlinux.org/index.php/Dotfiles)
+    - (Web) [Dotfiles - ArchWiki](https://wiki.archlinux.org/index.php/Dotfiles)
     - [holman/dotfiles](https://github.com/holman/dotfiles) - Zach Holman's Dotfiles.
     - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - Mathias Bynen's Dotfiles.
     - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - Jess Frazelle's Dotfiles.
@@ -56,13 +57,15 @@
 ### Regular Expressions and Algorithms
   - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
   
-  - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
-  - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io - The Regex Cheat Sheet. https://iHateRegex.io.
-  - [firasdib/Regex101](https://github.com/firasdib/Regex101) - Online Regex Tester and Debugger. Issue Tracker for https://regex101.com.
-  - (GitLab) [javallone/regexper-static](https://gitlab.com/javallone/regexper-static) - Regular Expression Visualization Site. https://regexper.com.
+  - Websites/
+    - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
+    - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io - The Regex Cheat Sheet. https://iHateRegex.io.
+    - [firasdib/Regex101](https://github.com/firasdib/Regex101) - Online Regex Tester and Debugger. Issue Tracker for https://regex101.com.
+    - (GitLab) [javallone/regexper-static](https://gitlab.com/javallone/regexper-static) - Regular Expression Visualization Site. https://regexper.com.
 
 ### Programming
-  - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials.
+  - Websites/
+    - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials.
 
 ### Python
   - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
@@ -106,6 +109,9 @@
   - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)? https://1loc.dev.
   - [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. https://htmldom.dev.
 
+  - Websites/
+    - [wesbos/keycodes](https://github.com/wesbos/keycodes) - Easy visualizer for JavaScript KeyCodes.
+  
 ### TypeScript
   - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
@@ -139,7 +145,6 @@
 
 ### Go
   - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place.
-  - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost. `unmaintained`
 
 ### Java
   - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java.
