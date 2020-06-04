@@ -14,7 +14,7 @@
   - [Brief Answers to the Big Questions](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions)
   - [A Briefer History of Time](https://en.wikipedia.org/wiki/A_Briefer_History_of_Time_(Hawking_and_Mlodinow_book))
   - [The Grand Design](https://en.wikipedia.org/wiki/The_Grand_Design_%28book%29)
-  - [The Theory of Everything: The Origin and Fate of the Universe - Stephen Hawking](https://www.goodreads.com/book/show/449573.The_Theory_of_Everything)
+  - [The Theory of Everything: The Origin and Fate of the Universe](https://www.goodreads.com/book/show/449573.The_Theory_of_Everything)
 
 - Max Tegmark
   - [Our Mathematical Universe](https://en.wikipedia.org/wiki/Our_Mathematical_Universe)
@@ -67,7 +67,7 @@
   - Isaac Asimov
     - [Foundation series](https://en.wikipedia.org/wiki/Foundation_series)
     - [Robot series](https://en.wikipedia.org/wiki/Robot_series)
-    - [Galactic Empire (series)](https://en.wikipedia.org/wiki/Galactic_Empire_(series))
+    - [Galactic Empire series](https://en.wikipedia.org/wiki/Galactic_Empire_(series))
 
   - Arthur C. Clarke
     - [Space Odyssey](https://en.wikipedia.org/wiki/Space_Odyssey)
@@ -104,15 +104,15 @@
     - [Journey to the Center of the Earth](https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
 
 - [The Lord of the Rings - J.R.R. Tolkien](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
-- [The Witcher](https://en.wikipedia.org/wiki/The_Witcher)
-- [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+- [The Witcher - Andrzej Sapkowski](https://en.wikipedia.org/wiki/The_Witcher)
+- [Nineteen Eighty-Four - George Orwell](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
 - [Contact - Carl Sagan](https://en.wikipedia.org/wiki/Contact_(novel))
-- [Dune](https://en.wikipedia.org/wiki/Dune_(novel))
-- [Fahrenheit 451](https://en.wikipedia.org/wiki/Fahrenheit_451)
-- [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)
-- [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)
+- [Dune - Frank Herbert](https://en.wikipedia.org/wiki/Dune_(novel))
+- [Fahrenheit 451 - Ray Bradfury](https://en.wikipedia.org/wiki/Fahrenheit_451)
+- [Moby-Dick - Herman Melville](https://en.wikipedia.org/wiki/Moby-Dick)
+- [Neuromancer - William Gibson](https://en.wikipedia.org/wiki/Neuromancer)
 - [Shutter Island - Dennis Lehane](https://en.wikipedia.org/wiki/Shutter_Island)
-- [Slaughterhouse-Five](https://en.wikipedia.org/wiki/Slaughterhouse-Five)
+- [Slaughterhouse-Five - Kurt Vonnegut](https://en.wikipedia.org/wiki/Slaughterhouse-Five)
 - [The Martian - Andy Weir](https://en.wikipedia.org/wiki/The_Martian_(Weir_novel))
 - [The War of the Worlds - H.G. Wells](https://en.wikipedia.org/wiki/The_War_of_the_Worlds)
 - [The Nix - Nathan Hill](https://en.wikipedia.org/wiki/The_Nix)
@@ -123,25 +123,25 @@
   - [Benjamin Franklin: An American Life](https://en.wikipedia.org/wiki/Benjamin_Franklin:_An_American_Life)
   - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs_(book))
   - [The Innovators](https://en.wikipedia.org/wiki/The_Innovators_(book))
-  - [Leonardo da Vinci - Walter Isaacson](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)
+  - [Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)
   
 - [Hackers & Painters - Paul Graham](https://en.wikipedia.org/wiki/Hackers_%26_Painters)
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance](https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future)
 - [The Cuckoo's Egg - Clifford Stoll](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg)
-- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
+- [Surely You're Joking, Mr. Feynman! - Richard Feynman, Ralph Leighton](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 - [My Inventions: The Autobiography of Nikola Tesla - Nikola Tesla](https://en.wikipedia.org/wiki/My_Inventions:_The_Autobiography_of_Nikola_Tesla)
 - [Mud, Sweat, and Tears - Bear Grylls](https://en.wikipedia.org/wiki/Mud,_Sweat,_and_Tears)
 - [iWoz - Steve Wozniak](https://en.wikipedia.org/wiki/IWoz)
 - [Permanent Record - Edward Snowden](https://en.wikipedia.org/wiki/Permanent_Record_(autobiography))
 
 ## Mathematics
-  - [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem_(book))
-  - [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book)
-  - [Infinity and the Mind](https://en.wikipedia.org/wiki/Infinity_and_the_Mind)
-  - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
+- [Fermat's Last Theorem - Simon Singh](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem_(book))
+- [The Code Book - Simon Singh](https://en.wikipedia.org/wiki/The_Code_Book)
+- [Infinity and the Mind - Rudy Rucker](https://en.wikipedia.org/wiki/Infinity_and_the_Mind)
+- [In Pursuit of the Unknown - Ian Stewart](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
 
 ## Mathematics Textbooks
-  - [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics)
+  - [The Princeton Companion to Mathematics - Princeton University Press](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics)
   - [Linear Algebra Done Right - Sheldon Axler](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right)
 
 ## Entrepreneurship and Life
@@ -150,19 +150,19 @@
   - [Outliers](https://en.wikipedia.org/wiki/Outliers_(book))
   - [The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point)
 
-- [Zero to One](https://en.wikipedia.org/wiki/Zero_to_One)
-- [Our Final Invention](https://en.wikipedia.org/wiki/Our_Final_Invention)
-- [Start With Why](https://en.wikipedia.org/wiki/Start_With_Why)
-- [The Age of Surveillance Capitalism](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
-- [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
-- [The 33 Strategies of War](https://en.wikipedia.org/wiki/The_33_Strategies_of_War)
-- [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
-- [The Law of Success](https://en.wikipedia.org/wiki/The_Law_of_Success)
-- [Creativity, Inc. - Wikipedia](https://en.wikipedia.org/wiki/Creativity,_Inc.)
+- [Zero to One - Peter Thiel](https://en.wikipedia.org/wiki/Zero_to_One)
+- [Our Final Invention - James Barrat](https://en.wikipedia.org/wiki/Our_Final_Invention)
+- [Start With Why - Simon Sinek](https://en.wikipedia.org/wiki/Start_With_Why)
+- [The Age of Surveillance Capitalism - Shoshana Zuboff](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
+- [How to Win Friends and Influence People - Dale Carnegie](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
+- [The 33 Strategies of War - Robert Greene](https://en.wikipedia.org/wiki/The_33_Strategies_of_War)
+- [Think and Grow Rich - Napoleon Hill](https://en.wikipedia.org/wiki/Think_and_Grow_Rich)
+- [The Law of Success - Napoleon Hill](https://en.wikipedia.org/wiki/The_Law_of_Success)
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration - Amy Wallace, Edwin Catmull](https://en.wikipedia.org/wiki/Creativity,_Inc.)
 - [The Subtle Art of Not Giving a F ck - Mark Manson](https://en.wikipedia.org/wiki/The_Subtle_Art_of_Not_Giving_a_Fuck)
 - [Everything Is F cked - Mark Manson](https://en.wikipedia.org/wiki/Everything_Is_Fucked)
-- [Rich Dad Poor Dad](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad)
-- [12 Rules for Life](https://en.wikipedia.org/wiki/12_Rules_for_Life)
+- [Rich Dad Poor Dad -  Robert Kiyosaki, Sharon Lechter](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad)
+- [12 Rules for Life - Jordan Peterson](https://en.wikipedia.org/wiki/12_Rules_for_Life)
 
 ## Philosophy and Religion
 - Friedrich Nietzsche
@@ -172,7 +172,7 @@
 - [The Bhagavad Gita - Eknath Easwaran](https://www.goodreads.com/book/show/358540.The_Bhagavad_Gita)
 
 ## Physics Textbooks
-- [Gravitation](https://en.wikipedia.org/wiki/Gravitation_(book))
+- [Gravitation - Charles W. Misner, Kip S. Thorne, John Archibald Wheeler](https://en.wikipedia.org/wiki/Gravitation_(book))
 - [A First Course in General Relativity - Bernard Schutz](https://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity)
 - [Fundamentals of Astrodynamics - Roger R. Bate](https://www.goodreads.com/book/show/901329.Fundamentals_of_Astrodynamics)
 - [Spacetime and Geometry: An Introduction to General Relativity - Sean Carroll](https://www.goodreads.com/book/show/259680.Spacetime_and_Geometry)
@@ -182,10 +182,10 @@
 
 ## Programming and CS
 - AI, ML
-  - [Artificial Intelligence: A Modern Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach)
+  - [Artificial Intelligence: A Modern Approach - Stuart J. Russell, Peter Norvig](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach)
 
 - C
-  - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+  - [The C Programming Language (K&R) - Brian Kernighan, Dennis Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 
 - C++
   - [C++ Primer - Stanley B. Lippman](https://www.goodreads.com/book/show/768080.C_Primer?ac=1&from_search=true&qid=ZxOkPkoMsq&rank=1)
@@ -203,8 +203,8 @@
   - [Head First Java - Kathy Sierra](https://www.goodreads.com/book/show/231262.Head_First_Java)
 
 - Algorithms
-  - [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
-  - [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+  - [Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
+  - [The Art of Computer Programming - Donald Knuth](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
   - [The Algorithm Design Manual - Steven S. Skiena](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual)
   - [Algorithms - Sanjoy Dasgupta](https://www.goodreads.com/book/show/138563.Algorithms)
   - [Algorithms Illuminated: Part 1: The Basics - Tim Roughgarden](https://www.goodreads.com/book/show/36323236-algorithms-illuminated)
@@ -219,7 +219,7 @@
   - [Refactoring UI - Adam Wathan](https://www.goodreads.com/book/show/43190966-refactoring-ui)
 
 - Vim
-  - [Learning the vi and Vim Editors](https://en.wikipedia.org/wiki/Learning_the_vi_and_Vim_Editors)
+  - [Learning the vi and Vim Editors - Arnold Robbins, Elbert Hannah, Linda Lamb](https://en.wikipedia.org/wiki/Learning_the_vi_and_Vim_Editors)
   - [Practical Vim: Edit Text at the Speed of Thought - Drew Neil](https://www.goodreads.com/book/show/13607232-practical-vim)
 
 - Python
@@ -234,38 +234,39 @@
 
 - Haskell
   - [Real World Haskell: Code You Can Believe In - Bryan O'Sullivan](https://www.goodreads.com/book/show/3226758-real-world-haskell?ac=1&from_search=true&qid=e3ACCjHitv&rank=1)
-  - [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software)
-  - [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
-  - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
-  - [Code Complete](https://en.wikipedia.org/wiki/Code_Complete)
-  - [Cracking the Coding Interview](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview)
-  - [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
-  - [Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma](https://www.goodreads.com/book/show/85009.Design_Patterns)
-  - [Head First Design Patterns - Eric Freeman](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
-  - [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](https://www.goodreads.com/book/show/98233.Founders_at_Work)
+  - [Code: The Hidden Language of Computer Hardware and Software - Charles Petzold](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software)
+  
+- [The Mythical Man-Month - Fred Brooks](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- [Code Complete - Steve McConnell](https://en.wikipedia.org/wiki/Code_Complete)
+- [Cracking the Coding Interview - Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview)
+- [The Pragmatic Programmer - Andrew Hunt, David Thomas](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+- [Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma](https://www.goodreads.com/book/show/85009.Design_Patterns)
+- [Head First Design Patterns - Eric Freeman](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
+- [Founders at Work: Stories of Startups' Early Days - Jessica Livingston](https://www.goodreads.com/book/show/98233.Founders_at_Work)
 
 ## Recreational Mathematics
 - Martin Gardner
-  - [The Colossal Book of Mathematics - Martin Gardner](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
-  - [Hexaflexagons and Other Mathematical Diversions - Martin Gardner](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
-  - [The Second Scientific American Book of Mathematical Puzzles and Diversions - Martin Gardner](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
-  - [Mathematics, Magic and Mystery - Martin Gardner](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
-  - [The Unexpected Hanging and Other Mathematical Diversions - Martin Gardner](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
-  - [Mathematical Circus - Martin Gardner](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
-  - [Mathematical Magic Show - Martin Gardner](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
-  - [New Mathematical Diversions - Martin Gardner](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
+  - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
+  - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
+  - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
+  - [Mathematics, Magic and Mystery](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
+  - [The Unexpected Hanging and Other Mathematical Diversions](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
+  - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
+  - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
+  - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
 
 - Ian Stewart
   - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
-  - [Visions of Infinity: The Great Mathematical Problems - Ian Stewart](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
-  - [Professor Stewart's Cabinet of Mathematical Curiosities - Ian Stewart](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
-  - [Nature's Numbers: The Unreal Reality Of Mathematics - Ian Stewart](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
-  - [Professor Stewart's Incredible Numbers - Ian Stewart](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
-  - [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks - Arthur T. Benjamin](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math)
-  - [536 Puzzles & Curious Problems - Henry Ernest Dudeney](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems)
-  - [Magic Squares And Cubes - William Symes Andrews](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes)
-  - [More Puzzles to Puzzle You - Shakuntala Devi](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you)
-  - [Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget - Nelson Dellis](https://www.goodreads.com/book/show/38657042-remember-it)
+  - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
+  - [Professor Stewart's Cabinet of Mathematical Curiosities](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
+  - [Nature's Numbers: The Unreal Reality Of Mathematics](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
+  - [Professor Stewart's Incredible Numbers](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
+  
+- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks - Arthur T. Benjamin](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math)
+- [536 Puzzles & Curious Problems - Henry Ernest Dudeney](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems)
+- [Magic Squares And Cubes - William Symes Andrews](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes)
+- [More Puzzles to Puzzle You - Shakuntala Devi](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you)
+- [Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget - Nelson Dellis](https://www.goodreads.com/book/show/38657042-remember-it)
   
 ## Papers
   - [Properties of Expanding Universes - Stephen Hawking](https://archive.org/details/PropertiesOfExpandingUniverses/page/n23/mode/2up)

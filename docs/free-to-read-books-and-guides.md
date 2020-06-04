@@ -55,7 +55,7 @@
 ### General Knowledge
 - [Encyclopedia Britannica](https://www.britannica.com/)
 
-## Guides
+### Guides
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall.
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab.
 - [Technical Writing Courses](https://developers.google.com/tech-writing) - Google.

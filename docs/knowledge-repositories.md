@@ -52,7 +52,9 @@
     - [wincent/wincent](https://github.com/wincent/wincent) - Greg Hurrell's Dotfiles.
     - (GitLab) [dwt1/dotfiles](https://gitlab.com/dwt1/dotfiles) - Distrotube's Dotfiles
     - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-    - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
+    
+    - Websites/
+      - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
 
 ### Regular Expressions and Algorithms
   - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
@@ -106,10 +108,10 @@
   - [dexteryy/spellbook-of-modern-webdev/](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
   - [usablica/front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
   - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations.
-  - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)? https://1loc.dev.
-  - [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. https://htmldom.dev.
-
+  
   - Websites/
+    - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)? https://1loc.dev.
+    - [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. https://htmldom.dev.
     - [wesbos/keycodes](https://github.com/wesbos/keycodes) - Easy visualizer for JavaScript KeyCodes.
   
 ### TypeScript
@@ -316,8 +318,10 @@
   - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
   - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
-  - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
   - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems.
   - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020.
-  - [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - commonly used features in a side-by-side format. https://hyperpolyglot.org.
+  
+  - Websites/
+    - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
+    - [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - commonly used features in a side-by-side format. https://hyperpolyglot.org.
 

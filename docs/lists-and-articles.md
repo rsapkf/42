@@ -33,7 +33,7 @@
   - [Year 2038 problem](https://en.wikipedia.org/wiki/Year_2038_problem)
   - [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem)
   - [Rickrolling](https://en.wikipedia.org/wiki/Rickrolling)
-  - [1% Rule (Internet culture)](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture))
+  - [1% Rule](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture))
   - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
     
 - Philosophy/
@@ -44,18 +44,22 @@
   - [Typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia)
   
 - Literature/
-  - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona))
+  - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
 
 ### Other    
-- Technology/
-  - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) by Eric S. Raymond.
+- Programming/
+  - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) - Eric S. Raymond.
   - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - Peter Norwig
   - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - Oracle Docs.
   - [Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
-  - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
   - [How to store dotfiles - Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
-  - [How to speak Silicon Valley: 53 essential tech-bro terms explained](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy) - The Guardian.
   - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
   - [Things You Didn't Know About GNU Readline ](https://twobithistory.org/2019/08/22/readline.html)
   - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
   - [Practice CTF List](http://captf.com/practice-ctf/) - Jordan Wiens.
+
+- Technology/
+  - [How to speak Silicon Valley: 53 essential tech-bro terms explained](https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy) - The Guardian.
+
+- Mathematics/
+  - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
