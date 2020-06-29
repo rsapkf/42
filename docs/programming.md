@@ -18,7 +18,6 @@
   - [Standard C++](https://isocpp.org/)
   - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network
   - [cppreference.com](https://en.cppreference.com/w/)
-  - [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
   - [Microsoft Docs](https://docs.microsoft.com/en-us/)
 
 - Java
@@ -48,7 +47,6 @@
 
 - Rust
   - [Rust Lang Documentation](https://www.rust-lang.org/learn/get-started)
-  - [Rust Cheat Sheet](https://cheats.rs/)
 
 - D
   - [D Lang Documentation](https://dlang.org/)

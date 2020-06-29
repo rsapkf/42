@@ -65,9 +65,13 @@
   - [Zenkit](https://zenkit.com/)
   - [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose. `iOS` `macOS`
   - [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. `open-source upto v1.5.1`
-  - [Obsidian](https://obsidian.md/) - powerful knowledge base that works on top of a local folder of plain text Markdown files.
-  - [Roam](https://roamresearch.com/) - A note-taking tool for networked thoughts.
   - [Typora](https://typora.io/) - A new way to read and write Markdown.
+  
+  - Zettelkasten
+    - [Roam](https://roamresearch.com/) - A note-taking tool for networked thoughts.
+    - [RemNote](https://www.remnote.io/homepage) - spaced-repetition powered note-taking tool.
+    - [Obsidian](https://obsidian.md/) - powerful knowledge base that works on top of a local folder of plain text Markdown files.
+    - [The Archive](https://zettelkasten.de/the-archive/) - Nimble, Calm, Plain.txt. `macOS`
 
 - Read Later/Bookmarking
   - [Pocket](https://getpocket.com/) - When you find something you want to view later, put it in Pocket. `owned by Mozilla`
@@ -150,6 +154,7 @@
     - [Buffer](https://buffer.com/) - Build your audience and grow your brand on social media.
     - [Duolingo](https://www.duolingo.com) - Learn a language for free. Forever.
     - [SSL Labs](https://www.ssllabs.com/)
+    - [DeviantArt](https://www.deviantart.com/) - online community featuring artwork, videography, and photography.
     - [Shopify](https://www.shopify.com/) - E-commerce platform for online stores and retail point-of-sale systems.
     - [Gumroad](https://gumroad.com/) - Online platform that enables creators to sell products directly to consumers.
     - [Podia](https://www.podia.com/) - Sell online courses, downloads, webinars, and memberships without worrying about the tech.
@@ -158,10 +163,6 @@
   - Game Engines
     - [Unreal Engine](http://www.unrealengine.com/) `source-available software`
     - [Unity](https://unity.com/)
-
-  - Bittorrent Clients
-    - [Tixati BitTorrent Client](https://tixati.com/)
-    - [BitTorrent Bittorrent Client](https://www.bittorrent.com/)
 
   - Games
     - [Universe Sandbox](http://universesandbox.com/) - Physics-based space simulation software that allows anyone to create & destroy on an unimaginable scale.

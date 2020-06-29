@@ -80,7 +80,7 @@ Roadmap to Web Development:
   - [JavaScript30](https://www.javascript30.com)(GitHub - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30))
   - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
   - [William Vincent's JavaScript Guide](https://wsvincent.com/javascript-guide/)
-  - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - By Kyle Cook.
+  - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - Kyle Cook.
   - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
   - [Rodrigo Pombo's Blog](https://pomb.us/)
 
@@ -106,17 +106,13 @@ Roadmap to Web Development:
 ### Back-End Programming Languages
 - Python:
   - [Official Python Docs](https://www.python.org/doc/) - the official and easy to understand documentation of the Python programming language.
-  - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - The best practice to installation, configuration and usage of Python on a daily basis.
-  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by [Al Sweigart](https://twitter.com/AlSweigart). His other free to read online books- [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed), [Making Games With Python and PyGame](https://inventwithpython.com/pygame/) and [Cracking Codes With Python](https://inventwithpython.com/cracking/).
-  - [Awesome Python](https://python.libhunt.com/) (GitHub - [vinta/awesome-python](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, packages, software and resources.
   - [Python Wiki](https://wiki.python.org/moin/)
   - [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
   - [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   - [Python Tutor](http://www.pythontutor.com/) -  Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution.
-  - [Dive Into Python 3](https://www.diveinto.org/python3/) by Mark Pilgrim.
   - [pythonprogramming.net](https://pythonprogramming.net/)
   - [How To Think Like A Computer Scientist](https://greenteapress.com/wp/) - a free online book recommended by [MIT OpenCourseWare]()
-  - [RealPython](https://realpython.com/)
+  - [RealPython](https://realpython.com/) (GitHub: [realpython/materials](https://github.com/realpython/materials))
   - [Google's Python Class](https://developers.google.com/edu/python/)
   - [Python Discord](https://pythondiscord.com/)
   - [Full Stack Python](https://www.fullstackpython.com/)
@@ -260,6 +256,8 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [Who is my ISP?](https://www.whoismyisp.org/)
 
 - Design Tools/
+  - [NoDesign.dev](https://nodesign.dev/) - A collection of tools for developers who have little to no artistic talent.
+  - [ColorBox](https://www.colorbox.io/) - a color tool to produce color sets.
   - [LogoMakr](https://logomakr.com/) `freemium`
   - [Figma](https://www.figma.com/) - collaborative interface design tool `closed-source` `freemium`
   - [svgator](https://www.svgator.com) - SVG Animation Creator `commercial`
@@ -288,10 +286,17 @@ See Also [HotFrameworks](https://hotframeworks.com/)
     
 - Deployment/
   - [Cloudflare](https://www.cloudflare.com/) - The Integrated Global Cloud Platform.
-  - [Netlify](https://netlify.com) -  Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
   - [Heroku](https://www.heroku.com/) - Build data-driven apps with fully managed data services.
+  - [Netlify](https://netlify.com) -  Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
+  - [GitHub Pages](https://pages.github.com/)
+  - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
   - [ZEIT Now](https://zeit.co/) - The easiest way to deploy websites.
   - [surge](https://surge.sh/) - Static web publishing for Front-End Developers.
+  - [Render](https://render.com/) - unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
+
+- VPS
+  - [DigitalOcean](https://www.digitalocean.com/)
+  - [Linode](https://www.linode.com/)
 
 - CI/CD
   - [Travis-CI](https://travis-ci.org/)

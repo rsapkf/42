@@ -183,6 +183,7 @@
     - [Engadget](https://www.engadget.com/)
     - [YCombinator](https://www.ycombinator.com)
     - [BoingBoing](https://boingboing.net/)
+    - [Gizmodo](https://gizmodo.com/)
     - [lifehacker](https://lifehacker.com/)
     - [Fast Company](https://www.fastcompany.com/)
     - [HowStuffWorks](https://www.howstuffworks.com/)
@@ -198,6 +199,7 @@
     - [Social Blade](https://socialblade.com/) - Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!
     - [MakeUseOf](https://www.makeuseof.com/)
     - [Epsilon Theory](https://www.epsilontheory.com/)
+    - [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page) - unofficial wiki dedicated to collecting, storing and providing information on the internals of Apple's iDevices.
     
   - Magazines/Newspapers
     - [Fortune](https://fortune.com/)
@@ -216,6 +218,7 @@
 
   - Comics
     - [xkcd Comics](https://www.xkcd.com/)
+    - [Existential Comics](http://existentialcomics.com/)
     - [PHD Comics](http://phdcomics.com/)
 
   - People
@@ -244,6 +247,3 @@
     - [Kenneth Reitz](https://www.kennethreitz.org/)
     - [Derek Sivers](https://sivers.org/)
     - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
-    
-  - Research Papers
-    - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto.

@@ -12,8 +12,10 @@
 
 ### Reddit
 - [What is the coolest website you’ve visited that no one knows about?](https://old.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)
+- [What's the scariest space fact/mystery in your opinion?](https://old.reddit.com/r/AskReddit/comments/h0ijze/whats_the_scariest_space_factmystery_in_your/)
 
 ### Stack Overflow
+- [c++ - The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [vi - Your problem with Vim is that you don't grok vi.](https://stackoverflow.com/a/1220118)
 - [javascript - How does the “this” keyword work?](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
 - [python - What is the purpose of the word 'self'?](https://stackoverflow.com/questions/2709821/what-is-the-purpose-of-the-word-self)
@@ -23,10 +25,15 @@
 
 ### Wikipedia
 - Programming/
+  - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
   - [SOLID](https://en.wikipedia.org/wiki/SOLID)
   - [Sockpuppet](https://en.wikipedia.org/wiki/Sockpuppet_(Internet))
   - [Piggybacking](https://en.wikipedia.org/wiki/Piggybacking_(Internet_access))
   - [HTTP 451](https://en.wikipedia.org/wiki/HTTP_451)
+  - [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+  - [Doomsday rule](https://en.wikipedia.org/wiki/Doomsday_rule)
+  - [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
+  - [Turing completeness](https://en.wikipedia.org/wiki/Turing_completeness)
   - [Editor War](https://en.wikipedia.org/wiki/Editor_war)
   - [Infobesity](https://en.wikipedia.org/wiki/Information_overload)
   - [Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
@@ -35,6 +42,7 @@
   - [Rickrolling](https://en.wikipedia.org/wiki/Rickrolling)
   - [1% Rule](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture))
   - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
+  - [Link Rot](https://en.wikipedia.org/wiki/Link_rot)
     
 - Philosophy/
   - [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
@@ -63,3 +71,6 @@
 
 - Mathematics/
   - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
+  
+- Philosophy/
+  - [How to study philosophy as an amateur?](http://existentialcomics.com/blog) - Existential Comics.

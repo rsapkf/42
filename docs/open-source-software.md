@@ -138,6 +138,8 @@
       - (Web) [Pycharm-CE](https://www.jetbrains.com/pycharm/)
       - (Web) [IntelliJ IDEA-CE](https://www.jetbrains.com/idea/)
       - (Web) [Anaconda](https://www.anaconda.com/distribution/) - The World's Most Popular Python/R Data Science Platform.
+      - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - The Scientific Python Development Environment.
+      - (Web) [Jupyter](https://jupyter.org/) - Interactive Computing.
       - (Web) [Qt](https://www.qt.io/) - One framework. One codebase. Any platform.
       
     - Cloud Editors
@@ -189,7 +191,10 @@
     - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more.
     - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments.
     - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
+    - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers.
     - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
+
+    - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online. https://programmingfonts.org.
 
   - Terminal Applications/Console Services
     - Web Browsers
@@ -264,6 +269,7 @@
       - [tnalpgge/rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - generates ASCII pictures of a cow with a message.
       - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - The Party Parrot on your terminal.
       - (Web) [FIGlet](http://www.figlet.org/) - generate text banners, in a variety of typefaces, composed of letters made up of conglomerations of smaller ASCII characters.
+      - (Web) [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
     
   - Graphical Applications
     - Video Editors
@@ -432,6 +438,7 @@
     - (Web) [Orgmode](https://orgmode.org/) - document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the free software text editor Emacs in a fast and effective plain-text system.
       - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
       - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers. https://organice.200ok.ch.
+      - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode.
     - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app.
     - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
     - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes.
@@ -443,7 +450,6 @@
     - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - graphical text editor used to maintain a collection of wiki pages.
     - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source.
     - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-    - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
     - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
     - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers.
     - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -452,6 +458,11 @@
     - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management.
     - [leo-editor/leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an Outliner, Editor, and Personal Information Manager written in 100% Python.
     - [hamaluik/timecop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and the gets the job done without being fancy.
+  
+    - Zettelkasten/
+      - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+      - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+      - [ttscoff/nv](https://github.com/ttscoff/nv) - nvALT: MultiMarkdown version of Notational Velocity with Markdown editing features and preview.
   
   - Read Later/Bookmarking
     - [shaarli/shaarli](https://github.com/shaarli/shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo.
@@ -529,7 +540,7 @@
   - Email Clients
     - Text Based Email Clients
       - (GitLab) [muttmua/mutt](https://gitlab.com/muttmua/mutt) - "All mail clients suck. This one just sucks less."
-      - [neomutt/neomutt](https://github.com/neomutt/neomutt) - Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net.
+      - [neomutt/neomutt](https://github.com/neomutt/neomutt) - Teaching an Old Dog New Tricks.
       - [OfflineIMAP/offlineimap](https://github.com/OfflineIMAP/offlineimap) - Read/sync your IMAP mailboxes.
     
     - Graphical Email Clients
@@ -568,6 +579,7 @@
       - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
       - [30-seconds/30_seconds_of_knowledge](https://github.com/30-seconds/30_seconds_of_knowledge)Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
       - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids.
+      - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
     
     - Privacy Tools
       - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
@@ -577,7 +589,6 @@
       - [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome, Safari.
       - [hackademix/noscript](https://github.com/hackademix/noscript) - The popular NoScript Security Suite browser extension.
       - [passff/passff](https://github.com/passff/passff) - zx2c4 pass manager extension for Firefox, Chrome and Opera.
-      - [ourresearch/unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles.
       - (GitLab) [Synzvato/decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Local emulation of Content Delivery Networks.
       - [bitwarden/browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
       - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable.
@@ -585,6 +596,7 @@
       - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
       - [mozilla/notes](https://github.com/mozilla/notes) - A notepad for Firefox.
       - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results.
+      - [ourresearch/unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles.
       - (codeberg) [Booteille/invidition](https://codeberg.org/Booteille/Invidition) - A WebExtension to redirect ALL YouTube and Twitter requests to their alternative interfaces.
     
     - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
@@ -603,23 +615,24 @@
     - Color Schemes
       - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
       - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites.
+
+    - UserScript Managers
+      - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
+      - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
     
-    - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite.
+    - Chrome Only
+      - [babyman/quick-tabs-chrome-extension](https://github.com/babyman/quick-tabs-chrome-extension) - A quick tab list and switch plugin inspired by the intelliJ IDEA java IDE.
+      - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome.
+          
     - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
     - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file.
     - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus Userstyles Manager.
     - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
     - [samueljun/tomato-clock](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
     - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.
-  
-  - UserScript Managers
-    - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
-    - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-  
-  - Chrome Only
-    - [babyman/quick-tabs-chrome-extension](https://github.com/babyman/quick-tabs-chrome-extension) - A quick tab list and switch plugin inspired by the intelliJ IDEA java IDE.
-    - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome.
-    
+    - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite.
+    - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design.
+      
     See Also:
     - [Featured Extensions – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
     - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/)
@@ -633,6 +646,7 @@
     - [webtorrent/webtorrent)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. https://webtorrent.io.
     - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent BitTorrent client (Enhanced Edition).
     - [transmission/transmission](https://github.com/transmission/transmission) - BitTorrent client. See Also [Transmission-cli](https://wiki.archlinux.org/index.php/Transmission).
+    - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
     - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client.
       - [pyroscope/rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
     - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
@@ -762,7 +776,7 @@
     - [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 
 - Python
-  - Web Frameworks
+  - Web Frameworks/APIs
     - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
       - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
       - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
@@ -788,12 +802,15 @@
     - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
     - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
     - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
+    - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) -  An API wrapper for Discord written in Python.
   
   - Data Science
     - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
     - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python.
     - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+    - [scipy/scipy/](https://github.com/scipy/scipy/) - Scipy library main repository.    
     - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
+- [sagemath/sage](https://github.com/sagemath/sage) - Mathematics software system. `Mirror` https://sagemath.org/.
     - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
     - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
   
@@ -879,14 +896,16 @@
     - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
     - [pshihn/rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance.
     - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
-    
     - (Web) [Observable](https://observablehq.com/) - The magic notebook for data visualization.
 
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
   - [webslides/webslides](https://github.com/webslides/webslides) - Create HTML presentations in seconds.
   - [babel/babel](https://github.com/babel/babel) - Babel is a compiler for writing next generation JavaScript.
   - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
+  - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
+  - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler.
   - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+  - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) -  Immutable persistent data collections for Javascript which increase efficiency and simplicity.
   - [MrRio/jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
   - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript.
   - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
@@ -904,10 +923,10 @@
   - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
   - [lerna/lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
   - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
-  - [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
   - [googlechrome/workbox](https://github.com/googlechrome/workbox) - JavaScript lhttps://github.com/scikit-learn/scikit-learnhttps://github.com/scikit-learn/scikit-learnhttps://github.com/scikit-learn/scikit-learnibraries for Progressive Web Apps.
   - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - Automatically add next page.
   - [mishoo/UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit.
+  - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) -  Beautifier for javascript.
   - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
   - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
   - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
@@ -923,7 +942,7 @@
   - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides.
   - [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
   - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
-  - [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
+  - [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars  javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
   - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.
   - [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance.
   - [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
@@ -979,11 +998,13 @@
   - [dundalek/markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps.
   - [gera2ld/markmap-lib](https://github.com/gera2ld/markmap-lib) - Visualize your Markdown as mindmaps with Markmap.
   - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-  - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library.
+  - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight,  javascript parallax library.
   - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library.
   - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Possibly the smallest compiler ever.
   - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
   - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views.
+  - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin.
+  - [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -1072,6 +1093,7 @@
   - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
   - [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java.
   - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling.
+  - [orchidhq/orchid](https://github.com/orchidhq/orchid) - Build and deploy beautiful documentation sites that grow with you. https://orchid.run.
 
 - Haskell
   - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
@@ -1093,9 +1115,11 @@
 
 - R
   - [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R.
+  - [r-lib/pkgdown/](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package.
 
 - PHP
   - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - The collaborative editing software that runs Wikipedia. `Mirror` https://mediawiki.org.
+  - [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - Write gorgeous documentations for your products using Markdown inside your Laravel app.
 
 - Source Control
   - [git/git](https://github.com/git/git) - Git Source Code. `Mirror` https://git-scm.com.
@@ -1136,9 +1160,9 @@
   - [andybrewer/mvp](https://github.com/andybrewer/mvp) - Minimalist stylesheet for HTML elements.
   - [pure-css/pure](https://github.com/pure-css/pure/) - A set of small, responsive CSS modules that you can use in every web project.
   - [daneden/animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
-  - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
   - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets.
   - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
+  - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
   - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design.
   - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
   - [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -1157,6 +1181,7 @@
   - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
   - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
     - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+    - [facebook/draft-js](https://github.com/facebook/draft-js) -  A React framework for building text editors.
     - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
     - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
     - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
@@ -1210,6 +1235,7 @@
     - [graphql/express-graphql](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
   - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime.
     - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy.
+    - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts.
     - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8).
     - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js.
     - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
@@ -1322,6 +1348,7 @@
   - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote/) - A markdown editor for developers.
   - [marktext/marktext](https://github.com/marktext/marktext) - A simple and elegant markdown editor.
   - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+  - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed.
   - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
   - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
   - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -1415,6 +1442,7 @@
   - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
   - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
   - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
+  - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library.
 
 - File Synchronization
   - [syncthing/syncthing](https://github.com/syncthing/syncthing/) - Open Source Continuous File Synchronization.
@@ -1543,6 +1571,10 @@
   - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop offers a fully scalable open source ecommerce solution.
   - [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) - Web interface for browsing, search and filtering recent arxiv submissions. http://www.arxiv-sanity.com.
 
+- Web Accessibility
+  - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
+  - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
+
 - General
   - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All. https://faceswap.dev.
   - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox.
@@ -1551,7 +1583,10 @@
   - [cdr/code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
   - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Productive. Reliable. Fast.
   - [home-assistant/home-assistant](https://github.com/home-assistant/home-assistant) - Open source home automation that puts local control and privacy first.
+  - [docker/docker-ce](https://github.com/docker/docker-ce) - Docker CE.
+    - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
   - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management.
+  - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems.
   - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
   - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol.
   - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -1578,7 +1613,6 @@
   - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. `self-hosted`
   - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
   - [ixy-languages/ixy-languages](https://github.com/ixy-languages/ixy-languages) - A high-speed network driver written in C, Rust, Go, C#, Java, OCaml, Haskell, Swift, Javascript, and Python.
-  - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
   - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
   - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
   - [idealo/imagededup](https://github.com/idealo/imagededup) - Finding duplicate images made easy!.
@@ -1590,25 +1624,21 @@
   - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
   - [aquametalabs/aquameta](https://github.com/aquametalabs/aquameta) - Web development platform built entirely in PostgreSQL.
   - [inlets/inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet.
-  - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
   - [gravitational/teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
   - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers.
   - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
   - [TomaszRewak/C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications.
   - [whitequark/unfork](https://github.com/whitequark/unfork) - unfork(2) is the inverse of fork(2). sort of.
   - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - A personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-  - [Gabriel439/simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file.
   - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell.
   - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64.
   - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
   - [pirate/ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more. `self-hosted`
-  - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
   - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens gotrueapi.org.
   - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com.
   - [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Support tables for HTML and CSS in emails.
   - [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables.
-  - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
   - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
   - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting. https://sentry.io.
   - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -1702,6 +1732,7 @@
     - [jisaacks/GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter.
     
   - Note-Taking/Project Management
+    - [renerocksai/sublime_zk](https://github.com/renerocksai/sublime_zk) - A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note transclusion features, support for note templates, bibliography support, support for multiple panes, etc. to make working in your Zettelkasten a joy.
     - [danielmagnussons/orgmode](https://github.com/danielmagnussons/orgmode) - orgmode for Sublime Text 2 & 3.
     - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3).
 
@@ -1710,8 +1741,10 @@
   - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding.
   - [idan/gistio](https://github.com/idan/gistio) - A gist-backed pretty display for markdown.
   - [loadzero/si78c](https://github.com/loadzero/si78c) - si78c is a memory accurate reimplementation of Space Invaders in C.
+  - [caseykneale/VIMKiller](https://github.com/caseykneale/VIMKiller) - Exiting VIM is hard; sometimes we need to take drastic measures.
   - [bbody/CMD-Resume](https://github.com/bbody/CMD-Resume) - Web-based Command Line Resume.
   - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool.
+  - [Gabriel439/simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file.
   - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
   - [hkbakke/bash-insulter](https://github.com/hkbakke/bash-insulter) - Insults the user when typing wrong command.
   - (sourcehut git) [~sircmpwn/shit](https://git.sr.ht/~sircmpwn/shit) - An implementation of git in (almost) pure POSIX shell.
@@ -1751,6 +1784,7 @@
 - [Netflix-Skunkworks](https://github.com/Netflix-Skunkworks)
 - [Keybase](https://github.com/keybase) - Crypto for everyone!
 - [Python](https://github.com/python) - Repositories related to the Python Programming language.
+- [Docker](https://github.com/docker) - Docker provides a simple and powerful developer experience, workflows and collaboration for creating applications.
 - [Standard Notes](https://github.com/standardnotes) - An end-to-end encrypted note-taking app.
 - [Taiga.io](https://github.com/taigaio/) - Your Agile, Free and Open Source Project Management Tool.
 - [Sentry](https://github.com/getsentry/) - Real-time crash reporting for your web apps, mobile apps, and games.
@@ -1764,6 +1798,7 @@
 - [systemd](https://github.com/systemd) - System and Service Manager.
 - [ZEIT](https://github.com/zeit) - Making cloud computing accessible to everyone.
 - [Spectrum](https://github.com/withspectrum) - Where communities live.
+- [Project Jupyter](https://github.com/jupyter) - Interactive Computing.
 - [spinnaker](https://github.com/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [CircleCI](https://github.com/circleci) - Continuous Integration and Deployment.
 - [World Wide Web Consortium](https://github.com/w3c) - The World Wide Web Consortium (W3C) is the main international standards organization for the World Wide Web.
@@ -1873,8 +1908,9 @@
 - [Donne Martin](https://github.com/donnemartin)
 - [Michael Nielsen](https://github.com/mnielsen)
 - [Lex Fridman](https://github.com/lexfridman) - The AI Podcast.
-- [Wes Bos](https://github.com/wesbos)
+- [Peter Norvig](https://github.com/norvig) - Director at Google.
 - [Dan Abramov](https://github.com/gaearon) - Creator of Redux.js.
+- [Wes Bos](https://github.com/wesbos)
 - [Kyle Mathews](https://github.com/KyleAMathews)
 - [Sindre Sorhus](https://github.com/sindresorhus)
 - [David Peter](https://github.com/sharkdp)
@@ -1942,3 +1978,4 @@
 - [Avery Pennarun](https://github.com/apenwarr)
 - [Greg Hurrell](https://github.com/wincent)
 - [Sarah Drasner](https://github.com/sdras)
+- [Max Woolf](https://github.com/minimaxir)

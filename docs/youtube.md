@@ -163,12 +163,13 @@
 - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
 - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-- [What\'s Inside?](https://www.youtube.com/channel/UCSrPuHtKbst7Zy8pyWn_3Cg)
+- [What's Inside?](https://www.youtube.com/channel/UCSrPuHtKbst7Zy8pyWn_3Cg)
 - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
 - [SpaceX](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA)
 - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 - [TechLinked](https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA)
 - [Mrwhosetheboss](https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA)
+- [UrAvgConsumer](https://www.youtube.com/channel/UC9fSZHEh6XsRpX-xJc6lT3A)
 - [Reigarw Comparisons](https://www.youtube.com/channel/UCcM-EIxza5g1S0dpnoO_ePA)
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
 - [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)
@@ -193,10 +194,6 @@
 - [Exploring Alternatives](https://www.youtube.com/channel/UC8EQAfueDGNeqb1ALm0LjHA)
 - [PowerfulJRE](https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ)
 - [JRE Clips](https://www.youtube.com/channel/UCnxGkOGNMqQEUMvroOWps6Q)
-- [How It Should Have Ended](https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ)
-- [Sam O'Nella Academy](https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA)
-- [Jaiden Animations](https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA)
-- [TheOdd1sOut](https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ)
 - [Jordan B Peterson](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q)
 - [Looper](https://www.youtube.com/channel/UCP1iRaFlS5EYjJBryFV9JPw)
 - [Sam Harris](https://www.youtube.com/channel/UCNAxrHudMfdzNi6NxruKPLw)
@@ -208,6 +205,7 @@
 - [ScareTheater](https://www.youtube.com/channel/UCaGOgwGKnDVOKY0DrFsBAiA)
 - [VICE](https://www.youtube.com/channel/UCn8zNIfYAQNdrFRrr8oibKw)
 - [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w)
+- [Matt and Tom](https://www.youtube.com/channel/UCRUULstZRWS1lDvJBzHnkXA)
 
 ### Magic + Puzzles
 - [Grand Illusions](https://www.youtube.com/channel/UCnmgSO_4g6QcRzy0yFeglyA)
@@ -217,6 +215,13 @@
 - [ChessNetwork](https://www.youtube.com/channel/UCCDOQrpqLqKVcTCKzqarxLg)
 - [Scam Nation](https://www.youtube.com/channel/UCRd9JHiQvqwT8O4d0QGI9jQ)
 - [The Modern Rogue](https://www.youtube.com/channel/UC42VsoDtra5hMiXZSsD6eGg)
+
+### Animation
+- [How It Should Have Ended](https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ)
+- [Sam O'Nella Academy](https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA)
+- [Jaiden Animations](https://www.youtube.com/channel/UCGwu0nbY2wSkW8N-cghnLpA)
+- [TheOdd1sOut](https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ)
+- [Piemations](https://www.youtube.com/channel/UC8RBLJdSpxSVWDc_bGKmdQQ)
 
 ### Gaming + Memes
 - [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw)

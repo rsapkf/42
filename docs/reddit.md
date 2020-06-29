@@ -75,8 +75,8 @@
 - [r/DunderMifflin](https://www.reddit.com/r/DunderMifflin/)
 
 ### Science
-- [r/science](https://www.reddit.com/r/science/)
 - [r/askscience](https://www.reddit.com/r/askscience/)
+- [r/science](https://www.reddit.com/r/science/)
 - [r/todayilearned](https://www.reddit.com/r/todayilearned/)
 - [r/Physics](https://www.reddit.com/r/Physics/)
 - [r/chemistry](https://www.reddit.com/r/chemistry/)
@@ -111,9 +111,10 @@
 - [r/DesignPorn](https://www.reddit.com/r/DesignPorn/)
 - [r/hacking](https://www.reddit.com/r/hacking/)
 - [r/pihole](https://www.reddit.com/r/pihole/)
-- [r/Piracy](https://www.reddit.com/r/Piracy/)
 - [r/teslamotors](https://www.reddit.com/r/teslamotors/)
 - [r/TOR](https://www.reddit.com/r/TOR/)
+- [r/spacex](https://www.reddit.com/r/spacex/)
+- [r/Piracy](https://www.reddit.com/r/Piracy/)
 
 ### Mathematics
 - [r/learnmath](https://www.reddit.com/r/learnmath/)
@@ -135,6 +136,10 @@
 
 ### Miscellaneous
 - [r/IAmA](https://www.reddit.com/r/IAmA/)
+- [r/AskReddit](https://www.reddit.com/r/AskReddit/)
+- [r/askphilosophy](https://www.reddit.com/r/askphilosophy/)
+- [r/AskHistorians](https://www.reddit.com/r/AskHistorians/)
+- [r/nosleep](https://www.reddit.com/r/nosleep/)
 - [r/Showerthoughts](https://www.reddit.com/r/Showerthoughts/)
 - [r/news](https://www.reddit.com/r/news/)
 - [r/worldnews](https://www.reddit.com/r/worldnews/)
@@ -147,7 +152,6 @@
 - [r/MovieDetails](https://www.reddit.com/r/MovieDetails/)
 - [r/movies](https://www.reddit.com/r/movies/)
 - [r/HistoryPorn](https://www.reddit.com/r/HistoryPorn/)
-- [r/AskHistorians](https://www.reddit.com/r/AskHistorians/)
 - [r/LifeProTips](https://www.reddit.com/r/LifeProTips/)
 - [r/ShittyLifeProTips](https://www.reddit.com/r/ShittyLifeProTips/)
 - [r/IllegalLifeProTips](https://www.reddit.com/r/IllegalLifeProTips/)
@@ -155,12 +159,12 @@
 - [r/Eyebleach](https://www.reddit.com/r/Eyebleach/)
 - [r/pics](https://www.reddit.com/r/pics/)
 - [r/InternetIsBeautiful)](https://www.reddit.com/r/InternetIsBeautiful/)
-- [r/AskReddit](https://www.reddit.com/r/AskReddit/)
 - [r/changemyview](https://www.reddit.com/r/changemyview/)
 - [r/Damnthatsinteresting](https://www.reddit.com/r/Damnthatsinteresting/)
 - [r/Interestingasf ck](https://www.reddit.com/r/Interestingasfuck/)
 - [r/mildlyinteresting](https://www.reddit.com/r/mildlyinteresting/)
-- [r/wallpaper](https://www.reddit.com/r/wallpaper/)
+- [r/Wallpaper](https://www.reddit.com/r/wallpaper/)
+- [r/Wallpapers](https://www.reddit.com/r/wallpapers/)
 - [r/OutOfTheLoop](https://www.reddit.com/r/OutOfTheLoop/)
 - [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)
 - [r/YouShouldKnow](https://www.reddit.com/r/YouShouldKnow/)
@@ -183,6 +187,7 @@
 - [r/nextf ckinglevel](https://www.reddit.com/r/nextfuckinglevel/)
 - [r/youseeingthisshit](https://www.reddit.com/r/youseeingthisshit/)
 - [r/BetterEveryLoop](https://www.reddit.com/r/BetterEveryLoop/)
+- [r/ThatsInsane](https://www.reddit.com/r/ThatsInsane/)
 - [r/woahdude](https://www.reddit.com/r/woahdude/)
 - [r/Music](https://www.reddit.com/r/Music/)
 - [r/IsItBullshit](https://www.reddit.com/r/IsItBullshit/)
@@ -190,6 +195,7 @@
 - [r/IWantToLearn](https://www.reddit.com/r/IWantToLearn/)
 - [r/UnresolvedMysteries](https://www.reddit.com/r/UnresolvedMysteries/)
 - [r/trashy](https://www.reddit.com/r/trashy/)
+- [r/PublicFreakout](https://www.reddit.com/r/PublicFreakout/)
 
 ### Reddit Profiles
 - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.
