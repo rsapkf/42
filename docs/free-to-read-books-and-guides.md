@@ -40,7 +40,7 @@
   - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh.
 
 - [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted](https://sarabander.github.io/sicp/html/index.xhtml)([GitHub](https://github.com/sarabander/sicp)))
-- [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. ([formatted](https://www.arp242.net/the-art-of-unix-programming/))
+- [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. ([reformatted](https://www.arp242.net/the-art-of-unix-programming/))
 - [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/) - Machtelt Garrels.
 - [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/) - Mendel Cooper.
 - [The Cathedral and the Bazaar](http://catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) - Eric S. Raymond.

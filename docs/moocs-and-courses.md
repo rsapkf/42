@@ -5,7 +5,7 @@
     - [edX.org](https://www.edx.org/)
     - [The Linux Foundation Training](https://training.linuxfoundation.org/)
     - [freeCodeCamp](https://freecodecamp.org/) - Learn to Code for Free.
-    - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+    - [MIT OpenCourseWare](https://ocw.mit.edu/)
     - [MIT Deep Learning](https://deeplearning.mit.edu/)
     - [Coursera](https://www.coursera.org/)
     - [CodeAcademy](https://www.codecademy.com/)
@@ -21,7 +21,7 @@
     - [Class-Central](https://www.classcentral.com/) 
     - [Cognitive CLass](https://cognitiveclass.ai/)
     - [Full Stack Open 2019](https://fullstackopen.com/en)
-    - [Acedemic Earth](https://www.academicearth.org/)
+    - [Academic Earth](https://www.academicearth.org/)
     - [University of Reddit](http://ureddit.com/)
     - [OPEN CULTURE](http://www.openculture.com/)
     - [teachyourselfcs.com](https://teachyourselfcs.com/)

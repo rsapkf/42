@@ -64,7 +64,7 @@ Roadmap to Web Development:
   - [freeCodeCamp.org](https://www.freecodecamp.org/)--(Highly Recommended)-- - an excellent [open source]() resource for learning web development in an interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
   - [The Odin Project](https://www.theodinproject.com/) - another excellent [open source]() resource similar to the freeCodeCamp project. Covers Ruby, RubyOnRails.
   - [w3schools](https://www.w3schools.com/) - While this site is pretty decent for quick syntax lookup and reference, I --DO NOT-- recommend this over MDN to learn -how to program-. Before choosing w3schools over above resources, please go through [this](https://news.ycombinator.com/item?id=6422998) hackernews thread and [this](https://www.w3fools.com) site by the mods of [r/learnprogramming](www.reddit.com/learnprogramming). This site also has references to Ajax, Node, PHP, SQL, XML, Java, Python, ASP, Angular, jQuery, Bootstrap, C++ and Raspberry Pi.
-  - [Deep Dive Into Modern Web Development - University of Helsinki](https://fullstackopen.com/en) - React, Node, Express, GraphQL
+  - [Deep Dive Into Modern Web Development - University of Helsinki](https://fullstackopen.com/en) - React, Node, Express, GraphQL.
   - [HTML Dog](https://htmldog.com/) - HTML, CSS, JavaScript
   - [Scrimba](https://scrimba.com/) - Interactive way to learn and test HTML, CSS and JavaScript code and lessons on React, Vue and Angular frameworks.
   - [SoloLean](https://www.sololearn.com/) - Learn HTML, CSS, JavaScript, PHP, Ruby, SQL, jQuery, Java, C, C++, C#, Swift on the [Web](https://www.sololearn.com/) or their Mobile App [Google Play](https://play.google.com/store/apps/details?id=com.sololearn) | [App Store](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8)
@@ -111,7 +111,7 @@ Roadmap to Web Development:
   - [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   - [Python Tutor](http://www.pythontutor.com/) -  Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution.
   - [pythonprogramming.net](https://pythonprogramming.net/)
-  - [How To Think Like A Computer Scientist](https://greenteapress.com/wp/) - a free online book recommended by [MIT OpenCourseWare]()
+  - [How To Think Like A Computer Scientist](https://greenteapress.com/wp/) - a free online book recommended by [MIT OpenCourseWare](https://ocw.mit.edu/)
   - [RealPython](https://realpython.com/) (GitHub: [realpython/materials](https://github.com/realpython/materials))
   - [Google's Python Class](https://developers.google.com/edu/python/)
   - [Python Discord](https://pythondiscord.com/)
