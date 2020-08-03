@@ -2,7 +2,7 @@
 
 This is an ongoing personal collection of over 3000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Contains my blogroll, websites, software that I use, my GitHub/GitLab/... stars(which I manage with my bookmark manager, not GH itself), Gists, Subreddits, YouTube channels, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/StackOverflow/Codepen profiles/articles I follow, Podcasts I listen to, Browser Add-ons, Linux Hacks, Vim/Tmux/Emacs plugins I use and everything.
 
-In short, this is my attempt to organize my links, a directory of my "public" bookmarks. Feedback and [contributions](src/CONTRIBUTING.md) are appreciated.
+In short, this is my attempt to organize my links, a directory of my "public" bookmarks. Feedback and [contributions](CONTRIBUTING.md) are appreciated.
 
 mdBook: [links.rsapkf.xyz](https://links.rsapkf.xyz/)
 
