@@ -1,0 +1,51 @@
+[book]
+authors = ["rsapkf"]
+language = "en"
+multilingual = false
+src = "src"
+title = "[ rsapkf / 42 ]"
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/rsapkf/42"
+git-repository-icon = "fa-github"
+
+
+# [book]
+# title = "Example book"
+# authors = ["John Doe", "Jane Doe"]
+# description = "The example book covers examples."
+# 
+# [output.html]
+# theme = "my-theme"
+# default-theme = "light"
+# preferred-dark-theme = "navy"
+# curly-quotes = true
+# mathjax-support = false
+# google-analytics = "123456"
+# additional-css = ["custom.css", "custom2.css"]
+# additional-js = ["custom.js"]
+# no-section-label = false
+# git-repository-url = "https://github.com/rust-lang/mdBook"
+# git-repository-icon = "fa-github"
+# 
+# [output.html.fold]
+# enable = false
+# level = 0
+# 
+# [output.html.playpen]
+# editable = false
+# copy-js = true
+# line-numbers = false
+# 
+# [output.html.search]
+# enable = true
+# limit-results = 30
+# teaser-word-count = 30
+# use-boolean-and = true
+# boost-title = 2
+# boost-hierarchy = 1
+# boost-paragraph = 1
+# expand = true
+# heading-split-level = 3
+# copy-js = true
