@@ -1,7 +1,6 @@
 # Summary
 
 - [42](README.md)
-- [docs/](README.md)
   - [Knowledge Repositories](docs/knowledge-repositories.md) (mostly on GitHub)
   - [Web Development](docs/web-development.md)
   - [Programming](docs/programming.md)
@@ -29,3 +28,5 @@
 
 - [CONTRIBUTING](CONTRIBUTING.md)
 - [LICENSE](LICENSE)
+
+---

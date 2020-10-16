@@ -100,7 +100,7 @@
   - [Google Docs](https://www.google.com/docs/about/)
 
 - Movie Ratings and Reviews
-  - [IMDb](imdb.com/) - Internet Movie Database.
+  - [IMDb](https://imdb.com/) - Internet Movie Database.
     - [IMDb Advanced Search](https://www.imdb.com/search/)
     - [Sort your IMDb ratings by title type](https://help.imdb.com/article/imdb/track-movies-tv/how-do-i-sort-my-ratings-by-the-title-type/G4LHN2ZSCPNM5W2S)
   - [Metacritic](https://www.metacritic.com/)
