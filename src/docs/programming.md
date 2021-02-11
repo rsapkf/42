@@ -56,6 +56,9 @@
 
 - Scala
   - [Scala Documentation](https://docs.scala-lang.org/)
+  
+- Swift
+  - [Hacking with Swift](https://www.hackingwithswift.com/)
 
 - Crystal
   - [Crystal Docs](https://crystal-lang.org/)

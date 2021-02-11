@@ -9,6 +9,7 @@
 - [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797)
 - [Ask HN: I'm a software engineer going blind, how should I prepare?](https://news.ycombinator.com/item?id=22918980)
 - [Ask HN: Mind bending books to read and never be the same as before?](https://news.ycombinator.com/item?id=23151144)
+- [Ask HN: Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739)
 
 ### Reddit
 - [What is the coolest website you’ve visited that no one knows about?](https://old.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)
@@ -43,15 +44,22 @@
   - [1% Rule](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture))
   - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
   - [Link Rot](https://en.wikipedia.org/wiki/Link_rot)
-    
+  - [Webring](https://en.wikipedia.org/wiki/Webring)
+  - [Glossary of blogging](https://en.wikipedia.org/wiki/Glossary_of_blogging)
+  - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
+  - [Quine](https://en.wikipedia.org/wiki/Quine_(computing))
+
 - Philosophy/
   - [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
+  - [Confucius](https://en.wikipedia.org/wiki/Confucius)
   - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
   - [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
   - [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism) ([List of autodidacts](https://en.wikipedia.org/wiki/List_of_autodidacts))
   - [Typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia)
   
 - Literature/
+  - [Science Fiction Technology Terms - NASA](https://er.jsc.nasa.gov/seh/SFTerms.html)
+  - [Constructed language](https://en.wikipedia.org/wiki/Constructed_language)
   - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
 
 ### Other    

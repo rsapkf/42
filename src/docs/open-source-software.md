@@ -114,6 +114,8 @@
         - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim.
         - [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in python made from scratch.
         - [veonim/veonim](https://github.com/veonim/veonim) - simple modal IDE built on neovim.
+        - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
+        - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
       - (Web) [GNU Emacs](https://www.gnu.org/software/emacs) - An extensible, customizable, free/libre text editor — and more.
         - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs _and_ Vim!.
         - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer.
@@ -145,6 +147,7 @@
     - Cloud Editors
       - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. https://theia-ide.org.
       - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor. https://stackedit.io.
+      - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. https://dillinger.io.
       - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online code editor tailored for web application development. https://codesandbox.io.
 
   - File Managers
@@ -297,6 +300,7 @@
       - [qemu/qemu](https://github.com/qemu/qemu) - the FAST! processor emulator. `Mirror` https://www.qemu.org.
       - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt.
       - (Web) [Kernel Virtual Machine](https://www.linux-kvm.org/page/Main_Page) - a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
+      - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
     
     - (Web) [meld](https://gitlab.gnome.org/GNOME/meld) - Meld is a visual diff and merge tool targeted at developers.
     
@@ -569,6 +573,7 @@
     - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
     - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
     - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is Chromium plus ad blocking and privacy enhancements; take back your browser!ssss
+    - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers.
     - (Web) [Vivaldi](https://vivaldi.com/) `partially open source`
     
   - Browser Add-ons/Extensions
@@ -580,7 +585,8 @@
       - [30-seconds/30_seconds_of_knowledge](https://github.com/30-seconds/30_seconds_of_knowledge)Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.
       - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids.
       - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
-    
+      - [chrispederick/web-developer](https://github.com/chrispederick/web-developer/) - A browser extension that adds various web developer tools to a browser.
+      
     - Privacy Tools
       - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
       - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
@@ -598,6 +604,8 @@
       - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results.
       - [ourresearch/unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles.
       - (codeberg) [Booteille/invidition](https://codeberg.org/Booteille/Invidition) - A WebExtension to redirect ALL YouTube and Twitter requests to their alternative interfaces.
+      - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
+      - [mailvelope/mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail.
     
     - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
     - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
@@ -732,6 +740,7 @@
   - Presentation
     - (Web) [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool by suckless.org.
     - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
+    - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 
   - Image Viewers
     - [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer.
@@ -774,6 +783,11 @@
     - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua. `macOS`
     - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. `macOS`
     - [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
+    - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
+    - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data.
+    - [sinclairtarget/um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff.
+    - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
+    - [spieglt/whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process.
 
 - Python
   - Web Frameworks/APIs
@@ -1006,6 +1020,15 @@
   - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views.
   - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin.
   - [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects.
+  - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript.
+  - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
+  - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+  - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
+  - [iamkun/dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date library alternative to Moment.js with the same modern API.
+  - [SchemaStore/schemastore](https://github.com/schemastore/schemastore/) - A collection of JSON schema files including full API.
+  - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps.
+  - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾.
+  - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 
 - TypeScript
   - [teambit/bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
@@ -1176,6 +1199,7 @@
   
   - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub. https://primer.style/css.
   - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System.
+  - [FirefoxUX/photon](https://github.com/FirefoxUX/photon) - Firefox's Photon Design System.
   - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs.
 
 - Front-End JavaScript Frameworks/Libraries
@@ -1268,12 +1292,14 @@
 
 - Android Only
   - (GitLab) [fdroid/fdroidclient](https://gitlab.com/fdroid/fdroidclient) - Android client application.
+  - (GitLab) [proninyaroslav/libretorrent](https://gitlab.com/proninyaroslav/libretorrent).
   - (GitLab) [AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - An Open Source alternative for Google Play Store.
   - (GitLab) [juanitobananas/scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) - Remove Exif data from pictures before sharing them.
   - [duckduckgo/android](https://github.com/duckduckgo/android) - DuckDuckGo Android App.
   - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenPGP implementation for Android.
   - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app.
   - [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
+  - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android.
   - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind. 
   - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
   - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader.
@@ -1285,7 +1311,8 @@
   - [meefik/busybox](https://github.com/meefik/busybox) - BusyBox for Android.
   - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, 200kb Android launcher.
   - [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012).
-    
+  - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
+  
   - Secure Communication
     - [inputmice/Conversations](https://github.com/inputmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android.
   
@@ -1462,6 +1489,8 @@
   - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
   - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
   - [racket/racket](https://github.com/racket/racket) - The Racket repository.
+  - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music.  Live.
+  - [RockstarLang/rockstar](https://github.com/RockstarLang/Rockstar) - The Rockstar programming language specification.
 
 - Cryptocurrency
   - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
@@ -1555,6 +1584,7 @@
   - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
   - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows.
   - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+  - (Web) [7-Zip](https://www.7-zip.org/) - file archiver with a high compression ratio.
   
 - Forums/Sites
   - (GitLab) [gitlab-org/gitter](https://gitlab.com/gitlab-org/gitter) - Gitter is a community for software developers.
@@ -1653,6 +1683,56 @@
   - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
   - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. https://odoo.com.
   - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
+  - [edavis/hnrss](https://github.com/edavis/hnrss) - Custom, realtime RSS feeds for Hacker News.
+  - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in.
+  - [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org - the forever free, adless and open source chess server ♞.
+  - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024).
+  - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action.
+  - [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
+  - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
+  - [streamlit/streamlit](https://github.com/streamlit/streamlit) - The fastest way to build custom ML tools.
+  - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
+  - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+  - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time.
+  - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site's pages instant in 1 minute and improve your conversion rate by 1%.
+  - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser.
+  - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
+  - [carbon-app/carbon](https://github.com/carbon-app/carbon) - Create and share beautiful images of your source code.
+  - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js.
+  - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
+  - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns.
+  - [caprover/caprover](https://github.com/caprover/caprover) - Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids.
+  - [cowbell/sharedrop](https://github.com/cowbell/sharedrop) - Easy P2P file transfer powered by WebRTC (inspired by Apple AirDrop).
+  - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking. No network infrastructure required (access point, router, switch). Just two laptops with wireless chips in close range. Mac, Windows, and Linux.
+  - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+  - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - cross platform toolkit for creative coding in C++.
+  - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
+  - [cisco/ChezScheme](https://github.com/cisco/chezscheme)  - Chez Scheme.
+  - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo).
+  - [ch11ng/exwm](https://github.com/ch11ng/exwm)  - Emacs X Window Manager.
+  - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch).
+  - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P conte.
+  - [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the ngi.
+  - [KevinRoebert/ClearUrls](https://github.com/KevinRoebert/ClearUrls) - Remove tracking fields form urls.
+  - [mckeever02/mailtolink](https://github.com/mckeever02/mailtolink) - A quick and easy way to generate markup for mailto links without having to worry about the annoying formatting.
+  - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode.
+  - [zulip/zulip](https://github.com/zulip/zulip) - powerful open source team chat.
+  - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+  - [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask).
+  - [freeCodeCamp/mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An open source email campaign management tool for nonprofits.
+  - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+  - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for \$200.
+  - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.
+  - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+  - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
+
+- Cool Stuff
+  - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages.
+
+  - Websites/
+    - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop graphical user interfaces. https://simone.computer/#/webdesktops.
+    - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - Web based Windows XP desktop recreation. https://winxp.now.sh.
+    - [maxboeck/whimsical](https://github.com/maxboeck/whimsical) - A curated list of websites with an extra bit of fun. https://whimsical.club.
 
 - Website Templates
   - Bootstrap Templates
@@ -1854,6 +1934,8 @@
 - [GraphQL](https://github.com/graphql)
 - [Yubico](https://github.com/yubico)
 - [Django](https://github.com/django)
+- [Electronic Frontier Foundation](https://github.com/EFForg)
+- [Cisco Systems](https://github.com/cisco)
 - [GoogleChrome](https://github.com/GoogleChrome)
 - [Xamarin](https://github.com/xamarin)
 - [Shopify](https://github.com/Shopify)
@@ -1877,6 +1959,7 @@
 - [CareerCup](https://github.com/careercup)
 - [Mega Limited](https://github.com/meganz)
 - [mongodb](https://github.com/mongodb)
+- [Cubing](https://github.com/cubing)
 - [The Reddit Archives](https://github.com/reddit-archive) - Projects where changes are no longer publicly published.
 - [30 seconds](https://github.com/30-seconds) - The team behind 30-seconds-of-code and official 30-seconds projects.
 - [The World Cube Association](https://github.com/thewca) - Official projects for the World Cube Association (WCA).
@@ -1902,6 +1985,7 @@
 - [Raymond Hill](https://github.com/gorhill) - The Cathedral and The Bazaar, uBlock Origin.
 - [Luke Smith](https://github.com/lukesmithxyz)
 - [Tim Pope](https://github.com/tpope)
+- [Andrej Karpathy](https://github.com/karpathy)
 - [Evan You](https://github.com/yyx990803) - Creator of VueJS.
 - [Christopher Olah](https://github.com/colah)
 - [Daniel Shiffman](https://github.com/shiffman) - The Coding Train.
@@ -1912,6 +1996,7 @@
 - [Peter Norvig](https://github.com/norvig) - Director at Google.
 - [Dan Abramov](https://github.com/gaearon) - Creator of Redux.js.
 - [Wes Bos](https://github.com/wesbos)
+- [Kent C. Dodds](https://github.com/kentcdodds)
 - [Kyle Mathews](https://github.com/KyleAMathews)
 - [Sindre Sorhus](https://github.com/sindresorhus)
 - [David Peter](https://github.com/sharkdp)

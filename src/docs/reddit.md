@@ -1,4 +1,4 @@
-# Reddit
+# Reddit Subscriptions
 
 ### Privacy
 - [r/privacy](https://www.reddit.com/r/privacy/)
@@ -41,9 +41,13 @@
 - [r/javascript](https://www.reddit.com/r/javascript/)
 - [r/rust](https://www.reddit.com/r/rust/)
 - [r/emacs](https://www.reddit.com/r/emacs/)
+- [r/datasets](https://www.reddit.com/r/datasets/)
 
 ### Memes
 - [r/memes](https://www.reddit.com/r/memes/)
+- [r/dankmemes](https://www.reddit.com/r/dankmemes/)
+- [r/Giraffesdontexist](https://www.reddit.com/r/Giraffesdontexist/)
+- [r/HydroHomies](https://www.reddit.com/r/HydroHomies/)
 - [r/HighQualityGifs](https://www.reddit.com/r/HighQualityGifs/)
 - [r/Unexpected](https://www.reddit.com/r/Unexpected/)
 - [r/MurderedByWords](https://www.reddit.com/r/MurderedByWords/)
@@ -95,6 +99,7 @@
 - [r/philosophy](https://www.reddit.com/r/philosophy/)
 - [r/scifi](https://www.reddit.com/r/scifi/)
 - [r/educationalgifs](https://www.reddit.com/r/educationalgifs/)
+- [r/SpacePorn](https://www.reddit.com/r/spaceporn/)
 
 ### Technology
 - [r/technology](https://www.reddit.com/r/technology/)
@@ -183,7 +188,7 @@
 - [r/coolguides](https://www.reddit.com/r/coolguides/)
 - [r/mildlyinfuriating](https://www.reddit.com/r/mildlyinfuriating/)
 - [r/BeAmazed](https://www.reddit.com/r/BeAmazed/)
-- [r/blackmagicfuckery](https://www.reddit.com/r/blackmagicfuckery/)
+- [r/blackmagicf ckery](https://www.reddit.com/r/blackmagicfuckery/)
 - [r/nextf ckinglevel](https://www.reddit.com/r/nextfuckinglevel/)
 - [r/youseeingthisshit](https://www.reddit.com/r/youseeingthisshit/)
 - [r/BetterEveryLoop](https://www.reddit.com/r/BetterEveryLoop/)

@@ -39,6 +39,8 @@
     - [Wikia/FANDOM Explore](https://www.fandom.com/explore) - The Fan-trusted Source in Entertainment.
     - [TV Chart](https://tvchart.benmiz.com/) - see a graph of any TV show's IMDb ratings, by episode.
     - [Famous Scientists](https://www.famousscientists.org/) - educational resource focusing on the lives and achievements of the most famous scientists and inventors in history.
+    - [Know Your Meme](https://knowyourmeme.com/) - Internet Meme Database
+    - [Snopes.com](https://www.snopes.com/) - The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
     
   - Dictionaries  
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
@@ -48,8 +50,10 @@
     - [Webopedia](https://www.webopedia.com/) - Online Tech Dictionary for Students, Educators and IT Professionals.
     
   - Wikis
+    - [WikiWikiWeb](https://wiki.c2.com/)
     - [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page) - the Star Wars wiki.
     - [Memory Alpha](https://memory-alpha.fandom.com/) - the most definitive, accurate, and accessible encyclopedia and reference for everything related to Star Trek.
+    - [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
      
 - Podcasts/
     - Science
@@ -80,6 +84,7 @@
       - [Reply All](https://gimletmedia.com/reply-all/)
       - [Malicious Life](https://malicious.life/)
       - [The Chernobyl Podcast](https://www.youtube.com/playlist?list=PLO79iP69FaZPKaMDoSPAtGdoa3wd3lp9n) - HBO.
+      - [Waveform: The MKBHD Podcast](https://waveformpodcast.com/)
 
     - Philosophy/General
       - [The Joe Rogan Experience](https://www.joerogan.com/#jre-section) - Joe Rogan.
@@ -91,3 +96,6 @@
       - [Stuff They Don't Want You To Know](https://www.iheart.com/podcast/182-stuff-they-dont-want-you-t-26941221/)
       - [The Ben Shapiro Show](https://www.dailywire.com/show/the-ben-shapiro-show) - Ben Shapiro.
       - [Not Related!](https://notrelated.xyz/) - Luke Smith.
+      - [Revisionist History Podcast](http://revisionisthistory.com/)
+      - [Writing Excuses](https://writingexcuses.com/)
+

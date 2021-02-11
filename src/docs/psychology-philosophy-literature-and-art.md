@@ -16,6 +16,8 @@
 - Sites/
   - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
   - [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/) - A Peer-Reviewed Academic Resource.
+  - [Modern Stoicism](https://modernstoicism.com/)
+  - [The Skeptic's Dictionary](http://skepdic.com/)
 
 ---
 
@@ -23,6 +25,8 @@
 - Sites/
   - [plainlanguage.gov](https://plainlanguage.gov/) - community of federal employees dedicated to the idea that citizens deserve clear communications from government.
   - [Poetry Foundation](http://www.poetryfoundation.org/)
+  - [R. L. Stine's Writing Program](http://rlstine.com/writing-program)
+  - [poets.org](https://poets.org/)
   - [SparkNotes](https://www.sparknotes.com/) - Source for help with Shakespeare and English literature, plus history, math, biology, and more.
   - [PoeStories](https://poestories.com) - short stories and poems by Edgar Allan Poe.
 
@@ -31,6 +35,7 @@
 ## Art
 - People/
   - [Salvador Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD)
+  - [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 
 —
 

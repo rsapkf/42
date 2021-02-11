@@ -36,6 +36,7 @@
 - Cloud Storage
   - [Google Drive](https://google.com/drive)
   - [Dropbox](https://www.dropbox.com/)
+  - [Box](https://www.box.com/)
 
 - Feed Readers
   - [Feedly](https://feedly.com/) - News aggregator application.

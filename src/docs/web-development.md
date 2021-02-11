@@ -246,6 +246,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [Regular-Expressions.info](https://www.regular-expressions.info/)
   - [RexEgg](https://www.rexegg.com/)
   - [Regex Crossword](https://regexcrossword.com/)
+  - [RegexOne](https://regexone.com/)
 
 ---
 
@@ -307,6 +308,14 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 - UI Inspiration/
   - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
+
+- Payment Processing
+  - [Stripe](https://stripe.com/)
+  - [Buy Me a Coffee](https://www.buymeacoffee.com/)
+
+- Technology Lookup Tools
+  - [Wappalyzer](https://www.wappalyzer.com/)
+  - [BuiltWith](https://builtwith.com/)
 
 ---
 

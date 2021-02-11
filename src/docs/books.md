@@ -117,6 +117,8 @@
 - [The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds) - H.G. Wells.
 - [The Hunger Games](https://en.wikipedia.org/wiki/The_Hunger_Games) - Suzanne Collins.
 - [The Nix](https://en.wikipedia.org/wiki/The_Nix) - Nathan Hill.
+- [Notes from Underground](https://en.wikipedia.org/wiki/Notes_from_Underground) -  Fyodor Dostoevsky.
+- [Cloud Atlas](https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)) - David Mitchell.
 
 ## Biography
 - Walter Isaacson
@@ -261,10 +263,16 @@
 
 ## Philosophy and Religion
 - Friedrich Nietzsche
+  - [Thus Spoke Zarathustra](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra)
 
 - Marcus Aurelius
+  - [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
 
 - [The Bhagavad Gita](https://www.goodreads.com/book/show/358540.The_Bhagavad_Gita) - Eknath Easwaran.
+- [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - Viktor E. Frankl.
+- [Letters from a Stoic](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic) - Seneca.
+- [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) - Epictetus.
+- [The Discourses](https://www.goodreads.com/book/show/1045017.The_Discourses) - Epictetus.
 
 ## Physics Textbooks
 - [Gravitation](https://en.wikipedia.org/wiki/Gravitation_(book)) - Charles W. Misner, Kip S. Thorne, John Archibald Wheeler.
@@ -274,6 +282,14 @@
 - [General Relativity](https://www.goodreads.com/book/show/53522.General_Relativity) - Robert M. Wald.
 - [Rocket Propulsion Elements](https://www.goodreads.com/book/show/7682536-rocket-propulsion-elements) - George P. Sutton.
 - [Elements of Propulsion: Gas Turbines and Rockets](https://www.goodreads.com/book/show/1604170.Elements_of_Propulsion) - Jack D. Mattingly.
+
+## Misc
+- [Diary of a Wimpy Kid](https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid) - Jeff Kinney.
+- [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) - Bill Bryson.
+- [Iliad](https://en.wikipedia.org/wiki/Iliad) - Homer
+- [Odyssey](https://en.wikipedia.org/wiki/Odyssey) - Homer
+- [Paradise Lost](https://www.goodreads.com/book/show/15997.Paradise_Lost) - John Milton.
+- [Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) - Robert M. Pirsig.
 
 ## Papers
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto.

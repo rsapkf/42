@@ -1,4 +1,4 @@
-## Knowledge Repositories (mostly on GitHub)
+## Knowledge Repositories (mostly on GitHub)ssss
 
 ### Linux
   - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers.
@@ -60,9 +60,11 @@
 
 ### Raspberry Pi
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - A curated list of awesome Raspberry Pi tools, projects, images and resources.
+- [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 
 ### Regular Expressions and Algorithms
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
 - Websites/
   - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
@@ -76,6 +78,7 @@
 
 ### Python
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+- [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python.
@@ -84,6 +87,7 @@
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Free software that works great, and also happens to be open-source Python.
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - @geekcomputers' Python Examples.
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by \@dabeaz).
 
 - [funkythings/python-cheat-sheet](https://github.com/funkythings/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib.
 - [machinelearningmindset/machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
@@ -118,11 +122,19 @@
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin.
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin.
+- [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES6 cheatsheet containing tips, tricks, best practices and code snippets.
 - [vlandham/js_data](https://github.com/vlandham/js_data) - Data manipulation and processing in JavaScript.
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.
 - [dexteryy/spellbook-of-modern-webdev/](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
 - [usablica/front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations.
+
+- React/React Native
+  - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+  - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
+
+  - Websites/
+    - [no-stack-dub-sack/cs-playground-react](https://github.com/no-stack-dub-sack/cs-playground-react) - In-Browser Algorithm and Data Structures Practice. http://cs-playground-react.surge.sh.
 
 - Websites/
   - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)? https://1loc.dev.
@@ -141,6 +153,7 @@
 
 ### Browser Add-ons/Extensions
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API.
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples.
 
 ### Design
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more.
@@ -161,12 +174,15 @@
 ### C
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey.
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C.
+- [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 
 ### C++
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
 ### Go
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place.
+- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development.
+- [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example.
 
 ### Java
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java.
@@ -179,6 +195,8 @@
 ### APIs
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - A public list of APIs from round the web.
+- [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml.
 
 ### Data Science/Scientific Computing
@@ -287,10 +305,14 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
 
-### Computer Science
+### Computer Science/Math
 - [ossu/computer-science](https://github.com/ossu/computer-science) -  Path to a free self-taught education in Computer Science!
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Open Source CS Curriculum. 
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula.
+- [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form.xxxx
+
+- Websites/
+  - [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics. http://seeingtheory.io.
 
 ### Courses/Books
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
@@ -306,6 +328,8 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [jbranchaud/til](https://github.com/jbranchaud/til) - Josh Branshaud's TIL.
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming.
@@ -330,7 +354,6 @@
 - [psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) - guidebook idea from [here](http://www.pouet.net/topic.php?which=10882&page=1).
 - [heroku/12factor](https://github.com/heroku/12factor) - 12factor.net.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends.
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification.
@@ -348,4 +371,5 @@
 - Websites/
   - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
   - [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - commonly used features in a side-by-side format. https://hyperpolyglot.org.
-
+  - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth/) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software. https://twofactorauth.org.
+  

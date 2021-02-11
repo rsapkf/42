@@ -1,6 +1,6 @@
 ## 42
 
-This is an ongoing personal collection of over 3000+ sites and resources that I use or have used in the past to learn stuff like programming, puzzle-solving, web development and other intellectually stimulating things, categorized(more or less). Contains my blogroll, websites, software that I use, my GitHub/GitLab/... stars(which I manage with my bookmark manager, not GH itself), Gists, Subreddits, YouTube channels, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/StackOverflow/Codepen profiles/articles I follow, Podcasts I listen to, Browser Add-ons, Linux Hacks, Vim/Tmux/Emacs plugins I use and everything.
+This is an ongoing personal collection of over 4000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less). Contains my blogroll, websites, software, Reddit/YouTube subscriptions, Medium/dev.to blogs, IRC channels, HN/Lobste.rs/StackOverflow/Codepen profiles/articles I follow, Podcasts, Browser Add-ons, Linux Tools, Vim/Tmux/Emacs plugins I use and everything.
 
 In short, this is my attempt to organize my links, a directory of my "public" bookmarks. Feedback and [contributions](CONTRIBUTING.md) are appreciated.
 
@@ -12,19 +12,18 @@ __Disclaimer__: The categorization of resources and software that I list here ar
 
 If you find this helpful in any way, consider making a contribution:
 
-__BTC / Bitcoin__:<br />
-1BbVzfZ164GUrwKKrSifddxTFuoNfdJorJ
-
-__BTC / Bitcoin (SegWit / Bech32 / bc1)__:<br />
+__BTC__:<br />
+1BbVzfZ164GUrwKKrSifddxTFuoNfdJorJ <br />
+__BTC (SegWit)__:<br />
 bc1qecyw0ueqxl9g5r86y93g58u60300kd9swz83jd
 
-__ETH / Ethereum__:<br />
+__ETH__:<br />
 0x4B3B5CE13E1991D1C55D107A69f4C87d4De27b84
 
-__LTC / Litecoin__:<br />
+__LTC__:<br />
 LekQQNuz8cjxJkP6WyTf5E4WGE3TqcmenA
 
-__XMR / Monero__:<br />
+__XMR__:<br />
 47fuWL5kfawJi33cwCaf7BEX1Kvx3yGjALPrfxsnmsfV1V4Q1XvHMxEEd6u2pa9uQrHp8y868ZdsocE7hxvKJaLLGVg2BCT
 
 This is a lifelong project and here are some things on the long-term roadmap:

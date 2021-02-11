@@ -12,6 +12,11 @@
   - [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization.
   - [The Newton Project](http://www.newtonproject.ox.ac.uk/) - a comprehensive edition of all of Newton’s printed and unpublished writings.
   - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Take a tour of the major moons in our celestial menagerie, including those that are among the most mystifying—or scientifically intriguing—places in our local neighborhood.
+  - [Quantum Country](https://quantum.country/)
+  - [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/)
+  - [Newton Papers](http://cudl.lib.cam.ac.uk/collections/newton/1)
+  - [Seeing Theory](https://seeing-theory.brown.edu/index.html)
+  - [The Encyclopedia of Science Fiction](http://sf-encyclopedia.com/)
   - [Space.com](https://www.space.com/)
   - [ScienceMag](https://www.sciencemag.org/)
   - [iflscience](https://www.iflscience.com/)
@@ -24,6 +29,7 @@
   - [Popular Science](https://www.popsci.com/)
   - [Scientific American](https://www.scientificamerican.com/)
   - [JunkScience](https://junkscience.com/)
+  - [Quillette](https://quillette.com/)
     
 ---
 
@@ -50,9 +56,14 @@
   - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
   - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - a complete set of free online (and downloadable) notes/tutorials for classes that Prof. Paul Dawkins teaches at Lamar University.
   - [Real Not Complex](https://realnotcomplex.com/) - Discover Incredible FREE Resources to Study Mathematics.
+  - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
+  - [Cool Math Games](https://www.coolmathgames.com/)
+  - [The Fibonacci Quarterly](https://www.fq.math.ca/)
 
 - People/
   - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
+  - [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
+  - [James Randi](https://web.randi.org/)
   - [Terrence Tao's Blog](https://terrytao.wordpress.com)
   - [Timothy Gowers's Weblog](https://gowers.wordpress.com/) - Mathematics related discussions
   - [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
@@ -85,14 +96,32 @@
     - [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
 
   - Blogs
-    - [Vitalik Buterin's website](https://vitalik.ca/)
-    - [Distill](https://distill.pub/) - articles about machine learning
-    - [Julia Evans](https://jvns.ca/)
-    - [Christopher Olah](https://colah.github.io/)
     - [StackOverflow Blog](https://stackoverflow.blog/)
     - [Twilio Blog](https://www.twilio.com/blog)
     - [Coding Horror](https://blog.codinghorror.com/)
     - [GitHub Blog](https://github.blog/)
+    - [Uber Engineering Blog](https://eng.uber.com/)
+    - [Slack Engineering](https://slack.engineering/)
+    - [Vitalik Buterin](https://vitalik.ca/)
+    - [Distill](https://distill.pub/) - articles about machine learning
+    - [Julia Evans](https://jvns.ca/)
+    - [Christopher Olah](https://colah.github.io/)
+    - [Andrej Karpathy](https://karpathy.github.io/)
+    - [Andrej Karpathy - Medium](https://medium.com/@karpathy)
+    - [Lea Verou](https://lea.verou.me/)
+    - [martinfowler.com](https://martinfowler.com/)
+    - [fasterthanli.me](https://fasterthanli.me/)
+    - [Michael Nielsen](http://michaelnielsen.org/blog/)
+    - [Nick Bostrom's Home Page](https://www.nickbostrom.com/)
+    - [Simon Willison's Weblog](https://simonwillison.net/)
+    - [Benedict Evans](https://www.ben-evans.com/)
+    - [David Walsh](https://davidwalsh.name/)
+    - [blog.izs.me](https://blog.izs.me/)
+    - [Nicky Case](https://ncase.me/)
+    - [null program - Chris Wellons](https://nullprogram.com/)
+    - [Eli Bendersky](https://eli.thegreenplace.net/)
+    - [swyx.io - Shawn Wang](https://www.swyx.io/)
+    - [Susan Fowler](https://www.susanjfowler.com/)
     - [Kalzumeus by Patrick McKenzie](https://www.kalzumeus.com/)
     - [Brett Cannon](https://snarky.ca/)
     - [Neopythonic by Guido van Rossum](https://neopythonic.blogspot.com/)
@@ -103,21 +132,26 @@
     - [fasterlime](https://fasterthanli.me/)
     - [catonmat.net - Peter Krumins](https://catonmat.net/) - powered by Alien Technology.
     - [Dan Luu](https://danluu.com/)
+    - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+    - [The Daily WTF](http://thedailywtf.com/) - Curious Perversions in Information Technology
+    - [Raph Levien](https://raphlinus.github.io/)
+    - [Compiled;](https://compiled.blog/)
+    - [Red Blob Games](https://www.redblobgames.com/)
 
   - Medium Blogs
+    - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
+    - [Netflix TechBlog](https://medium.com/netflix-techblog)
+    - [Discord Blog](https://blog.discordapp.com/)
     - [Instagram Engineering](https://instagram-engineering.com/)
+    - [Smashing Magazine](https://medium.com/@smashingmag) - useful and innovative information to web designers and developers.
     - [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
     - [Brian Armstrong](https://blog.coinbase.com/@barmstrong) - Co-Founder and CEO at Coinbase.
     - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
     - [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
     - [Sindre Sorhus](https://medium.com/@sindresorhus)
-    - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
-    - [Netflix TechBlog](https://medium.com/netflix-techblog)
-    - [Discord Blog](https://blog.discordapp.com/)
     - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
     - [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
     - [Addy Osmani](https://medium.com/@addyosmani) - Eng. Manager at Google working on Chrome • Passionate about making the web fast.
-    - [Smashing Magazine](https://medium.com/@smashingmag) - useful and innovative information to web designers and developers.
     - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
 
   - NerdStuff
@@ -127,6 +161,7 @@
     - [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
     - [Wait But Why](https://waitbutwhy.com/)
     - [Logical Increments](http://www.logicalincrements.com/) - PC building guides
+    - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 
   - Miscellaneous
     - [Feedly Discover](https://feedly.com/i/discover/)
@@ -137,13 +172,18 @@
       - [HN/front](https://news.ycombinator.com/front) - Front page submissions for a given day (e.g. 2016-06-20).
       - [HN Lists](https://news.ycombinator.com/lists)
       - [Y Combinator Company List](https://yclist.com/)
+      - [Hacker Newsletter](https://www.hackernewsletter.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
       - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
-      - [Best of Show HN all time](https://bestofshowhn.com/)
+      - [Best of Show HN](https://bestofshowhn.com/)
     
+    - Reddit
+      - [Reddit](https://reddit.com/)
+      - [Top Posts of 2020](https://www.reddit.com/posts/2020/)
+      - [redditlist.com](http://redditlist.com/)
+      
     - [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
     - [Stack Overflow](https://stackoverflow.com/)
-    - [Reddit](https://reddit.com/)
     - [Slashdot](https://www.slashdot.org/)
     - [Stratechery](https://stratechery.com/) - Ben Thompson.
     - [dev.to](https://dev.to/)
@@ -216,11 +256,6 @@
     - [Objective-See](https://objective-see.com/index.html)
     - [bugcrowd](https://www.bugcrowd.com/) - Crowdsourced Security Platform.
 
-  - Comics
-    - [xkcd Comics](https://www.xkcd.com/)
-    - [Existential Comics](http://existentialcomics.com/)
-    - [PHD Comics](http://phdcomics.com/)
-
   - People
     - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
     - [Brian Kernighan](https://www.cs.princeton.edu/~bwk/)
@@ -247,3 +282,53 @@
     - [Kenneth Reitz](https://www.kennethreitz.org/)
     - [Derek Sivers](https://sivers.org/)
     - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+     
+  - Comics
+    - [WEBTOON](https://www.webtoons.com/en/) - Read Comics Online
+    - [xkcd Comics](https://www.xkcd.com/) ([explain xkcd](https://www.explainxkcd.com/))
+    - [Existential Comics](http://existentialcomics.com/)
+    - [PHD Comics](http://phdcomics.com/)
+    - [Bizarro](https://www.bizarro.com/)
+    - [The Far Side](https://www.thefarside.com/)
+    - [Fleen](http://fleen.com/)
+    - [Bippity Boppity Boo](https://www.oglaf.com/)
+    - [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
+    - [Questionable Content](https://questionablecontent.net/)
+    - [Three Word Phrase, by Ryan Pequin](http://threewordphrase.com/)
+    - [Dinosaur Comics](https://qwantz.com/)
+    - [Junior Scientist Power Hour](https://www.jspowerhour.com/)
+    - [Overcompensating](http://www.overcompensating.com/)
+    - [Wigu](http://www.wigucomics.com/)
+    - [Homestuck](https://www.homestuck.com/)
+    - [The Perry Bible Fellowship](https://pbfcomics.com/)
+    - [Scenes From A Multiverse](http://amultiverse.com/)
+    - [Gunnerkrigg Court](https://www.gunnerkrigg.com/)
+    - [Ctrl+Alt+Del Comic](https://cad-comic.com/)
+    - [The Devil's Panties](http://thedevilspanties.com/)
+    - [Dumbing of Age](http://www.dumbingofage.com/)
+    - [Three Word Phrase](http://www.threewordphrase.com/)
+    - [The Oatmeal](https://theoatmeal.com/)
+    - [The Book of Biff](http://thebookofbiff.com/)
+    - [Sam & Fuzzy](http://www.samandfuzzy.com/)
+    - [Buttercup Festival](http://www.buttercupfestival.com/)
+    - [A Softer World](https://asofterworld.com/)
+    - [Buttersafe](https://www.buttersafe.com/)
+    - [Johnny Wander](http://www.johnnywander.com/)
+    - [Something Positive](https://somethingpositive.net/)
+    - [32](http://stuckat32.com/)
+    - [Wasted Talent](http://www.wastedtalent.ca/)
+    - [Rice Boy](http://www.rice-boy.com/)
+    - [Emily Carroll Art & Comics](http://www.emcarroll.com/)
+    - [Wondermark](http://wondermark.com/)
+    - [Doodle for Food](https://www.doodleforfood.com/)
+    - [diesel sweeties](http://www.dieselsweeties.com/)
+    - [octopus pie](http://www.octopuspie.com/)
+    - [Gunshow](http://gunshowcomic.com/)
+    - [HE IS A GOOD BOY.](http://hiagb.com/)
+    - [BACK](http://www.backcomic.com/)
+    - [Nedroid](http://nedroid.com/)
+    - [Scary Go Round](http://www.scarygoround.com/)
+    - [the Creatures in my Head](https://www.creaturesinmyhead.com/)
+    - [Monster Pulse](https://www.monster-pulse.com/)
+    - [Hark, a vagrant](http://www.harkavagrant.com/index.php)
+    - [Three Panel Soul](http://www.threepanelsoul.com/)
