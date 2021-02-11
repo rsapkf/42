@@ -194,6 +194,7 @@
     - [Behance](https://www.behance.net/) - showcase and discover creative work.
     - [Triplebyte](https://triplebyte.com/) - Software Engineer Job Search.
     - [fossjobs.net](https://www.fossjobs.net/)
+    - [.:: Phrack Magazine ::.](http://www.phrack.org/)
     - [Wayback Machine](https://archive.org/web/)
     - [Wikipedia](https://wikipedia.org)
     - [MIT Technology Review](https://www.technologyreview.com/)

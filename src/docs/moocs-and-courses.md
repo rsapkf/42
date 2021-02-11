@@ -39,6 +39,7 @@
     - [MasterClass](https://www.masterclass.com/) `paid`
     - [egghead.io](https://egghead.io/) - Short, instructional screencast video tutorials for web developers. `paid`
     - [Upskill](https://upskillcourses.com/) `freemium`
+    - [O'Reilly Media](https://www.oreilly.com/)
 
 ### Courses
 - Machine Learning/Deep Learning

@@ -41,12 +41,23 @@
     - [Famous Scientists](https://www.famousscientists.org/) - educational resource focusing on the lives and achievements of the most famous scientists and inventors in history.
     - [Know Your Meme](https://knowyourmeme.com/) - Internet Meme Database
     - [Snopes.com](https://www.snopes.com/) - The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
-    
+    - [bellingcat](https://www.bellingcat.com/) - the home of online investigations
+  - [TinEye Reverse Image Search](https://tineye.com/)
+  - [Artvee](https://artvee.com/)
+  - [All About Circuits](https://www.allaboutcircuits.com/)
+  - [Get Emoji](https://getemoji.com/) - All Emojis to ✂️ Copy and 📋 Paste 👌
+  - [Usenet Archives (UsenetArchives.com)](https://www.usenetarchives.com/)
+  - [T E X T F I L E S D O T C O M](http://textfiles.com/)
+  - [Lightyear.fm](http://www.lightyear.fm/)
+  - [Dark Patterns](https://darkpatterns.org/)
+  - [Neave Interactive](https://neave.com/)
+  
   - Dictionaries  
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
-    - [Merrian Webster](https://www.merriam-webster.com/) - since 1828.
+    - [Merriam Webster](https://www.merriam-webster.com/) - since 1828.
     - [Urban Dictionary](https://www.urbandictionary.com/) - crowdsourced online dictionary for slang words and phrases.
     - [Dictionary.com](https://www.dictionary.com/)
+    - [Wordnik](https://www.wordnik.com/)
     - [Webopedia](https://www.webopedia.com/) - Online Tech Dictionary for Students, Educators and IT Professionals.
     
   - Wikis

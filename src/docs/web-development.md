@@ -317,6 +317,11 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [Wappalyzer](https://www.wappalyzer.com/)
   - [BuiltWith](https://builtwith.com/)
 
+- Miscellaneous
+  - [Okta](https://www.okta.com/)
+  - [Sizzy](https://sizzy.co/)
+  - [BrowserStack](https://www.browserstack.com/)
+
 ---
 
 ### Other Resources:
@@ -350,6 +355,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [Pusher Developer Tutorials](https://pusher.com/tutorials)
   - [Cooperpress](https://cooperpress.com/) - Weekly email newsletters to developers and software engineers.
   - [RisingStack Blog](https://blog.risingstack.com/)
+  - [A List Apart](https://alistapart.com/)
   
 - Pastebins
   - [GitHub Gists](https://gist.github.com/) - Instantly share code, notes, and snippets.
