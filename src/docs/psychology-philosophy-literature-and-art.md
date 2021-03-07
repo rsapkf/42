@@ -37,8 +37,8 @@
   - [Salvador Dalí](https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD)
   - [Michelangelo](https://en.wikipedia.org/wiki/Michelangelo)
 
-—
+---
 
 ## Movies
 - People/
-  - [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) / [Official Website](http://www.rogerebert.com/)
+  - [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) ([Official Website](http://www.rogerebert.com/))

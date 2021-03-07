@@ -1,6 +1,6 @@
 # Massive Open Online Courses
 
-- Sites/
+### Platforms
     - [Wikipedia](https://wikipedia.org/)
     - [edX.org](https://www.edx.org/)
     - [The Linux Foundation Training](https://training.linuxfoundation.org/)

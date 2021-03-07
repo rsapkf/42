@@ -572,7 +572,7 @@
     - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy.
     - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
     - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
-    - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is Chromium plus ad blocking and privacy enhancements; take back your browser!ssss
+    - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is Chromium plus ad blocking and privacy enhancements; take back your browser!
     - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers.
     - (Web) [Vivaldi](https://vivaldi.com/) `partially open source`
     

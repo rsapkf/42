@@ -1,4 +1,4 @@
-## Knowledge Repositories (mostly on GitHub)ssss
+## Knowledge Repositories (mostly on GitHub)
 
 ### Linux
   - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers.

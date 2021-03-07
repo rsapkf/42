@@ -1,7 +1,7 @@
 # Summary
 
 - [42](README.md)
-  - [Knowledge Repositories](docs/knowledge-repositories.md) (mostly on GitHub)
+  - [Knowledge Repositories](docs/knowledge-repositories.md)
   - [Web Development](docs/web-development.md)
   - [Programming](docs/programming.md)
   - [Coding Challenges](docs/coding-challenges.md)
@@ -16,6 +16,8 @@
   - [Reddit Subscriptions](docs/reddit.md)
   - [YouTube Subscriptions](docs/youtube.md)
   - [Books](docs/books.md)
+  - [Comics](docs/comics.md)
+  - [Podcasts](docs/podcasts.md)
   - [Free-To-Read Books and Guides](docs/free-to-read-books-and-guides.md)
   - [Ebooks and Research Papers](docs/ebooks-and-research-papers.md)
   - [Random Useful Sites](docs/random-useful-sites.md)
