@@ -16,7 +16,7 @@
 ### Languages
 - C++
   - [Standard C++](https://isocpp.org/)
-  - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network
+  - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
   - [cppreference.com](https://en.cppreference.com/w/)
   - [Microsoft Docs](https://docs.microsoft.com/en-us/)
 
@@ -28,7 +28,7 @@
   - [Elixir school](https://elixirschool.com/en/) -  Premier destination for people looking to learn and master the Elixir programming language.
 
 - Typescript
-  - [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)
+  - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 
 - Kotlin
   - [Kotlin Docs](https://kotlinlang.org/docs/reference/)
