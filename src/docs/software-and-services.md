@@ -7,6 +7,18 @@
   - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database. `source-available software`
   - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost. `open-source upto v1.x`
   - [kite](https://kite.com/) - code completion plugin for Python that works with PyCharm, VS Code, Vim, Spyder, & more.
+  - [Linear](https://linear.app/) - The issue tracking tool you'll enjoy using.
+  - [CSSBattle](https://cssbattle.dev/)
+  - [Codementor](https://www.codementor.io/)
+  - [Anvil](https://anvil.works/) - Build web apps with Python.
+  
+- Hacking
+  - [Hack The Box](https://www.hackthebox.eu/)
+  - [TryHackMe](https://tryhackme.com/)
+  
+- IP Address Lookup
+  - [IPinfo.io](https://ipinfo.io/)
+  - [ipapi](https://ipapi.co/)
 
 - Operating Systems
   - For PC
@@ -106,6 +118,7 @@
     - [Sort your IMDb ratings by title type](https://help.imdb.com/article/imdb/track-movies-tv/how-do-i-sort-my-ratings-by-the-title-type/G4LHN2ZSCPNM5W2S)
   - [Metacritic](https://www.metacritic.com/)
   - [Rotten Tomatoes](https://rottentomatoes.com/)
+  - [Letterboxd](https://letterboxd.com/) - Social film discovery.
 
 - Music
   - [Spotify](https://www.spotify.com) - Spotify gives you instant access to millions of songs.

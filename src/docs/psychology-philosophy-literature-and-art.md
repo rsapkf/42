@@ -18,6 +18,8 @@
   - [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/) - A Peer-Reviewed Academic Resource.
   - [Modern Stoicism](https://modernstoicism.com/)
   - [The Skeptic's Dictionary](http://skepdic.com/)
+  - [Psyche](https://psyche.co/)
+  - [PhilPapers](https://philpapers.org/)
 
 ---
 

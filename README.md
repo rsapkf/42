@@ -24,6 +24,7 @@ mdBook: [links.rsapkf.xyz](https://links.rsapkf.xyz/)
 - [Cubing, Puzzles and Magic](src/docs/cubing-puzzles-and-magic.md)
 - [Reddit Subscriptions](src/docs/reddit.md)
 - [YouTube Subscriptions](src/docs/youtube.md)
+- [Twitch Subscriptions](src/docs/twitch.md)
 - [Books](src/docs/books.md)
 - [Comics](src/docs/comics.md)
 - [Podcasts](src/docs/podcasts.md)
@@ -37,7 +38,7 @@ mdBook: [links.rsapkf.xyz](https://links.rsapkf.xyz/)
 
 Go to [src/docs/](https://github.com/rsapkf/42/blob/master/src/docs) subdirectory to see more unsorted/extra links.
 
-__Disclaimer__: The categorization of resources and software that I list here are for personal reference only. Not every open source software out there is more secure than other proprietary options. Please do a thorough research before using any of this stuff.
+**Disclaimer**: The categorization of resources and software that I list here are for personal reference only. Not every open source software out there is more secure than other proprietary options. Please do a thorough research before using any of this stuff.
 
 ---
 
@@ -45,18 +46,18 @@ __Disclaimer__: The categorization of resources and software that I list here ar
 
 If you find this helpful in any way, consider making a contribution:
 
-__BTC__:<br />
+**BTC**:<br />
 1BbVzfZ164GUrwKKrSifddxTFuoNfdJorJ <br />
-__BTC (SegWit)__:<br />
+**BTC (SegWit)**:<br />
 bc1qecyw0ueqxl9g5r86y93g58u60300kd9swz83jd
 
-__ETH__:<br />
+**ETH**:<br />
 0x4B3B5CE13E1991D1C55D107A69f4C87d4De27b84
 
-__LTC__:<br />
+**LTC**:<br />
 LekQQNuz8cjxJkP6WyTf5E4WGE3TqcmenA
 
-__XMR__:<br />
+**XMR**:<br />
 47fuWL5kfawJi33cwCaf7BEX1Kvx3yGjALPrfxsnmsfV1V4Q1XvHMxEEd6u2pa9uQrHp8y868ZdsocE7hxvKJaLLGVg2BCT
 
 This is a lifelong project and here are some things on the long-term roadmap:

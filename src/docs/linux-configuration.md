@@ -3,11 +3,14 @@
 > **Note**: This file only contains resources that are NOT in the [./open-source-software.md#Tools#Linux](./open-source-software.md#tools) section.
 
 ### Browser Customization
+
 - [mozillaZine](http://kb.mozillazine.org/Knowledge_Base)
 - [userChrome.org](https://www.userchrome.org/)
 
 ### Software Alternatives
+
 - Email Encryption
+
   - [OpenPGP.org/software](https://www.openpgp.org/software/)
 
 - [ArchWiki](https://wiki.archlinux.org/index.php/List_of_applications)
@@ -34,7 +37,9 @@
 - [Lucid Index self hosted](https://selfhostedsource.tech) - Find the best self hosted software.
 
 ### Learning
+
 - Linux
+
   - [Linux.com](https://www.linux.com/) - resource for open source professionals to learn about the latest in Linux and open source technology.
   - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
   - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
@@ -44,37 +49,39 @@
   - [Linux Journal](https://www.linuxjournal.com/) `discontinued`
 
 - Vim
+
   - Sites/
+
     - [VimDocs](http://vimdoc.sourceforge.net/)
     - [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
     - [Vimcasts.org](http://vimcasts.org/categories/) - Vim screencasts
-    
+
     - [Best of Vim Tips by ZZapper](http://zzapper.co.uk/vimtips.html)
     - [Derek Wyatt's Vim Videos](http://derekwyatt.org/vim/tutorials/)
     - [Vim.zeef.com](https://vim.zeef.com/patrick.schanen)
-    
+
   - Games/
     - [Vim Adventures](https://vim-adventures.com/)
 
 - Emacs
   - [Emacswiki](https://www.emacswiki.org/emacs/SiteMap)
   - [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU Emacs Reference Card
-  
 - LaTeX
+
   - [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) by Overleaf.
 
 - Bash
   - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
   - [GNU Readline Cheatsheet - VI Mode](http://readline.kablamo.org/vi.html) ([Emacs Mode](http://readline.kablamo.org/emacs.html))
   - [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
-  
 - Zsh
+
   - [ZSH Tips by ZZapper](http://www.zzapper.co.uk/zshtips.html)
 
 - Tmux
   - [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
-  
 - Window Managers
+
   - [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/playlist?list=PL5--8gKSku17lbSBHPduj4qG97qxJe0UM)
 
 - [crontab guru](https://crontab.guru/) - An easy to use editor for crontab schedules.

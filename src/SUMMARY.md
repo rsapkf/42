@@ -15,6 +15,7 @@
   - [Cubing, Puzzles and Magic](docs/cubing-puzzles-and-magic.md)
   - [Reddit Subscriptions](docs/reddit.md)
   - [YouTube Subscriptions](docs/youtube.md)
+  - [Twitch Subscriptions](docs/twitch.md)
   - [Books](docs/books.md)
   - [Comics](docs/comics.md)
   - [Podcasts](docs/podcasts.md)

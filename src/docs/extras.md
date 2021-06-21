@@ -1,6 +1,7 @@
 # Extras
 
 ### Books/Courses/MOOCs
+
 - [FunctionalCS](https://functionalcs.github.io/curriculum/) - A Self-Learning, Modern Computer Science Curriculum.
 - [ops-class.org - Hack The Kernel](https://www.ops-class.org/) - includes everything you need to learn about operating systems online.
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read) - Tony Narlock.
@@ -27,9 +28,11 @@
   - [Advance Math - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pNkhSVzVoYmRtTHM)
 
 ### Programming
+
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/)
 
 ### GitHub
+
 - [jschr/vscodethemes](https://github.com/jschr/vscodethemes) - Preview themes from the VSCode marketplace.
 - [functionalCS/curriculum](https://github.com/functionalCS/curriculum) - A Modern CompSci Curriculum.
 - [RestCheatSheet/api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet) - API Design Guidelines and Best Practices Cheat Sheet.
@@ -41,6 +44,7 @@
 - [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io) - A curated list of startpages for your browser.
 
 ### Collections
+
 - [Lab45 Link Garden](https://lab46.g7n.org/documentation/linkgarden) - Corning Community College Portal to the Universe.
 - [Rosetta Code: Similar Sites](https://rosettacode.org/wiki/Help:Similar_Sites)
 - [Things and Stuff Wiki](https://wiki.thingsandstuff.org/Resources)
@@ -50,10 +54,12 @@
 - [SimilarSites](https://www.similarsites.com/)
 
 ### Cheatsheets
+
 - [Shiar's cheat sheets](https://sheet.shiar.nl/)
-- [Cheat-Sheets.org](http://www.cheat-sheets.org/) -  All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
+- [Cheat-Sheets.org](http://www.cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 
 ### Sites
+
 - [Worldometer](https://www.worldometers.info/) - real time world statistics.
 - [The Onion](https://www.theonion.com/) - America's Finest News Source.
 - [4chan](https://4chan.org/)
@@ -64,12 +70,14 @@
 - [Letters To A New Developer](https://letterstoanewdeveloper.com/) - Dan Moore.
 
 ### Other Resources
+
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [hntitlenator](https://victorribeiro.com/hntitlenator) - Test your HN title against a neural network.
 
 ### Show HN
+
 - [Free Postcard Mailer](https://postcardmailer.herokuapp.com/)
 
 ### Extras
-- [FossHub](https://www.fosshub.com/) - No adware, No spyware, No bundles, No malware, Fast downloads, Free services and a single ad.
 
+- [FossHub](https://www.fosshub.com/) - No adware, No spyware, No bundles, No malware, Fast downloads, Free services and a single ad.

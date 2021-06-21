@@ -1,6 +1,7 @@
 # Massive Open Online Courses
 
 ### Platforms
+
 - [Wikipedia](https://wikipedia.org/)
 - [edX.org](https://www.edx.org/)
 - [The Linux Foundation Training](https://training.linuxfoundation.org/)
@@ -18,7 +19,7 @@
 - [MOOC.fi](https://www.mooc.fi/en/)
 - [nand2tetris](https://www.nand2tetris.org/)
 - [Udacity](https://www.udacity.com/)
-- [Class-Central](https://www.classcentral.com/) 
+- [Class-Central](https://www.classcentral.com/)
 - [Cognitive CLass](https://cognitiveclass.ai/)
 - [Full Stack Open 2019](https://fullstackopen.com/en)
 - [Academic Earth](https://www.academicearth.org/)
@@ -42,12 +43,15 @@
 - [O'Reilly Media](https://www.oreilly.com/)
 
 ### Courses
+
 - Machine Learning/Deep Learning
+
   - [Practical Deep Learning for Coders](https://course.fast.ai/) - fast.ai.
   - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning.
   - [mlcourse.ai](https://mlcourse.ai) - Open Machine Learning Course. (GitHub: [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai))
 
 - Linux
+
   - [Linux From Scratch](http://www.linuxfromscratch.org/) - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.
   - [A Beginner's Guide to Linux Kernel Development](https://training.linuxfoundation.org/resources/free-courses/a-beginners-guide-to-linux-kernel-development/) - The Linux Foundation.
 

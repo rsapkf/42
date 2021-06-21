@@ -1,6 +1,7 @@
 # Cubing, Puzzles and Magic
 
 ## Rubik's Cube
+
 - [JPerm.net](https://jperm.net) - By Dylan Wang.
 - [CubeSkills](https://www.cubeskills.com/) - By [Feliks Zemdegs](https://en.wikipedia.org/wiki/Feliks_Zemdegs). Tutorials, Algorithms, PDFs and tools to learn speedcubing: Rubik's cubes, Megaminx, Pyraminx, etc.
 - [AlgDb.net](http://algdb.net/) - Rubik's Cube Algorithms Database.
@@ -16,11 +17,14 @@
 - [cut-the-knot.org](https://www.cut-the-knot.org/) - Interactive Mathematics Miscellany and Puzzles.
 
 - Timers
+
   - [csTimer](https://www.cstimer.net/) ([GitHub](https://github.com/cs0x7f/cstimer))
   - [qqTimer](https://www.qqtimer.net/)
   - [Twisty Timer](https://play.google.com/store/apps/details?id=com.aricneto.twistytimer) ([GitHub](https://github.com/aricneto/TwistyTimer)) (Android)
+  - [timer.cubing.net](https://timer.cubing.net/)
 
 - People
+
   - [Stefan Pochmann](https://www.stefan-pochmann.info/)
   - [Lucas Garron](https://garron.net/)
   - [Jessica Fridrich](http://www.ws.binghamton.edu/fridrich/)
@@ -33,4 +37,6 @@
   - [Frank Morris Facts](https://cube.garron.us/misc/frank_morris.htm)
 
 ## Miscellaneous
+
 - [KenKen Puzzle Official Site](http://www.kenkenpuzzle.com/)
+- [BoardGameGeek](https://boardgamegeek.com/) - Gaming Unplugged Since 2000.

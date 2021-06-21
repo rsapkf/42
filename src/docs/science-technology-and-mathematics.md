@@ -1,7 +1,9 @@
 # Science, Technology and Mathematics
 
 ## Science, Mostly
+
 - People/
+
   - [Sean Caroll](https://www.preposterousuniverse.com/)
   - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
 
@@ -17,6 +19,7 @@
   - [Newton Papers](http://cudl.lib.cam.ac.uk/collections/newton/1)
   - [Seeing Theory](https://seeing-theory.brown.edu/index.html)
   - [The Encyclopedia of Science Fiction](http://sf-encyclopedia.com/)
+  - [Digital Einstein Papers](https://einsteinpapers.press.princeton.edu/)
   - [Space.com](https://www.space.com/)
   - [ScienceMag](https://www.sciencemag.org/)
   - [iflscience](https://www.iflscience.com/)
@@ -30,11 +33,13 @@
   - [Scientific American](https://www.scientificamerican.com/)
   - [JunkScience](https://junkscience.com/)
   - [Quillette](https://quillette.com/)
-    
+
 ---
 
 ## Mathematics
+
 - Sites+Blogs/
+
   - [WolframAlpha](https://www.wolframalpha.com/)
   - [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
   - [The Pi-Search Page](https://www.angio.net/pi/)
@@ -51,8 +56,8 @@
   - [Symbolab](https://www.symbolab.com) - Symbolab Math Solver.
   - [Symbolab Cheat Sheets](https://www.symbolab.com/cheat-sheets#) - Algebra, Trigonometry, Calculus.
   - [What's Special About This Number?](https://www2.stetson.edu/~efriedma/numbers.html) - What's Special About This Number?
-  - [Annotated version of "What's Special About This Number?"](https://oeis.org/wiki/Annotated_version_of_%22What%27s_Special_About_This_Number%3F%22_(Part_0))
-  - [The On-Line Encyclopedia of Integer Sequences(OEIS)](https://oeis.org/) - 
+  - [Annotated version of "What's Special About This Number?"](<https://oeis.org/wiki/Annotated_version_of_%22What%27s_Special_About_This_Number%3F%22_(Part_0)>)
+  - [The On-Line Encyclopedia of Integer Sequences(OEIS)](https://oeis.org/) -
   - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
   - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - a complete set of free online (and downloadable) notes/tutorials for classes that Prof. Paul Dawkins teaches at Lamar University.
   - [Real Not Complex](https://realnotcomplex.com/) - Discover Incredible FREE Resources to Study Mathematics.
@@ -73,8 +78,11 @@
 ---
 
 ## Tech
+
 - Sites+Blogs/
+
   - Privacy
+
     - [gnu.org](https://www.gnu.org/)
     - [That One Privacy Site](https://thatoneprivacysite.net/about/)
     - [Richard Stallman's Personal Site ](https://stallman.org/index.html)
@@ -96,12 +104,29 @@
     - [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
 
   - Blogs
+
     - [StackOverflow Blog](https://stackoverflow.blog/)
     - [Twilio Blog](https://www.twilio.com/blog)
     - [Coding Horror](https://blog.codinghorror.com/)
     - [GitHub Blog](https://github.blog/)
     - [Uber Engineering Blog](https://eng.uber.com/)
     - [Slack Engineering](https://slack.engineering/)
+    - [Project Zero](https://googleprojectzero.blogspot.com/)
+    - [Dropbox Tech Blog - Dropbox](https://dropbox.tech/)
+    - [The Coinbase Blog](https://blog.coinbase.com/)
+    - [The Official NVIDIA Blog](https://blogs.nvidia.com/)
+    - [MongoDB Blog](https://www.mongodb.com/blog)
+    - [Figma blog](https://www.figma.com/blog/)
+    - [Stories by Dribbble](https://dribbble.com/stories)
+    - [Cisco Talos Intelligence Group](https://blog.talosintelligence.com/)
+    - [TestDriven.io Blog](https://testdriven.io/blog/)
+    - [pganalyze Blog](https://pganalyze.com/blog)
+    - [The Teleport Blog](https://goteleport.com/blog/)
+    - [Qvault Blog](https://qvault.io/articles/)
+    - [Simple Thread Blog](https://www.simplethread.com/blog/)
+    - [r2c blog](https://r2c.dev/blog)
+    - [Packagecloud Blog - Posts and HOWTOs for Maven, RPM, DEB, PyPi and RubyGem users](https://blog.packagecloud.io/)
+    - [Capital and Growth](https://capitalandgrowth.org/blog/)
     - [Vitalik Buterin](https://vitalik.ca/)
     - [Distill](https://distill.pub/) - articles about machine learning
     - [Julia Evans](https://jvns.ca/)
@@ -137,8 +162,66 @@
     - [Raph Levien](https://raphlinus.github.io/)
     - [Compiled;](https://compiled.blog/)
     - [Red Blob Games](https://www.redblobgames.com/)
+    - [Sam Altman](https://blog.samaltman.com/)
+    - [Drew DeVault's blog](https://drewdevault.com/)
+    - [Andy Matuschak](https://andymatuschak.org/)
+    - [Benedict Evans](https://www.ben-evans.com/)
+    - [Robert Heaton](https://robertheaton.com/)
+    - [Dave Rupert](https://daverupert.com/)
+    - [Adam Wathan](https://adamwathan.me/)
+    - [Charles Stross](https://www.antipope.org/charlie/blog-static/index.html)
+    - [benkuhn.net](https://www.benkuhn.net/)
+    - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+    - [zachleat.com](https://www.zachleat.com/)
+    - [Martin Tournoij](https://www.arp242.net/)
+    - [Marco Arment](https://marco.org/)
+    - [Jeff Kaufman](https://www.jefftk.com/)
+    - [Brad Frost](https://bradfrost.com/)
+    - [Kevin Kelly](https://kk.org/)
+    - [Yasoob Khalid](https://yasoob.me/)
+    - [Restricted Data: The Nuclear Secrecy Blog](http://blog.nuclearsecrecy.com/)
+    - [CSS Wizardry](https://csswizardry.com/)
+    - [Rodrigo's Stuff | Rodrigo Copetti](https://www.copetti.org/)
+    - [programming is terrible](https://programmingisterrible.com/)
+    - [beepb00p](https://beepb00p.xyz/)
+    - [Daniel Stenberg](https://daniel.haxx.se/)
+    - [Calvin French-Owen](https://calv.info/)
+    - [tonsky.me](https://tonsky.me/)
+    - [Will Crichton](https://willcrichton.net/notes/)
+    - [Neil Sainsbury](https://www.neilwithdata.com/)
+    - [Max Böck](https://mxb.dev/)
+    - [Arabesque](https://blog.sanctum.geek.nz/)
+    - [Cory Doctorow's craphound.com](https://craphound.com/)
+    - [charity.wtf](https://charity.wtf/)
+    - [Haki Benita](https://hakibenita.com/)
+    - [macwright.com](https://macwright.com/)
+    - [Slate Star Codex](https://slatestarcodex.com/)
+    - [Astral Codex Ten](https://astralcodexten.substack.com/)
+    - [Applied Divinity Studies](https://applieddivinitystudies.com/)
+    - [Mark Erikson](https://blog.isquaredsoftware.com/)
+    - [Vintage Computing and Gaming](https://www.vintagecomputing.com/)
+    - [zeux.io](https://zeux.io/)
+    - [David Winterbottom](https://codeinthehole.com/)
+    - [Pascal's scribbles](https://deterministic.space/)
+    - [ploeh blog](https://blog.ploeh.dk/)
+    - [Sam Curry - Web Application Security Researcher](https://samcurry.net/)
+    - [Brett Buerhaus](https://buer.haus/)
+    - [Welcome to Intuitive Explanations](https://intuitiveexplanations.com/)
+    - [Deciphering Glyph](https://glyph.twistedmatrix.com/)
+    - [esoteric.codes](https://esoteric.codes/)
+    - [mkdev](https://mkdev.me/)
+    - [Dhruv On Math](https://www.dhruvonmath.com/)
+    - [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
+    - [Chip Huyen](https://huyenchip.com/)
+    - [Venam's Blog](https://venam.nixers.net/blog/)
+    - [Vicki Boykis](https://veekaybee.github.io/)
+    - [Practical Business Python](https://pbpython.com/)
+    - [Brandon Rhodes](https://rhodesmill.org/brandon/)
+    - [Henrik Warne](https://henrikwarne.com/)
+    - [250bpm](https://250bpm.com/)
 
   - Medium Blogs
+
     - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
     - [Netflix TechBlog](https://medium.com/netflix-techblog)
     - [Discord Blog](https://blog.discordapp.com/)
@@ -155,6 +238,7 @@
     - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
 
   - NerdStuff
+
     - [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
     - [secretGeekWiki](http://wiki.secretgeek.net/About)
     - [DistroWatch](https://distrowatch.com)
@@ -164,9 +248,11 @@
     - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 
   - Miscellaneous
+
     - [Feedly Discover](https://feedly.com/i/discover/)
-    
+
     - HackerNews/Y Combinator
+
       - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
       - [HN/leaders](https://news.ycombinator.com/lists) - Users with most karma.
       - [HN/front](https://news.ycombinator.com/front) - Front page submissions for a given day (e.g. 2016-06-20).
@@ -176,15 +262,17 @@
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
       - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
       - [Best of Show HN](https://bestofshowhn.com/)
-    
+
     - Reddit
       - [Reddit](https://reddit.com/)
       - [Top Posts of 2020](https://www.reddit.com/posts/2020/)
       - [redditlist.com](http://redditlist.com/)
-      
     - [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
+    - [YouTube](https://www.youtube.com/)
     - [Stack Overflow](https://stackoverflow.com/)
     - [Slashdot](https://www.slashdot.org/)
+    - [nixers.net](https://nixers.net/)
+    - [Quora](https://www.quora.com/)
     - [Stratechery](https://stratechery.com/) - Ben Thompson.
     - [dev.to](https://dev.to/)
     - [Indie Hackers](https://www.indiehackers.com/)
@@ -241,15 +329,29 @@
     - [MakeUseOf](https://www.makeuseof.com/)
     - [Epsilon Theory](https://www.epsilontheory.com/)
     - [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page) - unofficial wiki dedicated to collecting, storing and providing information on the internals of Apple's iDevices.
-    
+
   - Magazines/Newspapers
+
+    - [National Geographic](https://www.nationalgeographic.com/)
     - [Fortune](https://fortune.com/)
     - [The New York Times](https://www.nytimes.com/)
     - [The Washington Post](https://www.washingtonpost.com/)
     - [The Wall Street Journal](https://www.wsj.com/)
     - [Variety](https://variety.com/)
+    - [Paris Review](https://www.theparisreview.org/)
+    - [Rolling Stone](https://www.rollingstone.com/)
+    - [Inc.com](https://www.inc.com/)
+    - [The Atlantic](https://www.theatlantic.com/)
+    - [Axios](https://www.axios.com/)
+    - [Longreads](https://longreads.com/)
+    - [Longform](https://longform.org/)
+    - [TorrentFreak](https://torrentfreak.com/)
+    - [Daily Nous](https://dailynous.com/)
+    - [Teslarati](https://www.teslarati.com/)
+    - [Genius](https://genius.com/) - Song Lyrics & Knowledge
 
   - Hacking/Cybersecurity
+
     - [Schneier on Security - Bruce Schneier](https://www.schneier.com/)
     - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation.
     - [Null Byte](https://null-byte.wonderhowto.com/)
@@ -267,6 +369,7 @@
     - [Richard Stallman](https://www.stallman.org/)
     - [Bjarne Stroustrup](http://www.stroustrup.com/index.html)
     - [Joel Spolsky](https://www.joelonsoftware.com/)
+    - [Aaron Swartz](http://www.aaronsw.com/)
     - [Stephen Wolfram](https://www.stephenwolfram.com/)
     - [The View from Aristeia - Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
     - [Peter Norwig](http://norvig.com/)

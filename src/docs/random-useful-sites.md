@@ -6,6 +6,12 @@
     - [LKML.ORG](https://lkml.org/) - the Linux Kernel Mailing List Archive.
     - [Google Code Search](https://cs.opensource.google/) - Search all projects for code or files.
     - [One Page Calendar 2020](https://davebakker.io/onepagecalendar/)
+    - [Scale of the Universe 2](https://htwins.net/scale2/)
+    - [Time.is](https://time.is/)
+    - [Anime News Network](https://www.animenewsnetwork.com/)
+    - [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/)
+    - [Cameron's World](https://www.cameronsworld.net/)
+    - [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
     - [Faces of Open Source](http://www.facesofopensource.com/)
     - [Start Your Own ISP](https://startyourownisp.com/)
     - [Where is Starman](https://www.whereisroadster.com/)
@@ -42,15 +48,24 @@
     - [Know Your Meme](https://knowyourmeme.com/) - Internet Meme Database
     - [Snopes.com](https://www.snopes.com/) - The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
     - [bellingcat](https://www.bellingcat.com/) - the home of online investigations
-  - [TinEye Reverse Image Search](https://tineye.com/)
-  - [Artvee](https://artvee.com/)
-  - [All About Circuits](https://www.allaboutcircuits.com/)
-  - [Get Emoji](https://getemoji.com/) - All Emojis to ✂️ Copy and 📋 Paste 👌
-  - [Usenet Archives (UsenetArchives.com)](https://www.usenetarchives.com/)
-  - [T E X T F I L E S D O T C O M](http://textfiles.com/)
-  - [Lightyear.fm](http://www.lightyear.fm/)
-  - [Dark Patterns](https://darkpatterns.org/)
-  - [Neave Interactive](https://neave.com/)
+    - [TinEye Reverse Image Search](https://tineye.com/)
+    - [Artvee](https://artvee.com/)
+    - [All About Circuits](https://www.allaboutcircuits.com/)
+    - [Get Emoji](https://getemoji.com/) - All Emojis to ✂️ Copy and 📋 Paste 👌
+    - [Usenet Archives (UsenetArchives.com)](https://www.usenetarchives.com/)
+    - [T E X T F I L E S D O T C O M](http://textfiles.com/)
+    - [Lightyear.fm](http://www.lightyear.fm/)
+    - [Dark Patterns](https://darkpatterns.org/)
+    - [Neave Interactive](https://neave.com/)
+    - [DuckDuckGo Instant Answer API](https://api.duckduckgo.com/api)
+    - [Copy Paste List](https://copypastelist.com/)
+    - [Animated Knots by Grog](https://www.animatedknots.com/)
+    - [Bing Fun](https://www.bing.com/fun)
+    - [Every Noise at Once](https://everynoise.com/)
+    - [Occupational Outlook Handbook :: U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/home.htm)
+    - [Punpedia -- The Online Encyclopedia of Puns](https://punpedia.org/)
+    - [Our Incredible Journey](https://ourincrediblejourney.tumblr.com/)
+    - [Neocities: Create your own free website!](https://neocities.org/)
   
   - Dictionaries  
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.

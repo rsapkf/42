@@ -1,6 +1,12 @@
 # YouTube Subscriptions
 
+### Official
+
+- [YouTube](https://www.youtube.com/channel/UCBR8-60-B28hp2BmDPdntcQ)
+- [YouTube Creators](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ)
+
 ### MOOCs
+
 - [stanfordonline](https://www.youtube.com/channel/UCBa5G_ESCn8Yd4vw5U-gIcg)
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
@@ -9,6 +15,29 @@
 - [YaleCourses](https://www.youtube.com/channel/UC4EY_qnSeAP1xGsh61eOoJA)
 
 ### Programming
+
+- [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
+- [Google](https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA)
+- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
+- [Google Cloud Platform](https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg)
+- [Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
+- [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+- [Firebase](https://www.youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg)
+- [Amazon Web Services](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
+- [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
+- [Mozilla Hacks](https://www.youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA)
+- [Firefox](https://www.youtube.com/channel/UC-CBSBRP82j2t5PQ3M33CVw)
+- [DeeplearningAI](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+- [Stripe Developers](https://www.youtube.com/channel/UCd1HAa7hlN5SCQjgCcGnsxw)
+- [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A)
+- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [dotNET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)
+- [Unreal Engine](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
+- [Unity](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg)
+- [JetBrainsTV](https://www.youtube.com/channel/UCGp4UBwpTNegd_4nCpuBcow)
+- [DigitalOcean](https://www.youtube.com/channel/UCaPX53JLxxSbwZz_Ra_cL0g)
+- [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+- [Tailwind Labs](https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ)
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
 - [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA)
@@ -17,21 +46,15 @@
 - [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-- [DeeplearningAI](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-- [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
-- [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
-- [Google](https://www.youtube.com/channel/UCK8sQmJBp8GCxrOtXWBpyEA)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
-- [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
-- [Mozilla Hacks](https://www.youtube.com/channel/UCijjo5gfAscWgNCKFHWm1EA)
 - [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
 - [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
 - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
@@ -45,14 +68,8 @@
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 - [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
 - [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
-- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
 - [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
-- [Google Cloud Platform](https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg)
-- [Amazon Web Services](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
-- [Firebase](https://www.youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg)
-- [Stripe Developers](https://www.youtube.com/channel/UCd1HAa7hlN5SCQjgCcGnsxw)
-- [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A)
 - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
 - [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
@@ -71,14 +88,20 @@
 - [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
 - [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
 - [CG Geek](https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ)
-- [Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 - [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [William Candillon](https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA)
 - [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- [Sebastian Lague](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
+- [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
+- [Jason Lengstorf](https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A)
+- [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
+- [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+- [carykh](https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A)
 
 ### Linux
+
 - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 - [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
 - [Wolfgang's Channel](https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg)
@@ -86,12 +109,25 @@
 - [Bryan Lunduke](https://www.youtube.com/channel/UCkK9UDm_ZNrq_rIXCz3xCGA)
 - [Gardiner Bryant](https://www.youtube.com/channel/UCv1Kcz-CuGM6mxzL3B1_Eiw)
 - [Chris Titus Tech](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
+- [System Crafters](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
+- [DorianDotSlash](https://www.youtube.com/channel/UCJYVW4HVrMWpUvvsjPQc8-Q)
+- [Average Linux User](https://www.youtube.com/channel/UCZiL6BoryLWxyapUuVYW27g)
+- [nixcasts](https://www.youtube.com/channel/UCgREucssIfY9e0Iy3yhse8w)
+- [The Linux Experiment](https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw)
+- [ThePrimeagen](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw)
 - [tutoriaLinux](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ)
 - [gotbletu](https://www.youtube.com/channel/UCkf4VIqu3Acnfzuk3kRIFwA)
 - [Brodie Robertson](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)
 
 ### Science
+
+- [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)
+- [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)
+- [NASA Goddard](https://www.youtube.com/channel/UCAY-SMFNfynqz1bdoaV8BeQ)
+- [NASA Johnson](https://www.youtube.com/channel/UCmheCYT4HlbFi943lpH009Q)
+- [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
 - [2veritasium](https://www.youtube.com/channel/UC2LZO6swZ9SLUEOks3WnsfA)
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 - [Adam Savage’s Tested](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
 - [Andrew Dotson](https://www.youtube.com/channel/UCnFmWQbVW_YbqPQZGNuq8sA)
 - [Applied Science](https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw)
@@ -112,14 +148,14 @@
 - [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g)
 - [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
 - [Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw)
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 - [Mike Boyd](https://www.youtube.com/channel/UCIRiWCPZoUyZDbydIqitHtQ)
+- [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [MinuteEarth](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w)
 - [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
 - [Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA)
-- [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)
 - [yeti dynamics](https://www.youtube.com/channel/UCfzLXKMZqf8-nR920SbQJLA)
 - [The Action Lab](https://www.youtube.com/channel/UC1VLQPn9cYSqx8plbk9RxxQ)
+- [Action Lab Shorts](https://www.youtube.com/channel/UCA19mAJURyYHbJzhfpqhpCA)
 - [Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A)
 - [StarTalk](https://www.youtube.com/channel/UCqoAEDirJPjEUFcF2FklnBA)
 - [Objectivity](https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg)
@@ -140,7 +176,6 @@
 - [Tibees](https://www.youtube.com/channel/UC52kszkc08-acFOuogFl5jw)
 - [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
 - [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ)
-- [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
 - [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
 - [TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
 - [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
@@ -151,18 +186,18 @@
 - [Vsauce2](https://www.youtube.com/channel/UCqmugCqELzhIMNYnsjScXXw)
 - [Vsauce3](https://www.youtube.com/channel/UCwmFOfFuvRPI112vR5DNnrA)
 - [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA)
-- [The Create Unknown](https://www.youtube.com/channel/UC4Abl9Z_dKFxA7fRFnGPLiA)
 - [Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ)
 - [Zach Star](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)
 - [acapellascience](https://www.youtube.com/channel/UCTev4RNBiu6lqtx8z1e87fQ)
 - [Wisecrack](https://www.youtube.com/channel/UC6-ymYjG0SU0jUWnWh9ZzEQ)
 - [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g)
-- [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [thebrainscoop](https://www.youtube.com/channel/UCkyfHZ6bY2TjqbJhiH8Y2QQ)
 - [Everyday Astronaut](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
 - [Primal Space](https://www.youtube.com/channel/UClZbmi9JzfnB2CEb0fG8iew)
 - [Seeker](https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw)
 - [NileRed](https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA)
+- [NileBlue](https://www.youtube.com/channel/UC1D3yD4wlPMico0dss264XA)
+- [NileRed Shorts](https://www.youtube.com/channel/UCA0mlN90EHCizvo101nbr-g)
 - [SciShow Space](https://www.youtube.com/channel/UCrMePiHCWG4Vwqv3t7W9EFg)
 - [SciShow Psych](https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA)
 - [How to Adult](https://www.youtube.com/channel/UCFqaprvZ2K5JOULCvr18NTQ)
@@ -173,8 +208,14 @@
 - [Practical Engineering](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
 - [The Thought Emporium](https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ)
 - [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
+- [brusspup](https://www.youtube.com/channel/UCeQEKFH31vvD-InkTGSvCrA)
+- [Thoughty2](https://www.youtube.com/channel/UCRlICXvO4XR4HMeEB9JjDlA)
+- [Atomic Frontier](https://www.youtube.com/channel/UCbCq5Y0WPGimG2jNXhoQxGw)
+- [Mustard](https://www.youtube.com/channel/UC1ZBQ-F-yktYD4m5AzM6pww)
+- [Anton Petrov](https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ)
 
 ### Mathematics
+
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 - [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
@@ -191,10 +232,27 @@
 - [MindYourDecisions](https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g)
 
 ### Technology
+
 - [Android Authority](https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw)
-- [Apple](https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw)
 - [Netflix](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
+- [Apple](https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw)
+- [Microsoft](https://www.youtube.com/channel/UCFtEEv80fQVKkD4h1PF-Xqw)
+- [Xbox](https://www.youtube.com/channel/UCjBp_7RuDBUYbd1LegWEJ8g)
+- [Windows](https://www.youtube.com/channel/UCVGOyzms_XJNk_DHqrffXCw)
+- [Microsoft Research](https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ)
+- [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
+- [Microsoft Visual Studio](https://www.youtube.com/channel/UChqrDOwARrxdJF-ykAptc7w)
+- [Visual Studio Code](https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w)
+- [Microsoft Surface](https://www.youtube.com/channel/UCGS474QoP8SCnSo6hOCaayA)
+- [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ)
+- [The New York Times](https://www.youtube.com/channel/UCqnbDFdCpuN8CMEg0VuEBqA)
+- [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ)
+- [Vox](https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA)
+- [WIRED](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw)
+- [Engadget](https://www.youtube.com/channel/UC-6OW5aJYBFM33zXQlBKPNA)
+- [TechCrunch](https://www.youtube.com/channel/UCCjyq_K1Xwfg8Lndy7lKMpA)
 - [Austin Evans](https://www.youtube.com/channel/UCXGgrKt94gR6lmN4aN3mYTg)
+- [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 - [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
 - [Bill Gates](https://www.youtube.com/channel/UCnEiGCE13SUI7ZvojTAVBKw)
 - [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
@@ -205,7 +263,6 @@
 - [Dave2D](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw)
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 - [JerryRigEverything](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ)
-- [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
 - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
 - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
@@ -226,27 +283,31 @@
 - [Unbox Therapy](https://www.youtube.com/channel/UCsTcErHg8oDvUnTzoqsYeNw)
 - [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
 - [Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew)
-- [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ)
-- [The New York Times](https://www.youtube.com/channel/UCqnbDFdCpuN8CMEg0VuEBqA)
-- [WIRED](https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw)
-- [Engadget](https://www.youtube.com/channel/UC-6OW5aJYBFM33zXQlBKPNA)
-- [TechCrunch](https://www.youtube.com/channel/UCCjyq_K1Xwfg8Lndy7lKMpA)
 - [TechRax](https://www.youtube.com/channel/UCmlsu3V3SzIm2Jmo0S0qiMg)
+- [iJustine](https://www.youtube.com/channel/UCey_c7U86mJGz1VJWH5CYPA?app=desktop)
+- [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
+- [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w)
+- [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q)
 - [Hugh Jeffreys](https://www.youtube.com/channel/UCQDhxkSxZA6lxdeXE19aoRA)
 - [Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw)
 - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
 ### Miscellaneous
-- [Jake Roper](https://www.youtube.com/channel/UCk6cjmZB_r3AVPMyAeJYBng)
-- [Matt and Tom](https://www.youtube.com/channel/UCRUULstZRWS1lDvJBzHnkXA)
+
+- [Forbes](https://www.youtube.com/channel/UCmh7afBz-uWwOSSNTqUBAhg)
+- [Insider](https://www.youtube.com/channel/UCHJuQZuzapBh-CuhRYxIZrg)
 - [Will Smith](https://www.youtube.com/channel/UCKuHFYu3smtrl2AwwMOXOlg)
 - [Ryan Reynolds](https://www.youtube.com/channel/UCA3-nIYWu4PTWkb6NwhEpzg)
+- [The Rock](https://www.youtube.com/channel/UCBdw4dLCLLHmTgAOnW4V0hQ)
+- [Jake Roper](https://www.youtube.com/channel/UCk6cjmZB_r3AVPMyAeJYBng)
+- [Matt and Tom](https://www.youtube.com/channel/UCRUULstZRWS1lDvJBzHnkXA)
 - [Philosophy Tube](https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ)
 - [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ)
 - [Fredrik Knudsen](https://www.youtube.com/channel/UCbWcXB0PoqOsAvAdfzWMf0w)
 - [OverSimplified](https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A)
 - [h3h3Productions](https://www.youtube.com/channel/UCDWIvJwLJsE4LG1Atne2blQ)
-- [H3 Podcast](https://www.youtube.com/channel/UCLtREJY21xRfCuEKvdki1Kw)
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ)
 - [LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
 - [Mike Shake](https://www.youtube.com/channel/UC6ktP3PLU5sAJxN9Rb0TALg)
@@ -289,19 +350,66 @@
 - [The Film Theorists](https://www.youtube.com/channel/UC3sznuotAs2ohg_U__Jzj_Q)
 - [CinemaSins](https://www.youtube.com/channel/UCYUQQgogVeQY8cMQamhHJcg)
 - [Caitlin Doughty – Ask A Mortician](https://www.youtube.com/channel/UCi5iiEyLwSLvlqnMi02u5gQ)
+- [iDubbbzTV](https://www.youtube.com/channel/UC4USoIAL9qcsx5nCZV_QRnA)
+- [iDubbbzTV2](https://www.youtube.com/channel/UC-tsNNJ3yIW98MtPH6PWFAQ)
+- [Pyrocynical](https://www.youtube.com/channel/UCN5xN8gIljvWYnsj06V8WbQ)
+- [Cody Ko](https://www.youtube.com/channel/UCfp86n--4JvqKbunwSI2lYQ)
+- [Cody & Ko](https://www.youtube.com/channel/UCy06jHRS_82N2i5v1YL7glQ)
+- [Noel Miller](https://www.youtube.com/channel/UCuTQDPUE12sy7g1xf1LAdTA)
+- [SethEverman](https://www.youtube.com/channel/UCoNRSwYHJdy-yV1b82ZdHfQ)
+- [Doctor Mike](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw)
+- [DramaAlert](https://www.youtube.com/channel/UC11PvrGPzo6Y7Zc6-e9cAKg)
+- [Scarce](https://www.youtube.com/channel/UC1NB1xUQ8ItM5VoA4101lUQ)
+- [Hacksmith Industries](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ)
+- [Misfits](https://www.youtube.com/channel/UCE-DS2-ThLeJu9TYd30sSxw)
+- [Alt Shift X](https://www.youtube.com/channel/UCveZqqGewoyPiacooywP5Ig)
+- [Screen Rant](https://www.youtube.com/channel/UC2iUwfYi_1FCGGqhOUNx-iA)
+- [Scammer Payback](https://www.youtube.com/channel/UCC9EjyMN_hx5NdctLBx5X7w)
+- [Pleasant Green](https://www.youtube.com/channel/UCAPrhJwVweWZA8GEPoClSdw)
+- [Crunchyroll](https://www.youtube.com/channel/UCBXn1nJgmCeM3gt0CI99b6g)
+- [DemolitionRanch](https://www.youtube.com/channel/UCBvc7pmUp9wiZIFOXEp1sCg)
+- [Bob Ross](https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ)
+- [Daily Dose Of Internet](https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw)
+- [Joseph's Machines](https://www.youtube.com/channel/UCbNvfx3rYYxEopnRGxfu53Q)
+
+### Podcasts
+
+- [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww)
+- [LMG Clips](https://www.youtube.com/channel/UCFLFc8Lpbwt4jPtY1_Ai5yA)
+- [WVFRM Podcast](https://www.youtube.com/channel/UCEcrRXW3oEYfUctetZTAWLw)
+- [Waveform Clips](https://www.youtube.com/channel/UCc_ycus0q7DSd85ZkmEY5ig)
+- [Lew Later](https://www.youtube.com/channel/UCXv-co3EYHF7aOH4A93qAHQ)
+- [Later Clips](https://www.youtube.com/channel/UCtVGGeUqfVHOK4Q6nAwYO3g)
+- [Hello Internet](https://www.youtube.com/channel/UCwez9XDNV_wS0WNDZteXjgw)
+- [Tiny Meat Gang](https://www.youtube.com/channel/UC4sf8XtH_uXnwNP699luQVQ)
+- [TMG Podcast Highlights](https://www.youtube.com/channel/UCdftuX9H8kW14Njxtpnuy3Q)
+- [Misfits Podcast](https://www.youtube.com/channel/UC6OUstIo-qXiJzcsJ0toz-A)
+- [Misfits Podcast Clips](https://www.youtube.com/channel/UC_xGi9VGsn6xgxigxyNoKxw)
+- [Cream Crew](https://www.youtube.com/channel/UCAQeEeOyVrxw_o3bd4s0Smg)
+- [What's Good Podcast](https://www.youtube.com/channel/UCFPElAbES8GHfBZrDrGbSLQ)
+- [The Create Unknown](https://www.youtube.com/channel/UC4Abl9Z_dKFxA7fRFnGPLiA)
+- [H3 Podcast](https://www.youtube.com/channel/UCLtREJY21xRfCuEKvdki1Kw)
 
 ### Horror/Internet Mysteries
+
 - [Nexpo](https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw)
 - [MamaMax](https://www.youtube.com/channel/UCpofQJ6RpHrxuUG4ghXPJBA)
 - [Nick Crowley](https://www.youtube.com/channel/UCMX31RavkfUHJvw03RbUZnA)
 - [ScareTheater](https://www.youtube.com/channel/UCaGOgwGKnDVOKY0DrFsBAiA)
 - [Atrocity Guide](https://www.youtube.com/channel/UCn8OYopT9e8tng-CGEWzfmw)
 - [CreepsMcPasta](https://www.youtube.com/channel/UCeHGGfhRUiH5wBpjjzbRNXg)
+- [ReignBot](https://www.youtube.com/channel/UCchWU8ta6L-Dy3rGIxPINzw)
+- [Rob Gavagan](https://www.youtube.com/channel/UCYxrnDjNQZIs_aAcdhqSveg)
+- [Barely Sociable](https://www.youtube.com/channel/UC9PIn6-XuRKZ5HmYeu46AIw)
+- [JCS - Criminal Psychology](https://www.youtube.com/channel/UCYwVxWpjeKFWwu8TML-Te9A)
 
 ### Magic + Puzzles
+
 - Chess
+
   - [Chess.com](https://www.youtube.com/channel/UC5kS0l76kC0xOzMPtOmSFGw)
   - [GMHikaru](https://www.youtube.com/channel/UCweCc7bSMX5J4jEH7HFImng)
+  - [Magnus Carlsen](https://www.youtube.com/channel/UCbdcpQ5uPPymv7Ea0nnFfOw)
   - [agadmator's Chess Channel](https://www.youtube.com/channel/UCL5YbN5WLFD8dLIegT5QAbA)
   - [GothamChess](https://www.youtube.com/channel/UCQHX6ViZmPsWiYSFAyS0a3Q)
   - [Eric Rosen](https://www.youtube.com/channel/UCXy10-NEFGxQ3b4NVrzHw1Q)
@@ -310,6 +418,7 @@
   - [ChessNetwork](https://www.youtube.com/channel/UCCDOQrpqLqKVcTCKzqarxLg)
 
 - Speedcubing
+
   - [CubeSkills](https://www.youtube.com/channel/UCPftX98kFgj-fPk3pombPIg)
   - [badmephisto](https://www.youtube.com/channel/UCqgMq1Um_xnD45wTLPlvW7A)
   - [Feliks Zemdegs](https://www.youtube.com/channel/UCQ7ASM-o1ELUbScXCKYwovA)
@@ -340,6 +449,7 @@
   - [Jayden McNeill](https://www.youtube.com/channel/UC2-V0rEZF_uxDSUxeRxov5Q)
 
 - Card Tricks
+
   - [David Blaine](https://www.youtube.com/channel/UCS1lj4kyIrWBqZ5YQHWgT5w)
   - [TheRussianGenius](https://www.youtube.com/channel/UC8juAMAjKpaft2TIa8Hu08A)
   - [52Kards](https://www.youtube.com/channel/UCIuScmttXWzLoXqs8kU3vWA)
@@ -353,6 +463,8 @@
 - [Grand Illusions](https://www.youtube.com/channel/UCnmgSO_4g6QcRzy0yFeglyA)
 
 ### Animation
+
+- [Pixar](https://www.youtube.com/channel/UC_IRYSp4auq7hKLvziWVH6w)
 - [How It Should Have Ended](https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ)
 - [Domics](https://www.youtube.com/channel/UCn1XB-jvmd9fXMzhiA6IR0w)
 - [Sam O'Nella Academy](https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA)
@@ -361,13 +473,51 @@
 - [Piemations](https://www.youtube.com/channel/UC8RBLJdSpxSVWDc_bGKmdQQ)
 - [ExplosmEntertainment](https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw)
 - [Vivziepop](https://www.youtube.com/channel/UCzfyYtgvkx5mLy8nlLlayYg)
+- [TerminalMontage](https://www.youtube.com/channel/UCLFXk9J3O-hhOk0msOjKYdQ)
+- [psychicpebbles](https://www.youtube.com/channel/UC--BMyA2X4a9PGAo3lTuopg)
+- [MeatCanyon](https://www.youtube.com/channel/UC91V6D3nkhP89wUb9f_h17g)
+- [Flashgitz](https://www.youtube.com/channel/UCNnKprAG-MWLsk-GsbsC2BA)
+- [sWooZie](https://www.youtube.com/channel/UCUKi4zY5ETSqrKAjTBgjM-g)
+- [illymation](https://www.youtube.com/channel/UCsKVP_4zQ877TEiH_Ih5yDQ)
+- [Emirichu](https://www.youtube.com/channel/UCFeqAfEuKm7lIg2ddQzh61A)
+- [Sultan Sketches](https://www.youtube.com/channel/UCgmublDj4T0zEP7ngRRGkmg)
+- [TheAMaazing](https://www.youtube.com/channel/UCQ9HvHH-KRYHI5ynj2kbLwQ)
+- [David Firth](https://www.youtube.com/channel/UCaGev0JRG7Dp5c_R4ROADLw)
+- [Petscop](https://www.youtube.com/channel/UCZKQv0ZFHpeIUkOtNjtq4KA)
+- [Don't Hug Me .I'm Scared](https://www.youtube.com/channel/UCZOnoLKzoBItcEk5OsES2TA)
+- [Annoying Orange](https://www.youtube.com/channel/UCi-5OZ2tYuwMLIcEyOsbdRA)
 
 ### Gaming + Memes
+
+- [Minecraft](https://www.youtube.com/channel/UC1sELGmy5jp5fQUugmuYlXQ)
 - [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw)
 - [Dude Perfect](https://www.youtube.com/channel/UCRijo3ddMTht_IHyNSNXpNQ)
 - [MrBeast](https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA)
+- [MrBeast Gaming](https://www.youtube.com/channel/UCIPPMRA040LQr5QPyJEbmXA)
 - [PewDiePie](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw)
 - [JJ Olatunji](https://www.youtube.com/channel/UCGmnsW623G1r-Chmo5RB4Yw)
+- [KSI](https://www.youtube.com/channel/UCVtFOytbRpEvzLjvqGG5gxQ)
+- [KSIClips](https://www.youtube.com/channel/UCMiY4t431lhXY4QtPZtzftQ)
+- [CORPSE](https://www.youtube.com/channel/UCuZPtWDsczOuztPMUr0mmpw)
+- [Corpse Husband](https://www.youtube.com/channel/UCFNTq9XKHDNy_1-2lL0kqCg)
+- [Sidemen](https://www.youtube.com/channel/UCDogdKl7t7NHzQ95aEwkdMw)
+- [MoreSidemen](https://www.youtube.com/channel/UCh5mLn90vUaB1PbRRx_AiaA)
+- [Miniminter](https://www.youtube.com/channel/UCWZmCMB7mmKWcXJSIPRhzZw)
+- [MM7Games](https://www.youtube.com/channel/UCjB_adDAIxOL8GA4Y4OCt8g)
+- [LazarBeam](https://www.youtube.com/channel/UCw1SQ6QRRtfAhrN_cjkrOgA)
+- [LazarLazar](https://www.youtube.com/channel/UCZ3AmknSJtbzXCeO5a4peoQ)
+- [Dream](https://www.youtube.com/channel/UCTkXRDQl0luXxVQrRQvWS6w)
+- [DreamXD](https://www.youtube.com/channel/UChU3JRloULzdFX3aCu7BiSA)
+- [Sapnap](https://www.youtube.com/channel/UCqynl7rdtktKMQESdSBmE-g)
+- [SomeOrdinaryGamers](https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ)
+- [TheTekkitRealm](https://www.youtube.com/channel/UCHOgE8XeaCjlgvH0t01fVZg)
+- [Ranboo](https://www.youtube.com/channel/UCKQ-wNdh0kO5qnpPfXa2hjQ)
+- [Technoblade](https://www.youtube.com/channel/UCFAiFyGs6oDiF1Nf-rRJpZA)
+- [Skeppy](https://www.youtube.com/channel/UCzMjRlKVO9XIqH_crIFpi6w)
+- [Fitz](https://www.youtube.com/channel/UCtb8P4rf_1n8KS8eZk_lNNw)
+- [SwaggerSouls](https://www.youtube.com/channel/UCMdGPato0IC5-zZjJIf-P9w)
+- [McCreamy](https://www.youtube.com/channel/UC-sjC5fKKsrpcZRJwlZJzZQ)
+- [JonTronShow](https://www.youtube.com/channel/UCdJdEguB1F1CiYe7OEi3SBg)
 - [JablinskiGames](https://www.youtube.com/channel/UCuriCa9loP_OsH75_5j8M5w)
 - [Markiplier](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
 - [jacksepticeye](https://www.youtube.com/channel/UCYzPXprvl5Y-Sf0g4vX-m6g)
@@ -381,17 +531,25 @@
 - [Whang!](https://www.youtube.com/channel/UC3jdnIP2u5hCJpVZ-TuDrCg)
 
 ### Economics
+
 - [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q)
 - [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg)
 
 ### Politics
+
 - [Arnold Schwarzenegger](https://www.youtube.com/channel/UCvyyU4AdijSZFEO7qqXP6kQ)
 - [Second Thought](https://www.youtube.com/channel/UCJm2TgUqtK1_NLBrjNQ1P-w)
 - [ContraPoints](https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA)
+- [The Right Opinion](https://www.youtube.com/channel/UCMTk_R_Y49jvq-HQXDmKI0Q)
+- [The Rubin Report](https://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng)
 
 ### Comedy
+
 - [CalebCity](https://www.youtube.com/channel/UCI1XS_GkLGDOgf8YLaaXNRA)
+- [LongBeachGriffy](https://www.youtube.com/channel/UCWiY6fYdxuEe78r-0uFCnhA)
 - [Danny Gonzalez](https://www.youtube.com/channel/UCSUf5_EPEfl4zlBKZHkZdmw)
+- [2 Danny 2 Furious](https://www.youtube.com/channel/UCoo-9GEm2mpyYIXSptrKIpA)
+- [Drew Gooden](https://www.youtube.com/channel/UCTSRIY3GLFYIpkR2QwyeklA)
 - [exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg)
 - [Gus Johnson](https://www.youtube.com/channel/UCpIafFPGutTAKOBHMtGen7g)
 - [Bill Burr](https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA)
@@ -404,40 +562,63 @@
 - [All Gas No Brakes](https://www.youtube.com/channel/UCtqxG9IrHFU_ID1khGvx9sA)
 - [Cilvanis](https://www.youtube.com/channel/UCccnyrT2NeVDzypO64Dif-A)
 - [Netflix Is A Joke](https://www.youtube.com/channel/UCObk_g1hQBy0RKKriVX_zOQ)
+- [Trevor Noah](https://www.youtube.com/channel/UC8bTQzxgvKkXDAaWkeuUlkg)
+- [CinnamonToastKen](https://www.youtube.com/channel/UCepq9z9ovYGxhNrvf6VMSjg)
 
 ### Music
+
 - [TheFatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
 - [melodysheep](https://www.youtube.com/channel/UCR9sFzaG9Ia_kXJhfxtFMBA)
 - [Wintergatan](https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ)
 - [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
+- [Boyinaband](https://www.youtube.com/channel/UCQ4FyiI_1mWI2AtLS5ChdPQ)
+- [Davie504](https://www.youtube.com/channel/UCgFvT6pUq9HLOvKBYERzXSQ)
+- [RoomieOfficial](https://www.youtube.com/channel/UC9SVhrnsGxWwiBRWT9c7Ozw)
+- [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
+- [xKito Music](https://www.youtube.com/channel/UCMOgdURr7d8pOVlc-alkfRg)
+- [Nightblue Music](https://www.youtube.com/channel/UCe55Gy-hFDvLZp8C8BZhBnw)
+
+### Entertainment
+
+- [Marvel Entertainment](https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA)
+- [DC](https://www.youtube.com/channel/UCiifkYAs_bq1pt_zbNAzYGg)
+- [Variety](https://www.youtube.com/channel/UCgRQHK8Ttr1j9xCEpCAlgbQ)
+- [New Rockstars](https://www.youtube.com/channel/UC7yRILFFJ2QZCykymr8LPwA)
 
 ### Movies/TV/Anime
+
 - [RedLetterMedia](https://www.youtube.com/channel/UCrTNhL_yO3tPTdQ5XgmmWjA)
 - [YourMovieSucksDOTorg](https://www.youtube.com/channel/UCSc16oMxxlcJSb9SXkjwMjA)
 - [Nerdwriter1](https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg)
 - [RE:ANIME](https://www.youtube.com/channel/UCwu_iHEmFfSKMQJbRU8vH0Q)
 
 ### Vlogs
+
 - [John Fish](https://www.youtube.com/channel/UC5Gmg-VtFmnP8qLq8V7Pvtg)
+- [JeffHK](https://www.youtube.com/channel/UCGpdSarF_FdCygiA1tOl6Cg)
 
 ### Travel Vlogging
+
 - [Abroad in Japan](https://www.youtube.com/channel/UCHL9bfHTxCMi-7vfxQ-AYtg)
 - [Karl Rock](https://www.youtube.com/channel/UCtfXgNnA-QcxjHJjk5wXLFg)
 - [bald and bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
 - [Harald Baldr](https://www.youtube.com/channel/UCKr68ZJ4vv6VloNdnS2hjhA)
 
 ### Cooking
+
 - [Nino's Home](https://www.youtube.com/channel/UCKetFmtqdh-kn915crdf72A)
 - [Babish Culinary Universe](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw)
 - [Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w)
 - [The Food Theorists](https://www.youtube.com/channel/UCHYoe8kQ-7Gn9ASOlmI0k6Q)
 
 ### Food Vlogs
+
 - [Best Ever Food Review Show](https://www.youtube.com/channel/UCcAd5Np7fO8SeejB1FVKcYw)
 - [The Food Ranger](https://www.youtube.com/channel/UCiAq_SU0ED1C6vWFMnw8Ekg)
 - [Mark Wiens](https://www.youtube.com/channel/UCyEd6QBSgat5kkC6svyjudA)
 
 ### Filmmaking
+
 - [Blender](https://www.youtube.com/channel/UCSMOQeBJ2RAnuFungnQOxLg)
 - [ponysmasher](https://www.youtube.com/channel/UCp1DqwNVcFrft1wuPXM9rFQ)
 - [Marco Bucci](https://www.youtube.com/channel/UCsDxB-CSMQ0Vu_hTag7-2UQ)
@@ -447,6 +628,7 @@
 - [Video Copilot](https://www.youtube.com/channel/UCWp2Kj8aD9XlCGiIZzwHciw)
 
 ### Woodworking/Blacksmithing/DIY
+
 - [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w)
 - [I Like To Make Stuff](https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw)
 - [John Malecki](https://www.youtube.com/channel/UCVUSDq6-oSpWAAPUppHFtZQ)
@@ -460,10 +642,16 @@
 - [Modern Builds](https://www.youtube.com/channel/UCIxAaCJ84uefATKmazDyIjw)
 
 ### Drawing
+
 - [markcrilley](https://www.youtube.com/channel/UCno-YPZ8BiLrN0Wbl8qICFA)
 - [mikeymegamega](https://www.youtube.com/channel/UCOvvFK_EhrX9exQ-jkLPg8w)
 
+### History
+
+- [World War Two](https://www.youtube.com/channel/UCP1AejCL4DA7jYkZAELRhHQ)
+
 ### Bushcraft/Survival
+
 - [Bear Grylls](https://www.youtube.com/channel/UCCJKLpwZC0H6cEX_GYxX5TA)
 - [My Self Reliance](https://www.youtube.com/channel/UCIMXKin1fXXCeq2UJePJEog)
 - [The Wooded Beardsman](https://www.youtube.com/channel/UCuoSzo6nnDLKOiZ_rXHE6Gw)
@@ -479,4 +667,3 @@
 - [Survival Russia](https://www.youtube.com/channel/UCq3CjAhR9foEpCXj88sMAKQ)
 - [Far North Bushcraft And Survival](https://www.youtube.com/channel/UC_8yo4mNMJkB7noKGLd7jUA)
 - [Northmen](https://www.youtube.com/channel/UCcaVClI50rGZmbYMhoSSDGA)
-
