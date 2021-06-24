@@ -5,12 +5,9 @@
 ## Physics and Non-Fiction
 
 - Carl Sagan
-
   - [Cosmos](<https://en.wikipedia.org/wiki/Cosmos_(Carl_Sagan_book)>)
   - [Pale Blue Dot](<https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book)>)
-
 - Stephen Hawking
-
   - [A Brief History of Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
   - [The Universe in a Nutshell](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
   - [God Created the Integers](https://en.wikipedia.org/wiki/God_Created_the_Integers)
@@ -18,34 +15,24 @@
   - [A Briefer History of Time](<https://en.wikipedia.org/wiki/A_Briefer_History_of_Time_(Hawking_and_Mlodinow_book)>)
   - [The Grand Design](https://en.wikipedia.org/wiki/The_Grand_Design_%28book%29)
   - [The Theory of Everything: The Origin and Fate of the Universe](https://www.goodreads.com/book/show/449573.The_Theory_of_Everything)
-
 - Max Tegmark
-
   - [Our Mathematical Universe](https://en.wikipedia.org/wiki/Our_Mathematical_Universe)
   - [Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
-
 - Brian Greene
-
   - [The Elegant Universe](https://en.wikipedia.org/wiki/The_Elegant_Universe)
   - [The Fabric of the Cosmos](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
   - [The Hidden Reality](https://en.wikipedia.org/wiki/The_Hidden_Reality)
-
 - Richard Dawkins
-
   - [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)
   - [The God Delusion](https://en.wikipedia.org/wiki/The_God_Delusion)
   - [The Extended Phenotype](https://en.wikipedia.org/wiki/The_Extended_Phenotype)
   - [The Blind Watchmaker](https://en.wikipedia.org/wiki/The_Blind_Watchmaker)
-
 - Neil deGrasse Tyson
-
   - [Astrophysics for People in a Hurry](https://en.wikipedia.org/wiki/Astrophysics_for_People_in_a_Hurry)
   - [The Pluto Files](https://en.wikipedia.org/wiki/The_Pluto_Files)
   - [Death by Black Hole](https://en.wikipedia.org/wiki/Death_by_Black_Hole)
   - [Welcome to the Universe](https://en.wikipedia.org/wiki/Welcome_to_the_Universe)
-
 - Michio Kaku
-
   - [Hyperspace](<https://en.wikipedia.org/wiki/Hyperspace_(book)>)
   - [Parallel Worlds](<https://en.wikipedia.org/wiki/Parallel_Worlds_(book)>)
   - [Physics of the Impossible](https://en.wikipedia.org/wiki/Physics_of_the_Impossible)
@@ -53,13 +40,10 @@
   - [The Future of the Mind](https://en.wikipedia.org/wiki/The_Future_of_the_Mind)
   - [The Future of Humanity](https://en.wikipedia.org/wiki/The_Future_of_Humanity)
   - [Beyond Einstein](<https://en.wikipedia.org/wiki/Beyond_Einstein_(book)>)
-
 - Leonard Susskind
-
   - [The Theoretical Minimum](https://en.wikipedia.org/wiki/The_Theoretical_Minimum)
   - [The Black Hole War](https://en.wikipedia.org/wiki/The_Black_Hole_War)
   - [The Cosmic Landscape](https://en.wikipedia.org/wiki/The_Cosmic_Landscape)
-
 - [The Character of Physical Law](https://en.wikipedia.org/wiki/The_Character_of_Physical_Law) - Richard Feynman.
 - [On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) - Charles Darwin.
 - [Relativity: The Special and the General Theory](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory) - Albert Einstein.
@@ -73,54 +57,36 @@
 ## Novels
 
 - Sci-Fi
-
   - Isaac Asimov
-
     - [Foundation series](https://en.wikipedia.org/wiki/Foundation_series)
     - [Robot series](https://en.wikipedia.org/wiki/Robot_series)
     - [Galactic Empire series](<https://en.wikipedia.org/wiki/Galactic_Empire_(series)>)
-
   - Arthur C. Clarke
-
     - [Space Odyssey](https://en.wikipedia.org/wiki/Space_Odyssey)
     - [Rendezvous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama)
-
   - Robert A. Heinlein
-
     - [Stranger in a Strange Land](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land)
     - [Starship Troopers](https://en.wikipedia.org/wiki/Starship_Troopers)
-
   - Neal Stephenson
-
     - [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
     - [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon)
     - [Reamde](https://en.wikipedia.org/wiki/Reamde)
     - [Seveneves](https://en.wikipedia.org/wiki/Seveneves)
-
   - Douglas Adams
-
     - [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
     - [Dirk Gently](https://en.wikipedia.org/wiki/Dirk_Gently)
-
   - Philip K. Dick
-
     - [Ubik](https://en.wikipedia.org/wiki/Ubik)
     - [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly)
     - [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-
   - Orson Scott Card
-
     - [Ender's Game](<https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)>)
-
   - Frank Herbert
-
     - [Dune](<https://en.wikipedia.org/wiki/Dune_(novel)>)
-
   - Jules Verne
     - [Twenty Thousand Leagues Under the Sea](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
     - [Around the World in Eighty Days](https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days)
     - [Journey to the Center of the Earth](https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
-
 - [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) - J.R.R. Tolkien.
 - [The Witcher](https://en.wikipedia.org/wiki/The_Witcher) - Andrzej Sapkowski.
 - [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) - George Orwell.
@@ -174,22 +140,15 @@
 ## Programming and CS
 
 - AI, ML
-
   - [Artificial Intelligence: A Modern Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) - Stuart J. Russell, Peter Norvig.
-
 - Linux
-
   - [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) - Brian W. Kernighan, Rob Pike.
   - [Advanced Programming in the Unix Environment](https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment) - W. Richard Stevens.
   - [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) - Michael Kerrisk.
   - [How Linux Works](https://www.goodreads.com/book/show/514432.How_Linux_Works) - Brian Ward.
-
 - C
-
   - [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language) - Brian Kernighan, Dennis Ritchie.
-
 - C++
-
   - [C++ Primer](https://www.goodreads.com/book/show/768080.C_Primer) - Stanley B. Lippman.
   - [Programming: Principles and Practice Using C++](https://www.goodreads.com/book/show/2914066-programming) - Bjarne Stroustrup.
   - [A Tour of C++](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Bjarne Stroustrup.
@@ -199,14 +158,10 @@
   - [More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions](https://www.goodreads.com/book/show/1370491.More_Exceptional_C_) - Herb Sutter.
   - [The C++ Standard Library: A Tutorial and Reference](https://www.goodreads.com/book/show/18689533-the-c-standard-library) - Nicolai M. Josuttis.
   - [C++ Templates: The Complete Guide](https://www.goodreads.com/book/show/806932.C_Templates) - David Vandevoorde.
-
 - Java
-
   - [Effective Java Programming Language Guide](https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide) - Joshua Bloch.
   - [Head First Java](https://www.goodreads.com/book/show/231262.Head_First_Java) - Kathy Sierra.
-
 - Algorithms
-
   - [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. (GitHub: [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4))
   - [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - Donald Knuth.
   - [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) - Steven S. Skiena.
@@ -216,29 +171,20 @@
   - [Algorithms Illuminated (Part 3): Greedy Algorithms and Dynamic Programming](https://www.goodreads.com/book/show/45448911-algorithms-illuminated-part-3) - Tim Roughgarden.
   - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian.
   - [Learning JavaScript Data Structures and Algorithms](https://www.goodreads.com/book/show/23622169-learning-javascript-data-structures-and-algorithms) - Loiane Groner.
-
 - JavaScript
-
 - CSS
-
   - [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui) - Adam Wathan.
-
 - Vim
-
   - [Learning the vi and Vim Editors](https://en.wikipedia.org/wiki/Learning_the_vi_and_Vim_Editors) - Arnold Robbins, Elbert Hannah, Linda Lamb.
   - [Practical Vim: Edit Text at the Speed of Thought](https://www.goodreads.com/book/show/13607232-practical-vim) - Drew Neil.
-
 - Python
-
   - [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) - Luciano Ramalho. (GitHub: [fluentpython/example-code](https://github.com/fluentpython/example-code))
   - [Effective Python: 90 Specific Ways to Write Better Python](https://www.goodreads.com/book/show/48566725-effective-python) - Brett Slatkin. (GitHub: [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython))
   - [Python Tricks: A Buffet of Awesome Python Features](https://www.goodreads.com/book/show/36990732-python-tricks) - Dan Bader.
   - [Django for Beginners: Learn web development with Django 2.0](https://www.goodreads.com/book/show/38825280-django-for-beginners) - William S. Vincent.
   - [Django for Professionals: Production websites with Python & Django](https://www.goodreads.com/book/show/50048171-django-for-professionals) - William S. Vincent.
   - [Django for APIs: Build web APIs with Python & Django](https://www.goodreads.com/book/show/45306631-django-for-apis) - William S. Vincent.
-
 - Mathematics for CS
-
 - Haskell
   - [Real World Haskell: Code You Can Believe In](https://www.goodreads.com/book/show/3226758-real-world-haskell?ac=1&from_search=true&qid=e3ACCjHitv&rank=1) - Bryan O'Sullivan.
 - [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software) - Charles Petzold.
@@ -273,7 +219,6 @@
 ## Recreational Mathematics
 
 - Martin Gardner
-
   - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
   - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
   - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
@@ -282,7 +227,6 @@
   - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
   - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
   - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
-
 - Ian Stewart
   - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
   - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
@@ -312,7 +256,6 @@
 - [The Discourses](https://www.goodreads.com/book/show/1045017.The_Discourses) - Epictetus.
 - [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) - Sun Tzu.
 - [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) - Lao Tzu.
-- [Crime and Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment) - Fyodor Dostoevsky.
 - [Why I Am Not a Christian and Other Essays on Religion and Related Subjects](https://www.goodreads.com/book/show/472025.Why_I_Am_Not_a_Christian_and_Other_Essays_on_Religion_and_Related_Subjects) - Bertrand Russell.
 - [Why There Is No God](https://www.goodreads.com/book/show/23346140-why-there-is-no-god) - Armin Navabi.
 
@@ -352,7 +295,7 @@
 ## Comic Books
 
 - DC
-  - [The Sandman (comic book)](<https://en.wikipedia.org/wiki/The_Sandman_(comic_book)>)
+  - [The Sandman](<https://en.wikipedia.org/wiki/The_Sandman_(comic_book)>)
   - [The Dark Knight Returns](https://en.wikipedia.org/wiki/The_Dark_Knight_Returns)
   - [Watchmen](https://en.wikipedia.org/wiki/Watchmen)
   - [V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta)
@@ -361,18 +304,18 @@
 - Manga
   - [Naruto](https://en.wikipedia.org/wiki/Naruto)
   - [One Piece](https://en.wikipedia.org/wiki/One_Piece)
-  - [Akira (manga)](<https://en.wikipedia.org/wiki/Akira_(manga)>)
-  - [Bleach (manga)](<https://en.wikipedia.org/wiki/Bleach_(manga)>)
-  - [Berserk (manga)](<https://en.wikipedia.org/wiki/Berserk_(manga)>)
+  - [Akira](<https://en.wikipedia.org/wiki/Akira_(manga)>)
+  - [Bleach](<https://en.wikipedia.org/wiki/Bleach_(manga)>)
+  - [Berserk](<https://en.wikipedia.org/wiki/Berserk_(manga)>)
   - [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba)
-  - [Dragon Ball (manga)](<https://en.wikipedia.org/wiki/Dragon_Ball_(manga)>)
+  - [Dragon Ball](<https://en.wikipedia.org/wiki/Dragon_Ball_(manga)>)
 - [Maus](https://en.wikipedia.org/wiki/Maus)
-- [Persepolis (comics)](<https://en.wikipedia.org/wiki/Persepolis_(comics)>)
-- [Saga (comics)](<https://en.wikipedia.org/wiki/Saga_(comics)>)
+- [Persepolis](<https://en.wikipedia.org/wiki/Persepolis_(comics)>)
+- [Saga](<https://en.wikipedia.org/wiki/Saga_(comics)>)
 - [Scott Pilgrim](https://en.wikipedia.org/wiki/Scott_Pilgrim)
 - [Nimona](https://en.wikipedia.org/wiki/Nimona)
 - [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy)
-- [Avatar: The Last Airbender (comics)](<https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_(comics)>)
+- [Avatar: The Last Airbender](<https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_(comics)>)
 
 ## Children
 

@@ -3,6 +3,7 @@
 > **Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
 
 ### Software
+
 - Programming Tools
   - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database. `source-available software`
   - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost. `open-source upto v1.x`
@@ -11,17 +12,18 @@
   - [CSSBattle](https://cssbattle.dev/)
   - [Codementor](https://www.codementor.io/)
   - [Anvil](https://anvil.works/) - Build web apps with Python.
-  
 - Hacking
   - [Hack The Box](https://www.hackthebox.eu/)
   - [TryHackMe](https://tryhackme.com/)
-  
 - IP Address Lookup
+
   - [IPinfo.io](https://ipinfo.io/)
   - [ipapi](https://ipapi.co/)
 
 - Operating Systems
+
   - For PC
+
     - [Oracle Solaris](https://www.oracle.com/solaris)
     - [Apple macOS](https://www.apple.com/macos)
     - [Microsoft Windows](https://www.microsoft.com/en-us/windows)
@@ -30,6 +32,7 @@
     - [iOS](https://www.apple.com/ios)
 
 - Browser Add-ons/Extensions
+
   - [LastPass Password Manager](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
   - [Grammarly for Firefox](https://addons.mozilla.org/en-US/android/addon/grammarly-1/)
   - [Enhancer for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
@@ -37,33 +40,40 @@
   - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - userscript manager. `open-source upto v2.9`
 
 - Web Browsers:
+
   - [Google Chrome](https://www.google.com/chrome/)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
 - Search Engines
+
   - [Metacrawler](https://www.metacrawler.com/)
   - [Google](https://www.google.com/)
   - [Bing](https://www.bing.com/)
 
 - Cloud Storage
+
   - [Google Drive](https://google.com/drive)
   - [Dropbox](https://www.dropbox.com/)
   - [Box](https://www.box.com/)
 
 - Feed Readers
+
   - [Feedly](https://feedly.com/) - News aggregator application.
-  - [Inoreader](https://www.inoreader.com/) -  Web-based content and RSS feed reader.
+  - [Inoreader](https://www.inoreader.com/) - Web-based content and RSS feed reader.
 
 - Document Readers
+
   - [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) `PDF`
   - [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) `PDF`
   - [FBReader](https://fbreader.org/) `open-source until 2015`
 
 - YouTube Alternatives
-  - [BitChute](https://www.bitchute.com/) - allows video uploaders to avoid content rules enforced on other platforms, such as YouTube. 
+
+  - [BitChute](https://www.bitchute.com/) - allows video uploaders to avoid content rules enforced on other platforms, such as YouTube.
   - [Vimeo](https://vimeo.com/) - ad-free video platform.
 
 - Note Taking, Project Management, Collaboration
+
   - [Things](https://culturedcode.com/things/) - award-winning personal task manager that helps you achieve your goals. `iOS` `macOS`
   - [Notion](https://www.notion.so/)
   - [Evernote](https://evernote.com/)
@@ -79,7 +89,6 @@
   - [Bear](https://bear.app/) - Bear is a beautiful, flexible writing app for crafting notes and prose. `iOS` `macOS`
   - [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. `open-source upto v1.5.1`
   - [Typora](https://typora.io/) - A new way to read and write Markdown.
-  
   - Zettelkasten
     - [Roam](https://roamresearch.com/) - A note-taking tool for networked thoughts.
     - [RemNote](https://www.remnote.io/homepage) - spaced-repetition powered note-taking tool.
@@ -87,6 +96,7 @@
     - [The Archive](https://zettelkasten.de/the-archive/) - Nimble, Calm, Plain.txt. `macOS`
 
 - Read Later/Bookmarking
+
   - [Pocket](https://getpocket.com/) - When you find something you want to view later, put it in Pocket. `owned by Mozilla`
   - [Instapaper](https://www.instapaper.com/)
   - [Pinboard](https://pinboard.in/) - Social Bookmarking for Introverts.
@@ -94,6 +104,7 @@
   - [Raindrop.io](https://raindrop.io/) - Your Smart Bookmarks.
 
 - Instant Messaging/Communication/Video Conferencing
+
   - [Slack](https://slack.com/)
   - [Skype](https://www.skype.com/)
   - [Discord](https://discordapp.com/)
@@ -101,18 +112,22 @@
   - [Hangouts](https://hangouts.google.com/)
 
 - Remote Desktop Clients
+
   - [TeamViewer](https://www.teamviewer.com/) - Remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
 - Design Tools
+
   - [Adobe](https://adobe.com) - Creativity for all.
   - [Affinity](https://affinity.serif.com/en-us/) - Graphics software redefined.
 
 - Office Suites
+
   - [Zoho](https://www.zoho.com/) - Privacy-friendly Alternative to Microsoft Office and Google Docs.
   - [Microsoft Office](https://www.office.com/)
   - [Google Docs](https://www.google.com/docs/about/)
 
 - Movie Ratings and Reviews
+
   - [IMDb](https://imdb.com/) - Internet Movie Database.
     - [IMDb Advanced Search](https://www.imdb.com/search/)
     - [Sort your IMDb ratings by title type](https://help.imdb.com/article/imdb/track-movies-tv/how-do-i-sort-my-ratings-by-the-title-type/G4LHN2ZSCPNM5W2S)
@@ -121,30 +136,38 @@
   - [Letterboxd](https://letterboxd.com/) - Social film discovery.
 
 - Music
+
   - [Spotify](https://www.spotify.com) - Spotify gives you instant access to millions of songs.
   - [Shazam](https://www.shazam.com/) - Shazam will identify any music playing around you.
 
 - Book Reviews
+
   - [Goodreads](https://goodreads.com/)
 
 - iOS/Mac
+
   - [Apollo Reddit Client](https://apolloapp.io/) - A beautiful Reddit app built for power and speed.
   - [Pythonista](https://omz-software.com/pythonista/) - A Full Python IDE for iOS.
   - [Alfred](https://www.alfredapp.com/) - Award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
 
 - Meditation
+
   - [Waking Up](https://wakingup.com/) - Explore the practice of meditation and examines the theory behind it with Sam Harris.
 
 - CAPTCHA Services
+
   - [reCAPTCHA](https://www.google.com/recaptcha/) - Easy on Humans, Hard on Bots.
   - [hCaptcha](https://www.hcaptcha.com/) - Private. Secure. Faster. And they pay you to use it.
 
 - Web Analytics
+
   - [Simple Analytics](https://simpleanalytics.com/)
   - [Google Analytics](https://analytics.google.com/analytics/web/)
 
 - Other
+
   - Software
+
     - [SAP](https://www.sap.com/index.html) - Enterprise software to manage business operations and customer relations.
     - [snapcraft](https://snapcraft.io/) - The app store for Linux.
     - [VMware](https://www.vmware.com/)
@@ -157,6 +180,7 @@
     - [HitFilm Express](https://fxhome.com/) - VFX software for the filmmaking revolution.
 
   - Services
+
     - [Imgur](https://imgur.com/)
     - [Google Earth](https://google.com/earth)
     - [Google Maps](https://google.com/maps)
@@ -173,18 +197,19 @@
     - [Gumroad](https://gumroad.com/) - Online platform that enables creators to sell products directly to consumers.
     - [Podia](https://www.podia.com/) - Sell online courses, downloads, webinars, and memberships without worrying about the tech.
     - [Teachable](https://teachable.com/) - Create and sell beautiful online courses.
-    
+
   - Game Engines
+
     - [Unreal Engine](http://www.unrealengine.com/) `source-available software`
     - [Unity](https://unity.com/)
 
   - Games
+
     - [Universe Sandbox](http://universesandbox.com/) - Physics-based space simulation software that allows anyone to create & destroy on an unimaginable scale.
     - [SpaceEngine](http://spaceengine.org/)
     - [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
-    - [GTA](https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series))
+    - [GTA](<https://en.wikipedia.org/wiki/Grand_Theft_Auto_(series)>)
     - [Chess.com](https://www.chess.com/)
-
     - Mobile
       - [Temple Run](https://imangistudios.com/)
 
@@ -192,7 +217,8 @@
     - [Grep.app](https://grep.app/) - Search code in GitHub repos using regular expressions.
     - [Prototypr.io](https://www.prototypr.io/tools/)
     - [UptimeRobot](https://uptimerobot.com/) - Free Website Monitoring.
- 
+
 ### Hardware
-  - [Amazon Kindle](https://www.amazon.com/kindle)
-  - [reMarkable](https://remarkable.com/) - digital device that gives you a pen-to-paper note-taking experience.
+
+- [Amazon Kindle](https://www.amazon.com/kindle)
+- [reMarkable](https://remarkable.com/) - digital device that gives you a pen-to-paper note-taking experience.

@@ -2,18 +2,18 @@
 
 ## Science, Mostly
 
-- People/
+- People
 
   - [Sean Caroll](https://www.preposterousuniverse.com/)
   - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
 
-- Sites+Blogs/
+- Sites+Blogs
   - [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
   - [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration.
   - [ESA](https://www.esa.int/) - European Space Agency.
   - [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization.
   - [The Newton Project](http://www.newtonproject.ox.ac.uk/) - a comprehensive edition of all of Newton’s printed and unpublished writings.
-  - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Take a tour of the major moons in our celestial menagerie, including those that are among the most mystifying—or scientifically intriguing—places in our local neighborhood.
+  - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/)
   - [Quantum Country](https://quantum.country/)
   - [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/)
   - [Newton Papers](http://cudl.lib.cam.ac.uk/collections/newton/1)
@@ -23,7 +23,7 @@
   - [Space.com](https://www.space.com/)
   - [ScienceMag](https://www.sciencemag.org/)
   - [iflscience](https://www.iflscience.com/)
-  - [Curiosity](https://curiosity.com/)
+  - [CURIOSITY](https://curiosity.com/)
   - [phys.org](https://phys.org/)
   - [Quanta Magazine](https://www.quantamagazine.org/)
   - [New Scientist](https://www.newscientist.com/)
@@ -38,8 +38,7 @@
 
 ## Mathematics
 
-- Sites+Blogs/
-
+- Sites+Blogs
   - [WolframAlpha](https://www.wolframalpha.com/)
   - [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
   - [The Pi-Search Page](https://www.angio.net/pi/)
@@ -64,8 +63,7 @@
   - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
   - [Cool Math Games](https://www.coolmathgames.com/)
   - [The Fibonacci Quarterly](https://www.fq.math.ca/)
-
-- People/
+- People
   - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
   - [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
   - [James Randi](https://web.randi.org/)
@@ -250,9 +248,7 @@
   - Miscellaneous
 
     - [Feedly Discover](https://feedly.com/i/discover/)
-
     - HackerNews/Y Combinator
-
       - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
       - [HN/leaders](https://news.ycombinator.com/lists) - Users with most karma.
       - [HN/front](https://news.ycombinator.com/front) - Front page submissions for a given day (e.g. 2016-06-20).
@@ -262,7 +258,6 @@
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
       - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
       - [Best of Show HN](https://bestofshowhn.com/)
-
     - Reddit
       - [Reddit](https://reddit.com/)
       - [Top Posts of 2020](https://www.reddit.com/posts/2020/)

@@ -39,24 +39,24 @@ Roadmap to Web Development:
 
 ### Command Line:
 
-- Sites/
+- Sites
   - [SS64 (Command line reference - Database and OS scripting)](https://ss64.com/)
 
 ---
 
 ### Git:
 
-- Sites/
+- Sites
 
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
   - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
 
-- GitHub/
+- GitHub
 
   - [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
 
-- Git Clients/
+- Git Clients
   - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows `closed-source`
   - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime `freemium`
   - [GitKraken](https://www.gitkraken.com) `freemium`
@@ -179,7 +179,7 @@ Roadmap to Web Development:
 
 - Django(Python):
 
-  - Sites/
+  - Sites
 
     - [Official Django Tutorial](https://www.djangoproject.com/start/)
     - [Django Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) - a library catalog website in Django.
@@ -187,17 +187,17 @@ Roadmap to Web Development:
     - [Django Tutorial](https://pythonprogramming.net/django-web-development-with-python-intro/) by sentdex.
     - [Learn Django](https://learndjango.com/) by William Vincent.
 
-  - YouTube/
+  - YouTube
     - [Django Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 - Flask(Python):
 
-  - Sites/
+  - Sites
 
     - [Official Flask Tutorial](http://flask.pocoo.org/docs/0.12/tutorial/)
     - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-  - YouTube/
+  - YouTube
     - [Flask Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 
 - NodeJS/ExpressJS(JavaScript):
@@ -221,14 +221,14 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ### Data Visualization
 
-- D3js/
+- D3js
   - [ObservableHQ D3.js Tutorial](https://observablehq.com/@d3/learn-d3) - Mike Bostock, Creator of D3.js.
 
 ---
 
 ### Static Site Generators:
 
-- Sites/
+- Sites
   - [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators.
   - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
   - [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
@@ -241,18 +241,18 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 - SQL:
 
-  - Sites/
+  - Sites
     - [SQL Tutorial](http://www.sqltutorial.org/)
     - [SQLBolt](https://sqlbolt.com/)
     - [SQLZOO](https://sqlzoo.net/)
 
 - PostgreSQL:
 
-  - Sites/
+  - Sites
     - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 
 - SQLite:
-  - Sites/
+  - Sites
     - [SQLite Docs](https://sqlite.org/docs.html)
 
 ---
@@ -261,7 +261,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 - [Sublime Text](https://www.sublimetext.com/)
 
-- Interactive Online Code Editors:
+- Interactive Online Code Editors
   - [repl.it](https://repl.it/)
   - [Scrimba](https://scrimba.com/c/cKp6LhL) - HTML, CSS, JavaScript.
   - [JSFiddle](https://jsfiddle.net) - HTML, CSS, JavaScript, CoffeeScript.
@@ -272,7 +272,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ### Regular Expressions and Algorithms:
 
-- Sites/
+- Sites
   - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
   - [Regex101](https://regex101.com/) - Online Regex Tester and Debugger.
   - [Regular-Expressions.info](https://www.regular-expressions.info/)
@@ -284,13 +284,13 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ### Developer Tools:
 
-- Sites/
+- Sites
 
   - [MDN CSS Color Picker Tools](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool) ([DuckDuckGo](https://duckduckgo.com/?t=ffab&q=color+picker&ia=answer) Instant Answer/[Google](https://www.google.com/search?hl=en&q=color%20picker))
   - [Dan's Tools](https://www.danstools.com/) - Collection of various tools helpful for developers.
   - [Who is my ISP?](https://www.whoismyisp.org/)
 
-- Design Tools/
+- Design Tools
 
   - [NoDesign.dev](https://nodesign.dev/) - A collection of tools for developers who have little to no artistic talent.
   - [ColorBox](https://www.colorbox.io/) - a color tool to produce color sets.
@@ -300,30 +300,30 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [Neumorphism.io](https://neumorphism.io/) - Soft UI CSS shadow generator.
   - [Canva](https://www.canva.com/) - Create beautiful designs with your team.
 
-- Speed Test/
+- Speed Test
 
   - [Speedtest.net by Ookla](https://www.speedtest.net/)
   - [Fast.com by Netflix](https://fast.com)
 
-- Fake APIs/
+- Fake APIs
 
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
 
-- Text Generators/
+- Text Generators
 
   - [Lorem Ipsum](https://lipsum.com/)
 
-- Images/SVGs/
+- Images/SVGs
 
   - [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine
   - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
   - [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE.
   - [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
 
-- Patterns/
+- Patterns
   - [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.
   - [Cool Backgrounds](https://coolbackgrounds.io/) - collection of tools to create compelling, colorful images for blogs and websites.
-- Deployment/
+- Deployment
 
   - [Cloudflare](https://www.cloudflare.com/) - The Integrated Global Cloud Platform.
   - [Heroku](https://www.heroku.com/) - Build data-driven apps with fully managed data services.
@@ -344,11 +344,11 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [Travis-CI](https://travis-ci.org/)
   - [circleci](https://circleci.com/)
 
-- API Testing/
+- API Testing
 
   - [Postman](https://www.postman.com/) - The Collaboration Platform for API Development.
 
-- UI Inspiration/
+- UI Inspiration
 
   - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
 
@@ -371,18 +371,16 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ### Other Resources:
 
-- Magazines/
+- Magazines
   - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
   - [Increment Magazine](https://increment.com/) - print and digital magazine about how teams build and operate software systems at scale.
-- Codepen Profiles/
+- Codepen Profiles
   - [Chris Coyier](https://codepen.io/chriscoyier) - Founder of CSS-Tricks.
   - [Florin Pop](https://codepen.io/FlorinPop17)
   - [Hakim El Hattab](https://codepen.io/hakimel) - Creator of reveal.js.
-- Dribble Profiles/
-
+- Dribble Profiles
   - [Google](https://dribbble.com/google)
-
-- Sites/
+- Sites
   - [web.dev](https://web.dev/) - learn to build for the modern web.
   - [sitepoint](https://www.sitepoint.com/)
   - [Extension Workshop](https://extensionworkshop.com/) - Get help creating and publishing Firefox add-ons that make browsing smarter, safer, and faster.

@@ -124,6 +124,7 @@
 - [r/TIHI](https://www.reddit.com/r/TIHI/)
 - [r/virginvschad](https://www.reddit.com/r/virginvschad/)
 - [r/linuxmemes](https://www.reddit.com/r/linuxmemes/)
+- [r/HistoryMemes](https://www.reddit.com/r/HistoryMemes/)
 
 ### Anime Memes
 
@@ -375,7 +376,6 @@
 - [r/AVoid5](https://www.reddit.com/r/AVoid5/)
 - [r/BirdsArentReal](https://www.reddit.com/r/BirdsArentReal/)
 - [r/AskOuija](https://www.reddit.com/r/AskOuija/)
-- [r/themonkeyspaw](https://www.reddit.com/r/themonkeyspaw/)
 - [r/shittysuperpowers](https://www.reddit.com/r/shittysuperpowers/)
 - [r/godtiersuperpowers](https://www.reddit.com/r/godtiersuperpowers/)
 - [r/whowouldwin](https://www.reddit.com/r/whowouldwin/)
@@ -553,7 +553,6 @@
 - [r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/)
 - [r/Jokes](https://www.reddit.com/r/Jokes/)
 - [r/podcasts](https://www.reddit.com/r/podcasts/)
-- [r/PoliticalHumor](https://www.reddit.com/r/PoliticalHumor/)
 - [r/politics](https://www.reddit.com/r/politics/)
 - [r/worldpolitics](https://www.reddit.com/r/worldpolitics/)
 - [r/coolguides](https://www.reddit.com/r/coolguides/)
@@ -669,7 +668,6 @@
 - [r/LetsNotMeet](https://www.reddit.com/r/LetsNotMeet/)
 - [r/TrueOffMyChest](https://www.reddit.com/r/TrueOffMyChest/)
 - [r/badhistory](https://www.reddit.com/r/badhistory/)
-- [r/HistoryMemes](https://www.reddit.com/r/HistoryMemes/)
 - [r/hiphopheads](https://www.reddit.com/r/hiphopheads/)
 - [r/aviation](https://www.reddit.com/r/aviation/)
 - [r/blessedimages](https://www.reddit.com/r/blessedimages/)
@@ -747,6 +745,7 @@
 
 ### Politics
 
+- [r/PoliticalHumor](https://www.reddit.com/r/PoliticalHumor/)
 - [r/ShitAmericansSay](https://www.reddit.com/r/ShitAmericansSay/)
 - [r/MurderedByAOC](https://www.reddit.com/r/MurderedByAOC/)
 - [r/PoliticalCompassMemes](https://www.reddit.com/r/PoliticalCompassMemes/)

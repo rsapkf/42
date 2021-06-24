@@ -13,46 +13,31 @@
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-
-- Websites/
-
+- Websites
   - [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney) - Learn the ways of Linux-fu, for free. https://linuxjourney.com.
   - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives. https://opensource.builders.
   - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide. https://guide.bash.academy.
-
 - Vim
-
   - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Some simple methods for exiting vim.
   - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
-
-  - Websites/
+  - Websites
     - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe. http://vimawesome.com.
     - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet. https://vim.rtorr.com.
     - [theicfire/vimsheet](https://github.com/theicfire/vimsheet) - Vim cheat sheet from beginners to pros. https://vimsheet.com.
     - [vim-advent-calendar/vimways.org](https://github.com/vim-advent-calendar/vimways.org) - Vim-themed advent calendar. https://vimways.org.
     - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you? http://www.vimgolf.com.
-
 - Emacs
-
   - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
   - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year.
-
 - Shells
-
   - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-
 - LaTeX
-
   - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
-
 - Browser Customization
-
   - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum.
   - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox.
   - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser.
-
 - Dotfiles
-
   - [GitHub Search "dotfiles"](https://github.com/search?q=dotfiles)
   - (Web) [Dotfiles - ArchWiki](https://wiki.archlinux.org/index.php/Dotfiles)
   - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -63,8 +48,7 @@
   - [wincent/wincent](https://github.com/wincent/wincent) - Greg Hurrell's Dotfiles.
   - (GitLab) [dwt1/dotfiles](https://gitlab.com/dwt1/dotfiles) - Distrotube's Dotfiles
   - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-
-  - Websites/
+  - Websites
     - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - The unofficial guide to doing dotfiles on GitHub. http://dotfiles.github.io.
 
 ### Raspberry Pi
@@ -76,8 +60,7 @@
 
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
-
-- Websites/
+- Websites
   - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - https://bigocheatsheet.com.
   - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io - The Regex Cheat Sheet. https://iHateRegex.io.
   - [firasdib/Regex101](https://github.com/firasdib/Regex101) - Online Regex Tester and Debugger. Issue Tracker for https://regex101.com.
@@ -85,7 +68,7 @@
 
 ### Programming
 
-- Websites/
+- Websites
   - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials. https://www.learnpython.org.
 
 ### Python
@@ -101,7 +84,6 @@
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - @geekcomputers' Python Examples.
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by \@dabeaz).
-
 - [funkythings/python-cheat-sheet](https://github.com/funkythings/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib.
 - [machinelearningmindset/machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - Machine Learning Course with Python. Refer to the course page for step-by-step explanations.
 - [chrisalbon/notes](https://github.com/chrisalbon/notes) - Notes On Using Data Science & Artificial Intelligence.
@@ -111,8 +93,7 @@
 - [matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet) - Matplotlib 3.1 cheat sheet.
 - [chrisalbon/code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science.
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
-
-- Websites/
+- Websites
   - [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython) - http://book.pythontips.com.
   - [scipy-lectures/scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem. https://scipy-lectures.org.
   - [pyvideo/pyvideo](https://github.com/pyvideo/pyvideo) - A Python media index. https://pyvideo.org.
@@ -144,17 +125,13 @@
 - [usablica/front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations.
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - All the things you didn't know you wanted to know about data structures.
-
 - React/React Native
-
   - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
   - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
   - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more.
-
-  - Websites/
+  - Websites
     - [no-stack-dub-sack/cs-playground-react](https://github.com/no-stack-dub-sack/cs-playground-react) - In-Browser Algorithm and Data Structures Practice. http://cs-playground-react.surge.sh.
-
-- Websites/
+- Websites
   - [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc) - What's your favorite JavaScript single LOC (line of code)? https://1loc.dev.
   - [phuoc-ng/html-dom](https://github.com/phuoc-ng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. https://htmldom.dev.
   - [wesbos/keycodes](https://github.com/wesbos/keycodes) - Easy visualizer for JavaScript KeyCodes. https://keycode.info.
@@ -185,8 +162,7 @@
 
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust.
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust.
-
-- Websites/
+- Websites
   - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet. https://cheats.rs.
 
 ### Haskell
@@ -254,7 +230,7 @@
 
 ### Web Design/Accessibilty
 
-- Websites/
+- Websites
   - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - A community–driven effort to make web accessibility easier. https://a11yproject.com.
 
 ### Source Control/Git
@@ -264,8 +240,7 @@
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.
-
-- Websites/
+- Websites
   - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects. https://firstcontributions.github.io.
   - [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub. https://github.github.com/training-kit.
   - [git/git-reference](https://github.com/git/git-reference) - Online Git Reference. http://git.github.io/git-reference.
@@ -275,8 +250,7 @@
 ### Open Source
 
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source.
-
-- Websites/
+- Websites
   - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project. https://choosealicense.com.
   - [github/opensource.guide](https://github.com/github/opensource.guide) - Community guides for open source creators. https://opensource.guide.
 
@@ -302,8 +276,7 @@
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-
-- Websites/
+- Websites
   - [privacytoolsIO/privacytools.io](https://github.com/privacytoolsIO/privacytools.io) - You are being watched. Protect your privacy against global mass surveillance. https://privacytools.io.
 
 ### Penetration Testing
@@ -365,8 +338,7 @@
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Open Source CS Curriculum.
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula.
 - [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form.xxxx
-
-- Websites/
+- Websites
   - [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics. http://seeingtheory.io.
 
 ### Courses/Books
@@ -375,7 +347,6 @@
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - A curated list of awesome programming books.
 - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. https://paperswelove.org.
-
 - [fastai/fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book.
 
 ### General
@@ -425,8 +396,7 @@
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: https://holloway.com/g/equity-compensation.
 - [JesseKPhillips/USA-Constitution](https://github.com/JesseKPhillips/USA-Constitution) - A history of edits to the US Constitution as it has been amended. Written in markdown to match original formatting.
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html.
-
-- Websites/
+- Websites
   - [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials. https://linode.com/docs.
   - [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - commonly used features in a side-by-side format. https://hyperpolyglot.org.
   - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth/) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software. https://twofactorauth.org.

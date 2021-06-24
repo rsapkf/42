@@ -3,54 +3,34 @@
 ### Programming/CS/Software Development
 
 - Python
-
   - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Kenneth Reitz, Tanya Schlusser. (GitHub: [realpython/python-guide](https://github.com/realpython/python-guide))
   - [Dive Into Python 3](https://www.diveinto.org/python3/) by Mark Pilgrim.
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Swigart.
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas. (GitHub: - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook))
-
 - JavaScript
-
   - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson.
   - [Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke. ([GitHub](https://github.com/marijnh/Eloquent-JavaScript))
-
 - Haskell
-
   - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovaca.
-
 - C++
-
   - [Competitive Programmer's Handbook](https://github.com/pllk/cphb) - Antti Laaksonen.
-
 - Deep Learning/ML
-
   - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/) - Michael Nelson.
   - [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville.
   - [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. ([GitHub](https://github.com/d2l-ai/d2l-en))
   - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook) ([GitHub](https://github.com/dafriedman97/mlbook))
-
 - Cryptography
-
   - [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - By Dan Boneh, Victor Shoup.
-
 - Git
-
   - [Pro Git](https://github.com/progit/progit2) - Scott Chacon, Ben Straub ([GitHub](https://github.com/progit/progit2))
-
 - Mathematics for CS
-
   - [MIT 6.042J Mathematics for CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-
 - Linux
-
   - [Linux Inside](https://0xax.gitbooks.io/linux-insides/) - 0xAX.
   - [The Debian Administrator's Handbook](https://debian-handbook.info/) - Raphaël Hertzog and Roland Mas.
   - [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) - Debian Project.
-
 - Vim
-
   - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh.
-
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted](https://sarabander.github.io/sicp/html/index.xhtml)([GitHub](https://github.com/sarabander/sicp)))
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://source-academy.github.io/sicp/)
 - [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. ([reformatted](https://www.arp242.net/the-art-of-unix-programming/))
@@ -107,9 +87,7 @@
 - [Technical Writing Courses](https://developers.google.com/tech-writing) - Google.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall.
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics.
-
-See Also:
-
-- [./ebooks-and-research-papers.md](ebooks-and-research-papers.md)
-- [MIT OpenCourseWare Index of Online Textbooks](https://ocw.mit.edu/courses/online-textbooks/)
-- [Colin Stebbins Gordon](https://csgordon.github.io/books.html)
+- See Also:
+  - [./ebooks-and-research-papers.md](ebooks-and-research-papers.md)
+  - [MIT OpenCourseWare Index of Online Textbooks](https://ocw.mit.edu/courses/online-textbooks/)
+  - [Colin Stebbins Gordon](https://csgordon.github.io/books.html)

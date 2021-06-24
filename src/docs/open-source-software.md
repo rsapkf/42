@@ -15,14 +15,11 @@
   - Operating Systems
 
     - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree.
-
     - BSD
-
       - [freebsd/freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror). `Mirror` https://www.freebsd.org.
       - [openbsd/src](https://github.com/openbsd/src) - Public git conversion mirror of OpenBSD's official CVS src repository. `Mirror` https://www.openbsd.org.
       - (Web) [NetBSD](https://www.netbsd.org/) - “Of course it runs NetBSD”.
       - [DragonFly BSD](https://www.dragonflybsd.org/)
-
     - Distros
       - (Web) [Ubuntu](https://www.ubuntu.com/)
       - (Web) [Fedora](https://getfedora.org/)
@@ -206,7 +203,6 @@
     - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures.
     - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers.
     - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
-
     - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online. https://programmingfonts.org.
 
   - Terminal Applications/Console Services
@@ -216,24 +212,20 @@
       - (Web) [surf](https://surf.suckless.org) - simple web browser based on WebKit2/GTK+.
       - (Web) [w3m](http://w3m.sourceforge.net) - text-based web browser as well as a pager like `more' or `less'.
     - Search Tools
-
       - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
       - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
       - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
       - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
-
     - Duplicate File Cleaning
       - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
       - [pixelb/fslint](https://github.com/pixelb/fslint) - Linux file system lint checker/cleaner.
       - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files.
       - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
     - Calculators
-
       - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal.
       - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units. https://insect.sh.
       - (GitLab) [GNOME/gnome-calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - Calculator for solving mathematical equations.
       - [galculator/galculator](https://github.com/galculator/galculator) - GTK 2 / GTK 3 based scientific calculator.
-
     - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
     - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation. https://ctags.io.
     - [jarun/ddgr](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal.
@@ -278,7 +270,6 @@
     - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph.
     - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer.
     - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
-
     - Fun
       - (Web) [fortune](<https://en.wikipedia.org/wiki/Fortune_(Unix)>) - program that displays a pseudorandom message from a database of quotations.
       - [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
@@ -291,18 +282,13 @@
   - Graphical Applications
 
     - Video Editors
-
       - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Kdenlive is an intuitive and powerful multi-track video editor, including most recent video technologies.
       - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor.
       - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor.
       - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
-
     - Office Suites
-
       - (Web) [LibreOffice](https://www.libreoffice.org/)
-
     - Creativity Tools
-
       - (GitLab) [inkscape/inkscape](https://gitlab.com/inkscape/inkscape) - Inkscape vector illustrator.
       - (Web) [OBS](https://obsproject.com/)
       - (Web) [Blender](https://blender.org/)
@@ -310,9 +296,7 @@
       - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor.
       - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer.
       - [KDE/krita](https://github.com/KDE/krita) - Krita is a free digital painting application. Digital Painting, Creative Freedom!
-
     - Virtualization
-
       - (Web) [VirtualBox](https://www.virtualbox.org/)
       - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
       - (Web) [Wine](https://www.winehq.org/) - compatibility layer capable of running Windows applications on POSIX-compliant operating systems.
@@ -320,20 +304,27 @@
       - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt.
       - (Web) [Kernel Virtual Machine](https://www.linux-kvm.org/page/Main_Page) - a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
       - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-
     - (Web) [meld](https://gitlab.gnome.org/GNOME/meld) - Meld is a visual diff and merge tool targeted at developers.
 
   - Vim Plugins
 
     - Plugin Managers
-
       - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim.
       - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath.
       - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
       - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
-
+    - Status Lines
+      - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+      - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air.
+      - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim.
+    - Fuzzy finding
+      - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf 💜 vim.
+      - [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
+      - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'.
+    - Snippets
+      - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - The ultimate snippet solution for Vim.
+      - [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets).
     - [avelino/vim-bootstrap](https://github.com/avelino/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim.
-
     - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python.
     - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support.
     - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim.
@@ -344,18 +335,6 @@
     - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim.
     - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
     - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made easy.
-
-    - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-    - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air.
-    - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim.
-
-    - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf 💜 vim.
-    - [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
-    - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'.
-
-    - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - The ultimate snippet solution for Vim.
-    - [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets).
-
     - [scrooloose/nerdtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
     - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status.
     - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim.
@@ -385,13 +364,9 @@
     - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - Vim plugin that shows keybindings in popup.
     - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - Play with nvim/vim's builtin terminal.
     - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
-
     - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
-
     - [lervag/vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files.
-
     - [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
-
     - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more.
     - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing.
 
@@ -446,7 +421,6 @@
     - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes.
     - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
     - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes. https://terminal.sexy.
-
     - Vim Color Schemes
       - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
       - [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
@@ -487,9 +461,7 @@
     - [leo-editor/leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an Outliner, Editor, and Personal Information Manager written in 100% Python.
     - [hamaluik/timecop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and the gets the job done without being fancy.
     - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration.
-
     - Zettelkasten
-
       - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
       - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
       - [ttscoff/nv](https://github.com/ttscoff/nv) - nvALT: MultiMarkdown version of Notational Velocity with Markdown editing features and preview.
@@ -540,6 +512,7 @@
     - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork).
 
   - Shells
+
     - (Web) [GNU Bash](https://www.gnu.org/software/bash/) - Bash(Bourne Again SHell) is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh).
     - (Web) [Zsh](https://www.zsh.org/) - a shell designed for interactive use, although it is also a powerful scripting language.
       - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -557,6 +530,7 @@
     - [oilshell/oil](https://github.com/oilshell/oil) - A new Unix shell. Our upgrade path from bash to a better language and runtime.
     - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
       - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theming engine for Powershell.
+
   - Shell Prompts
 
     - [starship/starship](https://github.com/starship/starship) - The cross-shell prompt for astronauts.
@@ -596,13 +570,12 @@
   - Thunderbird Add-ons/Extensions
 
     - (Web) [Enigmail](https://enigmail.net/) - A simple interface for OpenPGP email security.
-
-    See Also:
-
-    - [Featured Extensions – Add-ons for Thunderbird](https://addons.thunderbird.net/en-US/thunderbird/extensions/?sort=featured)
-    - [Thunderbird Add-ons](https://addons.thunderbird.net/en-US/thunderbird/)
+    - See Also:
+      - [Featured Extensions – Add-ons for Thunderbird](https://addons.thunderbird.net/en-US/thunderbird/extensions/?sort=featured)
+      - [Thunderbird Add-ons](https://addons.thunderbird.net/en-US/thunderbird/)
 
   - Web Browsers
+
     - (Web) [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) - Get 2000+ trackers off your trail — including Facebook.
     - (Web) [Tor](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
     - (Web) [Chromium/src](https://source.chromium.org/chromium) - free and open-source software project from Google.
@@ -618,10 +591,10 @@
     - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers.
     - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
     - (Web) [Vivaldi](https://vivaldi.com/) `partially open source`
+
   - Browser Add-ons/Extensions
 
     - Developer Tools
-
       - [facebook/react/devtools](https://github.com/facebook/react) - React DevTools.
       - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
       - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
@@ -632,9 +605,7 @@
       - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Edit any webpage, in any state.
       - [dailydotdev/daily](https://github.com/dailydotdev/daily) - All-in-one coding news reader.
       - [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension - Easily find Hacker News discussions about the page you're currently browsing.
-
     - Privacy Tools
-
       - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
       - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
       - [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
@@ -653,39 +624,22 @@
       - (codeberg) [Booteille/invidition](https://codeberg.org/Booteille/Invidition) - A WebExtension to redirect ALL YouTube and Twitter requests to their alternative interfaces.
       - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
       - [mailvelope/mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail.
-
+    - Organizing Tabs
+      - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+      - [drive4ik/simple-tab-groups](https://github.com/drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app.
+    - Gestures
+      - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+      - [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures) - Mouse gestures for Firefox.
+    - Color Schemes
+      - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
+      - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites.
+    - UserScript Managers
+      - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
+      - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
     - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
     - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
     - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
     - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-
-    - Organizing Tabs
-
-      - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-      - [drive4ik/simple-tab-groups](https://github.com/drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app.
-
-    - Gestures
-
-      - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
-      - [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures) - Mouse gestures for Firefox.
-
-    - Color Schemes
-
-      - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension.
-      - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites.
-
-    - UserScript Managers
-
-      - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
-      - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-
-    - Chrome Only
-      - [babyman/quick-tabs-chrome-extension](https://github.com/babyman/quick-tabs-chrome-extension) - A quick tab list and switch plugin inspired by the intelliJ IDEA java IDE.
-      - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome.
-      - [kepi/chromeEyeDropper](https://github.com/kepi/chromeEyeDropper) - Eye Dropper and Color picker extension for Google Chrome.
-      - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
-      - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover.
-      - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome).
     - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
     - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of a complete web page as a single HTML file.
     - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus Userstyles Manager.
@@ -694,12 +648,16 @@
     - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.
     - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite.
     - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design.
-    - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups.
-
-    See Also:
-
-    - [Featured Extensions – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
-    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/)
+    - See Also:
+      - [Featured Extensions – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/search/?featured=true&type=extension)
+      - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/)
+    - Chrome Only
+      - [babyman/quick-tabs-chrome-extension](https://github.com/babyman/quick-tabs-chrome-extension) - A quick tab list and switch plugin inspired by the intelliJ IDEA java IDE.
+      - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome.
+      - [kepi/chromeEyeDropper](https://github.com/kepi/chromeEyeDropper) - Eye Dropper and Color picker extension for Google Chrome.
+      - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
+      - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover.
+      - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome).
 
   - Search Engines
 
@@ -707,6 +665,7 @@
     - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 
   - BitTorrent Clients
+
     - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client.
     - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. https://webtorrent.io.
     - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent BitTorrent client (Enhanced Edition).
@@ -716,6 +675,7 @@
       - [pyroscope/rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
     - [picotorrent/picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
     - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client `Mirror` https://deluge-torrent.org.
+
   - Document Viewers
 
     - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager.
@@ -727,9 +687,9 @@
 
   - Terminal Emulators
 
-    - (Web) [urxvt(rxvt-unicode](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+    - (Web) [urxvt (rxvt-unicode)](https://wiki.archlinux.org/index.php/Rxvt-unicode)
     - (Web) [st](https://st.suckless.org/)
-    - [LukeSmithxyz/st](https://github.com/lukesmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
+      - [LukeSmithxyz/st](https://github.com/lukesmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
     - (Web) [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
     - (Web) [Konsole](https://konsole.kde.org/)
     - (Web) [xterm](https://invisible-island.net/xterm/xterm.html)
@@ -771,10 +731,12 @@
     - [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App.
 
   - Screenshot/Screen Recorders
+
     - (Web) [Scrot](https://en.wikipedia.org/wiki/Scrot) - minimalist command line screen capturing application.
     - [lupoDharkael/flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software.
     - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
     - [wulkano/kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology. `macOS`
+
   - Video Players
 
     - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player.
@@ -790,7 +752,6 @@
     - (Web) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)
     - (Web) [Amarok](https://amarok.kde.org/)
     - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player.
-
     - Spotify Clients
       - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon.
       - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust.
@@ -932,7 +893,6 @@
     - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
     - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
     - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI.
-
     - [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
     - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
     - [kotartemiy/pygooglenews](https://github.com/kotartemiy/pygooglenews) - If Google News had a Python library.
@@ -976,7 +936,6 @@
 - JavaScript
 
   - Data Visualization
-
     - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
       - [c3js/c3](https://github.com/c3js/c3) - A D3-based reusable chart library.
       - [palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components built on D3.
@@ -988,7 +947,6 @@
     - [pshihn/rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance.
     - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies.
     - (Web) [Observable](https://observablehq.com/) - The magic notebook for data visualization.
-
   - [hakimel/reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework.
   - [webslides/webslides](https://github.com/webslides/webslides) - Create HTML presentations in seconds.
   - [babel/babel](https://github.com/babel/babel) - Babel is a compiler for writing next generation JavaScript.
@@ -1010,7 +968,7 @@
   - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
   - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
   - [juliangarnier/anime](https://github.com/juliangarnier/anime/) - JavaScript animation engine.
-  - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
+  - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `canvas` tag.
   - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
   - [lerna/lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
   - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
@@ -1272,7 +1230,7 @@
   - [phacility/phabricator](https://github.com/phacility/phabricator) - Open software engineering platform and fun adventure game.
   - (Web) [sourcehut](https://sourcehut.org/) - open source software development platform.
 
-- CSS Frameworks/Design Systems
+- CSS Frameworks
 
   - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS.
   - [kognise/water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer.
@@ -1292,6 +1250,8 @@
   - [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts.
   - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive css framework (395 bytes).
   - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+
+- Design Systems
 
   - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub. https://primer.style/css.
   - [salesforce-ux/design-system](https://github.com/salesforce-ux/design-system) - Salesforce Lightning Design System.
@@ -1881,8 +1841,7 @@
 - Cool Stuff
 
   - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages.
-
-  - Websites/
+  - Websites
     - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop graphical user interfaces. https://simone.computer/#/webdesktops.
     - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - Web based Windows XP desktop recreation. https://winxp.now.sh.
     - [maxboeck/whimsical](https://github.com/maxboeck/whimsical) - A curated list of websites with an extra bit of fun. https://whimsical.club.
@@ -1890,20 +1849,15 @@
 - Website Templates
 
   - Bootstrap Templates
-
     - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template.
     - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4 & 3.
     - [BlackrockDigital/startbootstrap](https://github.com/BlackrockDigital/startbootstrap) - A library of free and open source Bootstrap themes and templates.
-
   - Jekyll Plugins/Themes
-
     - [jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
-
     - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - Jekyll theme for building a personal site, blog, project documentation, or portfolio.
     - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - Build a beautiful and simple website in literally minutes.
     - [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template.
     - [jekyll/minima](https://github.com/jekyll/minima) - Minima is a one-size-fits-all Jekyll theme for writers.
-
   - Hugo Themes
     - [gcushen/hugo-academic](https://github.com/gcushen/hugo-academic) - The website builder for Hugo. Build and deploy a beautiful website in minutes!
     - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
@@ -1913,15 +1867,11 @@
   - [Microsoft/vscode-docker](https://github.com/Microsoft/vscode-docker) - Docker extension for VS Code.
   - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - Vim for Visual Studio Code.
   - [Microsoft/vscode/extensions](https://github.com/microsoft/vscode/tree/master/extensions)
-
   - Color Schemes:
-
     - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code.
     - [material-theme/vsc-material-them](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code.
     - [ahmadawais/shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) - Shades of Purple — A professional theme with hand-picked & bold shades of purple to go along with your VSCode.
-
   - Web Development(HTML/CSS/JavaScript):
-
     - [Microsoft/vscode/emmet](https://github.com/Microsoft/vscode/tree/master/extensions/emmet) - Emmet integration in Visual Studio Code(installed by default on VSCode).
     - [Microsoft/vscode-chrome-debug](https://github.com/Microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
     - [ritwickdey/vscode-live-sass-compiler](https://github.com/ritwickdey/vscode-live-sass-compiler) - Compile Sass or Scss file to CSS at realtime with live browser reload feature.
@@ -1929,18 +1879,13 @@
     - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier.
     - [dsznajder/vscode-es7-javascript-react-snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets) - Extension for Javascript/React snippets with search supporting ES7 and babel features.
     - [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode.
-
   - Python
-
     - [Microsoft/vscode-python](https://github.com/Microsoft/vscode-python) - Python extension for Visual Studio Code.
     - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Python Assistant for Visual Studio Code.
-
   - Java
     - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code.
   - C/C++
-
     - [Microsoft/vscode-cpptools](https://github.com/Microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
-
   - Git
     - [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
     - [Microsoft/vscode/git](https://github.com/Microsoft/vscode/tree/master/extensions/git) - Git integration for Visual Studio Code.
@@ -1963,15 +1908,10 @@
   - [titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
   - [sublimehq/Vintage](https://github.com/sublimehq/Vintage) - Vintage mode adds a vi style command mode to Sublime Text 2/3(installed by default).
   - [randy3k/Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text.
-
   - Color Schemes
-
     - [equinusocio/material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino. `unmaintained`
-
   - Web Development(HTML/CSS/JavaScript)
-
     - [emmetio/sublime-text-plugin](https://github.com/emmetio/sublime-text-plugin) - Emmet plugin for Sublime Text 3(installed by default on VSCode). (Old Version: [sergeche/emmet-sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.)
-
   - Python
     - [squ1b3r/Djaneiro](https://github.com/squ1b3r/Djaneiro) - Django support for Sublime Text 2/3. `unmaintained`
   - Git
@@ -1982,6 +1922,7 @@
     - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3).
 
 - Show HN/Extras
+
   - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist. https://thisworddoesnotexist.com.
   - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding.
   - [idan/gistio](https://github.com/idan/gistio) - A gist-backed pretty display for markdown.
@@ -2151,21 +2092,19 @@
 ### People
 
 - [Raymond Hill](https://github.com/gorhill) - The Cathedral and The Bazaar, uBlock Origin.
-- [Luke Smith](https://github.com/lukesmithxyz)
+- [Vitalik Buterin](https://github.com/vbuterin) - Etheruem Co-founder.
+- [Evan You](https://github.com/yyx990803) - Creator of VueJS.
 - [Tim Pope](https://github.com/tpope)
 - [Andrej Karpathy](https://github.com/karpathy)
-- [Evan You](https://github.com/yyx990803) - Creator of VueJS.
 - [Christopher Olah](https://github.com/colah)
-- [Daniel Shiffman](https://github.com/shiffman) - The Coding Train.
 - [Grant Sanderson](https://github.com/3b1b) - 3blue1brown.
 - [Donne Martin](https://github.com/donnemartin)
 - [Michael Nielsen](https://github.com/mnielsen)
 - [Lex Fridman](https://github.com/lexfridman) - The AI Podcast.
 - [Peter Norvig](https://github.com/norvig) - Director at Google.
 - [Dan Abramov](https://github.com/gaearon) - Creator of Redux.js.
-- [Wes Bos](https://github.com/wesbos)
-- [Kent C. Dodds](https://github.com/kentcdodds)
-- [Kyle Mathews](https://github.com/KyleAMathews)
+- [Kyle Mathews](https://github.com/KyleAMathews) - Creator of GatsbyJS.
+- [Luke Smith](https://github.com/lukesmithxyz)
 - [Sindre Sorhus](https://github.com/sindresorhus)
 - [David Peter](https://github.com/sharkdp)
 - [Samy Pessé](https://github.com/SamyPesse)
@@ -2187,8 +2126,6 @@
 - [Armin Ronacher](https://github.com/mitsuhiko)
 - [Nicolas Gallagher](https://github.com/necolas)
 - [Paul Irish](https://github.com/paulirish)
-- [Harrison](https://github.com/Sentdex)
-- [Colt Steele](https://github.com/colt)
 - [Brett Slatkin](https://github.com/bslatkin)
 - [Ned Batchelder](https://github.com/nedbat)
 - [Trey Hunner](https://github.com/treyhunner)
@@ -2202,9 +2139,6 @@
 - [Bob Nystrom](https://github.com/munificent)
 - [Brock Whitten](https://github.com/sintaxi)
 - [Christopher Jeffrey (JJ](https://github.com/chjj)
-- [Brad Traversy](https://github.com/bradtraversy) - Traversy Media.
-- [Florin Pop](https://github.com/florinpop17)
-- [Simo Edwin](https://github.com/developedbyed)
 - [Todd Motto](https://github.com/toddmotto)
 - [Taylor Otwell](https://github.com/taylorotwell)
 - [Scott Chacon](https://github.com/schacon)
@@ -2228,13 +2162,11 @@
 - [Yangshun Tay](https://github.com/yangshun)
 - [mattn](https://github.com/mattn)
 - [Zach Holman](https://github.com/holman)
-- [Vitalik Buterin](https://github.com/vbuterin) - Etheruem Co-founder.
 - [Avery Pennarun](https://github.com/apenwarr)
 - [Greg Hurrell](https://github.com/wincent)
 - [Sarah Drasner](https://github.com/sdras)
 - [Max Woolf](https://github.com/minimaxir)
 - [typicode](https://github.com/typicode)
-- [Jeff Delaney](https://github.com/codediodeio)
 - [Dave Rupert](https://github.com/davatron5000)
 - [Jamie Kyle](https://github.com/jamiebuilds)
 - [Guillermo Rauch](https://github.com/rauchg)
@@ -2242,5 +2174,15 @@
 - [Robin Wieruch](https://github.com/rwieruch)
 - [Liyas Thomas](https://github.com/liyasthomas)
 - [Zeno Rocha](https://github.com/zenorocha)
-- [Ben Awad](https://github.com/benawad)
 - [Chip Huyen](https://github.com/chiphuyen)
+- YouTube
+  - [Daniel Shiffman](https://github.com/shiffman) - The Coding Train.
+  - [Harrison](https://github.com/Sentdex) - sentdex.
+  - [Jeff Delaney](https://github.com/codediodeio) - Fireship.io
+  - [Wes Bos](https://github.com/wesbos)
+  - [Kent C. Dodds](https://github.com/kentcdodds)
+  - [Colt Steele](https://github.com/colt)
+  - [Ben Awad](https://github.com/benawad)
+  - [Brad Traversy](https://github.com/bradtraversy) - Traversy Media.
+  - [Florin Pop](https://github.com/florinpop17)
+  - [Simo Edwin](https://github.com/developedbyed) - Dev Ed.
