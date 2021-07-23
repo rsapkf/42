@@ -69,7 +69,7 @@
 - [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX, HTML, Markdown, MediaWiki Tables Online.
 - [Letters To A New Developer](https://letterstoanewdeveloper.com/) - Dan Moore.
 
-### Other Resources
+### Other resources
 
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [hntitlenator](https://victorribeiro.com/hntitlenator) - Test your HN title against a neural network.

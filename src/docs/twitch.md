@@ -1,4 +1,4 @@
-# Twitch Subscriptions
+# Twitch subscriptions
 
 ### Official
 

@@ -1,6 +1,6 @@
-# Coding Challenges
+# Coding challenges
 
-- Sites/
+- Sites
   - [Project Euler](https://projecteuler.net/)
   - [Kaggle](https://kaggle.com/)
   - [HackerRank](https://www.hackerrank.com/)

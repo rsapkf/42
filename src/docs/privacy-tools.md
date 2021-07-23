@@ -1,25 +1,25 @@
-# Privacy Tools
+# Privacy tools
 
 > **Note**: This file only contains resources that are NOT in the [./linux-configuration.md](./linux-configuration.md) file.
 
 ## Contents:
 
-- [Email Providers](#email-providers)
-- [Cloud Storage](#cloud-storage)
-- [Instant Messaging](#instant-messaging)
-- [Search Engines](#search-engines)
-- [Browser Extensions](#browser-extensions)
-- [More Resources](#more-resources)
+- [Email providers](#email-providers)
+- [Cloud storage](#cloud-storage)
+- [Instant messaging](#instant-messaging)
+- [Search engines](#search-engines)
+- [Browser extensions](#browser-extensions)
+- [More resources](#more-resources)
 
 ---
 
-### Email Providers
+### Email providers
 
 - [Mailfence](https://mailfence.com/)
 
 ---
 
-### Cloud Storage:
+### Cloud storage:
 
 - [Sync.com](https://www.sync.com/)
 - [pCloud](https://www.pcloud.com/)
@@ -28,13 +28,13 @@
 
 ---
 
-### Instant Messaging
+### Instant messaging
 
 - [Wickr](https://wickr.com/)
 
 ---
 
-### Search Engines:
+### Search engines:
 
 - [Startpage](https://www.startpage.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -50,13 +50,13 @@ See Also:
 
 ---
 
-### Browser Add-ons/Extensions
+### Browser add-ons/extensions
 
 - [Ghostery Privacy Ad Blocker](https://www.ghostery.com/)
 
 ---
 
-### More Resources:
+### More resources:
 
 Sites/
 

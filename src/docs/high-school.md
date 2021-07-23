@@ -1,4 +1,4 @@
-# High School
+# High school
 
 - Sites
   - [BigHistoryProject](https://www.bighistoryproject.com/home)

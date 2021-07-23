@@ -1,10 +1,10 @@
-# Web Development
+# Web development
 
 **Note**: This file only contains resources that are NOT in the [./knowledge-repositories](./knowledge-repositories.md) file.
 
 > If you are completely new to web development, **I HIGHLY RECOMMEND** you visit these links first:
 
-Roadmap to Web Development:
+Roadmap to web development:
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
@@ -12,32 +12,32 @@ Roadmap to Web Development:
 
 ## Contents
 
-- [Offline Documentation](#offline-documentation)
-- [Command Line](#command-line)
+- [Offline documentation](#offline-documentation)
+- [Command line](#command-line)
 - [Git](#git)
-- [Programming Languages](#programming-languages)
-  - [Front-End Programming Languages](#front-end-programming-languages)
-  - [Back-End Programming Languages](#back-end-programming-languages)
-- [Web Frameworks](#web-frameworks)
-  - [Front-End Web Frameworks](#front-end-web-frameworks)
-  - [Back-End Web Frameworks](#back-end-web-frameworks)
-- [Data Visualization](#data-visualization)
-- [Static Site Generators](#static-site-generators)
-- [DataBases](#databases)
-- [Text Editors and IDEs](#text-editors-and-ides)
-- [Regular Expressions and Algorithms](#regular-expressions-and-algorithms)
-- [Developer Tools](#developer-tools)
-- [Other Resources](#other-resources)
+- [Programming languages](#programming-languages)
+  - [Front-end programming languages](#front-end-programming-languages)
+  - [Back-end programming languages](#back-end-programming-languages)
+- [Web frameworks](#web-frameworks)
+  - [Front-end web frameworks](#front-end-web-frameworks)
+  - [Back-end web frameworks](#back-end-web-frameworks)
+- [Data visualization](#data-visualization)
+- [Static site generators](#static-site-generators)
+- [Databases](#databases)
+- [Text editors and IDEs](#text-editors-and-ides)
+- [Regular expressions and algorithms](#regular-expressions-and-algorithms)
+- [Developer tools](#developer-tools)
+- [Other resources](#other-resources)
 
 ---
 
-### Offline Documentation:
+### Offline documentation:
 
 - [Velocity](https://velocity.silverlakesoftware.com/) - `Windows only`
 
 ---
 
-### Command Line:
+### Command line:
 
 - Sites
   - [SS64 (Command line reference - Database and OS scripting)](https://ss64.com/)
@@ -47,28 +47,23 @@ Roadmap to Web Development:
 ### Git:
 
 - Sites
-
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) - Git Tutorials and Training.
   - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
-
 - GitHub
-
   - [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
-
-- Git Clients
+- Git clients
   - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows `closed-source`
   - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime `freemium`
   - [GitKraken](https://www.gitkraken.com) `freemium`
 
 ---
 
-### Programming Languages:
+### Programming languages
 
-#### Front-End Programming Languages
+#### Front-End programming languages
 
-- HTML+CSS+JavaScript:
-
+- HTML+CSS+JavaScript
   - [Mozilla Developer Network(MDN) Docs](https://developer.mozilla.org/en-US/)--(Highly Recommended)-- - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
   - [freeCodeCamp.org](https://www.freecodecamp.org/)--(Highly Recommended)-- - an excellent [open source]() resource for learning web development in an interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
   - [The Odin Project](https://www.theodinproject.com/) - another excellent [open source]() resource similar to the freeCodeCamp project. Covers Ruby, RubyOnRails.
@@ -82,9 +77,7 @@ Roadmap to Web Development:
   - [CSS-Tricks](https://css-tricks.com/)
   - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
   - [Codrops](https://tympanus.net/codrops/) - Web Dev and Design News.
-
-- JavaScript:
-
+- JavaScript
   - [The Modern JavaScript Tutorial](https://javascript.info/)
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [JavaScript30](https://www.javascript30.com)(GitHub - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30))
@@ -93,8 +86,7 @@ Roadmap to Web Development:
   - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - Kyle Cook.
   - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
   - [Rodrigo Pombo's Blog](https://pomb.us/)
-
-- HTML/CSS:
+- HTML/CSS
   - [HTML Reference](https://htmlreference.io/) - A free guide to HTML.
   - [CSS Reference](https://cssreference.io/) - A free visual guide to CSS.
   - [Marksheet](https://marksheet.io/) - A free HTML and CSS Tutorial.
@@ -113,10 +105,9 @@ Roadmap to Web Development:
   - [CSS Gradient](https://cssgradient.io/) - free tool that lets you create a gradient background for websites and technical articles.
   - [CSS3 Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
 
-### Back-End Programming Languages
+### Back-end programming languages
 
-- Python:
-
+- Python
   - [Official Python Docs](https://www.python.org/doc/) - the official and easy to understand documentation of the Python programming language.
   - [Python Wiki](https://wiki.python.org/moin/)
   - [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
@@ -132,101 +123,78 @@ Roadmap to Web Development:
   - [Ned Batchelder's Blog](https://nedbatchelder.com/)
   - [Trey Hunner's Blog](https://treyhunner.com/)
   - [Python Developer’s Guide](https://devguide.python.org/) - A comprehensive resource for contributing to Python.
-
-- Ruby:
-
+- Ruby
   - [Ruby Docs](https://www.ruby-lang.org/en/documentation/)
   - [The Ruby Style Guide](https://rubystyle.guide/)
-
-- PHP:
+- PHP
   - [Official PHP Manuals](https://www.php.net/manual/en/index.php)
   - [PHP Pastebin](https://pastebin.com/gfBPg24A) - Collection of PHP links
 
 ---
 
-### Web Frameworks:
+### Web frameworks
 
-#### Front-End Web Frameworks:
+#### Front-end web frameworks:
 
-- Bootstrap(CSS):
+- Bootstrap (CSS)
   - [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-- Bulma(CSS):
-
+- Bulma (CSS)
   - [Bulma Documentation](https://bulma.io/documentation/)
-
-- React(JavaScript):
-
+- React (JavaScript)
   - [Official React Docs](https://reactjs.org/docs/hello-world.html)
   - [Official Tutorial for building a small game using React](https://reactjs.org/tutorial/tutorial.html)
   - [React Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
   - [Overreacted](https://overreacted.io/) - Dan Abramov, Creator of ReduxJS.
   - [Josh W. Comeau](https://joshwcomeau.com/) - Josh W. Comeau, Developer @GatsbyJS.
-
-- Redux(JavaScript):
-
+- Redux (JavaScript)
   - [Official Redux Tutorial](https://redux.js.org/basics/basic-tutorial)
-
-- Angular(JavaScript):
-
+- Angular (JavaScript)
   - [Angular Docs](https://angular.io/docs)
-
-- Vue(JavaScript):
+- Vue (JavaScript)
   - [Vue Docs](https://vuejs.org/v2/guide/)
   - [Vue Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
   - [VueSchool](https://vueschool.io/) - Learn Vue.js from core-team members and industry experts.
 
-#### Back-End Web Frameworks:
+#### Back-end web frameworks
 
-- Django(Python):
-
+- Django (Python)
   - Sites
-
     - [Official Django Tutorial](https://www.djangoproject.com/start/)
     - [Django Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) - a library catalog website in Django.
     - [Django Girls](https://djangogirls.org/)
     - [Django Tutorial](https://pythonprogramming.net/django-web-development-with-python-intro/) by sentdex.
     - [Learn Django](https://learndjango.com/) by William Vincent.
-
   - YouTube
     - [Django Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-
-- Flask(Python):
-
+- Flask (Python)
   - Sites
-
     - [Official Flask Tutorial](http://flask.pocoo.org/docs/0.12/tutorial/)
     - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
   - YouTube
     - [Flask Blog Tutorial by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
-
-- NodeJS/ExpressJS(JavaScript):
-
+- NodeJS/ExpressJS (JavaScript)
   - [Node.js Docs](https://nodejs.org/en/docs/)
   - [NodeJs Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - a library catalog website in NodeJS/ExpressJS.
   - [Node.js resources- Stack Overflow](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/5511507#5511507)
   - [ExpressJS Documentation](https://expressjs.com/)
-
-- Ember(JavaScript):
-
+- Ember (JavaScript)
   - [Ember Tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)
-
-- RubyOnRails(Ruby):
+- Ruby on Rails (Ruby):
   - [Offcial RubyOnRails Guides](https://guides.rubyonrails.org/)
   - [Ruby on Rails Tutorial (Rails 5) ](https://www.railstutorial.org/book) by [Michael Hartl](https://twitter.com/mhartl)
 
-See Also [HotFrameworks](https://hotframeworks.com/)
+See also: [HotFrameworks](https://hotframeworks.com/)
 
 ---
 
-### Data Visualization
+### Data visualization
 
 - D3js
   - [ObservableHQ D3.js Tutorial](https://observablehq.com/@d3/learn-d3) - Mike Bostock, Creator of D3.js.
 
 ---
 
-### Static Site Generators:
+### Static site generators
 
 - Sites
   - [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators.
@@ -237,31 +205,26 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ---
 
-### DataBases:
+### Databases
 
 - SQL:
-
   - Sites
     - [SQL Tutorial](http://www.sqltutorial.org/)
     - [SQLBolt](https://sqlbolt.com/)
     - [SQLZOO](https://sqlzoo.net/)
-
 - PostgreSQL:
-
   - Sites
     - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-
 - SQLite:
   - Sites
     - [SQLite Docs](https://sqlite.org/docs.html)
 
 ---
 
-### Text Editors and IDEs:
+### Text editors and IDEs
 
 - [Sublime Text](https://www.sublimetext.com/)
-
-- Interactive Online Code Editors
+- Interactive online code editors
   - [repl.it](https://repl.it/)
   - [Scrimba](https://scrimba.com/c/cKp6LhL) - HTML, CSS, JavaScript.
   - [JSFiddle](https://jsfiddle.net) - HTML, CSS, JavaScript, CoffeeScript.
@@ -270,7 +233,7 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ---
 
-### Regular Expressions and Algorithms:
+### Regular expressions and algorithms
 
 - Sites
   - [pythex.org](https://pythex.org/) - a quick way to test your regular expressions.
@@ -282,16 +245,13 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ---
 
-### Developer Tools:
+### Developer tools
 
 - Sites
-
   - [MDN CSS Color Picker Tools](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool) ([DuckDuckGo](https://duckduckgo.com/?t=ffab&q=color+picker&ia=answer) Instant Answer/[Google](https://www.google.com/search?hl=en&q=color%20picker))
   - [Dan's Tools](https://www.danstools.com/) - Collection of various tools helpful for developers.
   - [Who is my ISP?](https://www.whoismyisp.org/)
-
-- Design Tools
-
+- Design tools
   - [NoDesign.dev](https://nodesign.dev/) - A collection of tools for developers who have little to no artistic talent.
   - [ColorBox](https://www.colorbox.io/) - a color tool to produce color sets.
   - [LogoMakr](https://logomakr.com/) `freemium`
@@ -299,32 +259,22 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [svgator](https://www.svgator.com) - SVG Animation Creator `commercial`
   - [Neumorphism.io](https://neumorphism.io/) - Soft UI CSS shadow generator.
   - [Canva](https://www.canva.com/) - Create beautiful designs with your team.
-
-- Speed Test
-
+- Speed test
   - [Speedtest.net by Ookla](https://www.speedtest.net/)
   - [Fast.com by Netflix](https://fast.com)
-
 - Fake APIs
-
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake online REST API for developers
-
-- Text Generators
-
+- Text generators
   - [Lorem Ipsum](https://lipsum.com/)
-
 - Images/SVGs
-
   - [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine
   - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
   - [Flat UI Colors](https://flatuicolors.com/) - 280 handpicked colors ready for COPY & PASTE.
   - [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images.
-
 - Patterns
   - [Heropatterns](https://www.heropatterns.com) - A collection of repeatable SVG background patterns for you to use on your web projects.
   - [Cool Backgrounds](https://coolbackgrounds.io/) - collection of tools to create compelling, colorful images for blogs and websites.
 - Deployment
-
   - [Cloudflare](https://www.cloudflare.com/) - The Integrated Global Cloud Platform.
   - [Heroku](https://www.heroku.com/) - Build data-driven apps with fully managed data services.
   - [Netlify](https://netlify.com) - Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
@@ -333,35 +283,22 @@ See Also [HotFrameworks](https://hotframeworks.com/)
   - [ZEIT Now](https://zeit.co/) - The easiest way to deploy websites.
   - [surge](https://surge.sh/) - Static web publishing for Front-End Developers.
   - [Render](https://render.com/) - unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
-
 - VPS
-
   - [DigitalOcean](https://www.digitalocean.com/)
   - [Linode](https://www.linode.com/)
-
 - CI/CD
-
   - [Travis-CI](https://travis-ci.org/)
   - [circleci](https://circleci.com/)
-
-- API Testing
-
+- API testing
   - [Postman](https://www.postman.com/) - The Collaboration Platform for API Development.
-
-- UI Inspiration
-
+- UI inspiration
   - [Webframe](https://webframe.xyz/) - Beautiful Screenshots showing webapp designs.
-
-- Payment Processing
-
+- Payment processing
   - [Stripe](https://stripe.com/)
   - [Buy Me a Coffee](https://www.buymeacoffee.com/)
-
-- Technology Lookup Tools
-
+- Technology lookup tools
   - [Wappalyzer](https://www.wappalyzer.com/)
   - [BuiltWith](https://builtwith.com/)
-
 - Miscellaneous
   - [Okta](https://www.okta.com/)
   - [Sizzy](https://sizzy.co/)
@@ -369,16 +306,16 @@ See Also [HotFrameworks](https://hotframeworks.com/)
 
 ---
 
-### Other Resources:
+### Other resources
 
 - Magazines
   - [Smashing Magazine](https://www.smashingmagazine.com/) - For Web Designers And Developers.
   - [Increment Magazine](https://increment.com/) - print and digital magazine about how teams build and operate software systems at scale.
-- Codepen Profiles
+- Codepen profiles
   - [Chris Coyier](https://codepen.io/chriscoyier) - Founder of CSS-Tricks.
   - [Florin Pop](https://codepen.io/FlorinPop17)
   - [Hakim El Hattab](https://codepen.io/hakimel) - Creator of reveal.js.
-- Dribble Profiles
+- Dribble profiles
   - [Google](https://dribbble.com/google)
 - Sites
   - [web.dev](https://web.dev/) - learn to build for the modern web.

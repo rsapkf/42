@@ -1,12 +1,13 @@
-# Software and Services
+# Software and services
 
 > **Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
 
 ### Software
 
-- Programming Tools
+- Programming tools
   - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database. `source-available software`
   - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost. `open-source upto v1.x`
+  - [MATLAB](https://www.mathworks.com/)
   - [kite](https://kite.com/) - code completion plugin for Python that works with PyCharm, VS Code, Vim, Spyder, & more.
   - [Linear](https://linear.app/) - The issue tracking tool you'll enjoy using.
   - [CSSBattle](https://cssbattle.dev/)
@@ -15,12 +16,12 @@
 - Hacking
   - [Hack The Box](https://www.hackthebox.eu/)
   - [TryHackMe](https://tryhackme.com/)
-- IP Address Lookup
+- IP address lookup
 
   - [IPinfo.io](https://ipinfo.io/)
   - [ipapi](https://ipapi.co/)
 
-- Operating Systems
+- Operating systems
 
   - For PC
 
@@ -28,10 +29,10 @@
     - [Apple macOS](https://www.apple.com/macos)
     - [Microsoft Windows](https://www.microsoft.com/en-us/windows)
 
-  - For Mobile
+  - For mobile
     - [iOS](https://www.apple.com/ios)
 
-- Browser Add-ons/Extensions
+- Browser add-ons/extensions
 
   - [LastPass Password Manager](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)
   - [Grammarly for Firefox](https://addons.mozilla.org/en-US/android/addon/grammarly-1/)
@@ -39,40 +40,40 @@
   - [Wikiwand: Wikipedia Modernized](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
   - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - userscript manager. `open-source upto v2.9`
 
-- Web Browsers:
+- Web browsers:
 
   - [Google Chrome](https://www.google.com/chrome/)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
-- Search Engines
+- Search engines
 
   - [Metacrawler](https://www.metacrawler.com/)
   - [Google](https://www.google.com/)
   - [Bing](https://www.bing.com/)
 
-- Cloud Storage
+- Cloud storage
 
   - [Google Drive](https://google.com/drive)
   - [Dropbox](https://www.dropbox.com/)
   - [Box](https://www.box.com/)
 
-- Feed Readers
+- Feed readers
 
   - [Feedly](https://feedly.com/) - News aggregator application.
   - [Inoreader](https://www.inoreader.com/) - Web-based content and RSS feed reader.
 
-- Document Readers
+- Document readers
 
   - [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) `PDF`
   - [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) `PDF`
   - [FBReader](https://fbreader.org/) `open-source until 2015`
 
-- YouTube Alternatives
+- YouTube alternatives
 
   - [BitChute](https://www.bitchute.com/) - allows video uploaders to avoid content rules enforced on other platforms, such as YouTube.
   - [Vimeo](https://vimeo.com/) - ad-free video platform.
 
-- Note Taking, Project Management, Collaboration
+- Note-taking, project management, collaboration
 
   - [Things](https://culturedcode.com/things/) - award-winning personal task manager that helps you achieve your goals. `iOS` `macOS`
   - [Notion](https://www.notion.so/)
@@ -95,7 +96,7 @@
     - [Obsidian](https://obsidian.md/) - powerful knowledge base that works on top of a local folder of plain text Markdown files.
     - [The Archive](https://zettelkasten.de/the-archive/) - Nimble, Calm, Plain.txt. `macOS`
 
-- Read Later/Bookmarking
+- Read later/Bookmarking
 
   - [Pocket](https://getpocket.com/) - When you find something you want to view later, put it in Pocket. `owned by Mozilla`
   - [Instapaper](https://www.instapaper.com/)
@@ -103,7 +104,7 @@
   - [Diigo](https://www.diigo.com/) - Your Learning, Simplified.
   - [Raindrop.io](https://raindrop.io/) - Your Smart Bookmarks.
 
-- Instant Messaging/Communication/Video Conferencing
+- Instant messaging/Communication/Video conferencing
 
   - [Slack](https://slack.com/)
   - [Skype](https://www.skype.com/)
@@ -111,28 +112,31 @@
   - [Zoom](https://zoom.us/)
   - [Hangouts](https://hangouts.google.com/)
 
-- Remote Desktop Clients
+- Remote desktop clients
 
   - [TeamViewer](https://www.teamviewer.com/) - Remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.
 
-- Design Tools
+- Design tools
 
   - [Adobe](https://adobe.com) - Creativity for all.
   - [Affinity](https://affinity.serif.com/en-us/) - Graphics software redefined.
 
-- Office Suites
+- Office suites
 
   - [Zoho](https://www.zoho.com/) - Privacy-friendly Alternative to Microsoft Office and Google Docs.
   - [Microsoft Office](https://www.office.com/)
   - [Google Docs](https://www.google.com/docs/about/)
 
-- Movie Ratings and Reviews
+- Movie ratings and reviews
 
   - [IMDb](https://imdb.com/) - Internet Movie Database.
     - [IMDb Advanced Search](https://www.imdb.com/search/)
     - [Sort your IMDb ratings by title type](https://help.imdb.com/article/imdb/track-movies-tv/how-do-i-sort-my-ratings-by-the-title-type/G4LHN2ZSCPNM5W2S)
   - [Metacritic](https://www.metacritic.com/)
   - [Rotten Tomatoes](https://rottentomatoes.com/)
+  - [MyAnimeList](https://myanimelist.net/)
+  - [AniList](https://anilist.co/)
+  - [AniDB](https://anidb.net/)
   - [Letterboxd](https://letterboxd.com/) - Social film discovery.
 
 - Music
@@ -140,7 +144,7 @@
   - [Spotify](https://www.spotify.com) - Spotify gives you instant access to millions of songs.
   - [Shazam](https://www.shazam.com/) - Shazam will identify any music playing around you.
 
-- Book Reviews
+- Book reviews
 
   - [Goodreads](https://goodreads.com/)
 
@@ -154,12 +158,12 @@
 
   - [Waking Up](https://wakingup.com/) - Explore the practice of meditation and examines the theory behind it with Sam Harris.
 
-- CAPTCHA Services
+- CAPTCHA services
 
   - [reCAPTCHA](https://www.google.com/recaptcha/) - Easy on Humans, Hard on Bots.
   - [hCaptcha](https://www.hcaptcha.com/) - Private. Secure. Faster. And they pay you to use it.
 
-- Web Analytics
+- Web analytics
 
   - [Simple Analytics](https://simpleanalytics.com/)
   - [Google Analytics](https://analytics.google.com/analytics/web/)
@@ -198,7 +202,7 @@
     - [Podia](https://www.podia.com/) - Sell online courses, downloads, webinars, and memberships without worrying about the tech.
     - [Teachable](https://teachable.com/) - Create and sell beautiful online courses.
 
-  - Game Engines
+  - Game engines
 
     - [Unreal Engine](http://www.unrealengine.com/) `source-available software`
     - [Unity](https://unity.com/)

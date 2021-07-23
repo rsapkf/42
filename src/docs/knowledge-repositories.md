@@ -1,4 +1,4 @@
-## Knowledge Repositories (mostly on GitHub)
+## Knowledge repositories (mostly on GitHub)
 
 ### Linux
 
@@ -33,7 +33,7 @@
   - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - LaTeX
   - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
-- Browser Customization
+- Browser customization
   - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum.
   - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox.
   - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser.
@@ -56,7 +56,7 @@
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - A curated list of awesome Raspberry Pi tools, projects, images and resources.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 
-### Regular Expressions and Algorithms
+### Regular expressions and algorithms
 
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
@@ -94,7 +94,6 @@
 - [chrisalbon/code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science.
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - Websites
-  - [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython) - http://book.pythontips.com.
   - [scipy-lectures/scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem. https://scipy-lectures.org.
   - [pyvideo/pyvideo](https://github.com/pyvideo/pyvideo) - A Python media index. https://pyvideo.org.
 
@@ -149,7 +148,7 @@
 - [phuoc-ng/csslayout](https://github.com/phuoc-ng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing!
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 
-### Browser Add-ons/Extensions
+### Browser add-ons/extensions
 
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API.
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples.
@@ -207,13 +206,13 @@
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml.
 
-### Data Science/Scientific Computing
+### Data science/Scientific computing
 
-### Quantum Computing
+### Quantum computing
 
 - [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing.
 
-### AI and Deep Learning/Machine Learning
+### AI and Deep learning/Machine learning
 
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [practicalAI/practicalAI](https://github.com/practicalAI/practicalAI) - A practical approach to machine learning to enable everyone to learn, explore and build.
@@ -223,17 +222,17 @@
 - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow 2.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 
-### System Design
+### System design
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect.
 
-### Web Design/Accessibilty
+### Web design/Accessibilty
 
 - Websites
   - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - A community–driven effort to make web accessibility easier. https://a11yproject.com.
 
-### Source Control/Git
+### Source control/Git
 
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition.
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - git and git flow cheat sheet.
@@ -247,7 +246,7 @@
   - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide. http://rogerdudler.github.com/git-guide.
   - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! https://pcottle.github.io/learnGitBranching.
 
-### Open Source
+### Open source
 
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source.
 - Websites
@@ -259,7 +258,7 @@
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2).
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow.
 
-### System Administration/Site Reliability/Production Engineering
+### System administration/Site reliability/Production engineering
 
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. https://sre.xyz.
@@ -271,7 +270,7 @@
 - [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets.
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - @rstacruz's cheatsheets. https://devhints.io.
 
-### Privacy and Security
+### Privacy and security
 
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
@@ -279,7 +278,7 @@
 - Websites
   - [privacytoolsIO/privacytools.io](https://github.com/privacytoolsIO/privacytools.io) - You are being watched. Protect your privacy against global mass surveillance. https://privacytools.io.
 
-### Penetration Testing
+### Penetration testing
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
@@ -297,11 +296,11 @@
 
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 
-### Video Production
+### Video production
 
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 
-### Natural Language Processing
+### Natural language processing
 
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples.
 
@@ -324,7 +323,7 @@
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows.
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - A collection of Alfred 3 and 4 workflows that will rock your world.
 
-### Project Based Learning
+### Project based learning
 
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here).
 - [karan/Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
@@ -332,7 +331,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
 
-### Computer Science/Math
+### Computer science/Math
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Open Source CS Curriculum.

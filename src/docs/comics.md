@@ -2,8 +2,34 @@
 
 ### Sites
 
-- [WEBTOON](https://www.webtoons.com/en/) - Read Comics Online.
+- [WEBTOON](https://www.webtoons.com/en/) - Read Comics Online
 - [GoComics](https://www.gocomics.com/)
+
+### Books
+
+- DC
+  - [The Sandman](<https://en.wikipedia.org/wiki/The_Sandman_(comic_book)>) - Neil Gaiman
+  - [The Dark Knight Returns](https://en.wikipedia.org/wiki/The_Dark_Knight_Returns) - Frank Miller
+  - [Watchmen](https://en.wikipedia.org/wiki/Watchmen) - Alan Moore, Dave Gibbons, John Higgins
+  - [V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta) - Alan Moore
+  - [Transmetropolitan](https://en.wikipedia.org/wiki/Transmetropolitan) - Warren Ellis
+  - [Batman: The Long Halloween](https://en.wikipedia.org/wiki/Batman:_The_Long_Halloween) - Jeph Loeb
+- Marvel
+- Manga
+  - [Naruto](https://en.wikipedia.org/wiki/Naruto) - Masashi Kishimoto
+  - [One Piece](https://en.wikipedia.org/wiki/One_Piece) - Eiichiro Oda
+  - [Akira](<https://en.wikipedia.org/wiki/Akira_(manga)>) - Katsuhiro Otomo
+  - [Bleach](<https://en.wikipedia.org/wiki/Bleach_(manga)>) - Tite Kubo
+  - [Berserk](<https://en.wikipedia.org/wiki/Berserk_(manga)>) - Kentaro Miura
+  - [Demon Slayer: Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba) - Koyoharu Gotouge
+  - [Dragon Ball](<https://en.wikipedia.org/wiki/Dragon_Ball_(manga)>) - Akira Toriyama
+- [Maus](https://en.wikipedia.org/wiki/Maus) - Art Spiegelman
+- [Persepolis](<https://en.wikipedia.org/wiki/Persepolis_(comics)>) - Marjane Satrapi
+- [Saga](<https://en.wikipedia.org/wiki/Saga_(comics)>) - Brian K. Vaughan
+- [Scott Pilgrim](https://en.wikipedia.org/wiki/Scott_Pilgrim) - Bryan Lee O'Malley
+- [Nimona](https://en.wikipedia.org/wiki/Nimona) - Noelle Stevenson
+- [The Umbrella Academy](https://en.wikipedia.org/wiki/The_Umbrella_Academy) - Gerard Way
+- [Avatar: The Last Airbender](<https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_(comics)>) - Michael Dante DiMartino, Bryan Konietzko
 
 ### Comics
 

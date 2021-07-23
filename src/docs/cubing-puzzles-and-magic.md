@@ -1,4 +1,4 @@
-# Cubing, Puzzles and Magic
+# Cubing, puzzles and magic
 
 ## Rubik's Cube
 
@@ -10,7 +10,7 @@
 - [Ruwix](https://ruwix.com/)
 - [Andy Klise](http://www.kungfoomanchu.com/) - Illustrations and Algorithms.
 - [cubing.net](https://cubing.net/)
-- [Badmephisto's Cubing Site: FAQ](http://badmephisto.com/)
+- [Badmephisto's Cubing Site](http://badmephisto.com/)
 - [𝔹𝔼𝕊𝕋 𝕤𝕚𝕥𝕖 𝔼𝕍𝔼ℝ](https://www.bestsiteever.ru/)
 - [CubeRoot](https://www.cuberoot.me/)
 - [Cubefreak](http://cubefreak.net/)

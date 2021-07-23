@@ -1,13 +1,13 @@
-# Linux Configuration
+# Linux configuration
 
 > **Note**: This file only contains resources that are NOT in the [./open-source-software.md#Tools#Linux](./open-source-software.md#tools) section.
 
-### Browser Customization
+### Browser customization
 
 - [mozillaZine](http://kb.mozillazine.org/Knowledge_Base)
 - [userChrome.org](https://www.userchrome.org/)
 
-### Software Alternatives
+### Software alternatives
 
 - Email Encryption
   - [OpenPGP.org/software](https://www.openpgp.org/software/)
@@ -67,7 +67,7 @@
   - [ZSH Tips by ZZapper](http://www.zzapper.co.uk/zshtips.html)
 - Tmux
   - [Tmux Cheat Sheet & Quick Reference](http://tmuxcheatsheet.com/)
-- Window Managers
-  - [The Obscure Window Manager Project(DistroTube)](https://www.youtube.com/playlist?list=PL5--8gKSku17lbSBHPduj4qG97qxJe0UM)
+- Window managers
+  - [The Obscure Window Manager Project (DistroTube)](https://www.youtube.com/playlist?list=PL5--8gKSku17lbSBHPduj4qG97qxJe0UM)
 - [crontab guru](https://crontab.guru/) - An easy to use editor for crontab schedules.
 - [ip command cheatsheet for Red Hat Enterprise Linux](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf)

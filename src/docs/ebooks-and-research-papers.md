@@ -1,4 +1,4 @@
-# Ebooks and Research Papers
+# Ebooks and research papers
 
 > **Disclaimer**: This list might contain some sites that have concerns over legality and copyright issues. In all such known cases, the corresponding wikipedia page has been linked, instead of linking directly. Before going through this list, please read [this](https://academia.stackexchange.com/questions/112509/legality-of-downloading-books-from-websites-such-as-library-genesis) thread on Academia StackExchange.
 
@@ -7,6 +7,7 @@
 - Sites
   - [HN Search 'books'](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=books&sort=byPopularity&type=story)
   - [OpenStax](https://openstax.org/)
+  - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
   - [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
   - [Archive.org](https://archive.org/)
   - [Project Gutenberg](https://www.gutenberg.org/)
@@ -28,7 +29,7 @@
 
 ---
 
-### Research Papers:
+### Research papers:
 
 - Sites
   - [PeerJ](https://peerj.com/) - peer-reviewed & Open Access journal publishing primary research and reviews in biology, life sciences, environmental sciences, and medicine.

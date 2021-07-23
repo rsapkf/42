@@ -1,6 +1,6 @@
-# Science, Technology and Mathematics
+# Science, technology and mathematics
 
-## Science, Mostly
+## Science, mostly
 
 - People
 
@@ -77,7 +77,7 @@
 
 ## Tech
 
-- Sites+Blogs/
+- Sites+Blogs
 
   - Privacy
 
@@ -218,7 +218,7 @@
     - [Henrik Warne](https://henrikwarne.com/)
     - [250bpm](https://250bpm.com/)
 
-  - Medium Blogs
+  - Medium blogs
 
     - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
     - [Netflix TechBlog](https://medium.com/netflix-techblog)

@@ -1,4 +1,4 @@
-# Reddit Subscriptions
+# Reddit subscriptions
 
 ### Official
 
@@ -13,7 +13,7 @@
 - [r/privacytoolsIO](https://www.reddit.com/r/privacytoolsIO/)
 - [r/GnuPG](https://www.reddit.com/r/GnuPG/)
 
-### Linux Configuration
+### Linux
 
 - [r/unixporn](https://www.reddit.com/r/unixporn/)
 - [r/vim](https://www.reddit.com/r/vim/)
@@ -32,7 +32,7 @@
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming/)
 - [r/ManjaroLinux](https://www.reddit.com/r/ManjaroLinux/)
 
-### Browser Customization
+### Browser customization
 
 - [r/firefox](https://www.reddit.com/r/firefox/)
 - [r/startpages](https://www.reddit.com/r/startpages/)
@@ -136,7 +136,7 @@
 - [r/BokuNoMetaAcademia](https://www.reddit.com/r/BokuNoMetaAcademia/)
 - [r/evangelionmemes](https://www.reddit.com/r/evangelionmemes/)
 
-### TV Shows
+### TV shows
 
 - [r/rickandmorty](https://www.reddit.com/r/rickandmorty/)
 - [r/breakingbad](https://www.reddit.com/r/breakingbad/)
@@ -166,7 +166,7 @@
 - [r/arrow](https://www.reddit.com/r/arrow/)
 - [r/FlashTV](https://www.reddit.com/r/FlashTV/)
 
-### Anime and Manga
+### Anime and manga
 
 - [r/anime](https://www.reddit.com/r/anime/)
 - [r/Berserk](https://www.reddit.com/r/Berserk/)
@@ -320,7 +320,7 @@
 - [r/h3h3productions](https://www.reddit.com/r/h3h3productions/)
 - [r/ElectroBOOM](https://www.reddit.com/r/ElectroBOOM/)
 
-### Personal Finance
+### Personal finance
 
 - [r/personalfinance](https://www.reddit.com/r/personalfinance/)
 - [r/Frugal](https://www.reddit.com/r/Frugal/)
@@ -486,7 +486,11 @@
 - [r/riddles](https://www.reddit.com/r/riddles/)
 - [r/puzzles](https://www.reddit.com/r/puzzles/)
 
-### Mental Health
+### Fitness
+
+- [r/Fitness](https://www.reddit.com/r/Fitness/)
+
+### Mental health
 
 - [r/OCD](https://www.reddit.com/r/OCD/)
 - [r/lonely](https://www.reddit.com/r/lonely/)
@@ -497,6 +501,14 @@
 - [r/socialskills](https://www.reddit.com/r/socialskills/)
 - [r/DecidingToBeBetter](https://www.reddit.com/r/DecidingToBeBetter/)
 - [r/bipolar](https://www.reddit.com/r/bipolar/)
+
+### Wallpapers
+
+- [r/wallpaper](https://www.reddit.com/r/wallpaper/)
+- [r/wallpapers](https://www.reddit.com/r/wallpapers/)
+- [r/iWallpaper](https://www.reddit.com/r/iWallpaper/)
+- [r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/)
+- [r/Verticalwallpapers](https://www.reddit.com/r/Verticalwallpapers/)
 
 ### NSFW
 
@@ -539,8 +551,6 @@
 - [r/Damnthatsinteresting](https://www.reddit.com/r/Damnthatsinteresting/)
 - [r/interestingasf ck](https://www.reddit.com/r/interestingasfuck/)
 - [r/mildlyinteresting](https://www.reddit.com/r/mildlyinteresting/)
-- [r/wallpaper](https://www.reddit.com/r/wallpaper/)
-- [r/wallpapers](https://www.reddit.com/r/wallpapers/)
 - [r/OutOfTheLoop](https://www.reddit.com/r/OutOfTheLoop/)
 - [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)
 - [r/YouShouldKnow](https://www.reddit.com/r/YouShouldKnow/)
@@ -584,7 +594,6 @@
 - [r/relationship_advice](https://www.reddit.com/r/relationship_advice/)
 - [r/AmItheAsshole](https://www.reddit.com/r/AmItheAsshole/)
 - [r/relationships](https://www.reddit.com/r/relationships/)
-- [r/Fitness](https://www.reddit.com/r/Fitness/)
 - [r/Whatcouldgowrong](https://www.reddit.com/r/Whatcouldgowrong/)
 - [r/tifu](https://www.reddit.com/r/tifu/)
 - [r/Cringetopia](https://www.reddit.com/r/Cringetopia/)
@@ -750,7 +759,7 @@
 - [r/MurderedByAOC](https://www.reddit.com/r/MurderedByAOC/)
 - [r/PoliticalCompassMemes](https://www.reddit.com/r/PoliticalCompassMemes/)
 
-### Reddit Profiles
+### Reddit profiles
 
 - [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.
 - [u/kn0thing](https://www.reddit.com/user/kn0thing) - Alexis Ohanian, Reddit Co-founder.

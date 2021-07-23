@@ -1,4 +1,4 @@
-# Massive Open Online Courses
+# Massive open online courses
 
 ### Platforms
 
@@ -33,6 +33,7 @@
 - [Frondend Masters](https://frontendmasters.com/) `paid`
 - [PluralSight](https://www.pluralsight.com/) - `paid`
 - [Lambda School](https://lambdaschool.com/) `paid`
+- [MATLAB Academy](https://matlabacademy.mathworks.com/)
 - [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students. `paid`
 - [Oracle University](https://education.oracle.com/home) `paid`
 - [EXLskills](https://exlskills.com/) `paid`
@@ -44,7 +45,7 @@
 
 ### Courses
 
-- Machine Learning/Deep Learning
+- Machine learning/Deep learning
   - [Practical Deep Learning for Coders](https://course.fast.ai/) - fast.ai.
   - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning.
   - [mlcourse.ai](https://mlcourse.ai) - Open Machine Learning Course. (GitHub: [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai))

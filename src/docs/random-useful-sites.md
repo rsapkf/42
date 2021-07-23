@@ -1,4 +1,4 @@
-# Random Cool Sites
+# Random cool sites
 
 - Sites
   - [Firefox Monitor](https://monitor.firefox.com/) - See if you’ve been part of an online data breach.
@@ -22,7 +22,6 @@
   - [f cking homepage](https://fuckinghomepage.com/)
   - [Open Source Game clones](https://osgameclones.com/)
   - [Google Ngram Viewer](https://books.google.com/ngrams)
-  - [Gmail Search Operators](https://support.google.com/mail/answer/7190)
   - [Keanu Reeves is Immortal](https://www.keanuisimmortal.com/)
   - [Youglish](https://youglish.com/) - Use YouTube to improve your English pronunciation.
   - [txti](http://txti.es/) - Fast web pages for everybody.
@@ -52,7 +51,7 @@
   - [Artvee](https://artvee.com/)
   - [All About Circuits](https://www.allaboutcircuits.com/)
   - [Get Emoji](https://getemoji.com/) - All Emojis to ✂️ Copy and 📋 Paste 👌
-  - [Usenet Archives (UsenetArchives.com)](https://www.usenetarchives.com/)
+  - [Usenet Archives](https://www.usenetarchives.com/)
   - [T E X T F I L E S D O T C O M](http://textfiles.com/)
   - [Lightyear.fm](http://www.lightyear.fm/)
   - [Dark Patterns](https://darkpatterns.org/)
@@ -63,9 +62,9 @@
   - [Bing Fun](https://www.bing.com/fun)
   - [Every Noise at Once](https://everynoise.com/)
   - [Occupational Outlook Handbook :: U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/home.htm)
-  - [Punpedia -- The Online Encyclopedia of Puns](https://punpedia.org/)
+  - [Punpedia](https://punpedia.org/) - The Online Encyclopedia of Puns
   - [Our Incredible Journey](https://ourincrediblejourney.tumblr.com/)
-  - [Neocities: Create your own free website!](https://neocities.org/)
+  - [Neocities](https://neocities.org/) - Create your own free website!
   - Dictionaries
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
     - [Merriam Webster](https://www.merriam-webster.com/) - since 1828.
