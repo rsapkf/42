@@ -208,6 +208,7 @@
     - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts (https://www.shellcheck.net).
     - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
     - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+    - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents.
     - [nvbn/thef ck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
     - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick 7.
     - [junegunn/fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.

@@ -250,7 +250,7 @@
     - [Feedly Discover](https://feedly.com/i/discover/)
     - HackerNews/Y Combinator
       - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
-      - [HN/leaders](https://news.ycombinator.com/lists) - Users with most karma.
+      - [HN/leaders](https://news.ycombinator.com/leaders) - Users with most karma.
       - [HN/front](https://news.ycombinator.com/front) - Front page submissions for a given day (e.g. 2016-06-20).
       - [HN Lists](https://news.ycombinator.com/lists)
       - [Y Combinator Company List](https://yclist.com/)

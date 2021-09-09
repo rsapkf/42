@@ -96,4 +96,6 @@
 - Philosophy
   - [How to study philosophy as an amateur?](http://existentialcomics.com/blog) - Existential Comics.
   - [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](https://users.drew.edu/~jlenz/whynot.html)
-  - [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html)
+- Short stories
+  - [The Fable of the Dragon-Tyrant - Nick Bostrom (2005)](https://www.nickbostrom.com/fable/dragon.html)
+  - [The Monkey's Paw - W. W. Jacobs (1902)](https://en.wikipedia.org/wiki/The_Monkey%27s_Paw)

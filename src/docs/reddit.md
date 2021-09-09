@@ -110,6 +110,7 @@
 - [r/ExpectationVsReality](https://www.reddit.com/r/ExpectationVsReality/)
 - [r/FellowKids](https://www.reddit.com/r/FellowKids/)
 - [r/im14andthisisdeep](https://www.reddit.com/r/im14andthisisdeep/)
+- [r/Im15AndThisIsYeet](https://www.reddit.com/r/Im15AndThisIsYeet/)
 - [r/marvelmemes](https://www.reddit.com/r/marvelmemes/)
 - [r/MemeEconomy](https://www.reddit.com/r/MemeEconomy/)
 - [r/technicallythetruth](https://www.reddit.com/r/technicallythetruth/)

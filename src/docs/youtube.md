@@ -54,6 +54,7 @@
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 - [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
 - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
@@ -280,6 +281,7 @@
 - [JerryRigEverything](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ)
 - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
 - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
+- [The Studio](https://www.youtube.com/channel/UCG7J20LhUeLl6y_Emi7OJrA)
 - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 - [LMG Clips](https://www.youtube.com/channel/UCFLFc8Lpbwt4jPtY1_Ai5yA)
 - [ShortCircuit](https://www.youtube.com/channel/UCdBK94H6oZT2Q7l0-b0xmMg)
@@ -510,6 +512,7 @@
 
 ### Music
 
+- [Genius](https://www.youtube.com/channel/UCyFZMEnm1il5Wv3a6tPscbA)
 - [TheFatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
 - [melodysheep](https://www.youtube.com/channel/UCR9sFzaG9Ia_kXJhfxtFMBA)
 - [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
