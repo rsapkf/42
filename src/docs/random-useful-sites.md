@@ -52,6 +52,7 @@
   - [All About Circuits](https://www.allaboutcircuits.com/)
   - [Get Emoji](https://getemoji.com/) - All Emojis to ✂️ Copy and 📋 Paste 👌
   - [Usenet Archives](https://www.usenetarchives.com/)
+  - [Usenet Archives collected by Norman Yarvin](https://yarchive.net/)
   - [T E X T F I L E S D O T C O M](http://textfiles.com/)
   - [Lightyear.fm](http://www.lightyear.fm/)
   - [Dark Patterns](https://darkpatterns.org/)

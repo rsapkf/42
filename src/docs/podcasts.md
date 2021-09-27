@@ -110,3 +110,4 @@
 - [Rabbit Hole](https://podcasts.apple.com/us/podcast/rabbit-hole/id1507423923date) - The New York Times.
 - [Criminal](https://thisiscriminal.com/)
 - [The Daily](https://podcasts.apple.com/us/podcast/the-daily/id1200361736) - The New York Times.
+- [Good For You](https://www.whitneycummings.com/goodforyou) - Whitney Cummings.

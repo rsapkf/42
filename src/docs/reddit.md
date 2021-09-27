@@ -373,6 +373,7 @@
 
 - [r/place](https://www.reddit.com/r/place/)
 - [r/thebutton](https://www.reddit.com/r/thebutton/)
+- [r/Second](https://www.reddit.com/r/Second/)
 - [r/chairsunderwater](https://www.reddit.com/r/chairsunderwater/)
 - [r/AVoid5](https://www.reddit.com/r/AVoid5/)
 - [r/BirdsArentReal](https://www.reddit.com/r/BirdsArentReal/)

@@ -331,6 +331,7 @@
 - [What's Good Podcast](https://www.youtube.com/channel/UCFPElAbES8GHfBZrDrGbSLQ)
 - [The Create Unknown](https://www.youtube.com/channel/UC4Abl9Z_dKFxA7fRFnGPLiA)
 - [H3 Podcast](https://www.youtube.com/channel/UCLtREJY21xRfCuEKvdki1Kw)
+- [H3 Podcast Highlights](https://www.youtube.com/channel/UCZZHPXsg6LopvdOKF7qM6cQ)
 
 ### Horror/Internet Mysteries
 
