@@ -1,4 +1,4 @@
-# Psychology, philosophy, literature and art
+# Psychology, philosophy, literature, and art
 
 ## Philosophy
 
@@ -33,6 +33,7 @@
   - [R. L. Stine's Writing Program](http://rlstine.com/writing-program)
   - [poets.org](https://poets.org/)
   - [SparkNotes](https://www.sparknotes.com/) - Source for help with Shakespeare and English literature, plus history, math, biology, and more.
+  - [CliffNotes](https://www.cliffsnotes.com/)
   - [PoeStories](https://poestories.com) - short stories and poems by Edgar Allan Poe.
 
 ---

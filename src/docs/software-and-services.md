@@ -1,6 +1,6 @@
 # Software and services
 
-> **Note**: This file only contains resources that are NOT in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
+> **Note**: This file only contains resources that are not in the [./privacy-tools.md](./privacy-tools.md) file. Most closed-source software and services go here.
 
 ### Software
 
@@ -190,7 +190,7 @@
     - [Google Maps](https://google.com/maps)
     - [Algolia](https://www.algolia.com/) - Fast, reliable and modern search and discovery.
     - [Grammarly](https://www.grammarly.com/) - Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.
-    - [bitly](https://bitly.com/) - Link Shortener.
+    - [bitly](https://bitly.com/) - Link shortener.
     - [IFTTT](https://ifttt.com/) - Make your apps and devices work together in new ways.
     - [Hootsuite](https://hootsuite.com/) - Manage all your social media in one place.
     - [Buffer](https://buffer.com/) - Build your audience and grow your brand on social media.

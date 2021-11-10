@@ -1,4 +1,4 @@
-# Science, technology and mathematics
+# Science, technology, and mathematics
 
 ## Science, mostly
 
@@ -7,7 +7,7 @@
   - [Sean Caroll](https://www.preposterousuniverse.com/)
   - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
 
-- Sites+Blogs
+- Sites
   - [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
   - [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration.
   - [ESA](https://www.esa.int/) - European Space Agency.
@@ -56,7 +56,7 @@
   - [Symbolab Cheat Sheets](https://www.symbolab.com/cheat-sheets#) - Algebra, Trigonometry, Calculus.
   - [What's Special About This Number?](https://www2.stetson.edu/~efriedma/numbers.html) - What's Special About This Number?
   - [Annotated version of "What's Special About This Number?"](<https://oeis.org/wiki/Annotated_version_of_%22What%27s_Special_About_This_Number%3F%22_(Part_0)>)
-  - [The On-Line Encyclopedia of Integer Sequences(OEIS)](https://oeis.org/) -
+  - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) -
   - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
   - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - a complete set of free online (and downloadable) notes/tutorials for classes that Prof. Paul Dawkins teaches at Lamar University.
   - [Real Not Complex](https://realnotcomplex.com/) - Discover Incredible FREE Resources to Study Mathematics.
@@ -67,7 +67,7 @@
   - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
   - [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
   - [James Randi](https://web.randi.org/)
-  - [Terrence Tao's Blog](https://terrytao.wordpress.com)
+  - [Terrence Tao](https://terrytao.wordpress.com)
   - [Timothy Gowers's Weblog](https://gowers.wordpress.com/) - Mathematics related discussions
   - [Acme Klein Bottle](https://www.kleinbottle.com/) - Official Store of the 'Klein Bottle Guy' aka Clifford Stoll
   - [3blue1brown](https://www.3blue1brown.com/) - Grant Sanderson.
@@ -77,7 +77,7 @@
 
 ## Tech
 
-- Sites+Blogs
+- Sites
 
   - Privacy
 
@@ -109,6 +109,11 @@
     - [GitHub Blog](https://github.blog/)
     - [Uber Engineering Blog](https://eng.uber.com/)
     - [Slack Engineering](https://slack.engineering/)
+    - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
+    - [Netflix TechBlog](https://medium.com/netflix-techblog)
+    - [Discord Blog](https://blog.discordapp.com/)
+    - [Instagram Engineering](https://instagram-engineering.com/)
+    - [Smashing Magazine](https://medium.com/@smashingmag) - useful and innovative information to web designers and developers.
     - [Project Zero](https://googleprojectzero.blogspot.com/)
     - [Dropbox Tech Blog - Dropbox](https://dropbox.tech/)
     - [The Coinbase Blog](https://blog.coinbase.com/)
@@ -116,6 +121,15 @@
     - [MongoDB Blog](https://www.mongodb.com/blog)
     - [Figma blog](https://www.figma.com/blog/)
     - [Stories by Dribbble](https://dribbble.com/stories)
+    - [Sindre Sorhus](https://medium.com/@sindresorhus)
+    - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
+    - [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
+    - [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
+    - [Brian Armstrong](https://blog.coinbase.com/@barmstrong) - Co-Founder and CEO at Coinbase.
+    - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
+    - [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
+    - [Addy Osmani](https://medium.com/@addyosmani) - Eng. Manager at Google working on Chrome • Passionate about making the web fast.
+    - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
     - [Cisco Talos Intelligence Group](https://blog.talosintelligence.com/)
     - [TestDriven.io Blog](https://testdriven.io/blog/)
     - [pganalyze Blog](https://pganalyze.com/blog)
@@ -218,33 +232,6 @@
     - [Henrik Warne](https://henrikwarne.com/)
     - [250bpm](https://250bpm.com/)
 
-  - Medium blogs
-
-    - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
-    - [Netflix TechBlog](https://medium.com/netflix-techblog)
-    - [Discord Blog](https://blog.discordapp.com/)
-    - [Instagram Engineering](https://instagram-engineering.com/)
-    - [Smashing Magazine](https://medium.com/@smashingmag) - useful and innovative information to web designers and developers.
-    - [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
-    - [Brian Armstrong](https://blog.coinbase.com/@barmstrong) - Co-Founder and CEO at Coinbase.
-    - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
-    - [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
-    - [Sindre Sorhus](https://medium.com/@sindresorhus)
-    - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
-    - [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
-    - [Addy Osmani](https://medium.com/@addyosmani) - Eng. Manager at Google working on Chrome • Passionate about making the web fast.
-    - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
-
-  - NerdStuff
-
-    - [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
-    - [secretGeekWiki](http://wiki.secretgeek.net/About)
-    - [DistroWatch](https://distrowatch.com)
-    - [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
-    - [Wait But Why](https://waitbutwhy.com/)
-    - [Logical Increments](http://www.logicalincrements.com/) - PC building guides
-    - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
-
   - Miscellaneous
 
     - [Feedly Discover](https://feedly.com/i/discover/)
@@ -268,6 +255,7 @@
     - [Slashdot](https://www.slashdot.org/)
     - [nixers.net](https://nixers.net/)
     - [Quora](https://www.quora.com/)
+    - [The Cathedral and the Bazaar](http://www.catb.org/~esr/)
     - [Stratechery](https://stratechery.com/) - Ben Thompson.
     - [dev.to](https://dev.to/)
     - [Indie Hackers](https://www.indiehackers.com/)
@@ -318,6 +306,12 @@
     - [AngelList](https://angel.co/) - Experience the startup ecosystem — invest in startups, research the fastest-growing companies, and find a job you love.
     - [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
     - [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
+    - [secretGeekWiki](http://wiki.secretgeek.net/About)
+    - [DistroWatch](https://distrowatch.com)
+    - [distrochooser](https://distrochooser.de/en) - guide for Linux beginners to choosing a suitable Linux distribution.
+    - [Wait But Why](https://waitbutwhy.com/)
+    - [Logical Increments](http://www.logicalincrements.com/) - PC building guides
+    - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
     - [It's FOSS](https://itsfoss.com/)
     - [techdirt](https://www.techdirt.com/)
     - [Social Blade](https://socialblade.com/) - Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter!
@@ -365,8 +359,9 @@
     - [Bjarne Stroustrup](http://www.stroustrup.com/index.html)
     - [Joel Spolsky](https://www.joelonsoftware.com/)
     - [Aaron Swartz](http://www.aaronsw.com/)
+    - [\_why](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) ([\_why's Estate](https://viewsourcecode.org/why/))
     - [Stephen Wolfram](https://www.stephenwolfram.com/)
-    - [The View from Aristeia - Scott Mayer's Blog](https://scottmeyers.blogspot.com/)
+    - [The View from Aristeia - Scott Mayer's blog](https://scottmeyers.blogspot.com/)
     - [Peter Norwig](http://norvig.com/)
     - [Douglas Crockford](https://www.crockford.com/)
     - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)

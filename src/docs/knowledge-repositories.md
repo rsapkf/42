@@ -1,4 +1,4 @@
-## Knowledge repositories (mostly on GitHub)
+## Knowledge repositories
 
 ### Linux
 

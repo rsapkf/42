@@ -1,6 +1,6 @@
 # Linux configuration
 
-> **Note**: This file only contains resources that are NOT in the [./open-source-software.md#Tools#Linux](./open-source-software.md#tools) section.
+> **Note**: This file only contains resources that are not in the [./open-source-software.md#Tools#Linux](./open-source-software.md#tools) section.
 
 ### Browser customization
 

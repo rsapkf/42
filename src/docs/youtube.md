@@ -1,4 +1,4 @@
-# YouTube Subscriptions
+# YouTube subscriptions
 
 ### Official
 

@@ -1,4 +1,4 @@
-# Cubing, puzzles and magic
+# Cubing, puzzles, and magic
 
 ## Rubik's Cube
 

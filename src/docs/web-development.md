@@ -1,8 +1,8 @@
 # Web development
 
-**Note**: This file only contains resources that are NOT in the [./knowledge-repositories](./knowledge-repositories.md) file.
+**Note**: This file only contains resources that are not in the [./knowledge-repositories](./knowledge-repositories.md) file.
 
-> If you are completely new to web development, **I HIGHLY RECOMMEND** you visit these links first:
+> If you are completely new to web development, I recommend visiting these links first:
 
 Roadmap to web development:
 
@@ -64,7 +64,7 @@ Roadmap to web development:
 #### Front-End programming languages
 
 - HTML+CSS+JavaScript
-  - [Mozilla Developer Network(MDN) Docs](https://developer.mozilla.org/en-US/)--(Highly Recommended)-- - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
+  - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)--(Highly Recommended)-- - everything you need to learn to develop web applications. Probably the only resource you'll need to learn web development. It also contains well organized guides to Django Web Framework, Express and Node.js.
   - [freeCodeCamp.org](https://www.freecodecamp.org/)--(Highly Recommended)-- - an excellent [open source]() resource for learning web development in an interactive way. Recommended by MDN and also covers React and Redux, Node, Express, D3.js, Bootstrap, Sass, jQuery, JSON and MongoDB.
   - [The Odin Project](https://www.theodinproject.com/) - another excellent [open source]() resource similar to the freeCodeCamp project. Covers Ruby, RubyOnRails.
   - [w3schools](https://www.w3schools.com/) - While this site is pretty decent for quick syntax lookup and reference, I --DO NOT-- recommend this over MDN to learn -how to program-. Before choosing w3schools over above resources, please go through [this](https://news.ycombinator.com/item?id=6422998) hackernews thread and [this](https://www.w3fools.com) site by the mods of [r/learnprogramming](www.reddit.com/learnprogramming). This site also has references to Ajax, Node, PHP, SQL, XML, Java, Python, ASP, Angular, jQuery, Bootstrap, C++ and Raspberry Pi.
