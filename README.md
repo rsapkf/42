@@ -1,5 +1,7 @@
 ## [rsapkf/42]
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c1ffb7-5671-44de-8660-7389068f3649/deploy-status)](https://app.netlify.com/sites/rsapkf-links/deploys)
+
 This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less). Contains my blogroll, websites, software, Reddit/YouTube subscriptions, Medium/DEV.to blogs, IRC channels, HN/Lobste.rs/Stack Overflow/Codepen profiles/articles I follow, podcasts, browser add-ons, Linux tools, Vim/tmux/Emacs plugins I use and everything.
 
 In short, this is my attempt to organize my links, a directory of my "public" bookmarks. Feedback and [contributions](CONTRIBUTING.md) are appreciated.
