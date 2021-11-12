@@ -1,4 +1,4 @@
-## 42
+## [rsapkf/42]
 
 This is an ongoing personal collection of over 5000+ sites and resources that I use or have used in the past to learn programming, puzzle-solving, web development and other intellectually stimulating things, categorized (more or less). Contains my blogroll, websites, software, Reddit/YouTube subscriptions, Medium/DEV.to blogs, IRC channels, HN/Lobste.rs/Stack Overflow/Codepen profiles/articles I follow, podcasts, browser add-ons, Linux tools, Vim/tmux/Emacs plugins I use and everything.
 

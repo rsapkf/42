@@ -1,6 +1,6 @@
 # Summary
 
-- [42](README.md)
+- [[rsapkf/42]](README.md)
   - [Knowledge repositories](docs/knowledge-repositories.md)
   - [Web development](docs/web-development.md)
   - [Programming](docs/programming.md)
