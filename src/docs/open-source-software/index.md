@@ -679,7 +679,7 @@
   - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
   - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
   - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
-- General
+- Miscellaneous
   - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework.
   - [AppImage/appimagekit](https://github.com/AppImage/appimagekit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives.
   - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to https://app.diagrams.net, previously https://draw.io.
