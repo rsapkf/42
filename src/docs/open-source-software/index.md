@@ -366,10 +366,10 @@
   - [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD.
   - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
 - Plaintext accounting
-  - [ledger/ledger: Double-entry accounting system with a command-line reporting interface](https://github.com/ledger/ledger)
-  - [simonmichael/hledger: easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger](https://github.com/simonmichael/hledger#accounting)
-  - [beancount/beancount: Beancount: Double-Entry Accounting from Text Files.](https://github.com/beancount/beancount)
-  - [beancount/fava: Fava - web interface for Beancount](https://github.com/beancount/fava)
+  - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface.
+  - [simonmichael/hledger](https://github.com/simonmichael/hledger#accounting) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger.
+  - [beancount/beancount](https://github.com/beancount/beancount) - Double-Entry Accounting from Text Files.
+  - [beancount/fava](https://github.com/beancount/fava) - web interface for Beancount.
 - Themes/Color schemes
   - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly.
   - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - A dark theme for all the things!.
@@ -1388,7 +1388,7 @@
   - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS).
   - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack.
   - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross Platform React Native UI Toolkit.
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+- [electron/electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
   - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 - [ionic-team/ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
@@ -1466,7 +1466,7 @@
   - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.
   - [status-im/status-react](https://github.com/status-im/status-react) - a free (libre) open source, mobile OS for Ethereum.
   - [ensdomains/ens](https://github.com/ensdomains/ens) - Implementations for ENS core functionality: The registry, registrars, and public resolvers.
-- [dogecoin/dogecoin: very currency](https://github.com/dogecoin/dogecoin)
+- [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency.
 
 ## Distributed networks/Blockchain
 
@@ -1574,7 +1574,7 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities. spectrum.chat.
 - [edx/edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX!
-- [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform.
+- [moodle/moodle](https://github.com/moodle/moodle) - The world's open source learning platform.
 - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow.
 - [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups.
 - [frab/frab](https://github.com/frab/frab) - conference management system.
@@ -1752,8 +1752,8 @@
 - [Microsoft/vscode-docker](https://github.com/Microsoft/vscode-docker) - Docker extension for VS Code.
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - Vim for Visual Studio Code.
 - [Microsoft/vscode/extensions](https://github.com/microsoft/vscode/tree/master/extensions)
-- [shanalikhan/code-settings-sync: Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST](https://github.com/shanalikhan/code-settings-sync)
-- [streetsidesoftware/vscode-spell-checker: A simple source code spell checker for code](https://github.com/streetsidesoftware/vscode-spell-checker)
+- [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST.
+- [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code.
 - Color schemes:
   - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code.
   - [material-theme/vsc-material-them](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code.
@@ -1825,8 +1825,8 @@
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. https://rxresu.me.
 - [edouardklein/falsisign](https://gitlab.com/edouardklein/falsisign) - Make it look like a PDF has been hand signed and scanned.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API.
-- [zserge/awfice: The world smallest office suite](https://github.com/zserge/awfice)
-- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition: FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-- [klange/toaruos: A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.](https://github.com/klange/toaruos)
-- [nocodb/nocodb: The Open Source Airtable alternative - Powered by Vue.js](https://github.com/nocodb/nocodb)
-- [slidevjs/slidev: Presentation Slides for Developers (Beta)](https://github.com/slidevjs/slidev)
+- [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
+- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - The Open Source Airtable alternative - Powered by Vue.js.
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
