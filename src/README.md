@@ -8,10 +8,10 @@ In short, this is my attempt to organize my links, a directory of my "public" bo
 
 ### Roadmap
 
-- Dynamic website with tagging system and full featured public API.
+- Dynamic website with tagging system and a full featured public API.
 - Browser (Firefox/Chromium) extensions to see other similar sites in this collection like the one you're in right now.
 - CLI tool to access the collection from the terminal.
 
-### Support this project
+### Support
 
 If you find this helpful, consider making a contribution: `1BbVzfZ164GUrwKKrSifddxTFuoNfdJorJ`

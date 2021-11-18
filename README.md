@@ -6,7 +6,7 @@ This is an ongoing personal collection of over 5000+ sites and resources that I 
 
 In short, this is my attempt to organize my links, a directory of my "public" bookmarks. Feedback and [contributions](CONTRIBUTING.md) are appreciated.
 
-Links are in the [`src/docs/`](https://github.com/rsapkf/42/tree/main/src/docs)` directory.
+Links are in the [`src/docs/`](https://github.com/rsapkf/42/tree/main/src/docs) directory.
 
 View all links: [links.rsapkf.xyz](https://links.rsapkf.xyz/)
 
@@ -21,7 +21,9 @@ _Built using [mdBook](https://github.com/rust-lang/mdBook)._
 - [Programming](src/docs/programming.md)
 - [Coding challenges](src/docs/coding-challenges.md)
 - [Massive open online courses](src/docs/moocs-and-courses.md)
-- [Open source software](src/docs/open-source-software.md)
+- [Open source software](src/docs/open-source-software/index.md)
+  - [Organizations](src/docs/open-source-software/organizations.md)
+  - [People](src/docs/open-source-software/people.md)
 - [Linux configuration](src/docs/linux-configuration.md)
 - [Privacy tools](src/docs/privacy-tools.md)
 - [Software and services](src/docs/software-and-services.md)
@@ -46,10 +48,10 @@ _Built using [mdBook](https://github.com/rust-lang/mdBook)._
 
 ### Roadmap
 
-- Dynamic website with tagging system and full featured public API.
+- Dynamic website with tagging system and a full featured public API.
 - Browser (Firefox/Chromium) extensions to see other similar sites in this collection like the one you're in right now.
 - CLI tool to access the collection from the terminal.
 
-### Support this project
+### Support
 
 If you find this helpful, consider making a contribution: `1BbVzfZ164GUrwKKrSifddxTFuoNfdJorJ`
