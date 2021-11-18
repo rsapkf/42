@@ -1,6 +1,6 @@
 # Web development
 
-**Note**: This file only contains resources that are not in the [./knowledge-repositories](./knowledge-repositories.md) file.
+**Note**: This file only contains resources that are not in the [./knowledge-repositories](./knowledge-repositories.md) section.
 
 > If you are completely new to web development, I recommend visiting these links first:
 
@@ -259,6 +259,7 @@ See also: [HotFrameworks](https://hotframeworks.com/)
   - [svgator](https://www.svgator.com) - SVG Animation Creator `commercial`
   - [Neumorphism.io](https://neumorphism.io/) - Soft UI CSS shadow generator.
   - [Canva](https://www.canva.com/) - Create beautiful designs with your team.
+  - [illlustrations](https://illlustrations.co/) - open source illustrations kit.
 - Speed test
   - [Speedtest.net by Ookla](https://www.speedtest.net/)
   - [Fast.com by Netflix](https://fast.com)

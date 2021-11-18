@@ -6,16 +6,18 @@
   - [Programming](docs/programming.md)
   - [Coding challenges](docs/coding-challenges.md)
   - [Massive open online courses](docs/moocs-and-courses.md)
-  - [Open source software](docs/open-source-software.md)
+  - [Open source software](docs/open-source-software/index.md)
+    - [Organizations](docs/open-source-software/organizations.md)
+    - [People](docs/open-source-software/people.md)
   - [Linux configuration](docs/linux-configuration.md)
   - [Privacy tools](docs/privacy-tools.md)
   - [Software and services](docs/software-and-services.md)
   - [Science, technology, and mathematics](docs/science-technology-and-mathematics.md)
   - [Psychology, philosophy, literature, and art](docs/psychology-philosophy-literature-and-art.md)
   - [Cubing, puzzles, and magic](docs/cubing-puzzles-and-magic.md)
-  - [Reddit subscriptions](docs/reddit.md)
-  - [YouTube subscriptions](docs/youtube.md)
-  - [Twitch subscriptions](docs/twitch.md)
+  - [Reddit subscriptions](docs/reddit-subscriptions.md)
+  - [YouTube subscriptions](docs/youtube-subscriptions.md)
+  - [Twitch subscriptions](docs/twitch-subscriptions.md)
   - [Books](docs/books.md)
   - [Comics](docs/comics.md)
   - [Podcasts](docs/podcasts.md)
@@ -26,10 +28,3 @@
   - [Lists and articles](docs/lists-and-articles.md)
   - [Extras](docs/extras.md)
   - [Unsorted](docs/unsorted.md)
-
----
-
-[CONTRIBUTING](CONTRIBUTING.md)
-[LICENSE](LICENSE)
-
----

@@ -6,12 +6,14 @@
 - [r/announcements](https://www.reddit.com/r/announcements/)
 - [r/beta](https://www.reddit.com/r/beta/)
 - [r/help](https://www.reddit.com/r/help/)
+- [r/changelog](https://www.reddit.com/r/changelog/)
 
 ### Privacy
 
 - [r/privacy](https://www.reddit.com/r/privacy/)
 - [r/privacytoolsIO](https://www.reddit.com/r/privacytoolsIO/)
 - [r/GnuPG](https://www.reddit.com/r/GnuPG/)
+- [r/uBlockOrigin](https://www.reddit.com/r/uBlockOrigin/)
 
 ### Linux
 
@@ -31,6 +33,29 @@
 - [r/neovim](https://www.reddit.com/r/neovim/)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming/)
 - [r/ManjaroLinux](https://www.reddit.com/r/ManjaroLinux/)
+- [r/Gentoo](https://www.reddit.com/r/Gentoo/)
+- [r/elementaryos](https://www.reddit.com/r/elementaryos/)
+- [r/openSUSE](https://www.reddit.com/r/openSUSE/)
+- [r/pop_os](https://www.reddit.com/r/pop_os/)
+- [r/slackware](https://www.reddit.com/r/slackware/)
+- [r/xfce](https://www.reddit.com/r/xfce/)
+- [r/xmonad](https://www.reddit.com/r/xmonad/)
+- [r/bspwm](https://www.reddit.com/r/bspwm/)
+- [r/BSD](https://www.reddit.com/r/BSD/)
+- [r/freebsd](https://www.reddit.com/r/freebsd/)
+- [r/openbsd](https://www.reddit.com/r/openbsd/)
+- [r/dragonflybsd](https://www.reddit.com/r/dragonflybsd/)
+- [r/haikuOS](https://www.reddit.com/r/haikuOS/)
+- [r/TempleOS_Official](https://www.reddit.com/r/TempleOS_Official/)
+- [r/Android](https://www.reddit.com/r/Android/)
+- [r/postmarketOS](https://www.reddit.com/r/postmarketOS/)
+- [r/orgmode](https://www.reddit.com/r/orgmode/)
+- [r/tmux](https://www.reddit.com/r/tmux/)
+- [r/selfhosted](https://www.reddit.com/r/selfhosted/)
+- [r/DistroHopping](https://www.reddit.com/r/DistroHopping/)
+- [r/UsabilityPorn](https://www.reddit.com/r/UsabilityPorn/)
+- [r/uptimeporn](https://www.reddit.com/r/uptimeporn/)
+- [r/awk](https://www.reddit.com/r/awk/)
 
 ### Browser customization
 
@@ -69,6 +94,19 @@
 - [r/rust](https://www.reddit.com/r/rust/)
 - [r/emacs](https://www.reddit.com/r/emacs/)
 - [r/datasets](https://www.reddit.com/r/datasets/)
+- [r/windows](https://www.reddit.com/r/windows/)
+- [r/IntelliJIDEA](https://www.reddit.com/r/IntelliJIDEA/)
+- [r/PowerShell](https://www.reddit.com/r/PowerShell/)
+- [r/ExperiencedDevs](https://www.reddit.com/r/ExperiencedDevs/)
+- [r/adventofcode](https://www.reddit.com/r/adventofcode/)
+- [r/arduino](https://www.reddit.com/r/arduino/)
+- [r/bash](https://www.reddit.com/r/bash/)
+- [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+- [r/docker](https://www.reddit.com/r/docker/)
+- [r/godot](https://www.reddit.com/r/godot/)
+- [r/laravel](https://www.reddit.com/r/laravel/)
+- [r/web_design](https://www.reddit.com/r/web_design/)
+- [r/redditdev](https://www.reddit.com/r/redditdev/)
 
 ### Memes
 
@@ -126,8 +164,21 @@
 - [r/virginvschad](https://www.reddit.com/r/virginvschad/)
 - [r/linuxmemes](https://www.reddit.com/r/linuxmemes/)
 - [r/HistoryMemes](https://www.reddit.com/r/HistoryMemes/)
+- [r/meme](https://www.reddit.com/r/meme/)
+- [r/DeepFriedMemes](https://www.reddit.com/r/DeepFriedMemes/)
+- [r/surrealmemes](https://www.reddit.com/r/surrealmemes/)
+- [r/thanosdidnothingwrong](https://www.reddit.com/r/thanosdidnothingwrong/)
+- [r/FloridaMan](https://www.reddit.com/r/FloridaMan/)
+- [r/lostredditors](https://www.reddit.com/r/lostredditors/)
+- [r/BoneAppleTea](https://www.reddit.com/r/BoneAppleTea/)
+- [r/ihavereddit](https://www.reddit.com/r/ihavereddit/)
+- [r/iiiiiiitttttttttttt](https://www.reddit.com/r/iiiiiiitttttttttttt/)
+- [r/uselessredcircle](https://www.reddit.com/r/uselessredcircle/)
+- [r/ChargeYourPhone](https://www.reddit.com/r/ChargeYourPhone/)
+- [r/shitposting](https://www.reddit.com/r/shitposting/)
+- [r/MetalMemes](https://www.reddit.com/r/MetalMemes/)
 
-### Anime Memes
+### Anime memes
 
 - [r/Animemes](https://www.reddit.com/r/Animemes/)
 - [r/animememes](https://www.reddit.com/r/animememes/)
@@ -166,6 +217,8 @@
 - [r/thewalkingdead](https://www.reddit.com/r/thewalkingdead/)
 - [r/arrow](https://www.reddit.com/r/arrow/)
 - [r/FlashTV](https://www.reddit.com/r/FlashTV/)
+- [r/DontPanic](https://www.reddit.com/r/DontPanic/)
+- [r/TopGear](https://www.reddit.com/r/TopGear/)
 
 ### Anime and manga
 
@@ -185,6 +238,8 @@
 - [r/attackontitan](https://www.reddit.com/r/attackontitan/)
 - [r/ShingekiNoKyojin](https://www.reddit.com/r/ShingekiNoKyojin/)
 - [r/titanfolk](https://www.reddit.com/r/titanfolk/)
+- [r/AnimeSketch](https://www.reddit.com/r/AnimeSketch/)
+- [r/Animewallpaper](https://www.reddit.com/r/Animewallpaper/)
 
 ### Science
 
@@ -209,6 +264,11 @@
 - [r/scifi](https://www.reddit.com/r/scifi/)
 - [r/educationalgifs](https://www.reddit.com/r/educationalgifs/)
 - [r/spaceporn](https://www.reddit.com/r/spaceporn/)
+- [r/aliens](https://www.reddit.com/r/aliens/)
+- [r/HighStrangeness](https://www.reddit.com/r/HighStrangeness/)
+- [r/UFOs](https://www.reddit.com/r/UFOs/)
+- [r/Coronavirus](https://www.reddit.com/r/Coronavirus/)
+- [r/Tesla](https://www.reddit.com/r/Tesla/)
 
 ### Technology
 
@@ -237,12 +297,27 @@
 - [r/overclocking](https://www.reddit.com/r/overclocking/)
 - [r/virtualreality](https://www.reddit.com/r/virtualreality/)
 - [r/oculus](https://www.reddit.com/r/oculus/)
+- [r/Starlink](https://www.reddit.com/r/Starlink/)
+- [r/chrome](https://www.reddit.com/r/chrome/)
+- [r/chromeos](https://www.reddit.com/r/chromeos/)
+- [r/ios](https://www.reddit.com/r/ios/)
+- [r/hackintosh](https://www.reddit.com/r/hackintosh/)
+- [r/jailbreak](https://www.reddit.com/r/jailbreak/)
+- [r/netsec](https://www.reddit.com/r/netsec/)
+- [r/networking](https://www.reddit.com/r/networking/)
+- [r/3Dprinting](https://www.reddit.com/r/3Dprinting/)
+- [r/GIMP](https://www.reddit.com/r/GIMP/)
+- [r/Inkscape](https://www.reddit.com/r/Inkscape/)
+- [r/krita](https://www.reddit.com/r/krita/)
+- [r/jellyfin](https://www.reddit.com/r/jellyfin/)
 
 ### Companies
 
 - [r/apple](https://www.reddit.com/r/apple/)
 - [r/google](https://www.reddit.com/r/google/)
 - [r/youtube](https://www.reddit.com/r/youtube/)
+- [r/netflix](https://www.reddit.com/r/netflix/)
+- [r/spotify](https://www.reddit.com/r/spotify/)
 - [r/Amd](https://www.reddit.com/r/Amd/)
 - [r/nvidia](https://www.reddit.com/r/nvidia/)
 - [r/Steam](https://www.reddit.com/r/Steam/)
@@ -268,6 +343,9 @@
 - [r/litecoin](https://www.reddit.com/r/litecoin/)
 - [r/binance](https://www.reddit.com/r/binance/)
 - [r/CryptoMoonShots](https://www.reddit.com/r/CryptoMoonShots/)
+- [r/CryptoMarkets](https://www.reddit.com/r/CryptoMarkets/)
+- [r/dogecoin](https://www.reddit.com/r/dogecoin/)
+- [r/ethtrader](https://www.reddit.com/r/ethtrader/)
 
 ### Investing
 
@@ -309,6 +387,12 @@
 - [r/masseffect](https://www.reddit.com/r/masseffect/)
 - [r/DotA2](https://www.reddit.com/r/DotA2/)
 - [r/pokemon](https://www.reddit.com/r/pokemon/)
+- [r/hearthstone](https://www.reddit.com/r/hearthstone/)
+- [r/KerbalSpaceProgram](https://www.reddit.com/r/KerbalSpaceProgram/)
+- [r/RimWorld](https://www.reddit.com/r/RimWorld/)
+- [r/Stadia](https://www.reddit.com/r/Stadia/)
+- [r/starcitizen](https://www.reddit.com/r/starcitizen/)
+- [r/Undertale](https://www.reddit.com/r/Undertale/)
 
 ### YouTubers
 
@@ -320,6 +404,13 @@
 - [r/GameTheorists](https://www.reddit.com/r/GameTheorists/)
 - [r/h3h3productions](https://www.reddit.com/r/h3h3productions/)
 - [r/ElectroBOOM](https://www.reddit.com/r/ElectroBOOM/)
+- [r/3Blue1Brown](https://www.reddit.com/r/3Blue1Brown/)
+- [r/LiveOverflow](https://www.reddit.com/r/LiveOverflow/)
+- [r/lexfridman](https://www.reddit.com/r/lexfridman/)
+- [r/LEMMiNO](https://www.reddit.com/r/LEMMiNO/)
+- [r/Idubbbz](https://www.reddit.com/r/Idubbbz/)
+- [r/pyrocynical](https://www.reddit.com/r/pyrocynical/)
+- [r/CGPGrey](https://www.reddit.com/r/CGPGrey/)
 
 ### Personal finance
 
@@ -368,6 +459,9 @@
 - [r/everymanshouldknow](https://www.reddit.com/r/everymanshouldknow/)
 - [r/Screenwriting](https://www.reddit.com/r/Screenwriting/)
 - [r/suggestmeabook](https://www.reddit.com/r/suggestmeabook/)
+- [r/engineering](https://www.reddit.com/r/engineering/)
+- [r/EngineeringStudents](https://www.reddit.com/r/EngineeringStudents/)
+- [r/FreeEBOOKS](https://www.reddit.com/r/FreeEBOOKS/)
 
 ### Fun
 
@@ -384,9 +478,14 @@
 - [r/WouldYouRather](https://www.reddit.com/r/WouldYouRather/)
 - [r/BreadStapledToTrees](https://www.reddit.com/r/BreadStapledToTrees/)
 - [r/TheMonkeysPaw](https://www.reddit.com/r/TheMonkeysPaw/)
+- [r/WeWantPlates](https://www.reddit.com/r/WeWantPlates/)
+- [r/birdswitharms](https://www.reddit.com/r/birdswitharms/)
+- [r/MapsWithoutNZ](https://www.reddit.com/r/MapsWithoutNZ/)
+- [r/restofthefuckingowl](https://www.reddit.com/r/restofthefuckingowl/)
 
 ### Comics
 
+- [r/xkcd](https://www.reddit.com/r/xkcd/)
 - [r/comics](https://www.reddit.com/r/comics/)
 - [r/manga](https://www.reddit.com/r/manga/)
 - [r/manhwa](https://www.reddit.com/r/manhwa/)
@@ -409,6 +508,9 @@
 - [r/texas](https://www.reddit.com/r/texas/)
 - [r/sanfrancisco](https://www.reddit.com/r/sanfrancisco/)
 - [r/bayarea](https://www.reddit.com/r/bayarea/)
+- [r/unitedkingdom](https://www.reddit.com/r/unitedkingdom/)
+- [r/london](https://www.reddit.com/r/london/)
+- [r/thenetherlands](https://www.reddit.com/r/thenetherlands/)
 
 ### Sports
 
@@ -423,6 +525,7 @@
 - [r/Boxing](https://www.reddit.com/r/Boxing/)
 - [r/hockey](https://www.reddit.com/r/hockey/)
 - [r/tennis](https://www.reddit.com/r/tennis/)
+- [r/SquaredCircle](https://www.reddit.com/r/SquaredCircle/)
 
 ### Literature
 
@@ -468,6 +571,12 @@
 - [r/AnimalsBeingBros](https://www.reddit.com/r/AnimalsBeingBros/)
 - [r/likeus](https://www.reddit.com/r/likeus/)
 - [r/WhatsWrongWithYourDog](https://www.reddit.com/r/WhatsWrongWithYourDog/)
+- [r/parrots](https://www.reddit.com/r/parrots/)
+- [r/PartyParrot](https://www.reddit.com/r/PartyParrot/)
+- [r/AnimalTextGifs](https://www.reddit.com/r/AnimalTextGifs/)
+- [r/woof_irl](https://www.reddit.com/r/woof_irl/)
+- [r/IllegallySmolCats](https://www.reddit.com/r/IllegallySmolCats/)
+- [r/StoppedWorking](https://www.reddit.com/r/StoppedWorking/)
 
 ### Cooking
 
@@ -482,15 +591,18 @@
 - [r/recipes](https://www.reddit.com/r/recipes/)
 - [r/slowcooking](https://www.reddit.com/r/slowcooking/)
 
-### Puzzles
+### Puzzles and board games
 
 - [r/Cubers](https://www.reddit.com/r/Cubers/)
 - [r/riddles](https://www.reddit.com/r/riddles/)
 - [r/puzzles](https://www.reddit.com/r/puzzles/)
+- [r/boardgames](https://www.reddit.com/r/boardgames/)
+- [r/chess](https://www.reddit.com/r/chess/)
 
 ### Fitness
 
 - [r/Fitness](https://www.reddit.com/r/Fitness/)
+- [r/keto](https://www.reddit.com/r/keto/)
 
 ### Mental health
 
@@ -518,6 +630,8 @@
 - [r/dontputyourdickinthat](https://www.reddit.com/r/dontputyourdickinthat/)
 - [r/mildlypenis](https://www.reddit.com/r/mildlypenis/)
 - [r/mildlyvagina](https://www.reddit.com/r/mildlyvagina/)
+- [r/wildlypenis](https://www.reddit.com/r/wildlypenis/)
+- [r/FiftyFifty](https://www.reddit.com/r/FiftyFifty/)
 
 ### Miscellaneous
 
@@ -753,6 +867,73 @@
 - [r/antiassholedesign](https://www.reddit.com/r/antiassholedesign/)
 - [r/ANormalDayInRussia](https://www.reddit.com/r/ANormalDayInRussia/)
 - [r/suicidebywords](https://www.reddit.com/r/suicidebywords/)
+- [r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/)
+- [r/CasualUK](https://www.reddit.com/r/CasualUK/)
+- [r/confidentlyincorrect](https://www.reddit.com/r/confidentlyincorrect/)
+- [r/lgbt](https://www.reddit.com/r/lgbt/)
+- [r/maybemaybemaybe](https://www.reddit.com/r/maybemaybemaybe/)
+- [r/shittyfoodporn](https://www.reddit.com/r/shittyfoodporn/)
+- [r/TrueCrime](https://www.reddit.com/r/TrueCrime/)
+- [r/britishproblems](https://www.reddit.com/r/britishproblems/)
+- [r/namenerds](https://www.reddit.com/r/namenerds/)
+- [r/fightporn](https://www.reddit.com/r/fightporn/)
+- [r/Prematurecelebration](https://www.reddit.com/r/Prematurecelebration/)
+- [r/nostalgia](https://www.reddit.com/r/nostalgia/)
+- [r/AccidentalCamouflage](https://www.reddit.com/r/AccidentalCamouflage/)
+- [r/AwesomeCarMods](https://www.reddit.com/r/AwesomeCarMods/)
+- [r/BotanicalPorn](https://www.reddit.com/r/BotanicalPorn/)
+- [r/CabinPorn](https://www.reddit.com/r/CabinPorn/)
+- [r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/)
+- [r/ChildrenFallingOver](https://www.reddit.com/r/ChildrenFallingOver/)
+- [r/Coffee](https://www.reddit.com/r/Coffee/)
+- [r/DeepIntoYouTube](https://www.reddit.com/r/DeepIntoYouTube/)
+- [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
+- [r/F CKYOUINPARTICULAR](https://www.reddit.com/r/FUCKYOUINPARTICULAR/)
+- [r/FunnyandSad](https://www.reddit.com/r/FunnyandSad/)
+- [r/HadToHurt](https://www.reddit.com/r/HadToHurt/)
+- [r/IRLEasterEggs](https://www.reddit.com/r/IRLEasterEggs/)
+- [r/ImaginarySliceOfLife](https://www.reddit.com/r/ImaginarySliceOfLife/)
+- [r/ImaginaryLandscapes](https://www.reddit.com/r/ImaginaryLandscapes/)
+- [r/InfrastructurePorn](https://www.reddit.com/r/InfrastructurePorn/)
+- [r/LearnUselessTalents](https://www.reddit.com/r/LearnUselessTalents/)
+- [r/OnlyFans](https://www.reddit.com/r/OnlyFans/)
+- [r/Paranormal](https://www.reddit.com/r/Paranormal/)
+- [r/Perfectfit](https://www.reddit.com/r/Perfectfit/)
+- [r/SubwayCreatures](https://www.reddit.com/r/SubwayCreatures/)
+- [r/TrollXChromosomes](https://www.reddit.com/r/TrollXChromosomes/)
+- [r/TwoRedditorsOneCup](https://www.reddit.com/r/TwoRedditorsOneCup/)
+- [r/UNBGBBIIVCHIDCTIICBG](https://www.reddit.com/r/UNBGBBIIVCHIDCTIICBG/)
+- [r/UnsentLetters](https://www.reddit.com/r/UnsentLetters/)
+- [r/cableporn](https://www.reddit.com/r/cableporn/)
+- [r/conspiracy](https://www.reddit.com/r/conspiracy/)
+- [r/cringe](https://www.reddit.com/r/cringe/)
+- [r/cursedimages](https://www.reddit.com/r/cursedimages/)
+- [r/holdmyfeedingtube](https://www.reddit.com/r/holdmyfeedingtube/)
+- [r/okbuddyretard](https://www.reddit.com/r/okbuddyretard/)
+- [r/toptalent](https://www.reddit.com/r/toptalent/)
+- [r/totallynotrobots](https://www.reddit.com/r/totallynotrobots/)
+- [r/watchpeoplesurvive](https://www.reddit.com/r/watchpeoplesurvive/)
+- [r/whatsthisbug](https://www.reddit.com/r/whatsthisbug/)
+- [r/wheredidthesodago](https://www.reddit.com/r/wheredidthesodago/)
+- [r/woosh](https://www.reddit.com/r/woosh/)
+- [r/youtubehaiku](https://www.reddit.com/r/youtubehaiku/)
+- [r/TrueFilm](https://www.reddit.com/r/TrueFilm/)
+- [r/Filmmakers](https://www.reddit.com/r/Filmmakers/)
+- [r/Moviesinthemaking](https://www.reddit.com/r/Moviesinthemaking/)
+- [r/streetphotography](https://www.reddit.com/r/streetphotography/)
+- [r/itookapicture](https://www.reddit.com/r/itookapicture/)
+- [r/13or30](https://www.reddit.com/r/13or30/)
+- [r/talesfromtechsupport](https://www.reddit.com/r/talesfromtechsupport/)
+- [r/offmychest](https://www.reddit.com/r/offmychest/)
+- [r/RBI](https://www.reddit.com/r/RBI/)
+- [r/vaxxhappened](https://www.reddit.com/r/vaxxhappened/)
+- [r/sixwordstories](https://www.reddit.com/r/sixwordstories/)
+- [r/LiminalSpace](https://www.reddit.com/r/LiminalSpace/)
+- [r/instantbarbarians](https://www.reddit.com/r/instantbarbarians/)
+- [r/egg_irl](https://www.reddit.com/r/egg_irl/)
+- [r/Metal](https://www.reddit.com/r/Metal/)
+- [r/megalophobia](https://www.reddit.com/r/megalophobia/)
+- [r/listentothis](https://www.reddit.com/r/listentothis/)
 
 ### Politics
 
@@ -760,6 +941,9 @@
 - [r/ShitAmericansSay](https://www.reddit.com/r/ShitAmericansSay/)
 - [r/MurderedByAOC](https://www.reddit.com/r/MurderedByAOC/)
 - [r/PoliticalCompassMemes](https://www.reddit.com/r/PoliticalCompassMemes/)
+- [r/TheRightCantMeme](https://www.reddit.com/r/TheRightCantMeme/)
+- [r/LeopardsAteMyFace](https://www.reddit.com/r/LeopardsAteMyFace/)
+- [r/anime_titties](https://www.reddit.com/r/anime_titties/)
 
 ### Reddit profiles
 

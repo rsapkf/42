@@ -31,7 +31,13 @@
   - [You know you've been cubing too long when ...](https://cube.garron.us/misc/too_long.htm)
   - [Frank Morris Facts](https://cube.garron.us/misc/frank_morris.htm)
 
+## Chess
+
+- [Chess.com](https://www.chess.com/)
+- [chess24.com](https://chess24.com/en)
+- [Kasparovchess](https://kasparovchess.com/)
+
 ## Miscellaneous
 
-- [KenKen Puzzle Official Site](http://www.kenkenpuzzle.com/)
+- [KenKen Puzzle](http://www.kenkenpuzzle.com/)
 - [BoardGameGeek](https://boardgamegeek.com/) - Gaming Unplugged Since 2000.

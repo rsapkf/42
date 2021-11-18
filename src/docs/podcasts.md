@@ -30,6 +30,7 @@
 - [Full Stack Radio](https://fullstackradio.com/) - Adam Wathan.
 - [ShopTalk](https://shoptalkshow.com/) - Dave Rupert, Chris Coyier.
 - [egghead.io developer chats](https://podcasts.apple.com/us/podcast/egghead-io-developer-chats/id1308497805) - Joel Hooks, John Lindquist.
+- [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)
 
 ### Technology
 
@@ -49,6 +50,8 @@
 - [Malicious Life](https://malicious.life/)
 - [How I Built This with Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this) - NPR.
 - [The Privacy, Security and OSINT Show](https://www.inteltechniques.com/podcast.html) - Michael Bazzell.
+- [Exponent](https://exponent.fm/) - Ben Thompson, James Allworth.
+- [Hanselminutes Technology Podcast](https://hanselminutes.com/) - Scott Hanselman.
 
 ### Cubing
 
@@ -111,3 +114,5 @@
 - [Criminal](https://thisiscriminal.com/)
 - [The Daily](https://podcasts.apple.com/us/podcast/the-daily/id1200361736) - The New York Times.
 - [Good For You](https://www.whitneycummings.com/goodforyou) - Whitney Cummings.
+- [Jocko Podcast](https://jockopodcast.com/) - Jocko Willink.
+- [The Perpetual Chess Podcast](https://www.perpetualchesspod.com/)

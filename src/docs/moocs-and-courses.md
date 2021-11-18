@@ -58,4 +58,5 @@
 - [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 - [The Missing Semester of Your CS Education - MIT](https://missing.csail.mit.edu/) ([GitHub](https://github.com/missing-semester/missing-semester))
 - [17-313: Foundations of Software Engineering](https://cmu-313.github.io/)
+- [Introduction to Computational Thinking](https://computationalthinking.mit.edu/)
 - [Hackspaining](https://www.hacksplaining.com/) - Security Training for Developers.

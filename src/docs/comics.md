@@ -86,3 +86,4 @@
 - [System32Comics](https://www.instagram.com/system32comics/)
 - [Basic Instructions](http://www.basicinstructions.net/)
 - [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes)
+- [webcomic name](https://webcomicname.com/)

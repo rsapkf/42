@@ -66,6 +66,12 @@
   - [Punpedia](https://punpedia.org/) - The Online Encyclopedia of Puns
   - [Our Incredible Journey](https://ourincrediblejourney.tumblr.com/)
   - [Neocities](https://neocities.org/) - Create your own free website!
+  - [Something Awful](https://www.somethingawful.com/) - The Internet Makes You Stupid
+  - [gail.com FAQ](https://gail.com/)
+  - [Google Mirror - I'm elgooG](https://elgoog.im/)
+  - [GitHub Octodex](https://octodex.github.com/)
+  - [The Financial Times 404 page](https://www.ft.com/3lJQa6w)
+  - [Erowid](https://www.erowid.org/)
   - Dictionaries
     - [Wikitionary](https://en.wiktionary.org/) - the free dictionary.
     - [Merriam Webster](https://www.merriam-webster.com/) - since 1828.
@@ -78,3 +84,11 @@
     - [Wookiepedia](https://starwars.fandom.com/wiki/Main_Page) - the Star Wars wiki.
     - [Memory Alpha](https://memory-alpha.fandom.com/) - the most definitive, accurate, and accessible encyclopedia and reference for everything related to Star Trek.
     - [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
+    - [Wikitubia](https://youtube.fandom.com/)
+  - Music
+    - [Learning Music](https://learningmusic.ableton.com/)
+  - Wallpapers
+    - [Dark wallpaper collection — Dracula](https://draculatheme.com/wallpaper)
+  - Memes
+    - [NYAN.CAT!](http://www.nyan.cat/)
+    - [Rock Paper Scissors Spock Lizard](http://www.samkass.com/theories/RPSSL.html)

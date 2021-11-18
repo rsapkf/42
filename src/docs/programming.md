@@ -99,3 +99,4 @@
 - [Apollo Odyssey](https://odyssey.apollographql.com/)
 - [Learn CSS](https://web.dev/learn/css/)
 - [URF Academy by Riot Games](https://www.riotgames.com/en/urf-academy)
+- [Programming Idioms](https://programming-idioms.org/)

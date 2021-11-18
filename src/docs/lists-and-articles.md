@@ -57,6 +57,7 @@
 - Technology
   - [List of Google Easter eggs](https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs)
   - [List of Easter eggs in Tesla products](https://en.wikipedia.org/wiki/List_of_Easter_eggs_in_Tesla_products)
+  - [List of Internet phenomena](https://en.wikipedia.org/wiki/List_of_Internet_phenomena)
 - Philosophy
   - [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
   - [Confucius](https://en.wikipedia.org/wiki/Confucius)
@@ -65,11 +66,16 @@
   - [Autodidacticism](https://en.wikipedia.org/wiki/Autodidacticism) ([List of autodidacts](https://en.wikipedia.org/wiki/List_of_autodidacts))
   - [Typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia)
   - [Philosophical razor](https://en.wikipedia.org/wiki/Philosophical_razor)
+  - [List of phobias](https://en.wikipedia.org/wiki/List_of_phobias)
+  - [Glossary of manias](https://en.wikipedia.org/wiki/Glossary_of_manias)
+  - [-phil-](https://en.wikipedia.org/wiki/-phil-)
 - Literature
   - [listopia | Goodreads](https://www.goodreads.com/list)
   - [Science Fiction Technology Terms - NASA](https://er.jsc.nasa.gov/seh/SFTerms.html)
   - [Constructed language](https://en.wikipedia.org/wiki/Constructed_language)
   - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
+  - [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
+  - [Sturgeon's law - Wikipedia](https://en.wikipedia.org/wiki/Sturgeon's_law)
 
 ### Other
 

@@ -22,6 +22,7 @@
   - [The Skeptic's Dictionary](http://skepdic.com/)
   - [Psyche](https://psyche.co/)
   - [PhilPapers](https://philpapers.org/)
+  - [fs.blog](https://fs.blog/)
 
 ---
 

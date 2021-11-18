@@ -1,6 +1,6 @@
 # Books
 
-> **Note**: This file only contains resources that are NOT in the [./free-to-read-books-and-guides](./free-to-read-books-and-guides.md) section. No affiliate links
+> **Note**: This file only contains resources that are not in the [./free-to-read-books-and-guides](./free-to-read-books-and-guides.md) section.
 
 ## Physics and Non-Fiction
 
@@ -53,6 +53,7 @@
 - [Just Six Numbers: The Deep Forces That Shape the Universe](https://www.goodreads.com/book/show/81884.Just_Six_Numbers) - Martin J. Rees
 - [Structures: Or Why Things Don't Fall Down](https://www.goodreads.com/book/show/245344.Structures) - J.E. Gordon
 - [Ignition!: An informal history of liquid rocket propellants](https://www.goodreads.com/book/show/677285.Ignition_) - John Drury Clark
+- [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
 
 ## Novels
 
@@ -105,6 +106,7 @@
 - [The Nix](https://en.wikipedia.org/wiki/The_Nix) - Nathan Hill
 - [Cloud Atlas](<https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)>) - David Mitchell
 - [The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) - J. D. Salinger
+- [Bobiverse Series](https://www.goodreads.com/series/192752-bobiverse) - Dennis E. Taylor
 
 ## Biography
 
@@ -135,11 +137,13 @@
 
 - [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics) - Princeton University Press
 - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Sheldon Axler
+- [Disquisitiones Arithmeticae](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae) - Carl Friedrich Gauss
 
 ## Programming and CS
 
 - AI, ML
   - [Artificial Intelligence: A Modern Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) - Stuart J. Russell, Peter Norvig
+  - [Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning) - Christopher M. Bishop
 - Linux
   - [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) - Brian W. Kernighan, Rob Pike
   - [Advanced Programming in the Unix Environment](https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment) - W. Richard Stevens
@@ -194,6 +198,7 @@
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns) - Erich Gamma
 - [Head First Design Patterns](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) - Eric Freeman
 - [Founders at Work: Stories of Startups' Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) - Jessica Livingston
+- [The Elements of Typographic Style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style) - Robert Bringhurst
 
 ## Entrepreneurship and life
 
@@ -297,8 +302,8 @@
 
 ## Papers
 
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto, 2008.
-- [Properties of Expanding Universes](https://archive.org/details/PropertiesOfExpandingUniverses/page/n23/mode/2up) - Stephen Hawking, 1965.
-- [A Smooth Exit from Eternal Inflation?](https://arxiv.org/abs/1707.07702v2) - Stephen Hawking, Thomas Hertog, 2018.
-- [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) - Eugene Wigner, 1960.
-- [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) - Claude E. Shannon, 1948.
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto (2008).
+- [Properties of Expanding Universes](https://archive.org/details/PropertiesOfExpandingUniverses/page/n23/mode/2up) - Stephen Hawking (1965).
+- [A Smooth Exit from Eternal Inflation?](https://arxiv.org/abs/1707.07702v2) - Stephen Hawking, Thomas Hertog (2018).
+- [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) - Eugene Wigner (1960).
+- [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) - Claude E. Shannon (1948).

@@ -1,6 +1,6 @@
 # Privacy tools
 
-> **Note**: This file only contains resources that are not in the [./linux-configuration.md](./linux-configuration.md) file.
+> **Note**: This file only contains resources that are not in the [./linux-configuration.md](./linux-configuration.md) section.
 
 ## Contents:
 

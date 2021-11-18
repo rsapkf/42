@@ -103,6 +103,10 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [yangshun/awesome-spinners](https://github.com/yangshun/awesome-spinners) - A curated collection of dazzling web spinners.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge.
@@ -161,6 +165,7 @@
 
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust.
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust.
+- [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English.
 - Websites
   - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet. https://cheats.rs.
 
@@ -347,6 +352,8 @@
 - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - List of Udacity Nanodegree programs with links to the free courses in their curricula.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. https://paperswelove.org.
 - [fastai/fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book.
+- [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) - WebRTC for the Curious: Go beyond the APIs.
+- [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms.
 
 ### General
 

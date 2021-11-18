@@ -38,7 +38,7 @@
 
 ## Mathematics
 
-- Sites+Blogs
+- Sites/Blogs
   - [WolframAlpha](https://www.wolframalpha.com/)
   - [Wolfram MathWorld](http://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
   - [The Pi-Search Page](https://www.angio.net/pi/)
@@ -63,6 +63,7 @@
   - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
   - [Cool Math Games](https://www.coolmathgames.com/)
   - [The Fibonacci Quarterly](https://www.fq.math.ca/)
+  - [Gravity and Levity](https://gravityandlevity.wordpress.com/)
 - People
   - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
   - [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
@@ -112,6 +113,9 @@
     - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
     - [Netflix TechBlog](https://medium.com/netflix-techblog)
     - [Discord Blog](https://blog.discordapp.com/)
+    - [YouTube Official Blog](https://blog.youtube/)
+    - [Grammarly Blog](https://www.grammarly.com/blog/)
+    - [Timescale Blog](https://blog.timescale.com/)
     - [Instagram Engineering](https://instagram-engineering.com/)
     - [Smashing Magazine](https://medium.com/@smashingmag) - useful and innovative information to web designers and developers.
     - [Project Zero](https://googleprojectzero.blogspot.com/)
@@ -231,6 +235,8 @@
     - [Brandon Rhodes](https://rhodesmill.org/brandon/)
     - [Henrik Warne](https://henrikwarne.com/)
     - [250bpm](https://250bpm.com/)
+    - [Infinity Plus One – math is awesome](https://infinityplusonemath.wordpress.com/)
+    - [The n-Category Café](https://golem.ph.utexas.edu/category/)
 
   - Miscellaneous
 
@@ -347,6 +353,13 @@
     - [Web Security Academy](https://portswigger.net/web-security) - Cybersecurity Training from PortSwigger
     - [Objective-See](https://objective-see.com/index.html)
     - [bugcrowd](https://www.bugcrowd.com/) - Crowdsourced Security Platform.
+    - [Kevin Mitnick](https://www.mitnicksecurity.com/)
+    - [Edward Snowden - Continuing Ed — with Edward Snowden](https://edwardsnowden.substack.com/people/39023675-edward-snowden)
+    - [Gwern.net](https://www.gwern.net/)
+    - [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
+    - [linusakesson.net](https://www.linusakesson.net/index.php)
+    - [Martin Kleppmann](https://martin.kleppmann.com/)
+    - [John D. Cook](https://www.johndcook.com/blog/)
 
   - People
     - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
@@ -361,7 +374,7 @@
     - [Aaron Swartz](http://www.aaronsw.com/)
     - [\_why](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) ([\_why's Estate](https://viewsourcecode.org/why/))
     - [Stephen Wolfram](https://www.stephenwolfram.com/)
-    - [The View from Aristeia - Scott Mayer's blog](https://scottmeyers.blogspot.com/)
+    - [The View from Aristeia](https://scottmeyers.blogspot.com/) - Scott Mayer's blog
     - [Peter Norwig](http://norvig.com/)
     - [Douglas Crockford](https://www.crockford.com/)
     - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
@@ -376,3 +389,4 @@
     - [Kenneth Reitz](https://www.kennethreitz.org/)
     - [Derek Sivers](https://sivers.org/)
     - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+    - [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
