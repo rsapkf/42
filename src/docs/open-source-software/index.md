@@ -10,11 +10,10 @@
     - [NetBSD](https://www.netbsd.org/) - “Of course it runs NetBSD”.
     - [DragonFly BSD](https://www.dragonflybsd.org/)
   - Distros
-    - [Ubuntu](https://www.ubuntu.com/)
+    - [Debian](https://www.debian.org/),[Ubuntu](https://www.ubuntu.com/), [Kali](https://www.kali.org/)
     - [Fedora](https://getfedora.org/)
     - [OpenSUSE](https://opensuse.org/)
     - [CentOS](https://www.centos.org/)
-    - [Debian](https://www.debian.org/), [Kali](https://www.kali.org/)
     - [Arch](https://www.archlinux.org/), [Manjaro](https://manjaro.org/), [BlackArch](https://www.blackarch.org/), [ArcoLinux](https://arcolinux.info/)
     - [Gentoo](https://www.gentoo.org/), [Funtoo](https://www.funtoo.org/Welcome)
     - [Void Linux](https://voidlinux.org/)
@@ -23,7 +22,6 @@
     - [Tails](https://tails.boum.org/index.en.html)
     - [Qubes OS](https://www.qubes-os.org/)
     - [Whonix](https://www.whonix.org/)
-    - [BlackArch Linux](https://www.blackarch.org/)
     - [elementary OS](https://elementary.io/)
     - [Red Hat](https://www.redhat.com/en)
     - [Trisquel GNU/Linux](https://trisquel.info/en)
