@@ -26,5 +26,5 @@
   - [Random useful sites](docs/random-useful-sites.md)
   - [High school](docs/high-school.md)
   - [Lists and articles](docs/lists-and-articles.md)
-  - [Extras](docs/extras.md)
+  - [Miscellaneous](docs/miscellaneous.md)
   - [Unsorted](docs/unsorted.md)

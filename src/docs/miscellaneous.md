@@ -20,12 +20,12 @@
 - [LitPriest](https://litpriest.com/) - Free Study Guides. For Everyone.
 - [Shmoop's Study Guides](https://www.shmoop.com/study-guides)
 - [University of the People](https://www.uopeople.edu/) - Tuition-Free, Accredited Online Degree Programs.
-- GDrive Reddit Guy(got these links from a Reddit comment)
-  - [Computer Science and Programming - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pWVBFX0hqTzA0dUU)
-  - [Mathematics and Science - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pMlRwbC11MjZRYk0)
-  - [Philosophy and History of Science and Mathematics and Pedagody - Google Drive](https://drive.google.com/drive/folders/1l4hjiSgO1hTbaQjt9IG1wxQxNi7JtjYE)
-  - [Advance Physics - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pbzhEX3J0dkhSTTg)
-  - [Advance Math - Google Drive](https://drive.google.com/drive/folders/0B9XbEQh3jB9pNkhSVzVoYmRtTHM)
+- GDrive Reddit Guy (got these links from a Reddit comment)
+  - [Computer Science and Programming](https://drive.google.com/drive/folders/0B9XbEQh3jB9pWVBFX0hqTzA0dUU)
+  - [Mathematics and Science](https://drive.google.com/drive/folders/0B9XbEQh3jB9pMlRwbC11MjZRYk0)
+  - [Philosophy and History of Science and Mathematics and Pedagody](https://drive.google.com/drive/folders/1l4hjiSgO1hTbaQjt9IG1wxQxNi7JtjYE)
+  - [Advance Physics](https://drive.google.com/drive/folders/0B9XbEQh3jB9pbzhEX3J0dkhSTTg)
+  - [Advance Math](https://drive.google.com/drive/folders/0B9XbEQh3jB9pNkhSVzVoYmRtTHM)
 
 ### Programming
 

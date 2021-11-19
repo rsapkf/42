@@ -141,7 +141,7 @@
     - [Qvault Blog](https://qvault.io/articles/)
     - [Simple Thread Blog](https://www.simplethread.com/blog/)
     - [r2c blog](https://r2c.dev/blog)
-    - [Packagecloud Blog - Posts and HOWTOs for Maven, RPM, DEB, PyPi and RubyGem users](https://blog.packagecloud.io/)
+    - [Packagecloud Blog](https://blog.packagecloud.io/)
     - [Capital and Growth](https://capitalandgrowth.org/blog/)
     - [Vitalik Buterin](https://vitalik.ca/)
     - [Distill](https://distill.pub/) - articles about machine learning

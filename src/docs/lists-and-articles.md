@@ -27,7 +27,7 @@
 
 ### Linux
 
-- [htop explained](https://peteris.rocks/blog/htop/) - Explanation of everything you can see in htop/top on Linux.)
+- [htop explained](https://peteris.rocks/blog/htop/) - Explanation of everything you can see in htop/top on Linux.
 
 ### Wikipedia
 
@@ -75,14 +75,14 @@
   - [Constructed language](https://en.wikipedia.org/wiki/Constructed_language)
   - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
   - [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
-  - [Sturgeon's law - Wikipedia](https://en.wikipedia.org/wiki/Sturgeon's_law)
+  - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon's_law)
 
-### Other
+### Miscellaneous
 
 - Programming
-  - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) - Eric S. Raymond.
-  - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - Peter Norwig.
-  - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - Oracle Docs.
+  - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) - Eric S. Raymond
+  - [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - Peter Norwig
+  - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - Oracle docs.
   - [Challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
   - [How to store dotfiles - Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
   - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/articles/removing-sensitive-data-from-a-repository)
@@ -90,7 +90,7 @@
   - [Gmail Search Operators](https://support.google.com/mail/answer/7190)
   - [Things You Didn't Know About GNU Readline](https://twobithistory.org/2019/08/22/readline.html)
   - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
-  - [Practice CTF List](http://captf.com/practice-ctf/) - Jordan Wiens.
+  - [Practice CTF List](http://captf.com/practice-ctf/) - Jordan Wiens
   - [The 500 Greatest Albums of All Time - Rolling Stone](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
   - [500 Greatest Songs of All Time - Rolling Stone](https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/)
   - [How to Make a Crossword Puzzle - The New York Times](https://www.nytimes.com/2018/09/14/crosswords/how-to-make-a-crossword-puzzle-the-series.html)
@@ -100,8 +100,8 @@
   - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
   - [Common Errors in College Math](https://math.vanderbilt.edu/schectex/commerrs/)
 - Philosophy
-  - [How to study philosophy as an amateur?](http://existentialcomics.com/blog) - Existential Comics.
+  - [How to study philosophy as an amateur?](http://existentialcomics.com/blog) - Existential Comics
   - [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](https://users.drew.edu/~jlenz/whynot.html)
 - Short stories
-  - [The Fable of the Dragon-Tyrant - Nick Bostrom (2005)](https://www.nickbostrom.com/fable/dragon.html)
-  - [The Monkey's Paw - W. W. Jacobs (1902)](https://en.wikipedia.org/wiki/The_Monkey%27s_Paw)
+  - [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) - Nick Bostrom (2005)
+  - [The Monkey's Paw](https://en.wikipedia.org/wiki/The_Monkey%27s_Paw) - W. W. Jacobs (1902)

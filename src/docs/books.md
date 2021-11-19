@@ -302,8 +302,8 @@
 
 ## Papers
 
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto (2008).
-- [Properties of Expanding Universes](https://archive.org/details/PropertiesOfExpandingUniverses/page/n23/mode/2up) - Stephen Hawking (1965).
-- [A Smooth Exit from Eternal Inflation?](https://arxiv.org/abs/1707.07702v2) - Stephen Hawking, Thomas Hertog (2018).
-- [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) - Eugene Wigner (1960).
-- [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) - Claude E. Shannon (1948).
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto (2008)
+- [Properties of Expanding Universes](https://archive.org/details/PropertiesOfExpandingUniverses/page/n23/mode/2up) - Stephen Hawking (1965)
+- [A Smooth Exit from Eternal Inflation?](https://arxiv.org/abs/1707.07702v2) - Stephen Hawking, Thomas Hertog (2018)
+- [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences) - Eugene Wigner (1960)
+- [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) - Claude E. Shannon (1948)

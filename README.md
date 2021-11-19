@@ -41,7 +41,7 @@ _Built using [mdBook](https://github.com/rust-lang/mdBook)._
 - [Random useful sites](src/docs/random-useful-sites.md)
 - [High school](src/docs/high-school.md)
 - [Lists and articles](src/docs/lists-and-articles.md)
-- [Extras](src/docs/extras.md)
+- [Miscellaneous](src/docs/miscellaneous.md)
 - [Unsorted](src/docs/unsorted.md)
 
 **Disclaimer**: The categorization of resources and software that I list here are for personal reference only. Not every open source software out there is more secure than other proprietary options. Please do a thorough research before using any of this stuff.
