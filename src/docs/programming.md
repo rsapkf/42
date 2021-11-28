@@ -5,7 +5,7 @@
 - [GitHub developers](https://developer.github.com/)
 - [Red Hat developer](https://developers.redhat.com/)
 - [IBM developer](https://developer.ibm.com/)
-- [Google developers](https://developers.google.com/) - Build anything with Google.
+- [Google developers](https://developers.google.com/)
 - [Facebook for developers](https://developers.facebook.com/)
 - [Oracle developer](https://developer.oracle.com/)
 - [Discord developer portal](https://discord.com/developers)

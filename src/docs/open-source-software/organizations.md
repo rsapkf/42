@@ -1,9 +1,8 @@
 # Organizations
 
-- (GitLab) [GitLab.com](https://gitlab.com/gitlab-com) - GitLab company related projects.
-- (GitLab) [GitLab.org](https://gitlab.com/gitlab-org) - Open source software to collaborate on code.
-- (GitLab) [Minds](https://gitlab.com/minds) - Minds is a free & open source social network dedicated to privacy and freedom.
-- [GitHub](https://github.com/github) - How people build software.
+## GitHub
+
+- [GitHub](https://github.com/github)
 - [Mozilla](https://github.com/mozilla) - This technology could fall into the right hands.
 - [Mozilla Mobile](https://github.com/mozilla-mobile) - Mozilla Mobile Applications.
 - [JetBrains](https://github.com/jetbrains) - JetBrains open source projects.
@@ -143,3 +142,9 @@
 - [tmux-plugins](https://github.com/tmux-plugins)
 - [StylishThemes](https://github.com/StylishThemes)
 - [Lambda School, Inc.](https://github.com/LambdaSchool)
+
+## GitLab
+
+- [GitLab.com](https://gitlab.com/gitlab-com)
+- [GitLab.org](https://gitlab.com/gitlab-org)
+- [Minds](https://gitlab.com/minds) - Minds is a free & open source social network dedicated to privacy and freedom.

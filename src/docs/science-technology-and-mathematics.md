@@ -3,10 +3,8 @@
 ## Science, mostly
 
 - People
-
   - [Sean Caroll](https://www.preposterousuniverse.com/)
   - [Sabine Hossenfelder: Backreaction](https://backreaction.blogspot.com/)
-
 - Sites
   - [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
   - [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration.
@@ -33,8 +31,6 @@
   - [Scientific American](https://www.scientificamerican.com/)
   - [JunkScience](https://junkscience.com/)
   - [Quillette](https://quillette.com/)
-
----
 
 ## Mathematics
 
@@ -74,14 +70,10 @@
   - [3blue1brown](https://www.3blue1brown.com/) - Grant Sanderson.
   - [Erich's Place](https://www2.stetson.edu/~efriedma/index.html) - Prof. Erich Friedman's Webpage.
 
----
-
-## Tech
+## Technology
 
 - Sites
-
   - Privacy
-
     - [gnu.org](https://www.gnu.org/)
     - [That One Privacy Site](https://thatoneprivacysite.net/about/)
     - [Richard Stallman's Personal Site ](https://stallman.org/index.html)
@@ -101,9 +93,7 @@
     - [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
     - [Restore Privacy](https://restoreprivacy.com/)
     - [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
-
   - Blogs
-
     - [StackOverflow Blog](https://stackoverflow.blog/)
     - [Twilio Blog](https://www.twilio.com/blog)
     - [Coding Horror](https://blog.codinghorror.com/)
@@ -237,9 +227,7 @@
     - [250bpm](https://250bpm.com/)
     - [Infinity Plus One – math is awesome](https://infinityplusonemath.wordpress.com/)
     - [The n-Category Café](https://golem.ph.utexas.edu/category/)
-
   - Miscellaneous
-
     - [Feedly Discover](https://feedly.com/i/discover/)
     - HackerNews/Y Combinator
       - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
@@ -249,7 +237,7 @@
       - [Y Combinator Company List](https://yclist.com/)
       - [Hacker Newsletter](https://www.hackernewsletter.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
-      - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time
+      - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time.
       - [Best of Show HN](https://bestofshowhn.com/)
     - Reddit
       - [Reddit](https://reddit.com/)
@@ -324,9 +312,7 @@
     - [MakeUseOf](https://www.makeuseof.com/)
     - [Epsilon Theory](https://www.epsilontheory.com/)
     - [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page) - unofficial wiki dedicated to collecting, storing and providing information on the internals of Apple's iDevices.
-
   - Magazines/Newspapers
-
     - [National Geographic](https://www.nationalgeographic.com/)
     - [Fortune](https://fortune.com/)
     - [The New York Times](https://www.nytimes.com/)
@@ -344,9 +330,7 @@
     - [Daily Nous](https://dailynous.com/)
     - [Teslarati](https://www.teslarati.com/)
     - [Genius](https://genius.com/) - Song Lyrics & Knowledge
-
   - Hacking/Cybersecurity
-
     - [Schneier on Security - Bruce Schneier](https://www.schneier.com/)
     - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation.
     - [Null Byte](https://null-byte.wonderhowto.com/)
@@ -360,33 +344,32 @@
     - [linusakesson.net](https://www.linusakesson.net/index.php)
     - [Martin Kleppmann](https://martin.kleppmann.com/)
     - [John D. Cook](https://www.johndcook.com/blog/)
-
-  - People
-    - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
-    - [Brian Kernighan](https://www.cs.princeton.edu/~bwk/)
-    - [Don Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
-    - [Paul Graham](http://paulgraham.com/)
-    - [Gates Notes](http://gatesnotes.com/)
-    - [Eric S. Raymond](http://www.catb.org/esr/)
-    - [Richard Stallman](https://www.stallman.org/)
-    - [Bjarne Stroustrup](http://www.stroustrup.com/index.html)
-    - [Joel Spolsky](https://www.joelonsoftware.com/)
-    - [Aaron Swartz](http://www.aaronsw.com/)
-    - [\_why](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) ([\_why's Estate](https://viewsourcecode.org/why/))
-    - [Stephen Wolfram](https://www.stephenwolfram.com/)
-    - [The View from Aristeia](https://scottmeyers.blogspot.com/) - Scott Mayer's blog
-    - [Peter Norwig](http://norvig.com/)
-    - [Douglas Crockford](https://www.crockford.com/)
-    - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
-    - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
-    - [Brett Slatkin](https://www.onebigfluke.com/)
-    - [Jamie Zawinski](https://www.jwz.org/)
-    - [Jessie Frazelle](https://blog.jessfraz.com/)
-    - [Fabrice Bellard](https://bellard.org/)
-    - [Marijn Haverbeke](https://marijnhaverbeke.nl/)
-    - [Chet Ramey](https://tiswww.case.edu/php/chet/)
-    - [Sindre Sorhus](https://sindresorhus.com/)
-    - [Kenneth Reitz](https://www.kennethreitz.org/)
-    - [Derek Sivers](https://sivers.org/)
-    - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
-    - [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
+- People
+  - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
+  - [Brian Kernighan](https://www.cs.princeton.edu/~bwk/)
+  - [Don Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+  - [Paul Graham](http://paulgraham.com/)
+  - [Gates Notes](http://gatesnotes.com/)
+  - [Eric S. Raymond](http://www.catb.org/esr/)
+  - [Richard Stallman](https://www.stallman.org/)
+  - [Bjarne Stroustrup](http://www.stroustrup.com/index.html)
+  - [Joel Spolsky](https://www.joelonsoftware.com/)
+  - [Aaron Swartz](http://www.aaronsw.com/)
+  - [\_why](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) ([\_why's Estate](https://viewsourcecode.org/why/))
+  - [Stephen Wolfram](https://www.stephenwolfram.com/)
+  - [The View from Aristeia](https://scottmeyers.blogspot.com/) - Scott Mayer's blog
+  - [Peter Norwig](http://norvig.com/)
+  - [Douglas Crockford](https://www.crockford.com/)
+  - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
+  - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+  - [Brett Slatkin](https://www.onebigfluke.com/)
+  - [Jamie Zawinski](https://www.jwz.org/)
+  - [Jessie Frazelle](https://blog.jessfraz.com/)
+  - [Fabrice Bellard](https://bellard.org/)
+  - [Marijn Haverbeke](https://marijnhaverbeke.nl/)
+  - [Chet Ramey](https://tiswww.case.edu/php/chet/)
+  - [Sindre Sorhus](https://sindresorhus.com/)
+  - [Kenneth Reitz](https://www.kennethreitz.org/)
+  - [Derek Sivers](https://sivers.org/)
+  - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+  - [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)

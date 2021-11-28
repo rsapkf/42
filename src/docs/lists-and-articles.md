@@ -1,4 +1,4 @@
-# Lists, articles and essays
+# Lists, articles, and essays
 
 ### HN
 

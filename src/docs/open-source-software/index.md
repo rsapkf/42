@@ -240,6 +240,7 @@
     - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal.
     - [tnalpgge/rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - generates ASCII pictures of a cow with a message.
     - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - The Party Parrot on your terminal.
+    - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
     - [FIGlet](http://www.figlet.org/) - generate text banners, in a variety of typefaces, composed of letters made up of conglomerations of smaller ASCII characters.
     - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html/) - Enjoy the mysteries of the sea from the safety of your own terminal!
 - Graphical applications

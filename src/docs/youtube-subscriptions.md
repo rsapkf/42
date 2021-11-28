@@ -62,7 +62,6 @@
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
 - [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
-- [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
 - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
 - [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ)
 - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)

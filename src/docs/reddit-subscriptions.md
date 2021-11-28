@@ -481,7 +481,7 @@
 - [r/WeWantPlates](https://www.reddit.com/r/WeWantPlates/)
 - [r/birdswitharms](https://www.reddit.com/r/birdswitharms/)
 - [r/MapsWithoutNZ](https://www.reddit.com/r/MapsWithoutNZ/)
-- [r/restofthefuckingowl](https://www.reddit.com/r/restofthefuckingowl/)
+- [r/restofthef ckingowl](https://www.reddit.com/r/restofthefuckingowl/)
 
 ### Comics
 
@@ -775,6 +775,7 @@
 - [r/Shitty_Car_Mods](https://www.reddit.com/r/Shitty_Car_Mods/)
 - [r/tattoos](https://www.reddit.com/r/tattoos/)
 - [r/theydidthemath](https://www.reddit.com/r/theydidthemath/)
+- [r/theydidthemonstermath](https://www.reddit.com/r/theydidthemonstermath/)
 - [r/tooktoomuch](https://www.reddit.com/r/tooktoomuch/)
 - [r/Wellthatsucks](https://www.reddit.com/r/Wellthatsucks/)
 - [r/WhyWereTheyFilming](https://www.reddit.com/r/WhyWereTheyFilming/)
@@ -934,6 +935,7 @@
 - [r/Metal](https://www.reddit.com/r/Metal/)
 - [r/megalophobia](https://www.reddit.com/r/megalophobia/)
 - [r/listentothis](https://www.reddit.com/r/listentothis/)
+- [r/jesuschristreddit](https://www.reddit.com/r/jesuschristreddit/)
 
 ### Politics
 

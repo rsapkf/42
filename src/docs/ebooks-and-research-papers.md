@@ -1,6 +1,6 @@
 # Ebooks and research papers
 
-> **Disclaimer**: This list might contain some sites that have concerns over legality and copyright issues. In all such known cases, the corresponding wikipedia page has been linked, instead of linking directly. Before going through this list, please read [this](https://academia.stackexchange.com/questions/112509/legality-of-downloading-books-from-websites-such-as-library-genesis) thread on Academia StackExchange.
+> **Disclaimer**: This list might contain some sites that have concerns over legality and copyright issues. In all such known cases, the corresponding Wikipedia page has been linked, instead of linking directly. Before going through this list, please read [this](https://academia.stackexchange.com/questions/112509/legality-of-downloading-books-from-websites-such-as-library-genesis) thread on Academia StackExchange.
 
 ### Ebooks:
 
@@ -32,8 +32,8 @@
 ### Research papers:
 
 - Sites
-  - [PeerJ](https://peerj.com/) - peer-reviewed & Open Access journal publishing primary research and reviews in biology, life sciences, environmental sciences, and medicine.
-  - [unpaywall.org](https://unpaywall.org/) - [Unpaywall Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/unpaywall)
+  - [PeerJ](https://peerj.com/) - Peer-reviewed & Open Access journal publishing primary research and reviews in biology, life sciences, environmental sciences, and medicine.
+  - [unpaywall.org](https://unpaywall.org/) - [Unpaywall Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/unpaywall)
   - [arXiv.org](https://arxiv.org/)
   - [lmfdb.org](http://www.lmfdb.org/)
   - [Google Scholar](https://scholar.google.com/)
@@ -46,6 +46,6 @@
 ### Audiobooks:
 
 - Sites
-  - [LibriVox](https://librivox.org/) - free public domain audiobooks.
+  - [LibriVox](https://librivox.org/) - Free public domain audiobooks.
 - Audiobooks
   - [Audible](https://www.audible.co.uk/) `paid`
