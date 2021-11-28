@@ -11,13 +11,9 @@
 - [Browser extensions](#browser-extensions)
 - [More resources](#more-resources)
 
----
-
 ### Email providers
 
 - [Mailfence](https://mailfence.com/)
-
----
 
 ### Cloud storage:
 
@@ -26,13 +22,9 @@
 - [Tresorit](https://www.tresorit.com/) - End-to-End Encrypted Cloud Storage for Businesses.
 - [SpiderOak](https://spideroak.com/) - End-to-End Encrypted, No Knowledge Privacy.
 
----
-
 ### Instant messaging
 
 - [Wickr](https://wickr.com/)
-
----
 
 ### Search engines:
 
@@ -43,22 +35,16 @@
 - [Qwant](http://qwant.com/)
 - [Ecosia](https://www.ecosia.org/)
 
-See Also:
+See also:
 
 - [searX wiki on GitHub](https://github.com/asciimoo/searx/wiki/possible-search-engines)
 - [Wikipedia list of privacy search engines](https://en.wikipedia.org/wiki/List_of_search_engines#Privacy_search_engines)
-
----
 
 ### Browser add-ons/extensions
 
 - [Ghostery Privacy Ad Blocker](https://www.ghostery.com/)
 
----
-
 ### More resources:
-
-Sites/
 
 - [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 - [OpenStreetMap](https://www.openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.

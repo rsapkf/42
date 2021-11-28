@@ -232,7 +232,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect.
 
-### Web design/Accessibilty
+### Web design/accessibilty
 
 - Websites
   - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - A community–driven effort to make web accessibility easier. https://a11yproject.com.
@@ -263,7 +263,7 @@
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2).
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow.
 
-### System administration/Site reliability/Production engineering
+### System administration/site reliability/production engineering
 
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. https://sre.xyz.
@@ -336,7 +336,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
 
-### Computer science/Math
+### Computer science/math
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Open Source CS Curriculum.
@@ -359,7 +359,7 @@
 
 - [GitHub Search 'awesome'](https://github.com/search?q=awesome)
 - [GitHub Explore](https://github.com/explore)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.

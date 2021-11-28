@@ -146,16 +146,16 @@
                         <i class="fa fa-search"></i>
                     </button>
                     {{/if}}
-                </div>
-
-                <h1 class="menu-title"><a href="/" style="text-decoration: none; color: unset">{{ book_title }}</a></h1>
-
-                <div class="right-buttons">
                     {{#if print_enable}}
                     <a href="{{ path_to_root }}print.html" title="Print this book" aria-label="Print this book">
                         <i id="print-button" class="fa fa-print"></i>
                     </a>
                     {{/if}}
+                </div>
+
+                <h1 class="menu-title">{{ book_title }}</h1>
+
+                <div class="right-buttons">
                     {{#if git_repository_url}}
                     <a href="{{git_repository_url}}" title="Git repository" aria-label="Git repository">
                         <i id="git-repository-button" class="fa {{git_repository_icon}}"></i>
@@ -164,6 +164,10 @@
                     <a href="https://rsapkf.xyz" target="_blank" rel="noopener noreferrer" title="rsapkf.xyz"
                         aria-label="rsapkf.xyz">
                         <i id="home-button" class="fa fa-home"></i>
+                    </a>
+                    <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy" target="_blank" rel="noopener noreferrer" title="?"
+                        aria-label="?">
+                        <i id="home-button" class="fa fa-question"></i>
                     </a>
                 </div>
             </div>

@@ -88,6 +88,10 @@
     - [Twenty Thousand Leagues Under the Sea](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
     - [Around the World in Eighty Days](https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days)
     - [Journey to the Center of the Earth](https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
+  - Andy Weir
+    - [The Martian](<https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)>)
+    - [Artemis](<https://en.wikipedia.org/wiki/Artemis_(novel)>)
+    - [Project Hail Mary](https://en.wikipedia.org/wiki/Project_Hail_Mary)
 - [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) - J.R.R. Tolkien
 - [The Witcher](https://en.wikipedia.org/wiki/The_Witcher) - Andrzej Sapkowski
 - [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) - George Orwell
@@ -97,9 +101,6 @@
 - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson
 - [Shutter Island](https://en.wikipedia.org/wiki/Shutter_Island) - Dennis Lehane
 - [Slaughterhouse-Five](https://en.wikipedia.org/wiki/Slaughterhouse-Five) - Kurt Vonnegut
-- [The Martian](<https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)>) - Andy Weir
-- [Artemis (novel)](<https://en.wikipedia.org/wiki/Artemis_(novel)>) - Andy Weir
-- [Project Hail Mary](https://en.wikipedia.org/wiki/Project_Hail_Mary) - Andy Weir
 - [The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds) - H.G. Wells
 - [The Hunger Games](https://en.wikipedia.org/wiki/The_Hunger_Games) - Suzanne Collins
 - [The Expanse](<https://en.wikipedia.org/wiki/The_Expanse_(novel_series)>) - James S. A. Corey (Daniel Abraham, Ty Franck)
