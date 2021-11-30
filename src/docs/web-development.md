@@ -190,6 +190,7 @@ See also: [HotFrameworks](https://hotframeworks.com/)
 - [RexEgg](https://www.rexegg.com/)
 - [Regex Crossword](https://regexcrossword.com/)
 - [RegexOne](https://regexone.com/)
+- [ExtendsClass](https://extendsclass.com/regex-tester.html)
 
 ## Developer tools
 
