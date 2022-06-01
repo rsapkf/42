@@ -88,7 +88,3 @@
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - GitLab
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics
-- See also:
-  - [./ebooks-and-research-papers.md](ebooks-and-research-papers.md)
-  - [MIT OpenCourseWare Index of Online Textbooks](https://ocw.mit.edu/courses/online-textbooks/)
-  - [Colin Stebbins Gordon](https://csgordon.github.io/books.html)

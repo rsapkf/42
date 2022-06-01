@@ -11,7 +11,7 @@
 - [Andy Klise](http://www.kungfoomanchu.com/) - Illustrations and Algorithms.
 - [cubing.net](https://cubing.net/)
 - [Badmephisto's Cubing Site](http://badmephisto.com/)
-- [𝔹𝔼𝕊𝕋 𝕤𝕚𝕥𝕖 𝔼𝕍𝔼ℝ](https://www.bestsiteever.ru/)
+- [Best site ever](https://bestsiteever.ru/)
 - [CubeRoot](https://www.cuberoot.me/)
 - [Cubefreak](http://cubefreak.net/)
 - [cut-the-knot.org](https://www.cut-the-knot.org/) - Interactive Mathematics Miscellany and Puzzles.
@@ -33,11 +33,50 @@
 
 ## Chess
 
+- [Lichess](https://lichess.org) ([Source](https://github.com/ornicar/lila))
 - [Chess.com](https://www.chess.com/)
 - [chess24.com](https://chess24.com/en)
 - [Kasparovchess](https://kasparovchess.com/)
+- [ChessBase](https://en.chessbase.com/)
+- [Chessgames.com](https://www.chessgames.com)
+  - [Notable Chess games of all time](https://www.chessgames.com/perl/goat.pl)
+- [Chess tactics explained](https://www.chesstactics.org/)
+- [Who will win in this riveting game of Math.random() vs Math.random()?](https://chessboardjs.com/examples#5002)
 
-## Miscellaneous
+## Go
+
+- [OGS](https://online-go.com) ([Source](https://github.com/online-go/online-go.com))
+- [KGS](https://www.gokgs.com/)
+- [Sensei's Library](https://senseis.xmp.net/)
+- [PlayGo.to](https://playgo.to/en)
+
+## Hex
+
+- [Hex Stategy Guide](http://www.mseymour.ca/hex_book/hexstrat.html)
+
+## KenKen
 
 - [KenKen Puzzle](http://www.kenkenpuzzle.com/)
+
+## Misc
+
 - [BoardGameGeek](https://boardgamegeek.com/) - Gaming Unplugged Since 2000.
+- [Pagat.com](https://www.pagat.com/)
+- [Mahjong](https://en.wikipedia.org/wiki/Mahjong)
+- [Bingo](<https://en.wikipedia.org/wiki/Bingo_(American_version)>)
+- [Jenga](https://en.wikipedia.org/wiki/Jenga)
+- Puzzles
+  - [Sudoku](https://en.wikipedia.org/wiki/Sudoku) and [variants](https://en.wikipedia.org/wiki/Sudoku#Variants)
+  - [2048](<https://en.wikipedia.org/wiki/2048_(video_game)>)
+  - [Kakuro](https://en.wikipedia.org/wiki/Kakuro)
+  - [Masyu](https://en.wikipedia.org/wiki/Masyu)
+  - [Soma cube](https://en.wikipedia.org/wiki/Soma_cube) and [similar puzzles](https://en.wikipedia.org/wiki/Soma_cube#Similar_puzzles)
+- Board games
+  - [Shogi](https://en.wikipedia.org/wiki/Shogi)
+  - [Checkers](https://en.wikipedia.org/wiki/Checkers)
+  - [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
+  - [Monopoly](<https://en.wikipedia.org/wiki/Monopoly_(game)>)
+  - [Uno](<https://en.wikipedia.org/wiki/Uno_(card_game)>)
+- Card games
+  - [Poker](https://en.wikipedia.org/wiki/Poker)
+  - [Bridge](https://en.wikipedia.org/wiki/Contract_bridge)

@@ -52,6 +52,7 @@
   - [BabelJS ES2015 Guide](https://babeljs.io/docs/en/learn/)
   - [Rodrigo Pombo's Blog](https://pomb.us/)
 - HTML/CSS
+  - [Learn CSS](https://web.dev/learn/css/)
   - [HTML Reference](https://htmlreference.io/)
   - [CSS Reference](https://cssreference.io/)
   - [Marksheet](https://marksheet.io/)
@@ -226,6 +227,7 @@ See also: [HotFrameworks](https://hotframeworks.com/)
   - [Netlify](https://netlify.com) - Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more.
   - [GitHub Pages](https://pages.github.com/)
   - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
+  - [sourcehut pages](https://srht.site/)
   - [ZEIT Now](https://zeit.co/) - The easiest way to deploy websites.
   - [surge](https://surge.sh/) - Static web publishing for Front-End Developers.
   - [Render](https://render.com/) - unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.

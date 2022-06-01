@@ -674,6 +674,7 @@
 - Podcast clients
   - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal.
 - Games and tools
+  - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024).
   - [lutris/lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux.
   - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
   - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure.
@@ -1521,6 +1522,7 @@
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 500+ CSS Icons. Customizable, Retina Ready with API & NPM.
 - [hjnilsson/country-flags](https://github.com/hjnilsson/country-flags) - SVG and PNG renders of all countries' flags.
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - A curated collection of all country flags in SVG — plus the CSS for easier integration.
 
 ## HTTP clients
 
@@ -1669,8 +1671,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [edavis/hnrss](https://github.com/edavis/hnrss) - Custom, realtime RSS feeds for Hacker News.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in.
-- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org - the forever free, adless and open source chess server ♞.
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024).
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action.
 - [zgoat/goatcounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.

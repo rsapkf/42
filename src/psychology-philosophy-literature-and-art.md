@@ -30,6 +30,7 @@
 - [poets.org](https://poets.org/)
 - [SparkNotes](https://www.sparknotes.com/) - Source for help with Shakespeare and English literature, plus history, math, biology, and more.
 - [CliffNotes](https://www.cliffsnotes.com/)
+- [Shmoop's Study Guides](https://www.shmoop.com/study-guides)
 - [PoeStories](https://poestories.com) - short stories and poems by Edgar Allan Poe.
 
 ## Art

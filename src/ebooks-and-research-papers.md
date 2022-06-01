@@ -13,21 +13,21 @@
   - [Project Gutenberg](https://www.gutenberg.org/)
   - [Standard Ebooks](https://standardebooks.org/)
   - [The Internet Classics Archive](http://classics.mit.edu/) - Bringing the wisdom of the classics to the Internet since 1994.
+  - [MIT OpenCourseWare Index of Online Textbooks](https://ocw.mit.edu/courses/online-textbooks/)
   - [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)
+  - [Global Grey Ebooks](https://www.globalgreyebooks.com/)
+  - [Colin Stebbins Gordon](https://csgordon.github.io/books.html)
   - [ZLibrary](https://b-ok.org/)
   - [freecomputerbooks.com](http://freecomputerbooks.com/)
   - [The Pirate Bay](https://en.wikipedia.org/wiki/The_Pirate_Bay)
 - GitHub
   - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-  - [./free-to-read-books-and-guides.md](free-to-read-books-and-guides.md)
 - Reddit
   - [This](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/?utm_source=share&utm_medium=web2x) r/learnmath thread.
 - IRC
   - `#Bookz` on Undernet
   - `#ebooks` on Undernet
   - `#ebooks` on IRChighway
-
----
 
 ### Research papers:
 
@@ -40,8 +40,6 @@
   - [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)
 - Twitter
   - [#ICanHazPDF](https://en.wikipedia.org/wiki/ICanHazPDF)
-
----
 
 ### Audiobooks:
 

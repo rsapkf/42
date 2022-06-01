@@ -6,7 +6,7 @@
 
 - [Mailfence](https://mailfence.com/)
 
-## Cloud storage:
+## Cloud storage
 
 - [Sync.com](https://www.sync.com/)
 - [pCloud](https://www.pcloud.com/)
@@ -17,7 +17,7 @@
 
 - [Wickr](https://wickr.com/)
 
-## Search engines:
+## Search engines
 
 - [Startpage](https://www.startpage.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -35,7 +35,7 @@ See also:
 
 - [Ghostery Privacy Ad Blocker](https://www.ghostery.com/)
 
-## More resources:
+## More resources
 
 - [write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 - [OpenStreetMap](https://www.openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.

@@ -136,7 +136,6 @@
 ### Science
 
 - [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)
-- [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)
 - [NASA Goddard](https://www.youtube.com/channel/UCAY-SMFNfynqz1bdoaV8BeQ)
 - [NASA Johnson](https://www.youtube.com/channel/UCmheCYT4HlbFi943lpH009Q)
 - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
@@ -379,7 +378,7 @@
 - [RIF Podcast](https://www.youtube.com/channel/UCiSx0uc5XdIYgcfIPKotc-g)
 - [The Origins Podcast](https://www.youtube.com/channel/UCdXsq_0BeYE5OHnrKuFGhHA)
 
-### Horror/Internet Mysteries
+### Horror/Mystery
 
 - [Nexpo](https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw)
 - [MamaMax](https://www.youtube.com/channel/UCpofQJ6RpHrxuUG4ghXPJBA)
@@ -392,7 +391,7 @@
 - [Barely Sociable](https://www.youtube.com/channel/UC9PIn6-XuRKZ5HmYeu46AIw)
 - [JCS - Criminal Psychology](https://www.youtube.com/channel/UCYwVxWpjeKFWwu8TML-Te9A)
 
-### Magic + Puzzles
+### Recreational mathematics
 
 - Chess
   - [Chess.com](https://www.youtube.com/channel/UC5kS0l76kC0xOzMPtOmSFGw)
@@ -434,7 +433,7 @@
   - [Sean Villanueva {Roux}](https://www.youtube.com/channel/UC43xScq9h29PO7k9w3Bmj2Q)
   - [Kian Mansour](https://www.youtube.com/channel/UCdEm9-DsuOzNoWmTAYNLRoQ)
   - [Jayden McNeill](https://www.youtube.com/channel/UC2-V0rEZF_uxDSUxeRxov5Q)
-- Card Tricks
+- Card tricks
   - [David Blaine](https://www.youtube.com/channel/UCS1lj4kyIrWBqZ5YQHWgT5w)
   - [TheRussianGenius](https://www.youtube.com/channel/UC8juAMAjKpaft2TIa8Hu08A)
   - [52Kards](https://www.youtube.com/channel/UCIuScmttXWzLoXqs8kU3vWA)
@@ -483,7 +482,7 @@
 - [JackStauber](https://www.youtube.com/channel/UCe_ijwgvhtHQwQ55vsXDY8w)
 - [Peppa Pig Parodies](https://www.youtube.com/channel/UCSb4RLSrrhk3jSrVTKIfHRA)
 
-### Gaming + Memes
+### Gaming/Memes
 
 - [Minecraft](https://www.youtube.com/channel/UC1sELGmy5jp5fQUugmuYlXQ)
 - [PewDiePie](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw)
@@ -646,17 +645,14 @@
 
 ### Vlogs
 
-- [John Fish](https://www.youtube.com/channel/UC5Gmg-VtFmnP8qLq8V7Pvtg)
-- [JeffHK](https://www.youtube.com/channel/UCGpdSarF_FdCygiA1tOl6Cg)
-
-### Travel Vlogging
-
 - [CaseyNeistat](https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ)
 - [Ryan Trahan](https://www.youtube.com/channel/UCnmGIkw-KdI0W5siakKPKog)
 - [Abroad in Japan](https://www.youtube.com/channel/UCHL9bfHTxCMi-7vfxQ-AYtg)
 - [Karl Rock](https://www.youtube.com/channel/UCtfXgNnA-QcxjHJjk5wXLFg)
 - [bald and bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
 - [Harald Baldr](https://www.youtube.com/channel/UCKr68ZJ4vv6VloNdnS2hjhA)
+- [John Fish](https://www.youtube.com/channel/UC5Gmg-VtFmnP8qLq8V7Pvtg)
+- [JeffHK](https://www.youtube.com/channel/UCGpdSarF_FdCygiA1tOl6Cg)
 
 ### Cooking
 
@@ -669,7 +665,7 @@
 - [Chinese Cooking Demystified](https://www.youtube.com/channel/UC54SLBnD5k5U3Q6N__UjbAw)
 - [J. Kenji López-Alt](https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA)
 
-### Food Vlogs
+### Food vlogs
 
 - [Best Ever Food Review Show](https://www.youtube.com/channel/UCcAd5Np7fO8SeejB1FVKcYw)
 - [The Food Ranger](https://www.youtube.com/channel/UCiAq_SU0ED1C6vWFMnw8Ekg)
@@ -737,7 +733,7 @@
 - [jawed](https://www.youtube.com/channel/UC4QobU6STFB0P71PMvOGN5A)
 - [Webdriver Torso](https://www.youtube.com/channel/UCsLiV4WJfkTEHH0b9PmRklw)
 
-### Miscellaneous
+### Misc
 
 - [Forbes](https://www.youtube.com/channel/UCmh7afBz-uWwOSSNTqUBAhg)
 - [Insider](https://www.youtube.com/channel/UCHJuQZuzapBh-CuhRYxIZrg)

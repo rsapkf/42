@@ -133,12 +133,33 @@
 - [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book) - Simon Singh
 - [Infinity and the Mind](https://en.wikipedia.org/wiki/Infinity_and_the_Mind) - Rudy Rucker
 - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown) - Ian Stewart
+- Textbooks
+  - [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics) - Princeton University Press
+  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Sheldon Axler
+  - [Disquisitiones Arithmeticae](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae) - Carl Friedrich Gauss
 
-## Mathematics textbooks
+## Recreational mathematics
 
-- [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics) - Princeton University Press
-- [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Sheldon Axler
-- [Disquisitiones Arithmeticae](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae) - Carl Friedrich Gauss
+- Martin Gardner
+  - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
+  - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
+  - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
+  - [Mathematics, Magic and Mystery](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
+  - [The Unexpected Hanging and Other Mathematical Diversions](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
+  - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
+  - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
+  - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
+- Ian Stewart
+  - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
+  - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
+  - [Professor Stewart's Cabinet of Mathematical Curiosities](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
+  - [Nature's Numbers: The Unreal Reality Of Mathematics](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
+  - [Professor Stewart's Incredible Numbers](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
+- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math) - Arthur T. Benjamin
+- [536 Puzzles & Curious Problems](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems) - Henry Ernest Dudeney
+- [Magic Squares And Cubes](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes) - William Symes Andrews
+- [More Puzzles to Puzzle You](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you) - Shakuntala Devi
+- [Remember It!](https://www.goodreads.com/book/show/38657042-remember-it) - Nelson Dellis
 
 ## Programming and CS
 
@@ -182,15 +203,15 @@
   - [Learning the vi and Vim Editors](https://en.wikipedia.org/wiki/Learning_the_vi_and_Vim_Editors) - Arnold Robbins, Elbert Hannah, Linda Lamb
   - [Practical Vim: Edit Text at the Speed of Thought](https://www.goodreads.com/book/show/13607232-practical-vim) - Drew Neil
 - Python
-  - [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) - Luciano Ramalho. (GitHub: [fluentpython/example-code](https://github.com/fluentpython/example-code))
-  - [Effective Python: 90 Specific Ways to Write Better Python](https://www.goodreads.com/book/show/48566725-effective-python) - Brett Slatkin. (GitHub: [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython))
+  - [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) - Luciano Ramalho. ([GitHub](https://github.com/fluentpython/example-code))
+  - [Effective Python: 90 Specific Ways to Write Better Python](https://www.goodreads.com/book/show/48566725-effective-python) - Brett Slatkin. ([GitHub](https://github.com/bslatkin/effectivepython))
   - [Python Tricks: A Buffet of Awesome Python Features](https://www.goodreads.com/book/show/36990732-python-tricks) - Dan Bader
   - [Django for Beginners: Learn web development with Django 2.0](https://www.goodreads.com/book/show/38825280-django-for-beginners) - William S. Vincent
   - [Django for Professionals: Production websites with Python & Django](https://www.goodreads.com/book/show/50048171-django-for-professionals) - William S. Vincent
   - [Django for APIs: Build web APIs with Python & Django](https://www.goodreads.com/book/show/45306631-django-for-apis) - William S. Vincent
 - Mathematics for CS
 - Haskell
-  - [Real World Haskell: Code You Can Believe In](https://www.goodreads.com/book/show/3226758-real-world-haskell?ac=1&from_search=true&qid=e3ACCjHitv&rank=1) - Bryan O'Sullivan
+  - [Real World Haskell: Code You Can Believe In](https://www.goodreads.com/book/show/3226758-real-world-haskell) - Bryan O'Sullivan
 - [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software) - Charles Petzold
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) - Fred Brooks
 - [Code Complete](https://en.wikipedia.org/wiki/Code_Complete) - Steve McConnell
@@ -220,29 +241,6 @@
 - [Everything Is F cked](https://en.wikipedia.org/wiki/Everything_Is_Fucked) - Mark Manson
 - [Rich Dad Poor Dad](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad) - Robert Kiyosaki, Sharon Lechter
 - [12 Rules for Life](https://en.wikipedia.org/wiki/12_Rules_for_Life) - Jordan Peterson
-
-## Recreational mathematics
-
-- Martin Gardner
-  - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
-  - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
-  - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
-  - [Mathematics, Magic and Mystery](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
-  - [The Unexpected Hanging and Other Mathematical Diversions](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
-  - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
-  - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
-  - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
-- Ian Stewart
-  - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
-  - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
-  - [Professor Stewart's Cabinet of Mathematical Curiosities](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
-  - [Nature's Numbers: The Unreal Reality Of Mathematics](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
-  - [Professor Stewart's Incredible Numbers](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
-- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math) - Arthur T. Benjamin
-- [536 Puzzles & Curious Problems](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems) - Henry Ernest Dudeney
-- [Magic Squares And Cubes](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes) - William Symes Andrews
-- [More Puzzles to Puzzle You](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you) - Shakuntala Devi
-- [Remember It!](https://www.goodreads.com/book/show/38657042-remember-it) - Nelson Dellis
 
 ## Philosophy and religion
 

@@ -15,8 +15,8 @@
 ### Math
 
 - [The Numberphile Podcast](https://www.numberphile.com/podcast) ([YouTube](https://www.youtube.com/playlist?list=PLt5AfwLFPxWLNVixpe1w3fi6lE2OTq0ET)) - Brady Haran
-- [Ben, Ben and Blue](https://www.benbenandblue.com/)
-- [The 3b1b podcast](https://www.youtube.com/channel/UC78Ib99EBhMN3NemVjYm3Ig)
+- [Ben, Ben and Blue](https://www.benbenandblue.com/) - Grant Sanderson, Ben Eater
+- [The 3b1b podcast](https://www.youtube.com/channel/UC78Ib99EBhMN3NemVjYm3Ig) ([YouTube](https://www.youtube.com/channel/UC78Ib99EBhMN3NemVjYm3Ig)) - Grant Sanderson
 
 ### Programming
 
@@ -34,7 +34,7 @@
 
 ### Technology
 
-- [Artificial Intelligence Podcast](https://lexfridman.com/podcast/) ([YouTube](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)) - Lex Fridman
+- [Lex Fridman Podcast](https://lexfridman.com/podcast/) ([YouTube](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)) - Lex Fridman
 - [Lew Later](https://www.lewlater.com/) ([YouTube](https://www.youtube.com/channel/UCXv-co3EYHF7aOH4A93qAHQ)) - Unbox Therapy
 - [The Create Unknown](https://www.thecreateunknown.com/) ([YouTube](https://www.youtube.com/playlist?list=PL3ILhZeR_2YSzTguiTryZS8bkQXTviNcc)) - Kevin Lieber
 - [The WAN Show](https://www.youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH) - Linus Tech Tips
@@ -53,12 +53,13 @@
 - [Exponent](https://exponent.fm/) - Ben Thompson, James Allworth
 - [Hanselminutes Technology Podcast](https://hanselminutes.com/) - Scott Hanselman
 
-### Cubing
+### Puzzles and Chess
 
 - [Cracking The Cryptic Podcast](https://podcasts.apple.com/ca/podcast/cracking-the-cryptic-podcast/id1565806863) ([YouTube](https://www.youtube.com/playlist?list=PLK-l8O0YikOm_s7DgInHZxYZm8hyrODUJ)) - Mark Goodliffe, Simon Anthony
 - [Layer By Layer](https://podcasts.apple.com/us/podcast/layer-by-layer/id1406870986) - Andrew Nathenson, Kit Clement
+- [The Perpetual Chess Podcast](https://www.perpetualchesspod.com/)
 
-### Miscellaneous
+### Misc
 
 - [The Joe Rogan Experience](https://www.joerogan.com/) ([YouTube](https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ)) - Joe Rogan
 - [Making Sense](https://samharris.org/podcast/) ([YouTube](https://www.youtube.com/playlist?list=PLDtc_uppNe1oyTZ6HQc3jEU1Q0WRpTWGF)) - Sam Harris
@@ -68,8 +69,8 @@
 - [Tiny Meat Gang](https://www.tinymeats.com/) ([YouTube](https://www.youtube.com/channel/UC4sf8XtH_uXnwNP699luQVQ)) - Cody Ko, Noel Miller
 - [The Misfits Podcast](https://www.youtube.com/channel/UC4sf8XtH_uXnwNP699luQVQ) ([YouTube](https://www.youtube.com/channel/UC6OUstIo-qXiJzcsJ0toz-A))
 - [Trash Taste](https://trashtaste.com/) ([YouTube](https://www.youtube.com/channel/UCcmxOGYGF51T1XsqQLewGtQ)) - The Anime Man, Gigguk, Cdawgva
-- [Cream Crew](https://www.youtube.com/channel/UCAQeEeOyVrxw_o3bd4s0Smg) - Flashgitz, Meatcanyon
-- [What's Good Podcast](https://www.youtube.com/channel/UCFPElAbES8GHfBZrDrGbSLQ) - Miniminter, Randolph
+- [Cream Crew](https://www.youtube.com/channel/UCAQeEeOyVrxw_o3bd4s0Smg) ([YouTube](https://www.youtube.com/channel/UCAQeEeOyVrxw_o3bd4s0Smg)) - Flashgitz, Meatcanyon
+- [What's Good Podcast](https://www.youtube.com/channel/UCFPElAbES8GHfBZrDrGbSLQ) ([YouTube](https://www.youtube.com/channel/UCFPElAbES8GHfBZrDrGbSLQ)) - Miniminter, Randolph
 - [Monday Morning Podcast](https://billburr.com/podcast/) ([YouTube](https://www.youtube.com/channel/UCAp990eMLzmei84WNR4ptgA)) - Bill Burr
 - [Naval](https://nav.al/) ([YouTube](https://www.youtube.com/playlist?list=PL5QAQBV5zCqXqrXaWACI3ZACs5XgWPJup)) - Naval Ravikant
 - [The Portal](https://ericweinstein.org/) ([YouTube](https://www.youtube.com/playlist?list=PLq9jO8fmlPee9ezOraOHAJ3g9Zh3V2F2G)) - Eric Weinstein
@@ -115,4 +116,3 @@
 - [The Daily](https://podcasts.apple.com/us/podcast/the-daily/id1200361736) - The New York Times
 - [Good For You](https://www.whitneycummings.com/goodforyou) - Whitney Cummings
 - [Jocko Podcast](https://jockopodcast.com/) - Jocko Willink
-- [The Perpetual Chess Podcast](https://www.perpetualchesspod.com/)

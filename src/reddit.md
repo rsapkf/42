@@ -632,12 +632,13 @@
 - [r/mildlyvagina](https://www.reddit.com/r/mildlyvagina/)
 - [r/wildlypenis](https://www.reddit.com/r/wildlypenis/)
 - [r/FiftyFifty](https://www.reddit.com/r/FiftyFifty/)
+- [r/worldpolitics](https://www.reddit.com/r/worldpolitics/)
 
 ### Miscellaneous
 
-- [r/bestof](https://www.reddit.com/r/bestof/)
 - [r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/)
 - [r/MuseumOfReddit](https://www.reddit.com/r/MuseumOfReddit/)
+- [r/bestof](https://www.reddit.com/r/bestof/)
 - [r/funny](https://www.reddit.com/r/funny/)
 - [r/IAmA](https://www.reddit.com/r/IAmA/)
 - [r/AskReddit](https://www.reddit.com/r/AskReddit/)
@@ -680,7 +681,6 @@
 - [r/Jokes](https://www.reddit.com/r/Jokes/)
 - [r/podcasts](https://www.reddit.com/r/podcasts/)
 - [r/politics](https://www.reddit.com/r/politics/)
-- [r/worldpolitics](https://www.reddit.com/r/worldpolitics/)
 - [r/coolguides](https://www.reddit.com/r/coolguides/)
 - [r/mildlyinfuriating](https://www.reddit.com/r/mildlyinfuriating/)
 - [r/BeAmazed](https://www.reddit.com/r/BeAmazed/)
@@ -947,10 +947,10 @@
 - [r/LeopardsAteMyFace](https://www.reddit.com/r/LeopardsAteMyFace/)
 - [r/anime_titties](https://www.reddit.com/r/anime_titties/)
 
-### Reddit profiles
+### Profiles
 
-- [u/spez](https://www.reddit.com/user/spez) - Steve Huffman, Reddit CEO.
-- [u/kn0thing](https://www.reddit.com/user/kn0thing) - Alexis Ohanian, Reddit Co-founder.
-- [u/thisisbillgates](https://www.reddit.com/user/thisisbillgates) - Bill Gates.
-- [u/SuddenlySnowden](https://www.reddit.com/user/SuddenlySnowden) - Edward Snowden.
-- [u/GovSchwarzenegger](https://www.reddit.com/user/GovSchwarzenegger) - Arnold Schwarzenegger.
+- [u/spez](https://www.reddit.com/u/spez) - Steve Huffman, Reddit CEO
+- [u/kn0thing](https://www.reddit.com/u/kn0thing) - Alexis Ohanian, Reddit Co-founder
+- [u/thisisbillgates](https://www.reddit.com/u/thisisbillgates) - Bill Gates
+- [u/SuddenlySnowden](https://www.reddit.com/u/SuddenlySnowden) - Edward Snowden
+- [u/GovSchwarzenegger](https://www.reddit.com/u/GovSchwarzenegger) - Arnold Schwarzenegger

@@ -1,6 +1,6 @@
 # Lists, articles, and essays
 
-### HN
+### Hacker News
 
 - [What do you self-host?](https://news.ycombinator.com/item?id=21235957)
 - [How to get your IP unbanned on HN.](https://news.ycombinator.com/item?id=4761102)
@@ -19,8 +19,8 @@
 
 ### Stack Overflow
 
-- [c++ - The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [vi - Your problem with Vim is that you don't grok vi.](https://stackoverflow.com/a/1220118)
+- [c++ - The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [javascript - How does the “this” keyword work?](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
 - [python - What is the purpose of the word 'self'?](https://stackoverflow.com/questions/2709821/what-is-the-purpose-of-the-word-self)
 - [date - Why does man print "gimme gimme gimme" at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
@@ -77,7 +77,7 @@
   - [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
   - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon's_law)
 
-### Miscellaneous
+### Misc
 
 - Programming
   - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/) - Eric S. Raymond

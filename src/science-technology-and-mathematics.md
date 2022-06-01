@@ -229,19 +229,13 @@
     - [The n-Category Café](https://golem.ph.utexas.edu/category/)
   - Miscellaneous
     - [Feedly Discover](https://feedly.com/i/discover/)
-    - HackerNews/Y Combinator
-      - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
-      - [HN/leaders](https://news.ycombinator.com/leaders) - Users with most karma.
-      - [HN/front](https://news.ycombinator.com/front) - Front page submissions for a given day (e.g. 2016-06-20).
-      - [HN Lists](https://news.ycombinator.com/lists)
+    - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
       - [Y Combinator Company List](https://yclist.com/)
       - [Hacker Newsletter](https://www.hackernewsletter.com/)
       - [n-gate.com](http://n-gate.com/) - we can't both be right.
       - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time.
       - [Best of Show HN](https://bestofshowhn.com/)
-    - Reddit
-      - [Reddit](https://reddit.com/)
-      - [Top Posts of 2020](https://www.reddit.com/posts/2020/)
+    - [Reddit](https://reddit.com/)
       - [redditlist.com](http://redditlist.com/)
     - [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
     - [YouTube](https://www.youtube.com/)

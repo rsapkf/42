@@ -13,10 +13,10 @@
 
 ### Chess
 
+- [GMNaroditsky](https://www.twitch.tv/gmnaroditsky)
 - [GMHikaru](https://www.twitch.tv/gmhikaru)
 - [GothamChess](https://www.twitch.tv/gothamchess)
 - [BotezLive](https://www.twitch.tv/botezlive)
-- [Doggydogg20](https://www.twitch.tv/doggydogg20)
 
 ### Cubing
 
@@ -28,3 +28,7 @@
 - [jacksepticeye](https://www.twitch.tv/jacksepticeye)
 - [moistcr1tikal](https://www.twitch.tv/moistcr1tikal)
 - [tommyinnit](https://www.twitch.tv/tommyinnit)
+
+### Misc
+
+- [Doggydogg20](https://www.twitch.tv/doggydogg20)

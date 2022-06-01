@@ -32,7 +32,7 @@
   - [Enhancer for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
   - [Wikiwand: Wikipedia Modernized](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
   - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) - userscript manager. `open-source upto v2.9`
-- Web browsers:
+- Web browsers
   - [Google Chrome](https://www.google.com/chrome/)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - Search engines

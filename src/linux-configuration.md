@@ -37,10 +37,11 @@
 ### Learning
 
 - Linux
-  - [Linux.com](https://www.linux.com/) - resource for open source professionals to learn about the latest in Linux and open source technology.
-  - [HowtoForge](https://www.howtoforge.com/) - Linux Tutorials.
+  - [Linux.com](https://www.linux.com/) - Resource for open source professionals to learn about the latest in Linux and open source technology.
+  - [HowtoForge](https://www.howtoforge.com/) - Linux tutorials.
   - [tldp.org](https://www.tldp.org/) - The Linux Documentation Project.
-  - [linux.die.net](https://linux.die.net/) - Linux Documentation.
+  - [linux.die.net](https://linux.die.net/) - Linux documentation.
+  - [Ubuntu Manpage](https://manpages.ubuntu.com/)
   - [LWN.net](https://lwn.net/) - News from the source.
   - [kernel.org](https://www.kernel.org/) - The Linux Kernel Archives.
   - [Linux Journal](https://www.linuxjournal.com/) `discontinued`
