@@ -1,0 +1,4 @@
+---
+id: haskell
+title: Haskell
+---

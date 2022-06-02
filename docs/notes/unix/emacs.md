@@ -1,0 +1,4 @@
+---
+id: emacs
+title: Emacs
+---

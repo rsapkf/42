@@ -1,10 +1,10 @@
 [build]
   base = "/"
-  command = "curl -L https://github.com/rust-lang/mdBook/releases/download/v0.4.7/mdbook-v0.4.7-x86_64-unknown-linux-gnu.tar.gz | tar xvz && ./mdbook build"
-  publish = "book"
+  command = "npm run build"
+  publish = "build"
 
 [[redirects]]
-  from = "https://rsapkf-links.netlify.app/*"
-  to = "https://links.rsapkf.xyz/:splat"
+  from = "https://rsapkf-wiki.netlify.app/*"
+  to = "https://wiki.rsapkf.xyz/:splat"
   status = 301
   force = true
