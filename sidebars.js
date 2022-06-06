@@ -7,6 +7,7 @@ module.exports = {
         'notes/unix/unix',
         'notes/unix/vim',
         'notes/unix/emacs',
+        'notes/unix/readline',
         'notes/unix/tmux',
         'notes/unix/git',
         'notes/unix/grep',
@@ -22,6 +23,7 @@ module.exports = {
         'notes/unix/pgp',
         'notes/unix/rsync',
         'notes/unix/shells',
+        'notes/unix/archival',
         'notes/unix/window-managers',
         'notes/unix/terminal-emulators',
         'notes/unix/text-editors-and-ides',
@@ -32,6 +34,8 @@ module.exports = {
       type: 'category',
       label: 'Programming',
       items: [
+        'notes/programming/regex',
+        'notes/programming/lorem-ipsum',
         'notes/programming/python',
         'notes/programming/javascript',
         'notes/programming/typescript',
@@ -43,9 +47,15 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Courses',
+      items: ['notes/courses/google-ux-design'],
+    },
+    {
+      type: 'category',
       label: 'Recreational mathematics',
       items: [
         'notes/recreational-mathematics/speedcubing',
+        'notes/recreational-mathematics/cfop',
         'notes/recreational-mathematics/mathemagics',
         'notes/recreational-mathematics/chess',
         'notes/recreational-mathematics/card-tricks',
@@ -73,7 +83,6 @@ module.exports = {
       label: 'Misc',
       items: [
         'notes/misc/websites',
-        'notes/misc/rss',
         'notes/misc/privacy',
         'notes/misc/poems',
         'notes/misc/quotes',

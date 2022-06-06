@@ -229,6 +229,7 @@ title: YouTube subscriptions
 - [Scientific American](https://www.youtube.com/channel/UC_xYMXx_-mAzheKyEtwtCAQ)
 - [The Thought Emporium](https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ)
 - [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA)
+- [Sabine Hossenfelder](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw)
 - [brusspup](https://www.youtube.com/channel/UCeQEKFH31vvD-InkTGSvCrA)
 - [Thoughty2](https://www.youtube.com/channel/UCRlICXvO4XR4HMeEB9JjDlA)
 - [Atomic Frontier](https://www.youtube.com/channel/UCbCq5Y0WPGimG2jNXhoQxGw)
@@ -236,7 +237,6 @@ title: YouTube subscriptions
 - [Anton Petrov](https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ)
 - [Eric Weinstein](https://www.youtube.com/channel/UCR85PW_B_7_Aisx5vNS7Gjw)
 - [Bret Weinstein](https://www.youtube.com/channel/UCi5N_uAqApEUIlg32QzkPlg)
-- [DarkHorse Podcast Clips](https://www.youtube.com/channel/UCAWCKUrmvK5F_ynBY_CMlIA)
 - [RealLifeLore](https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww)
 - [BioArk](https://www.youtube.com/channel/UCVkgJKL07bSQ1b54Pnz186Q)
 - [Aperture](https://www.youtube.com/channel/UCO5QSoES5yn2Dw7YixDYT5Q)
@@ -308,7 +308,6 @@ title: YouTube subscriptions
 - [TechCrunch](https://www.youtube.com/channel/UCCjyq_K1Xwfg8Lndy7lKMpA)
 - [Austin Evans](https://www.youtube.com/channel/UCXGgrKt94gR6lmN4aN3mYTg)
 - [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
-- [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww)
 - [BPS.space](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
 - [Bill Gates](https://www.youtube.com/channel/UCnEiGCE13SUI7ZvojTAVBKw)
 - [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g)
@@ -322,8 +321,8 @@ title: YouTube subscriptions
 - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
 - [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
 - [The Studio](https://www.youtube.com/channel/UCG7J20LhUeLl6y_Emi7OJrA)
+- [Auto Focus](https://www.youtube.com/channel/UC2J-0g_nxlwcD9JBK1eTleQ)
 - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
-- [LMG Clips](https://www.youtube.com/channel/UCFLFc8Lpbwt4jPtY1_Ai5yA)
 - [ShortCircuit](https://www.youtube.com/channel/UCdBK94H6oZT2Q7l0-b0xmMg)
 - [What's Inside?](https://www.youtube.com/channel/UCSrPuHtKbst7Zy8pyWn_3Cg)
 - [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
@@ -361,25 +360,20 @@ title: YouTube subscriptions
 ### Podcasts
 
 - [WVFRM Podcast](https://www.youtube.com/channel/UCEcrRXW3oEYfUctetZTAWLw)
-- [Waveform Clips](https://www.youtube.com/channel/UCc_ycus0q7DSd85ZkmEY5ig)
 - [Lew Later](https://www.youtube.com/channel/UCXv-co3EYHF7aOH4A93qAHQ)
-- [Later Clips](https://www.youtube.com/channel/UCtVGGeUqfVHOK4Q6nAwYO3g)
 - [Hello Internet](https://www.youtube.com/channel/UCwez9XDNV_wS0WNDZteXjgw)
 - [Tiny Meat Gang](https://www.youtube.com/channel/UC4sf8XtH_uXnwNP699luQVQ)
-- [TMG Podcast Highlights](https://www.youtube.com/channel/UCdftuX9H8kW14Njxtpnuy3Q)
 - [Misfits Podcast](https://www.youtube.com/channel/UC6OUstIo-qXiJzcsJ0toz-A)
-- [Misfits Podcast Clips](https://www.youtube.com/channel/UC_xGi9VGsn6xgxigxyNoKxw)
 - [Cold Ones](https://www.youtube.com/channel/UCfbnTUxUech4P1XgYUwYuKA)
 - [Cream Crew](https://www.youtube.com/channel/UCAQeEeOyVrxw_o3bd4s0Smg)
 - [What's Good Podcast](https://www.youtube.com/channel/UCFPElAbES8GHfBZrDrGbSLQ)
 - [The Create Unknown](https://www.youtube.com/channel/UC4Abl9Z_dKFxA7fRFnGPLiA)
 - [H3 Podcast](https://www.youtube.com/channel/UCLtREJY21xRfCuEKvdki1Kw)
-- [H3 Podcast Highlights](https://www.youtube.com/channel/UCZZHPXsg6LopvdOKF7qM6cQ)
 - [Trash Taste](https://www.youtube.com/channel/UCcmxOGYGF51T1XsqQLewGtQ)
-- [Trash Taste Highlights](https://www.youtube.com/channel/UCry1ZVKLslbZXuQgsf-3TXg)
 - [Naval](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg)
 - [RIF Podcast](https://www.youtube.com/channel/UCiSx0uc5XdIYgcfIPKotc-g)
 - [The Origins Podcast](https://www.youtube.com/channel/UCdXsq_0BeYE5OHnrKuFGhHA)
+- [FULL SEND PODCAST](https://www.youtube.com/channel/UChPuCAEXg7iYkVNjQY1NGYg)
 
 ### Horror/Mystery
 
@@ -393,6 +387,7 @@ title: YouTube subscriptions
 - [Rob Gavagan](https://www.youtube.com/channel/UCYxrnDjNQZIs_aAcdhqSveg)
 - [Barely Sociable](https://www.youtube.com/channel/UC9PIn6-XuRKZ5HmYeu46AIw)
 - [JCS - Criminal Psychology](https://www.youtube.com/channel/UCYwVxWpjeKFWwu8TML-Te9A)
+- [Wendigoon](https://www.youtube.com/channel/UC3cpN6gcJQqcCM6mxRUo_dA)
 
 ### Recreational mathematics
 
@@ -499,13 +494,13 @@ title: YouTube subscriptions
 - [Corpse Husband](https://www.youtube.com/channel/UCFNTq9XKHDNy_1-2lL0kqCg)
 - [JJ Olatunji](https://www.youtube.com/channel/UCGmnsW623G1r-Chmo5RB4Yw)
 - [KSI](https://www.youtube.com/channel/UCVtFOytbRpEvzLjvqGG5gxQ)
-- [KSIClips](https://www.youtube.com/channel/UCMiY4t431lhXY4QtPZtzftQ)
 - [Sidemen](https://www.youtube.com/channel/UCDogdKl7t7NHzQ95aEwkdMw)
 - [MoreSidemen](https://www.youtube.com/channel/UCh5mLn90vUaB1PbRRx_AiaA)
 - [Miniminter](https://www.youtube.com/channel/UCWZmCMB7mmKWcXJSIPRhzZw)
 - [MM7Games](https://www.youtube.com/channel/UCjB_adDAIxOL8GA4Y4OCt8g)
 - [LazarBeam](https://www.youtube.com/channel/UCw1SQ6QRRtfAhrN_cjkrOgA)
 - [LazarLazar](https://www.youtube.com/channel/UCZ3AmknSJtbzXCeO5a4peoQ)
+- [CoryxKenshin](https://www.youtube.com/channel/UCiYcA0gJzg855iSKMrX3oHg)
 - [Dream](https://www.youtube.com/channel/UCTkXRDQl0luXxVQrRQvWS6w)
 - [DreamXD](https://www.youtube.com/channel/UChU3JRloULzdFX3aCu7BiSA)
 - [Sapnap](https://www.youtube.com/channel/UCqynl7rdtktKMQESdSBmE-g)
@@ -607,6 +602,7 @@ title: YouTube subscriptions
 
 ### Music
 
+- [Loudwire](https://www.youtube.com/channel/UC8mnXeOlR9hC2w8aYqY9WNQ)
 - [Genius](https://www.youtube.com/channel/UCyFZMEnm1il5Wv3a6tPscbA)
 - [TheFatRat](https://www.youtube.com/channel/UCa_UMppcMsHIzb5LDx1u9zQ)
 - [melodysheep](https://www.youtube.com/channel/UCR9sFzaG9Ia_kXJhfxtFMBA)
@@ -651,6 +647,7 @@ title: YouTube subscriptions
 - [CaseyNeistat](https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ)
 - [Ryan Trahan](https://www.youtube.com/channel/UCnmGIkw-KdI0W5siakKPKog)
 - [Abroad in Japan](https://www.youtube.com/channel/UCHL9bfHTxCMi-7vfxQ-AYtg)
+- [Chris Abroad](https://www.youtube.com/channel/UCuJn_2HhHRqnu3xiIukNx1Q)
 - [Karl Rock](https://www.youtube.com/channel/UCtfXgNnA-QcxjHJjk5wXLFg)
 - [bald and bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
 - [Harald Baldr](https://www.youtube.com/channel/UCKr68ZJ4vv6VloNdnS2hjhA)
@@ -686,7 +683,7 @@ title: YouTube subscriptions
 - [Macro Room](https://www.youtube.com/channel/UCBLBaTZqjr8-VEjXBnz7tOA)
 - [Imphenzia](https://www.youtube.com/channel/UCzfWju7SFoWLCyV_gDVCrGA)
 
-### Woodworking/Blacksmithing/DIY
+### DIY
 
 - [Steve Ramsey - Woodworking for Mere Mortals](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w)
 - [I Like To Make Stuff](https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw)

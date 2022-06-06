@@ -5,34 +5,34 @@ title: STEM
 
 ## Science, mostly
 
-- [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
 - [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration.
 - [ESA](https://www.esa.int/) - European Space Agency.
 - [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization.
-- [The Newton Project](http://www.newtonproject.ox.ac.uk/) - a comprehensive edition of all of Newton’s printed and unpublished writings.
+- [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
+- [Digital Einstein Papers](https://einsteinpapers.press.princeton.edu/)
+- [The Newton Project](http://www.newtonproject.ox.ac.uk/) - A comprehensive edition of all of Newton’s printed and unpublished writings.
+- [Newton Papers](http://cudl.lib.cam.ac.uk/collections/newton/1)
 - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/)
 - [Quantum Country](https://quantum.country/)
-- [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/)
-- [Newton Papers](http://cudl.lib.cam.ac.uk/collections/newton/1)
-- [Seeing Theory](https://seeing-theory.brown.edu/index.html)
 - [The Encyclopedia of Science Fiction](http://sf-encyclopedia.com/)
-- [Digital Einstein Papers](https://einsteinpapers.press.princeton.edu/)
+- [Periodic Table of Elements - LANL](https://periodic.lanl.gov)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [Scientific American](https://www.scientificamerican.com/)
 - [Space.com](https://www.space.com/)
 - [ScienceMag](https://www.sciencemag.org/)
 - [iflscience](https://www.iflscience.com/)
 - [CURIOSITY](https://curiosity.com/)
 - [phys.org](https://phys.org/)
-- [Quanta Magazine](https://www.quantamagazine.org/)
 - [New Scientist](https://www.newscientist.com/)
 - [ScienceAlert](https://www.sciencealert.com/)
 - [Futurism](https://futurism.com/)
 - [Popular Science](https://www.popsci.com/)
-- [Scientific American](https://www.scientificamerican.com/)
 - [JunkScience](https://junkscience.com/)
 - [Quillette](https://quillette.com/)
 - People
   - [Preposterous Universe](https://www.preposterousuniverse.com/) - Sean Caroll.
   - [Backreaction](https://backreaction.blogspot.com/) - Sabine Hossenfelder.
+  - [How to become a Good Theoretical Physicist](https://www.goodtheorist.science/) - Gerard 't Hooft.
 
 ## Mathematics
 
@@ -45,7 +45,7 @@ title: STEM
 - [Things to Make and Do in the Fourth Dimension](https://makeanddo4d.com/)
 - [GIMPS: Great Internet Mersenne Prime Search](https://www.mersenne.org/) - Collaborative project of volunteers who use freely available software to search for Mersenne prime numbers.
 - [Folding@home](https://foldingathome.org/) - Distributed computing project aimed to help scientists develop new therapeutics to a variety of diseases by the means of simulating protein dynamics.
-- [LMFDB - The L-functions and modular forms database](http://www.lmfdb.org/)
+- [LMFDB](http://www.lmfdb.org/) - The L-functions and modular forms database.
 - [Mathematical Association of America](https://www.maa.org/)
 - [Fermat's Library](https://fermatslibrary.com/) - Software to help illuminate academic papers.
 - [Brilliant](https://brilliant.org/) `paid`
@@ -58,10 +58,10 @@ title: STEM
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
 - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - Notes for classes that Prof. Paul Dawkins teaches at Lamar University.
 - [Real Not Complex](https://realnotcomplex.com/) - Discover incredible free resources to study mathematics.
-- [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [Cool Math Games](https://www.coolmathgames.com/)
 - [The Fibonacci Quarterly](https://www.fq.math.ca/)
 - [Gravity and Levity](https://gravityandlevity.wordpress.com/)
+- [Plus magazine](https://plus.maths.org/)
 - People
   - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
   - [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
@@ -73,295 +73,305 @@ title: STEM
 
 ## Technology
 
-- Privacy
-  - [gnu.org](https://www.gnu.org/)
-  - [That One Privacy Site](https://thatoneprivacysite.net/about/)
-  - [Richard Stallman's Personal Site ](https://stallman.org/index.html)
-  - [WikiLeaks](https://wikileaks.org)
-  - [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/)
-  - [DuckDuckGo Blog](https://spreadprivacy.com/)
-  - [EFF Blog](https://www.eff.org/)
-  - [The Mozilla Learning Network](https://learning.mozilla.org/en-US/activities)
-  - [Tutanota Blog](https://www.tutanota.com/blog)
-  - [ProtonMail Blog](https://protonmail.com/blog/)
-  - [Mozilla Blog](https://blog.mozilla.org/)
-  - [Mozilla Hacks](https://hacks.mozilla.org/)
-  - [NordVPN Blog](https://nordvpn.com/blog/)
-  - [ExpressVPN Blog](https://www.expressvpn.com/blog/)
-  - [Stop Using Facebook](https://www.stopusingfacebook.co/)
-  - [ethical.net](https://ethical.net/)
-  - [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
-  - [Restore Privacy](https://restoreprivacy.com/)
-  - [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
-- Blogs
-  - [StackOverflow Blog](https://stackoverflow.blog/)
-  - [Twilio Blog](https://www.twilio.com/blog)
-  - [Coding Horror](https://blog.codinghorror.com/)
-  - [GitHub Blog](https://github.blog/)
-  - [Uber Engineering Blog](https://eng.uber.com/)
-  - [Slack Engineering](https://slack.engineering/)
-  - [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
-  - [Netflix TechBlog](https://medium.com/netflix-techblog)
-  - [Discord Blog](https://blog.discordapp.com/)
-  - [YouTube Official Blog](https://blog.youtube/)
-  - [Grammarly Blog](https://www.grammarly.com/blog/)
-  - [Timescale Blog](https://blog.timescale.com/)
-  - [Instagram Engineering](https://instagram-engineering.com/)
-  - [Smashing Magazine](https://medium.com/@smashingmag) - Useful and innovative information to web designers and developers.
-  - [Project Zero](https://googleprojectzero.blogspot.com/)
-  - [Dropbox Tech Blog - Dropbox](https://dropbox.tech/)
-  - [The Coinbase Blog](https://blog.coinbase.com/)
-  - [The Official NVIDIA Blog](https://blogs.nvidia.com/)
-  - [MongoDB Blog](https://www.mongodb.com/blog)
-  - [Figma blog](https://www.figma.com/blog/)
-  - [Stories by Dribbble](https://dribbble.com/stories)
-  - [Sindre Sorhus](https://medium.com/@sindresorhus)
-  - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
-  - [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
-  - [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
-  - [Brian Armstrong](https://blog.coinbase.com/@barmstrong) - Co-Founder and CEO at Coinbase.
-  - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
-  - [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
-  - [Addy Osmani](https://medium.com/@addyosmani) - Eng. Manager at Google working on Chrome.
-  - [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
-  - [Cisco Talos Intelligence Group](https://blog.talosintelligence.com/)
-  - [TestDriven.io Blog](https://testdriven.io/blog/)
-  - [pganalyze Blog](https://pganalyze.com/blog)
-  - [The Teleport Blog](https://goteleport.com/blog/)
-  - [Qvault Blog](https://qvault.io/articles/)
-  - [Simple Thread Blog](https://www.simplethread.com/blog/)
-  - [r2c blog](https://r2c.dev/blog)
-  - [Packagecloud Blog](https://blog.packagecloud.io/)
-  - [Capital and Growth](https://capitalandgrowth.org/blog/)
-  - [Vitalik Buterin](https://vitalik.ca/)
-  - [Distill](https://distill.pub/) - Articles about machine learning.
-  - [Julia Evans](https://jvns.ca/)
-  - [Christopher Olah](https://colah.github.io/)
-  - [Andrej Karpathy](https://karpathy.github.io/)
-  - [Andrej Karpathy - Medium](https://medium.com/@karpathy)
-  - [Lea Verou](https://lea.verou.me/)
-  - [martinfowler.com](https://martinfowler.com/)
-  - [fasterthanli.me](https://fasterthanli.me/)
-  - [Michael Nielsen](http://michaelnielsen.org/blog/)
-  - [Nick Bostrom](https://www.nickbostrom.com/)
-  - [Simon Willison](https://simonwillison.net/)
-  - [Benedict Evans](https://www.ben-evans.com/)
-  - [David Walsh](https://davidwalsh.name/)
-  - [blog.izs.me](https://blog.izs.me/)
-  - [Nicky Case](https://ncase.me/)
-  - [null program](https://nullprogram.com/) - Chris Wellons.
-  - [Eli Bendersky](https://eli.thegreenplace.net/)
-  - [swyx.io](https://www.swyx.io/) - Shawn Wang.
-  - [Susan Fowler](https://www.susanjfowler.com/)
-  - [Kalzumeus](https://www.kalzumeus.com/) - Patrick McKenzie.
-  - [Brett Cannon](https://snarky.ca/)
-  - [Neopythonic](https://neopythonic.blogspot.com/) - Guido van Rossum.
-  - [Sara Soueidan](https://www.sarasoueidan.com/)
-  - [2ality](https://2ality.com/) - JavaScript and more by Dr. Axel Rauschmayer.
-  - [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products.
-  - [<antirez\>](http://antirez.com) - Salvatore Sanfilippo.
-  - [fasterli.me](https://fasterthanli.me/)
-  - [catonmat.net](https://catonmat.net/) - Peter Krumins, powered by Alien Technology.
-  - [Dan Luu](https://danluu.com/)
-  - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
-  - [The Daily WTF](http://thedailywtf.com/) - Curious Perversions in Information Technology.
-  - [Raph Levien](https://raphlinus.github.io/)
-  - [Compiled;](https://compiled.blog/)
-  - [Red Blob Games](https://www.redblobgames.com/)
-  - [Sam Altman](https://blog.samaltman.com/)
-  - [Drew DeVault](https://drewdevault.com/)
-  - [Andy Matuschak](https://andymatuschak.org/)
-  - [Benedict Evans](https://www.ben-evans.com/)
-  - [Robert Heaton](https://robertheaton.com/)
-  - [Dave Rupert](https://daverupert.com/)
-  - [Adam Wathan](https://adamwathan.me/)
-  - [Charles Stross](https://www.antipope.org/charlie/blog-static/index.html)
-  - [benkuhn.net](https://www.benkuhn.net/)
-  - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
-  - [zachleat.com](https://www.zachleat.com/)
-  - [Martin Tournoij](https://www.arp242.net/)
-  - [Marco Arment](https://marco.org/)
-  - [Jeff Kaufman](https://www.jefftk.com/)
-  - [Brad Frost](https://bradfrost.com/)
-  - [Kevin Kelly](https://kk.org/)
-  - [Yasoob Khalid](https://yasoob.me/)
-  - [Restricted Data](http://blog.nuclearsecrecy.com/) - The Nuclear Secrecy Blog.
-  - [CSS Wizardry](https://csswizardry.com/)
-  - [Rodrigo's Stuff](https://www.copetti.org/) - Rodrigo Copetti.
-  - [programming is terrible](https://programmingisterrible.com/)
-  - [beepb00p](https://beepb00p.xyz/)
-  - [Daniel Stenberg](https://daniel.haxx.se/)
-  - [Calvin French-Owen](https://calv.info/)
-  - [tonsky.me](https://tonsky.me/)
-  - [Will Crichton](https://willcrichton.net/notes/)
-  - [Neil Sainsbury](https://www.neilwithdata.com/)
-  - [Max Böck](https://mxb.dev/)
-  - [Arabesque](https://blog.sanctum.geek.nz/)
-  - [craphound.com](https://craphound.com/) - Cory Doctorow.
-  - [charity.wtf](https://charity.wtf/)
-  - [Haki Benita](https://hakibenita.com/)
-  - [macwright.com](https://macwright.com/)
-  - [Slate Star Codex](https://slatestarcodex.com/)
-  - [Astral Codex Ten](https://astralcodexten.substack.com/)
-  - [Applied Divinity Studies](https://applieddivinitystudies.com/)
-  - [Mark Erikson](https://blog.isquaredsoftware.com/)
-  - [Vintage Computing and Gaming](https://www.vintagecomputing.com/)
-  - [zeux.io](https://zeux.io/)
-  - [David Winterbottom](https://codeinthehole.com/)
-  - [Pascal's scribbles](https://deterministic.space/)
-  - [ploeh blog](https://blog.ploeh.dk/)
-  - [Sam Curry](https://samcurry.net/) - Web Application Security Researcher.
-  - [Brett Buerhaus](https://buer.haus/)
-  - [Intuitive Explanations](https://intuitiveexplanations.com/)
-  - [Deciphering Glyph](https://glyph.twistedmatrix.com/)
-  - [esoteric.codes](https://esoteric.codes/)
-  - [mkdev](https://mkdev.me/)
-  - [Dhruv On Math](https://www.dhruvonmath.com/)
-  - [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
-  - [Chip Huyen](https://huyenchip.com/)
-  - [Venam's Blog](https://venam.nixers.net/blog/)
-  - [Vicki Boykis](https://veekaybee.github.io/)
-  - [Practical Business Python](https://pbpython.com/)
-  - [Brandon Rhodes](https://rhodesmill.org/brandon/)
-  - [Henrik Warne](https://henrikwarne.com/)
-  - [250bpm](https://250bpm.com/)
-  - [Infinity Plus One](https://infinityplusonemath.wordpress.com/)
-  - [The n-Category Café](https://golem.ph.utexas.edu/category/)
-- Miscellaneous
-  - [Feedly Discover](https://feedly.com/i/discover/)
-  - [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
-    - [Y Combinator Company List](https://yclist.com/)
-    - [Hacker Newsletter](https://www.hackernewsletter.com/)
-    - [n-gate.com](http://n-gate.com/) - We can't both be right.
-    - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time.
-    - [Best of Show HN](https://bestofshowhn.com/)
-  - [Reddit](https://reddit.com/)
-    - [redditlist.com](http://redditlist.com/)
-  - [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
-  - [YouTube](https://www.youtube.com/)
-  - [Stack Overflow](https://stackoverflow.com/)
-  - [Slashdot](https://www.slashdot.org/)
-  - [nixers.net](https://nixers.net/)
-  - [Quora](https://www.quora.com/)
-  - [Stratechery](https://stratechery.com/) - Ben Thompson.
-  - [dev.to](https://dev.to/)
-  - [Indie Hackers](https://www.indiehackers.com/)
-  - [Failory](https://www.failory.com/) - Learn from other entrepreneur's mistakes.
-  - [Medium](https://medium.com/)
-  - [Dribble](https://dribbble.com/) - Find and showcase creative work from world's best design professionals.
-  - [Behance](https://www.behance.net/) - Showcase and discover creative work.
-  - [Triplebyte](https://triplebyte.com/) - Software Engineer Job Search.
-  - [fossjobs.net](https://www.fossjobs.net/)
-  - [.:: Phrack Magazine ::.](http://www.phrack.org/)
-  - [Wayback Machine](https://archive.org/web/)
-  - [Wikipedia](https://wikipedia.org)
-  - [MIT Technology Review](https://www.technologyreview.com/)
-  - [Facebook Open Source ](https://opensource.facebook.com/)
-  - [Twitter Open Source](https://twitter.github.io/)
-  - [Venture Hacks](https://venturehacks.com/) - Advice for startups.
-  - [Facebook Engineering](https://engineering.fb.com/)
-  - [Google Open Source](https://opensource.google/)
-  - [Adobe Open Source](https://opensource.adobe.com/)
-  - [Google Developers Blog](https://developers.googleblog.com/)
-  - [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News.
-  - [ZDNet](https://www.zdnet.com/)
-  - [Reuters](https://www.reuters.com)
-  - [Product Hunt](https://www.producthunt.com/) - The best new products, every day.
-  - [techradar](https://www.techradar.com/)
-  - [Hacker Noon](https://hackernoon.com/)
-  - [Ars Technica](https://arstechnica.com/)
-  - [TechCrunch](https://techcrunch.com/)
-  - [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
-  - [The Guardian](https://www.theguardian.com/)
-  - [The Verge](https://www.theverge.com/)
-  - [ProgrammableWeb](https://www.programmableweb.com/) - Leading source of news and information about Internet-based APIs.
-  - [Harvard Business Review](https://hbr.org/)
-  - [Stratechery](https://stratechery.com)
-  - [Serializer](https://serializer.io)
-  - [Investopedia](https://www.investopedia.com/)
-  - [Engadget](https://www.engadget.com/)
-  - [YCombinator](https://www.ycombinator.com)
-  - [BoingBoing](https://boingboing.net/)
-  - [Gizmodo](https://gizmodo.com/)
-  - [lifehacker](https://lifehacker.com/)
-  - [Fast Company](https://www.fastcompany.com/)
-  - [HowStuffWorks](https://www.howstuffworks.com/)
-  - [aeon](https://aeon.co/) - Essays, Ideas, Videos
-  - [lifewire](https://lifewire.com)
-  - [HowToGeek](https://www.howtogeek.com/)
-  - [XDA Developers](https://www.xda-developers.com/)
-  - [AngelList](https://angel.co/) - Experience the startup ecosystem — invest in startups, research the fastest-growing companies, and find a job you love.
-  - [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
-  - [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
-  - [secretGeekWiki](http://wiki.secretgeek.net/About)
-  - [DistroWatch](https://distrowatch.com)
-  - [distrochooser](https://distrochooser.de/en) - Guide for Linux beginners to choosing a suitable Linux distribution.
-  - [Wait But Why](https://waitbutwhy.com/)
-  - [Logical Increments](http://www.logicalincrements.com/) - PC building guides.
-  - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
-  - [It's FOSS](https://itsfoss.com/)
-  - [techdirt](https://www.techdirt.com/)
-  - [Social Blade](https://socialblade.com/) - Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter.
-  - [MakeUseOf](https://www.makeuseof.com/)
-  - [Epsilon Theory](https://www.epsilontheory.com/)
-  - [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page) - Unofficial wiki dedicated to collecting, storing and providing information on the internals of Apple's iDevices.
-- Magazines/Newspapers
-  - [National Geographic](https://www.nationalgeographic.com/)
-  - [Fortune](https://fortune.com/)
-  - [The New York Times](https://www.nytimes.com/)
-  - [The Washington Post](https://www.washingtonpost.com/)
-  - [The Wall Street Journal](https://www.wsj.com/)
-  - [Variety](https://variety.com/)
-  - [Paris Review](https://www.theparisreview.org/)
-  - [Rolling Stone](https://www.rollingstone.com/)
-  - [Inc.com](https://www.inc.com/)
-  - [The Atlantic](https://www.theatlantic.com/)
-  - [Axios](https://www.axios.com/)
-  - [Longreads](https://longreads.com/)
-  - [Longform](https://longform.org/)
-  - [TorrentFreak](https://torrentfreak.com/)
-  - [Daily Nous](https://dailynous.com/)
-  - [Teslarati](https://www.teslarati.com/)
-- Hacking/Cybersecurity
-  - [Schneier on Security](https://www.schneier.com/) - Bruce Schneier.
-  - [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation.
-  - [Null Byte](https://null-byte.wonderhowto.com/)
-  - [Web Security Academy](https://portswigger.net/web-security) - Cybersecurity Training from PortSwigger.
-  - [Objective-See](https://objective-see.com/index.html)
-  - [bugcrowd](https://www.bugcrowd.com/) - Crowdsourced Security Platform.
-  - [Kevin Mitnick](https://www.mitnicksecurity.com/)
-  - [Edward Snowden - Continuing Ed — with Edward Snowden](https://edwardsnowden.substack.com/people/39023675-edward-snowden)
-  - [Gwern.net](https://www.gwern.net/)
-  - [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
-  - [linusakesson.net](https://www.linusakesson.net/index.php)
-  - [Martin Kleppmann](https://martin.kleppmann.com/)
-  - [John D. Cook](https://www.johndcook.com/blog/)
-- People
-  - [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
-  - [Brian Kernighan](https://www.cs.princeton.edu/~bwk/)
-  - [Don Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
-  - [Paul Graham](http://paulgraham.com/)
-  - [Gates Notes](http://gatesnotes.com/)
-  - [Eric S. Raymond](http://www.catb.org/esr/)
-  - [Richard Stallman](https://www.stallman.org/)
-  - [Bjarne Stroustrup](http://www.stroustrup.com/index.html)
-  - [Joel Spolsky](https://www.joelonsoftware.com/)
-  - [Aaron Swartz](http://www.aaronsw.com/)
-  - [\_why](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) ([\_why's Estate](https://viewsourcecode.org/why/))
-  - [Stephen Wolfram](https://www.stephenwolfram.com/)
-  - [The View from Aristeia](https://scottmeyers.blogspot.com/) - Scott Mayer's blog.
-  - [Peter Norwig](http://norvig.com/)
-  - [Douglas Crockford](https://www.crockford.com/)
-  - [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
-  - [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
-  - [Brett Slatkin](https://www.onebigfluke.com/)
-  - [Jamie Zawinski](https://www.jwz.org/)
-  - [Jessie Frazelle](https://blog.jessfraz.com/)
-  - [Fabrice Bellard](https://bellard.org/)
-  - [Marijn Haverbeke](https://marijnhaverbeke.nl/)
-  - [Chet Ramey](https://tiswww.case.edu/php/chet/)
-  - [Sindre Sorhus](https://sindresorhus.com/)
-  - [Kenneth Reitz](https://www.kennethreitz.org/)
-  - [Derek Sivers](https://sivers.org/)
-  - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
-  - [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
+### Privacy
+
+- [WikiLeaks](https://wikileaks.org)
+- [EFF Blog](https://www.eff.org/)
+- [gnu.org](https://www.gnu.org/)
+- [DuckDuckGo Blog](https://spreadprivacy.com/)
+- [Tutanota Blog](https://www.tutanota.com/blog)
+- [ProtonMail Blog](https://protonmail.com/blog/)
+- [Mozilla Blog](https://blog.mozilla.org/)
+- [Mozilla Hacks](https://hacks.mozilla.org/)
+- [NordVPN Blog](https://nordvpn.com/blog/)
+- [ExpressVPN Blog](https://www.expressvpn.com/blog/)
+- [ethical.net](https://ethical.net/)
+- [PRISM Break](https://prism-break.org/en/) - Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
+- [Restore Privacy](https://restoreprivacy.com/)
+- [Guard](https://useguard.com/) - Discover the hidden secrets in privacy policies.
+- [Stop Using Facebook](https://www.stopusingfacebook.co/)
+- [That One Privacy Site](https://thatoneprivacysite.net/about/)
+- [Secure Messaging Apps Comparison](https://www.securemessagingapps.com/)
+
+### Blogs
+
+- [StackOverflow Blog](https://stackoverflow.blog/)
+- [Twilio Blog](https://www.twilio.com/blog)
+- [Coding Horror](https://blog.codinghorror.com/)
+- [GitHub Blog](https://github.blog/)
+- [Uber Engineering Blog](https://eng.uber.com/)
+- [Slack Engineering](https://slack.engineering/)
+- [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
+- [Netflix TechBlog](https://medium.com/netflix-techblog)
+- [Discord Blog](https://blog.discordapp.com/)
+- [YouTube Official Blog](https://blog.youtube/)
+- [Grammarly Blog](https://www.grammarly.com/blog/)
+- [Timescale Blog](https://blog.timescale.com/)
+- [Instagram Engineering](https://instagram-engineering.com/)
+- [Smashing Magazine](https://medium.com/@smashingmag) - Useful and innovative information to web designers and developers.
+- [Project Zero](https://googleprojectzero.blogspot.com/)
+- [Dropbox Tech Blog - Dropbox](https://dropbox.tech/)
+- [The Coinbase Blog](https://blog.coinbase.com/)
+- [The Official NVIDIA Blog](https://blogs.nvidia.com/)
+- [MongoDB Blog](https://www.mongodb.com/blog)
+- [Figma blog](https://www.figma.com/blog/)
+- [Stories by Dribbble](https://dribbble.com/stories)
+- [Sindre Sorhus](https://medium.com/@sindresorhus)
+- [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
+- [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
+- [Amelia Wattenberge](https://wattenberger.com/)
+- [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
+- [Brian Armstrong](https://blog.coinbase.com/@barmstrong) - Co-Founder and CEO at Coinbase.
+- [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))
+- [Blake Ross](https://medium.com/@blakeross) - Founder @ Firefox, Former Director of Product @ Facebook.
+- [Addy Osmani](https://medium.com/@addyosmani) - Eng. Manager at Google working on Chrome.
+- [Charles Scalfani](https://medium.com/@cscalfani) - Software Engineer and Architect, Teacher, Writer, Filmmaker, Photographer, Artist…
+- [Cisco Talos Intelligence Group](https://blog.talosintelligence.com/)
+- [TestDriven.io Blog](https://testdriven.io/blog/)
+- [pganalyze Blog](https://pganalyze.com/blog)
+- [The Teleport Blog](https://goteleport.com/blog/)
+- [Qvault Blog](https://qvault.io/articles/)
+- [Simple Thread Blog](https://www.simplethread.com/blog/)
+- [r2c blog](https://r2c.dev/blog)
+- [Packagecloud Blog](https://blog.packagecloud.io/)
+- [Capital and Growth](https://capitalandgrowth.org/blog/)
+- [Vitalik Buterin](https://vitalik.ca/)
+- [Distill](https://distill.pub/) - Articles about machine learning.
+- [Julia Evans](https://jvns.ca/)
+- [Christopher Olah](https://colah.github.io/)
+- [Andrej Karpathy](https://karpathy.github.io/)
+- [Andrej Karpathy - Medium](https://medium.com/@karpathy)
+- [Lea Verou](https://lea.verou.me/)
+- [martinfowler.com](https://martinfowler.com/)
+- [fasterthanli.me](https://fasterthanli.me/)
+- [Michael Nielsen](http://michaelnielsen.org/blog/)
+- [Nick Bostrom](https://www.nickbostrom.com/)
+- [Simon Willison](https://simonwillison.net/)
+- [Benedict Evans](https://www.ben-evans.com/)
+- [David Walsh](https://davidwalsh.name/)
+- [blog.izs.me](https://blog.izs.me/)
+- [Nicky Case](https://ncase.me/)
+- [null program](https://nullprogram.com/) - Chris Wellons.
+- [Eli Bendersky](https://eli.thegreenplace.net/)
+- [swyx.io](https://www.swyx.io/) - Shawn Wang.
+- [Susan Fowler](https://www.susanjfowler.com/)
+- [Kalzumeus](https://www.kalzumeus.com/) - Patrick McKenzie.
+- [Brett Cannon](https://snarky.ca/)
+- [Neopythonic](https://neopythonic.blogspot.com/) - Guido van Rossum.
+- [Sara Soueidan](https://www.sarasoueidan.com/)
+- [2ality](https://2ality.com/) - JavaScript and more by Dr. Axel Rauschmayer.
+- [kottke.org](https://www.kottke.org) - Home of Fine HyperText Products.
+- [<antirez\>](http://antirez.com) - Salvatore Sanfilippo.
+- [fasterli.me](https://fasterthanli.me/)
+- [catonmat.net](https://catonmat.net/) - Peter Krumins, powered by Alien Technology.
+- [Dan Luu](https://danluu.com/)
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+- [The Daily WTF](http://thedailywtf.com/) - Curious Perversions in Information Technology.
+- [Raph Levien](https://raphlinus.github.io/)
+- [Compiled;](https://compiled.blog/)
+- [Red Blob Games](https://www.redblobgames.com/)
+- [Sam Altman](https://blog.samaltman.com/)
+- [Drew DeVault](https://drewdevault.com/)
+- [Andy Matuschak](https://andymatuschak.org/)
+- [Benedict Evans](https://www.ben-evans.com/)
+- [Robert Heaton](https://robertheaton.com/)
+- [Dave Rupert](https://daverupert.com/)
+- [Adam Wathan](https://adamwathan.me/)
+- [Charles Stross](https://www.antipope.org/charlie/blog-static/index.html)
+- [benkuhn.net](https://www.benkuhn.net/)
+- [Mr. Money Mustache](https://www.mrmoneymustache.com/)
+- [zachleat.com](https://www.zachleat.com/)
+- [Martin Tournoij](https://www.arp242.net/)
+- [Marco Arment](https://marco.org/)
+- [Jeff Kaufman](https://www.jefftk.com/)
+- [Brad Frost](https://bradfrost.com/)
+- [Kevin Kelly](https://kk.org/)
+- [Yasoob Khalid](https://yasoob.me/)
+- [Restricted Data](http://blog.nuclearsecrecy.com/) - The Nuclear Secrecy Blog.
+- [CSS Wizardry](https://csswizardry.com/)
+- [Rodrigo's Stuff](https://www.copetti.org/) - Rodrigo Copetti.
+- [programming is terrible](https://programmingisterrible.com/)
+- [beepb00p](https://beepb00p.xyz/)
+- [Daniel Stenberg](https://daniel.haxx.se/)
+- [Calvin French-Owen](https://calv.info/)
+- [tonsky.me](https://tonsky.me/)
+- [Will Crichton](https://willcrichton.net/notes/)
+- [Neil Sainsbury](https://www.neilwithdata.com/)
+- [Max Böck](https://mxb.dev/)
+- [Arabesque](https://blog.sanctum.geek.nz/)
+- [craphound.com](https://craphound.com/) - Cory Doctorow.
+- [charity.wtf](https://charity.wtf/)
+- [Haki Benita](https://hakibenita.com/)
+- [macwright.com](https://macwright.com/)
+- [Slate Star Codex](https://slatestarcodex.com/)
+- [Astral Codex Ten](https://astralcodexten.substack.com/)
+- [Applied Divinity Studies](https://applieddivinitystudies.com/)
+- [Mark Erikson](https://blog.isquaredsoftware.com/)
+- [Vintage Computing and Gaming](https://www.vintagecomputing.com/)
+- [zeux.io](https://zeux.io/)
+- [David Winterbottom](https://codeinthehole.com/)
+- [Pascal's scribbles](https://deterministic.space/)
+- [ploeh blog](https://blog.ploeh.dk/)
+- [Sam Curry](https://samcurry.net/) - Web Application Security Researcher.
+- [Brett Buerhaus](https://buer.haus/)
+- [Intuitive Explanations](https://intuitiveexplanations.com/)
+- [Deciphering Glyph](https://glyph.twistedmatrix.com/)
+- [esoteric.codes](https://esoteric.codes/)
+- [mkdev](https://mkdev.me/)
+- [Dhruv On Math](https://www.dhruvonmath.com/)
+- [The Cheapskate's Guide to Computers and the Internet](https://cheapskatesguide.org/)
+- [Chip Huyen](https://huyenchip.com/)
+- [Venam's Blog](https://venam.nixers.net/blog/)
+- [Vicki Boykis](https://veekaybee.github.io/)
+- [Practical Business Python](https://pbpython.com/)
+- [Brandon Rhodes](https://rhodesmill.org/brandon/)
+- [Henrik Warne](https://henrikwarne.com/)
+- [250bpm](https://250bpm.com/)
+- [Infinity Plus One](https://infinityplusonemath.wordpress.com/)
+- [The n-Category Café](https://golem.ph.utexas.edu/category/)
+
+### Magazines/Newspapers
+
+- [National Geographic](https://www.nationalgeographic.com/)
+- [Fortune](https://fortune.com/)
+- [The New York Times](https://www.nytimes.com/)
+- [The Washington Post](https://www.washingtonpost.com/)
+- [The Wall Street Journal](https://www.wsj.com/)
+- [Variety](https://variety.com/)
+- [Paris Review](https://www.theparisreview.org/)
+- [Rolling Stone](https://www.rollingstone.com/)
+- [Inc.com](https://www.inc.com/)
+- [The Atlantic](https://www.theatlantic.com/)
+- [Axios](https://www.axios.com/)
+- [Longreads](https://longreads.com/)
+- [Longform](https://longform.org/)
+- [TorrentFreak](https://torrentfreak.com/)
+- [Daily Nous](https://dailynous.com/)
+- [Teslarati](https://www.teslarati.com/)
+
+### Cybersecurity
+
+- [Schneier on Security](https://www.schneier.com/) - Bruce Schneier.
+- [Krebs on Security](https://krebsonsecurity.com/) - In-depth security news and investigation.
+- [Null Byte](https://null-byte.wonderhowto.com/)
+- [Web Security Academy](https://portswigger.net/web-security) - Cybersecurity Training from PortSwigger.
+- [Objective-See](https://objective-see.com/index.html)
+- [bugcrowd](https://www.bugcrowd.com/) - Crowdsourced Security Platform.
+- [Kevin Mitnick](https://www.mitnicksecurity.com/)
+- [Continuing Ed](https://edwardsnowden.substack.com/people/39023675-edward-snowden) - Edward Snowden.
+- [Gwern.net](https://www.gwern.net/)
+- [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson.
+- [linusakesson.net](https://www.linusakesson.net/index.php)
+- [Martin Kleppmann](https://martin.kleppmann.com/)
+- [John D. Cook](https://www.johndcook.com/blog/)
+
+### People
+
+- [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/)
+- [Brian Kernighan](https://www.cs.princeton.edu/~bwk/)
+- [Don Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
+- [Paul Graham](http://paulgraham.com/)
+- [Gates Notes](http://gatesnotes.com/)
+- [Eric S. Raymond](http://www.catb.org/esr/)
+- [Richard Stallman](https://www.stallman.org/)
+- [Bjarne Stroustrup](http://www.stroustrup.com/index.html)
+- [Joel Spolsky](https://www.joelonsoftware.com/)
+- [Aaron Swartz](http://www.aaronsw.com/)
+- [\_why](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) ([\_why's Estate](https://viewsourcecode.org/why/))
+- [Stephen Wolfram](https://www.stephenwolfram.com/)
+- [The View from Aristeia](https://scottmeyers.blogspot.com/) - Scott Mayer's blog.
+- [Peter Norwig](http://norvig.com/)
+- [Douglas Crockford](https://www.crockford.com/)
+- [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
+- [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+- [Brett Slatkin](https://www.onebigfluke.com/)
+- [Jamie Zawinski](https://www.jwz.org/)
+- [Jessie Frazelle](https://blog.jessfraz.com/)
+- [Fabrice Bellard](https://bellard.org/)
+- [Marijn Haverbeke](https://marijnhaverbeke.nl/)
+- [Chet Ramey](https://tiswww.case.edu/php/chet/)
+- [Sindre Sorhus](https://sindresorhus.com/)
+- [Kenneth Reitz](https://www.kennethreitz.org/)
+- [Derek Sivers](https://sivers.org/)
+- [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+- [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
+
+### Miscellaneous
+
+- [Feedly Discover](https://feedly.com/i/discover/)
+- [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
+  - [Y Combinator Company List](https://yclist.com/)
+  - [Hacker Newsletter](https://www.hackernewsletter.com/)
+  - [n-gate.com](http://n-gate.com/) - We can't both be right.
+  - [hckrnews.com](https://hckrnews.com) - Hacker News sorted by time.
+  - [Best of Show HN](https://bestofshowhn.com/)
+- [Reddit](https://reddit.com/)
+  - [redditlist.com](http://redditlist.com/)
+- [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
+- [YouTube](https://www.youtube.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Slashdot](https://www.slashdot.org/)
+- [nixers.net](https://nixers.net/)
+- [Quora](https://www.quora.com/)
+- [Stratechery](https://stratechery.com/) - Ben Thompson.
+- [dev.to](https://dev.to/)
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Failory](https://www.failory.com/) - Learn from other entrepreneur's mistakes.
+- [Medium](https://medium.com/)
+- [Dribble](https://dribbble.com/) - Find and showcase creative work from world's best design professionals.
+- [Behance](https://www.behance.net/) - Showcase and discover creative work.
+- [Triplebyte](https://triplebyte.com/) - Software Engineer Job Search.
+- [fossjobs.net](https://www.fossjobs.net/)
+- [.:: Phrack Magazine ::.](http://www.phrack.org/)
+- [Wayback Machine](https://archive.org/web/)
+- [Wikipedia](https://wikipedia.org)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [Facebook Open Source ](https://opensource.facebook.com/)
+- [Twitter Open Source](https://twitter.github.io/)
+- [Venture Hacks](https://venturehacks.com/) - Advice for startups.
+- [Facebook Engineering](https://engineering.fb.com/)
+- [Google Open Source](https://opensource.google/)
+- [Adobe Open Source](https://opensource.adobe.com/)
+- [Google Developers Blog](https://developers.googleblog.com/)
+- [Space.com](https://www.space.com/) - NASA, Space Exploration and Astronomy News.
+- [ZDNet](https://www.zdnet.com/)
+- [Reuters](https://www.reuters.com)
+- [Product Hunt](https://www.producthunt.com/) - The best new products, every day.
+- [techradar](https://www.techradar.com/)
+- [Hacker Noon](https://hackernoon.com/)
+- [Ars Technica](https://arstechnica.com/)
+- [TechCrunch](https://techcrunch.com/)
+- [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
+- [The Guardian](https://www.theguardian.com/)
+- [The Verge](https://www.theverge.com/)
+- [ProgrammableWeb](https://www.programmableweb.com/) - Leading source of news and information about Internet-based APIs.
+- [Harvard Business Review](https://hbr.org/)
+- [Stratechery](https://stratechery.com)
+- [Serializer](https://serializer.io)
+- [Investopedia](https://www.investopedia.com/)
+- [Engadget](https://www.engadget.com/)
+- [YCombinator](https://www.ycombinator.com)
+- [BoingBoing](https://boingboing.net/)
+- [Gizmodo](https://gizmodo.com/)
+- [lifehacker](https://lifehacker.com/)
+- [Fast Company](https://www.fastcompany.com/)
+- [HowStuffWorks](https://www.howstuffworks.com/)
+- [aeon](https://aeon.co/) - Essays, Ideas, Videos
+- [lifewire](https://lifewire.com)
+- [HowToGeek](https://www.howtogeek.com/)
+- [XDA Developers](https://www.xda-developers.com/)
+- [AngelList](https://angel.co/) - Experience the startup ecosystem — invest in startups, research the fastest-growing companies, and find a job you love.
+- [stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
+- [Kickstarter](https://www.kickstarter.com/design-tech) - global crowdfunding platform focused on creativity.
+- [secretGeekWiki](http://wiki.secretgeek.net/About)
+- [DistroWatch](https://distrowatch.com)
+- [distrochooser](https://distrochooser.de/en) - Guide for Linux beginners to choosing a suitable Linux distribution.
+- [Wait But Why](https://waitbutwhy.com/)
+- [Logical Increments](http://www.logicalincrements.com/) - PC building guides.
+- [Lambda the Ultimate](http://lambda-the-ultimate.org/)
+- [It's FOSS](https://itsfoss.com/)
+- [techdirt](https://www.techdirt.com/)
+- [Social Blade](https://socialblade.com/) - Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter.
+- [MakeUseOf](https://www.makeuseof.com/)
+- [Epsilon Theory](https://www.epsilontheory.com/)
+- [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page) - Unofficial wiki dedicated to collecting, storing and providing information on the internals of Apple's iDevices.

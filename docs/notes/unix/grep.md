@@ -18,8 +18,7 @@ grep -nr 'string*' . # Recursively search current directory for `string`
 
 ### Regular expressions
 
-- [Regex cheatsheet - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet)
-- [Regex cheatsheet - docs.linuxfoundation.org](https://docs.linuxfoundation.org/v2/security-service/manage-false-positives/regular-expressions-cheat-sheet)
+See also: [/notes/programming/regex](/notes/programming/regex)
 
 ```shell
 grep "^eggs" <file> # Find all lines starting with `eggs`

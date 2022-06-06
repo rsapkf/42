@@ -11,8 +11,8 @@ title: Window managers
   ```\ title="/usr/share/xsessions/dwm.desktop"
   [Desktop Entry]
   Encoding=UTF-8
-  Name=Dwm
-  Comment=Dynamic window manager
+  Name=dwm
+  Comment=dynamic window manager
   Exec=dwm
   Icon=dwm
   Type=XSession

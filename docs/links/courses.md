@@ -1,6 +1,6 @@
 ---
 id: courses
-title: Massive open online courses
+title: MOOCs
 ---
 
 ### Platforms
@@ -9,6 +9,7 @@ title: Massive open online courses
 - [edX.org](https://www.edx.org/)
 - [The Linux Foundation Training](https://training.linuxfoundation.org/)
 - [freeCodeCamp](https://freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
 - [Coursera](https://www.coursera.org/)

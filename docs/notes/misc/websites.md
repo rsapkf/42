@@ -54,11 +54,13 @@ title: Websites
   - `!amo`: addons.mozilla.org
   - `!cws`: Chrome Web Store
   - `!wbm`: The Wayback Machine
+  - `tldr tar`: Unix cheatsheets
 - [DuckDuckGo Instant Answers](https://duck.co/ia)
   - [random person](https://duckduckgo.com/?q=random+person+name+generator)
   - [color picker](https://duckduckgo.com/?q=color+picker)
   - [#a326bf](https://duckduckgo.com/?q=%23a326bf)
   - [rubiks cube patterns](https://duckduckgo.com/?q=rubiks+cube+patterns)
+  - [qr code sample_text](https://duckduckgo.com/?t=ffab&q=qr+code+sample_text)
   - [shorten https://duckduckgo.com](https://duckduckgo.com/?q=shorten+https%3A%2F%2Fduckduckgo.com): Shorten a link.
   - [expand https://bit.ly/2MQPwSt](https://duckduckgo.com/?q=expand+https%3A%2F%2Fbit.ly%2F2MQPwSt): Expand the shortened link to original link.
   - [loan \$100000 at 5% with 20% down paymeny for 10 years](https://duckduckgo.com/?q=loan+%24100000+at+5%25+with+20%25+down+paymeny+for+10+years): Calculate monthly payments on a loan.
@@ -91,6 +93,7 @@ title: Websites
 ### YouTube
 
 - Create playlist from video IDs: [youtube.com/watch_videos?video_ids=dQw4w9WgXcQ,jNQXAC9IVRw,LeAltgu_pbM](https://www.youtube.com/watch_videos?video_ids=dQw4w9WgXcQ,jNQXAC9IVRw,LeAltgu_pbM)
+- Creepy redirect: [youtube.com/watc?v=QH2-TGUlwu4](https://www.youtube.com/watc?v=QH2-TGUlwu4)
 
 ## IRC
 

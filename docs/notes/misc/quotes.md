@@ -103,11 +103,15 @@ title: Quotes
 
 > Mr. Madison, what you've just said is one of the most insanely idiotic things I have ever heard. At no point in your rambling, incoherent response were you even close to anything that could be considered a rational thought. Everyone in this room is now dumber for having listened to it. I award you no points, and may God have mercy on your soul.
 
-#### Night In The Woods
+### Night In The Woods
 
 > I believe in a universe that doesn't care and people who do.
 
 ## Science
+
+### Isaac Newton
+
+> If I have been able to see further, it was only because I stood on the shoulders of giants.
 
 ### Carl Sagan
 
@@ -137,9 +141,15 @@ title: Quotes
 
 > I don’t believe in astrology; I’m a Sagittarius and we’re skeptical.
 
+> Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.
+
+### Robert A. Heinlein
+
+> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
+
 ---
 
-## Miscellaneous
+## Misc
 
 ### Douglas Adams
 
@@ -181,6 +191,10 @@ title: Quotes
 
 > The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer. [[Cunnigham's Law](https://en.wikipedia.org/wiki/Ward_Cunningham#%22Cunningham's_Law%22)]
 
+### Aaron Swartz
+
+> Think deeply about things. Don’t just go along because that’s the way things are or that’s what your friends say. Consider the effects, consider the alternatives, but most importantly, just think.
+
 ### Erik Naggum
 
 > Life is hard, and then you die.
@@ -192,6 +206,20 @@ title: Quotes
 ### Ronald Coase
 
 > If you torture the data long enough, it will confess to anything.
+
+### Charles Bukowski
+
+> The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence.
+
+> For those who believe in God, most of the big questions are answered. But for those of us who can't readily accept the God formula, the big answers don't remain stone-written. We adjust to new conditions and discoveries. We are pliable. Love need not be a command nor faith a dictum. I am my own god. We are here to unlearn the teachings of the church, state, and our educational system. We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.
+
+> Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside — remembering all the times you've felt that way.
+
+> We're all going to die, all of us, what a circus! That alone should make us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.
+
+### Dr. Seuss
+
+> Unless someone like you cares a whole awful lot, Nothing is going to get better. It's not. [[The Lorax](https://en.wikipedia.org/wiki/The_Lorax)]
 
 ---
 

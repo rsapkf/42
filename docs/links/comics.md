@@ -18,6 +18,7 @@ title: Comics
   - [Transmetropolitan](https://en.wikipedia.org/wiki/Transmetropolitan) - Warren Ellis
   - [Batman: The Long Halloween](https://en.wikipedia.org/wiki/Batman:_The_Long_Halloween) - Jeph Loeb
 - Marvel
+  - [Marvels](https://en.wikipedia.org/wiki/Marvels) - Kurt Busiek, Alex Ross, Marcus McLaurin
 - Manga
   - [Naruto](https://en.wikipedia.org/wiki/Naruto) - Masashi Kishimoto
   - [One Piece](https://en.wikipedia.org/wiki/One_Piece) - Eiichiro Oda

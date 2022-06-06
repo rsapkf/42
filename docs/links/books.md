@@ -18,6 +18,7 @@ title: Books
   - [Eloquent JavaScript](https://eloquentjavascript.net/) - Marijn Haverbeke ([GitHub](https://github.com/marijnh/Eloquent-JavaScript))
 - Haskell
   - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovaca
+  - [Real World Haskell](http://book.realworldhaskell.org/) - Bryan O'Sullivan
 - C++
   - [Competitive Programmer's Handbook](https://github.com/pllk/cphb) - Antti Laaksonen
 - Deep learning/ML
@@ -37,7 +38,7 @@ title: Books
   - [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) - Debian Project
 - Vim
   - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh
-- [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted](https://sarabander.github.io/sicp/html/index.xhtml) ([GitHub](https://github.com/sarabander/sicp)))
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted](https://sarabander.github.io/sicp/html/index.xhtml))
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://source-academy.github.io/sicp/)
 - [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. ([reformatted](https://www.arp242.net/the-art-of-unix-programming/))
 - [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/) - Machtelt Garrels
@@ -56,7 +57,7 @@ title: Books
 - [Essential Image Optimization](https://images.guide/) - Addy Osmani ([GitHub](https://github.com/GoogleChrome/essential-image-optimization))
 - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google
 - [Building Secure and Reliable Systems](https://landing.google.com/sre/static/pdf/SRS.pdf) - Google
-- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - authors of four dozen open source applications
+- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - Authors of four dozen open source applications
 - [Enterprise Open Source: A Practical Introduction](https://www.linuxfoundation.org/open-source-management/2018/08/enterprise-open-source-practical-introduction/) - The Linux Foundation
 - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed/index.html) - Stephen Wolfram
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) ([GitHub](http://github.com/pomax/BezierInfo-2))
@@ -69,6 +70,11 @@ title: Books
 - [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus Thompson. ([reformatted](http://calculusmadeeasy.org/) ([GitHub](https://github.com/nadvornix/calculus-made-easy)))
 - [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) - J. Ström, K. Åström, T. Akenine-Möller
 - [Mathematics All-in-One Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf) - Alex Spartalis
+- [The Probability and Statistics Cookbook](http://statistics.zone/) - Matthias Vallentin ([Source](https://github.com/mavam/stat-cookbook))
+
+### Physics
+
+- [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman, Jack Wisdom ([reformatted](https://tgvaughan.github.io/sicm/))
 
 ### Philosophy
 
@@ -94,9 +100,101 @@ title: Books
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics
 
-## Misc
+## CS
 
-### Physics and non-fiction
+- AI, ML
+  - [Artificial Intelligence: A Modern Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) - Stuart J. Russell, Peter Norvig
+  - [Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning) - Christopher M. Bishop
+- Linux
+  - [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) - Brian W. Kernighan, Rob Pike
+  - [Advanced Programming in the Unix Environment](https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment) - W. Richard Stevens
+  - [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) - Michael Kerrisk
+  - [How Linux Works](https://www.goodreads.com/book/show/514432.How_Linux_Works) - Brian Ward
+- C
+  - [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language) - Brian Kernighan, Dennis Ritchie
+- C++
+  - [C++ Primer](https://www.goodreads.com/book/show/768080.C_Primer) - Stanley B. Lippman
+  - [Programming: Principles and Practice Using C++](https://www.goodreads.com/book/show/2914066-programming) - Bjarne Stroustrup
+  - [A Tour of C++](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Bjarne Stroustrup
+  - [The C++ Programming Language](https://www.goodreads.com/book/show/112251.The_C_Programming_Language) - Bjarne Stroustrup
+  - [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.goodreads.com/book/show/22800553-effective-modern-c) - Scott Meyers
+  - [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.goodreads.com/book/show/871669.Modern_C_Design) - Andrei Alexandrescu
+  - [More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions](https://www.goodreads.com/book/show/1370491.More_Exceptional_C_) - Herb Sutter
+  - [The C++ Standard Library: A Tutorial and Reference](https://www.goodreads.com/book/show/18689533-the-c-standard-library) - Nicolai M. Josuttis
+  - [C++ Templates: The Complete Guide](https://www.goodreads.com/book/show/806932.C_Templates) - David Vandevoorde
+- Java
+  - [Effective Java Programming Language Guide](https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide) - Joshua Bloch
+  - [Head First Java](https://www.goodreads.com/book/show/231262.Head_First_Java) - Kathy Sierra
+- Algorithms
+  - [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. (GitHub: [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4))
+  - [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - Donald Knuth
+  - [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) - Steven S. Skiena
+  - [Algorithms](https://www.goodreads.com/book/show/138563.Algorithms) - Sanjoy Dasgupta
+  - [Algorithms Illuminated: Part 1: The Basics](https://www.goodreads.com/book/show/36323236-algorithms-illuminated) - Tim Roughgarden
+  - [Algorithms Illuminated (Part 2): Graph Algorithms and Data Structures](https://www.goodreads.com/book/show/41122869-algorithms-illuminated-part-2) - Tim Roughgarden
+  - [Algorithms Illuminated (Part 3): Greedy Algorithms and Dynamic Programming](https://www.goodreads.com/book/show/45448911-algorithms-illuminated-part-3) - Tim Roughgarden
+  - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian
+  - [Learning JavaScript Data Structures and Algorithms](https://www.goodreads.com/book/show/23622169-learning-javascript-data-structures-and-algorithms) - Loiane Groner
+- JavaScript
+- CSS
+  - [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui) - Adam Wathan
+- Vim
+  - [Learning the vi and Vim Editors](https://en.wikipedia.org/wiki/Learning_the_vi_and_Vim_Editors) - Arnold Robbins, Elbert Hannah, Linda Lamb
+  - [Practical Vim: Edit Text at the Speed of Thought](https://www.goodreads.com/book/show/13607232-practical-vim) - Drew Neil
+- Python
+  - [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) - Luciano Ramalho. ([GitHub](https://github.com/fluentpython/example-code))
+  - [Effective Python: 90 Specific Ways to Write Better Python](https://www.goodreads.com/book/show/48566725-effective-python) - Brett Slatkin. ([GitHub](https://github.com/bslatkin/effectivepython))
+  - [Python Tricks: A Buffet of Awesome Python Features](https://www.goodreads.com/book/show/36990732-python-tricks) - Dan Bader
+  - [Django for Beginners: Learn web development with Django 2.0](https://www.goodreads.com/book/show/38825280-django-for-beginners) - William S. Vincent
+  - [Django for Professionals: Production websites with Python & Django](https://www.goodreads.com/book/show/50048171-django-for-professionals) - William S. Vincent
+  - [Django for APIs: Build web APIs with Python & Django](https://www.goodreads.com/book/show/45306631-django-for-apis) - William S. Vincent
+- Mathematics for CS
+- [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software) - Charles Petzold
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) - Fred Brooks
+- [Code Complete](https://en.wikipedia.org/wiki/Code_Complete) - Steve McConnell
+- [Cracking the Coding Interview](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview) - Gayle Laakmann McDowell
+- [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) - Andrew Hunt, David Thomas
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns) - Erich Gamma
+- [Head First Design Patterns](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) - Eric Freeman
+- [Founders at Work: Stories of Startups' Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) - Jessica Livingston
+- [The Elements of Typographic Style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style) - Robert Bringhurst
+
+## Mathematics
+
+- [Fermat's Last Theorem](<https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem_(book)>) - Simon Singh
+- [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book) - Simon Singh
+- [Infinity and the Mind](https://en.wikipedia.org/wiki/Infinity_and_the_Mind) - Rudy Rucker
+- [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown) - Ian Stewart
+- [A Mathematician's Lament](https://en.wikipedia.org/wiki/A_Mathematician%27s_Lament) - Paul Lockhart
+- Textbooks
+  - [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics) - Princeton University Press
+  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Sheldon Axler
+  - [Disquisitiones Arithmeticae](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae) - Carl Friedrich Gauss
+
+## Recreational mathematics
+
+- Martin Gardner
+  - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
+  - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
+  - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
+  - [Mathematics, Magic and Mystery](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
+  - [The Unexpected Hanging and Other Mathematical Diversions](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
+  - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
+  - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
+  - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
+- Ian Stewart
+  - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
+  - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
+  - [Professor Stewart's Cabinet of Mathematical Curiosities](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
+  - [Nature's Numbers: The Unreal Reality Of Mathematics](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
+  - [Professor Stewart's Incredible Numbers](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
+- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math) - Arthur T. Benjamin
+- [536 Puzzles & Curious Problems](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems) - Henry Ernest Dudeney
+- [Magic Squares And Cubes](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes) - William Symes Andrews
+- [More Puzzles to Puzzle You](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you) - Shakuntala Devi
+- [Remember It!](https://www.goodreads.com/book/show/38657042-remember-it) - Nelson Dellis
+
+## Physics and non-fiction
 
 - Carl Sagan
   - [Cosmos](<https://en.wikipedia.org/wiki/Cosmos_(Carl_Sagan_book)>)
@@ -138,6 +236,14 @@ title: Books
   - [The Theoretical Minimum](https://en.wikipedia.org/wiki/The_Theoretical_Minimum)
   - [The Black Hole War](https://en.wikipedia.org/wiki/The_Black_Hole_War)
   - [The Cosmic Landscape](https://en.wikipedia.org/wiki/The_Cosmic_Landscape)
+- Textbooks
+  - [Gravitation](<https://en.wikipedia.org/wiki/Gravitation_(book)>) - Charles W. Misner, Kip S. Thorne, John Archibald Wheeler
+  - [A First Course in General Relativity](https://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity) - Bernard Schutz
+  - [Fundamentals of Astrodynamics](https://www.goodreads.com/book/show/901329.Fundamentals_of_Astrodynamics) - Roger R. Bate
+  - [Spacetime and Geometry: An Introduction to General Relativity](https://www.goodreads.com/book/show/259680.Spacetime_and_Geometry) - Sean Carroll
+  - [General Relativity](https://www.goodreads.com/book/show/53522.General_Relativity) - Robert M. Wald
+  - [Rocket Propulsion Elements](https://www.goodreads.com/book/show/7682536-rocket-propulsion-elements) - George P. Sutton
+  - [Elements of Propulsion: Gas Turbines and Rockets](https://www.goodreads.com/book/show/1604170.Elements_of_Propulsion) - Jack D. Mattingly
 - [The Character of Physical Law](https://en.wikipedia.org/wiki/The_Character_of_Physical_Law) - Richard Feynman
 - [On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) - Charles Darwin
 - [Relativity: The Special and the General Theory](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory) - Albert Einstein
@@ -148,8 +254,10 @@ title: Books
 - [Structures: Or Why Things Don't Fall Down](https://www.goodreads.com/book/show/245344.Structures) - J.E. Gordon
 - [Ignition!: An informal history of liquid rocket propellants](https://www.goodreads.com/book/show/677285.Ignition_) - John Drury Clark
 - [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
+- [What If?](<https://en.wikipedia.org/wiki/What_If%3F_(book)>) - Randall Munroe
+- [Thing Explainer](https://en.wikipedia.org/wiki/Thing_Explainer) - Randall Munroe
 
-### Novels
+## Novels
 
 - Sci-Fi
   - Isaac Asimov
@@ -203,7 +311,7 @@ title: Books
 - [The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) - J. D. Salinger
 - [Bobiverse Series](https://www.goodreads.com/series/192752-bobiverse) - Dennis E. Taylor
 
-### Biography
+## Biography
 
 - Walter Isaacson
   - [Einstein: His Life and Universe](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe)
@@ -221,102 +329,7 @@ title: Books
 - [iWoz](https://en.wikipedia.org/wiki/IWoz) - Steve Wozniak
 - [Permanent Record](<https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)>) - Edward Snowden
 
-### Mathematics
-
-- [Fermat's Last Theorem](<https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem_(book)>) - Simon Singh
-- [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book) - Simon Singh
-- [Infinity and the Mind](https://en.wikipedia.org/wiki/Infinity_and_the_Mind) - Rudy Rucker
-- [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown) - Ian Stewart
-- Textbooks
-  - [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics) - Princeton University Press
-  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Sheldon Axler
-  - [Disquisitiones Arithmeticae](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae) - Carl Friedrich Gauss
-
-### Recreational mathematics
-
-- Martin Gardner
-  - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
-  - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
-  - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
-  - [Mathematics, Magic and Mystery](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
-  - [The Unexpected Hanging and Other Mathematical Diversions](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
-  - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
-  - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
-  - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
-- Ian Stewart
-  - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
-  - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
-  - [Professor Stewart's Cabinet of Mathematical Curiosities](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
-  - [Nature's Numbers: The Unreal Reality Of Mathematics](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
-  - [Professor Stewart's Incredible Numbers](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
-- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math) - Arthur T. Benjamin
-- [536 Puzzles & Curious Problems](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems) - Henry Ernest Dudeney
-- [Magic Squares And Cubes](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes) - William Symes Andrews
-- [More Puzzles to Puzzle You](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you) - Shakuntala Devi
-- [Remember It!](https://www.goodreads.com/book/show/38657042-remember-it) - Nelson Dellis
-
-### Programming and CS
-
-- AI, ML
-  - [Artificial Intelligence: A Modern Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) - Stuart J. Russell, Peter Norvig
-  - [Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning) - Christopher M. Bishop
-- Linux
-  - [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) - Brian W. Kernighan, Rob Pike
-  - [Advanced Programming in the Unix Environment](https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment) - W. Richard Stevens
-  - [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) - Michael Kerrisk
-  - [How Linux Works](https://www.goodreads.com/book/show/514432.How_Linux_Works) - Brian Ward
-- C
-  - [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language) - Brian Kernighan, Dennis Ritchie
-- C++
-  - [C++ Primer](https://www.goodreads.com/book/show/768080.C_Primer) - Stanley B. Lippman
-  - [Programming: Principles and Practice Using C++](https://www.goodreads.com/book/show/2914066-programming) - Bjarne Stroustrup
-  - [A Tour of C++](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Bjarne Stroustrup
-  - [The C++ Programming Language](https://www.goodreads.com/book/show/112251.The_C_Programming_Language) - Bjarne Stroustrup
-  - [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.goodreads.com/book/show/22800553-effective-modern-c) - Scott Meyers
-  - [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.goodreads.com/book/show/871669.Modern_C_Design) - Andrei Alexandrescu
-  - [More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions](https://www.goodreads.com/book/show/1370491.More_Exceptional_C_) - Herb Sutter
-  - [The C++ Standard Library: A Tutorial and Reference](https://www.goodreads.com/book/show/18689533-the-c-standard-library) - Nicolai M. Josuttis
-  - [C++ Templates: The Complete Guide](https://www.goodreads.com/book/show/806932.C_Templates) - David Vandevoorde
-- Java
-  - [Effective Java Programming Language Guide](https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide) - Joshua Bloch
-  - [Head First Java](https://www.goodreads.com/book/show/231262.Head_First_Java) - Kathy Sierra
-- Algorithms
-  - [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. (GitHub: [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4))
-  - [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - Donald Knuth
-  - [The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) - Steven S. Skiena
-  - [Algorithms](https://www.goodreads.com/book/show/138563.Algorithms) - Sanjoy Dasgupta
-  - [Algorithms Illuminated: Part 1: The Basics](https://www.goodreads.com/book/show/36323236-algorithms-illuminated) - Tim Roughgarden
-  - [Algorithms Illuminated (Part 2): Graph Algorithms and Data Structures](https://www.goodreads.com/book/show/41122869-algorithms-illuminated-part-2) - Tim Roughgarden
-  - [Algorithms Illuminated (Part 3): Greedy Algorithms and Dynamic Programming](https://www.goodreads.com/book/show/45448911-algorithms-illuminated-part-3) - Tim Roughgarden
-  - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) - Brian Christian
-  - [Learning JavaScript Data Structures and Algorithms](https://www.goodreads.com/book/show/23622169-learning-javascript-data-structures-and-algorithms) - Loiane Groner
-- JavaScript
-- CSS
-  - [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui) - Adam Wathan
-- Vim
-  - [Learning the vi and Vim Editors](https://en.wikipedia.org/wiki/Learning_the_vi_and_Vim_Editors) - Arnold Robbins, Elbert Hannah, Linda Lamb
-  - [Practical Vim: Edit Text at the Speed of Thought](https://www.goodreads.com/book/show/13607232-practical-vim) - Drew Neil
-- Python
-  - [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) - Luciano Ramalho. ([GitHub](https://github.com/fluentpython/example-code))
-  - [Effective Python: 90 Specific Ways to Write Better Python](https://www.goodreads.com/book/show/48566725-effective-python) - Brett Slatkin. ([GitHub](https://github.com/bslatkin/effectivepython))
-  - [Python Tricks: A Buffet of Awesome Python Features](https://www.goodreads.com/book/show/36990732-python-tricks) - Dan Bader
-  - [Django for Beginners: Learn web development with Django 2.0](https://www.goodreads.com/book/show/38825280-django-for-beginners) - William S. Vincent
-  - [Django for Professionals: Production websites with Python & Django](https://www.goodreads.com/book/show/50048171-django-for-professionals) - William S. Vincent
-  - [Django for APIs: Build web APIs with Python & Django](https://www.goodreads.com/book/show/45306631-django-for-apis) - William S. Vincent
-- Mathematics for CS
-- Haskell
-  - [Real World Haskell: Code You Can Believe In](https://www.goodreads.com/book/show/3226758-real-world-haskell) - Bryan O'Sullivan
-- [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code%3A_The_Hidden_Language_of_Computer_Hardware_and_Software) - Charles Petzold
-- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) - Fred Brooks
-- [Code Complete](https://en.wikipedia.org/wiki/Code_Complete) - Steve McConnell
-- [Cracking the Coding Interview](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview) - Gayle Laakmann McDowell
-- [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) - Andrew Hunt, David Thomas
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns) - Erich Gamma
-- [Head First Design Patterns](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) - Eric Freeman
-- [Founders at Work: Stories of Startups' Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) - Jessica Livingston
-- [The Elements of Typographic Style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style) - Robert Bringhurst
-
-### Entrepreneurship and life
+## Entrepreneurship and life
 
 - Malcolm Gladwell
   - [Blink: The Power of Thinking Without Thinking](https://en.wikipedia.org/wiki/Blink:_The_Power_of_Thinking_Without_Thinking)
@@ -336,7 +349,7 @@ title: Books
 - [Rich Dad Poor Dad](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad) - Robert Kiyosaki, Sharon Lechter
 - [12 Rules for Life](https://en.wikipedia.org/wiki/12_Rules_for_Life) - Jordan Peterson
 
-### Philosophy and religion
+## Philosophy
 
 - Friedrich Nietzsche
   - [Thus Spoke Zarathustra](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra)
@@ -346,37 +359,34 @@ title: Books
   - [The Idiot](https://en.wikipedia.org/wiki/The_Idiot)
 - Marcus Aurelius
   - [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
-- [The Bhagavad Gita](https://www.goodreads.com/book/show/358540.The_Bhagavad_Gita) - Eknath Easwaran
 - [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - Viktor E. Frankl
 - [Letters from a Stoic](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic) - Seneca
 - [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) - Epictetus
 - [The Discourses](https://www.goodreads.com/book/show/1045017.The_Discourses) - Epictetus
 - [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) - Sun Tzu
 - [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) - Lao Tzu
+
+## Religion
+
 - [Why I Am Not a Christian and Other Essays on Religion and Related Subjects](https://www.goodreads.com/book/show/472025.Why_I_Am_Not_a_Christian_and_Other_Essays_on_Religion_and_Related_Subjects) - Bertrand Russell
+- [The Bhagavad Gita](https://www.goodreads.com/book/show/358540.The_Bhagavad_Gita) - Eknath Easwaran
 - [Why There Is No God](https://www.goodreads.com/book/show/23346140-why-there-is-no-god) - Armin Navabi
 
-### History
+## History
 
 - [The Rise and Fall of the Third Reich](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich) - William L. Shirer
 
-### Fantasy
+## Fantasy
 
 - [Perfume](<https://en.wikipedia.org/wiki/Perfume_(novel)>) - Patrick Süskind
 - [The Heroes of Olympus](https://en.wikipedia.org/wiki/The_Heroes_of_Olympus) - Rick Riordan
 - [Shadow and Bone](https://en.wikipedia.org/wiki/Shadow_and_Bone) - Leigh Bardugo
 
-### Physics textbooks
+## Children
 
-- [Gravitation](<https://en.wikipedia.org/wiki/Gravitation_(book)>) - Charles W. Misner, Kip S. Thorne, John Archibald Wheeler
-- [A First Course in General Relativity](https://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity) - Bernard Schutz
-- [Fundamentals of Astrodynamics](https://www.goodreads.com/book/show/901329.Fundamentals_of_Astrodynamics) - Roger R. Bate
-- [Spacetime and Geometry: An Introduction to General Relativity](https://www.goodreads.com/book/show/259680.Spacetime_and_Geometry) - Sean Carroll
-- [General Relativity](https://www.goodreads.com/book/show/53522.General_Relativity) - Robert M. Wald
-- [Rocket Propulsion Elements](https://www.goodreads.com/book/show/7682536-rocket-propulsion-elements) - George P. Sutton
-- [Elements of Propulsion: Gas Turbines and Rockets](https://www.goodreads.com/book/show/1604170.Elements_of_Propulsion) - Jack D. Mattingly
+- [The Wind in the Willows](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows) - Kenneth Grahame
 
-### Misc
+## Misc
 
 - [Diary of a Wimpy Kid](https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid) - Jeff Kinney
 - [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) - Bill Bryson
@@ -385,15 +395,9 @@ title: Books
 - [Paradise Lost](https://www.goodreads.com/book/show/15997.Paradise_Lost) - John Milton
 - [Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) - Robert M. Pirsig
 - [One Hundred Years of Solitude](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude)
-- [What If?](<https://en.wikipedia.org/wiki/What_If%3F_(book)>) - Randall Munroe
-- [Thing Explainer](https://en.wikipedia.org/wiki/Thing_Explainer) - Randall Munroe
 - [Bourne](<https://en.wikipedia.org/wiki/Bourne_(novel_series)>) - Robert Ludlum
 
-### Children
-
-- [The Wind in the Willows](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows) - Kenneth Grahame
-
-### Papers
+## Papers
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto (2008)
 - [Properties of Expanding Universes](https://archive.org/details/PropertiesOfExpandingUniverses/page/n23/mode/2up) - Stephen Hawking (1965)

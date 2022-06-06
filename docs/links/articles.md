@@ -75,6 +75,7 @@ title: Lists, articles, and essays
   - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
   - [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
   - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon's_law)
+  - [Longest word in English](https://en.wikipedia.org/wiki/Longest_word_in_English)
 
 ### Misc
 
@@ -95,6 +96,7 @@ title: Lists, articles, and essays
 - Mathematics
   - [Doomsday Algorithm](http://rudy.ca/doomsday.html) - The Doomsday Algorithm gives the day of the week for any date (and you can do it in your head).
   - [Common Errors in College Math](https://math.vanderbilt.edu/schectex/commerrs/)
+  - [A Mathematician's Apology](https://en.wikipedia.org/wiki/A_Mathematician%27s_Apology)
 - Philosophy
   - [How to study philosophy as an amateur?](http://existentialcomics.com/blog) - Existential Comics
   - [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](https://users.drew.edu/~jlenz/whynot.html)

@@ -44,6 +44,7 @@ title: Knowledge repositories
   - [GitHub Search "dotfiles"](https://github.com/search?q=dotfiles)
   - (Web) [Dotfiles - ArchWiki](https://wiki.archlinux.org/index.php/Dotfiles)
   - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+  - [thoughtstream/Damian-Conway-s-Vim-Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup)
   - [holman/dotfiles](https://github.com/holman/dotfiles) - Zach Holman's Dotfiles.
   - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - Mathias Bynen's Dotfiles.
   - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - Jess Frazelle's Dotfiles.
@@ -114,7 +115,6 @@ title: Knowledge repositories
 - [yangshun/awesome-spinners](https://github.com/yangshun/awesome-spinners) - A curated collection of dazzling web spinners.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
-- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples.
@@ -278,7 +278,6 @@ title: Knowledge repositories
 
 ### Privacy and security
 
-- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - Websites
@@ -286,6 +285,8 @@ title: Knowledge repositories
 
 ### Penetration testing
 
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. https://cheatsheetseries.owasp.org.
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet.

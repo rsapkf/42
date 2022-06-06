@@ -393,7 +393,7 @@ title: Open source software
     - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs.
     - [romainl/Apprentice](https://github.com/romainl/Apprentice) - A dark, low-contrast, Vim colorscheme.
     - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - Dark blue color scheme for Vim and Neovim.
-- Note-taking/Personal knowledge base/Bookmarking/Wiki
+- Note-taking
   - [Orgmode](https://orgmode.org/) - document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the free software text editor Emacs in a fast and effective plain-text system.
     - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode.
     - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers. https://organice.200ok.ch.
@@ -507,9 +507,9 @@ title: Open source software
 - Web browsers
   - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) - Get 2000+ trackers off your trail — including Facebook.
   - [Tor](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
-  - [Chromium/src](https://source.chromium.org/chromium) - free and open-source software project from Google.
+  - [Chromium](https://source.chromium.org/chromium) - Free and open-source software project from Google.
   - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, and eventually Android.
-  - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
+  - [Eloston/ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google.
   - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
   - [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox source code repository.
   - [MoonchildProductions/Pale-Moon](https://github.com/MoonchildProductions/Pale-Moon) - Pale Moon web browser.
@@ -1668,7 +1668,7 @@ title: Open source software
 - [osmandapp/Osmand](https://github.com/osmandapp/Osmand) - map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
 - [samaaron/sonic-pi](https://github.com/samaaron/sonic-pi) - Code. Music. Live.
-- [cryptii/cryptii](https://github.com/cryptii/cryptii) - Web app and framework offering modular conversion, encoding and encryption.
+- [cryptii/cryptii](https://github.com/cryptii/cryptii) - Web app and framework offering modular conversion, encoding and encryption. https://cryptii.com.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. https://odoo.com.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.

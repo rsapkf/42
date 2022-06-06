@@ -56,7 +56,7 @@ title: Podcasts
 - [Exponent](https://exponent.fm/) - Ben Thompson, James Allworth
 - [Hanselminutes Technology Podcast](https://hanselminutes.com/) - Scott Hanselman
 
-### Puzzles and Chess
+### Puzzles and chess
 
 - [Cracking The Cryptic Podcast](https://podcasts.apple.com/ca/podcast/cracking-the-cryptic-podcast/id1565806863) ([YouTube](https://www.youtube.com/playlist?list=PLK-l8O0YikOm_s7DgInHZxYZm8hyrODUJ)) - Mark Goodliffe, Simon Anthony
 - [Layer By Layer](https://podcasts.apple.com/us/podcast/layer-by-layer/id1406870986) - Andrew Nathenson, Kit Clement
@@ -119,3 +119,4 @@ title: Podcasts
 - [The Daily](https://podcasts.apple.com/us/podcast/the-daily/id1200361736) - The New York Times
 - [Good For You](https://www.whitneycummings.com/goodforyou) - Whitney Cummings
 - [Jocko Podcast](https://jockopodcast.com/) - Jocko Willink
+- [FULL SEND PODCAST](https://www.youtube.com/channel/UChPuCAEXg7iYkVNjQY1NGYg)

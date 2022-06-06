@@ -47,7 +47,7 @@ git commit --amend -m "New commit message" # Edit the last commit message
 - Remove a file from history
 
   ```shell
-  $ git filter-branch --force --index-filter \
+  git filter-branch --force --index-filter \
     "git rm --cached --ignore-unmatch PATH-TO-YOUR-FILE-WITH-SENSITIVE-DATA" \
     --prune-empty --tag-name-filter cat -- --all
   ```

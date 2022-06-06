@@ -19,7 +19,7 @@ title: Misc
 - [Faces of Open Source](http://www.facesofopensource.com/)
 - [Start Your Own ISP](https://startyourownisp.com/)
 - [Where is Starman](https://www.whereisroadster.com/)
-- [Appscope](https://appsco.pe/) - Directory for Progressive Web Apps (PWAs).
+- [Appscope](https://appsco.pe/) - Directory for Progressive Web Apps.
 - [Esolangs](https://esolangs.org/wiki/Main_Page)
 - [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
 - [Is This Prime?](http://isthisprime.com/game/)
@@ -48,7 +48,7 @@ title: Misc
 - [Wikia/FANDOM Explore](https://www.fandom.com/explore) - The Fan-trusted Source in Entertainment.
 - [TV Chart](https://tvchart.benmiz.com/) - See a graph of any TV show's IMDb ratings, by episode.
 - [Famous Scientists](https://www.famousscientists.org/) - Educational resource focusing on the lives and achievements of the most famous scientists and inventors in history.
-- [Know Your Meme](https://knowyourmeme.com/) - Internet Meme Database
+- [Know Your Meme](https://knowyourmeme.com/) - Internet Meme Database.
 - [Snopes.com](https://www.snopes.com/) - The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
 - [bellingcat](https://www.bellingcat.com/) - The home of online investigations.
 - [TinEye Reverse Image Search](https://tineye.com/)
@@ -113,7 +113,7 @@ title: Misc
 
 ### Books/Courses/MOOCs
 
-- [ops-class.org - Hack The Kernel](https://www.ops-class.org/) - includes everything you need to learn about operating systems online.
+- [ops-class.org - Hack The Kernel](https://www.ops-class.org/) - Everything you need to learn about operating systems online.
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read) - Tony Narlock.
 - [Another Book on Data Science](https://www.anotherbookondatascience.com/) - Nailong Zhang.
 - [Producing Open Source Software](https://producingoss.com/en/index.html) - Karl Fogel.
@@ -125,8 +125,7 @@ title: Misc
 - [Butterick's Practical Typography](https://practicaltypography.com/) - Matthew Butterick.
 - [ExploringJS](https://exploringjs.com/) - JavaScript books for programmers by Dr. Axel Rauschmayer.
 - [linux-tutorial.info](http://www.linux-tutorial.info/) - Linux Knowledge Base and Tutorial.
-- [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/) - 240+ Python Tutorials - Learn Python from Scratch.
-- [Tao Te Ching](http://taoteching.org.uk/)
+- [Data Flair Python Tutorials](https://data-flair.training/blogs/python-tutorials-home/) - 240+ Python Tutorials.
 - [LitPriest](https://litpriest.com/) - Free Study Guides. For Everyone.
 - [University of the People](https://www.uopeople.edu/) - Tuition-Free, Accredited Online Degree Programs.
 
@@ -152,7 +151,7 @@ title: Misc
 - [Rosetta Code: Similar Sites](https://rosettacode.org/wiki/Help:Similar_Sites)
 - [Things and Stuff Wiki](https://wiki.thingsandstuff.org/Resources)
 - [LinuxLinks Directory](https://www.linuxlinks.com/links/)
-- [Curlie.org](https://www.curlie.org/en) - the largest human-edited directory of the Web.
+- [Curlie.org](https://www.curlie.org/en) - The largest human-edited directory of the Web.
 - [weboasis](https://weboas.is/)
 - [SimilarSites](https://www.similarsites.com/)
 
@@ -166,12 +165,10 @@ title: Misc
 - [Worldometer](https://www.worldometers.info/) - real time world statistics.
 - [The Onion](https://www.theonion.com/) - America's Finest News Source.
 - [4chan](https://4chan.org/)
-- [LessWrong](https://lesswrong.com/) - community blog and forum focused on discussion of cognitive biases, philosophy, psychology, economics, rationality, and artificial intelligence.
 - [Improve Your Social Skills](https://www.improveyoursocialskills.com/)
 - [devRant](https://devrant.com/) - Share and bond over successes and frustrations with code, tech and life as a programmer.
 - [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX, HTML, Markdown, MediaWiki Tables Online.
 - [Letters To A New Developer](https://letterstoanewdeveloper.com/) - Dan Moore.
-
 - [Free Postcard Mailer](https://postcardmailer.herokuapp.com/)
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [hntitlenator](https://victorribeiro.com/hntitlenator) - Test your HN title against a neural network.
