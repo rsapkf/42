@@ -5,6 +5,6 @@
 
 [[redirects]]
   from = "https://rsapkf-wiki.netlify.app/*"
-  to = "https://wiki.rsapkf.xyz/:splat"
+  to = "https://wiki.rsapkf.org/:splat"
   status = 301
   force = true

@@ -6,4 +6,6 @@
 
 @rsapkf's wiki.
 
-_Built with [Docusaurus](https://docusaurus.io/). Search powered by [Algolia DocSearch](https://github.com/algolia/docsearch/) (previously [mdBook](https://github.com/rust-lang/mdBook))._
+_Built with [Docusaurus](https://docusaurus.io/) (previously [mdBook](https://github.com/rust-lang/mdBook)). Search powered by [Algolia DocSearch](https://github.com/algolia/docsearch/)._
+
+<a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">?<a>

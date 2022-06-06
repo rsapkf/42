@@ -1,6 +1,6 @@
 ---
 id: courses
-title: Massive open online courses
+title: MOOCs
 ---
 
 ### Platforms
@@ -9,6 +9,7 @@ title: Massive open online courses
 - [edX.org](https://www.edx.org/)
 - [The Linux Foundation Training](https://training.linuxfoundation.org/)
 - [freeCodeCamp](https://freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
 - [Coursera](https://www.coursera.org/)
@@ -37,6 +38,7 @@ title: Massive open online courses
 - [JetBrains Academy](https://www.jetbrains.com/academy/) `freemium`
 - [PluralSight](https://www.pluralsight.com/) - `paid`
 - [Lambda School](https://lambdaschool.com/) `paid`
+- [Interaction Design Foundation](https://www.interaction-design.org/)
 - [MATLAB Academy](https://matlabacademy.mathworks.com/)
 - [The Open University](http://www.openuniversity.edu/) - Degrees and courses for international students. `paid`
 - [Oracle University](https://education.oracle.com/home) `paid`

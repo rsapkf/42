@@ -59,8 +59,8 @@ To convey the rank of the hidden card, the assistant uses the 3 remaining cards 
 Suppose the spectator chooses 3&spades;, 7&clubs;, 7&diams;, Q&spades; and 3&hearts;.
 
 1. Repeating suit is &spades;.
-2. 3&spades; is $4$ steps ahead of Q&spades;. 3&spades; becomes the hidden card. Q&spades; becomes the first card.
-3. To denote the number $4$, the remaining cards must be ordered in MHL format.
+2. 3&spades; is 4 steps ahead of Q&spades;. 3&spades; becomes the hidden card. Q&spades; becomes the first card.
+3. To denote the number 4, the remaining cards must be ordered in MHL format.
 4. Person A hands over the cards to Person B in this order: Q&spades;, 7&clubs;, 7&diams;, 3&hearts;
 
 ## Water and wine

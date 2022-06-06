@@ -102,7 +102,7 @@ R2 B2 U2 L U2 R' U2 R U2 F2 R F2 L' B2 R2
 R U2 R U2 F2 R F2 L' U2 L U2 R2
 ```
 
-## Miscellaneous
+## Misc
 
 ### Speffz lettering scheme
 

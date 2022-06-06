@@ -44,10 +44,7 @@ The identity operator, **`.`**, produces the input unchanged (by default, pretty
 Consider the following JSON data returned by an API:
 
 ```shell
-curl https://api.example.org/characters/professor-fansworth
-```
-
-```json
+> curl https://api.example.org/characters/professor-fansworth
 {
   "id": "1",
   "name": "Professor Fansworth",
@@ -84,10 +81,7 @@ null
 Consider the following data returned by an API:
 
 ```shell
-curl https://api.example.org/characters
-```
-
-```json
+> curl https://api.example.org/characters
 [
   {
     "id": "1",
@@ -103,7 +97,7 @@ curl https://api.example.org/characters
       "age": 180,
       "profession": "CEO, Planet Express"
     }
-  }
+  },
   {
     "id": "2",
     "name": "Hermes Conrad",
@@ -130,7 +124,7 @@ To slice the array/string, use **`.[<start>:<end>]`**. This will return a subarr
 
 ```shell
 > curl <API> | jq '.[0].name[0:5]'
-Prof
+Profe
 ```
 
 Using the **`.[]`** filter will return all of the elements of an array **as separate results** rather than a single array.

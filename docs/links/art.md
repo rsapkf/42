@@ -11,6 +11,7 @@ title: Psychology, philosophy, literature, and art
 - [The Skeptic's Dictionary](http://skepdic.com/)
 - [Psyche](https://psyche.co/)
 - [PhilPapers](https://philpapers.org/)
+- [LessWrong](https://lesswrong.com/) - Community blog and forum focused on discussion of cognitive biases, philosophy, psychology, economics, rationality, and artificial intelligence.
 - [fs.blog](https://fs.blog/)
 - People
   - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)

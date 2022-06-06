@@ -23,7 +23,7 @@ module.exports = {
       title: '[rsapkf/42]',
       hideOnScroll: true,
       logo: {
-        alt: 'Logo',
+        alt: 'logo',
         src: 'img/undraw/notebook.svg',
       },
       items: [
@@ -31,13 +31,13 @@ module.exports = {
           type: 'doc',
           docId: 'links/programming',
           position: 'left',
-          label: '/links',
+          label: '~/links',
         },
         {
           type: 'doc',
           docId: 'notes/unix/unix',
           position: 'left',
-          label: '/notes',
+          label: '~/notes',
         },
         {
           type: 'dropdown',
@@ -46,19 +46,19 @@ module.exports = {
           items: [
             {
               label: 'Homepage',
-              href: 'https://rsapkf.xyz/',
+              href: 'https://rsapkf.org/',
             },
             {
               label: 'Weblog',
-              href: 'https://rsapkf.xyz/weblog/',
+              href: 'https://rsapkf.org/weblog/',
             },
             {
               label: 'Dotfiles',
               href: 'https://github.com/rsapkf/config/',
             },
             {
-              label: 'CFOP algs',
-              href: 'https://github.com/rsapkf/20/',
+              label: '?',
+              href: "https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy",
             },
           ],
         },
@@ -72,7 +72,7 @@ module.exports = {
     },
     algolia: {
       appId: '96LFYP4M12',
-      apiKey: '5bf10e4bb420fac17c5613787a883fb9',
+      apiKey: '31823bbcd19fa56e277ef11691789679',
       indexName: 'rsapkf',
     },
     footer: {
@@ -144,17 +144,8 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'Etc',
-          items: [
-            {
-              label: '?',
-              href: "https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy",
-            },
-          ],
-        },
       ],
-      copyright: `© ${new Date().getFullYear()} <a href="https://rsapkf.xyz/">rsapkf</a>`,
+      copyright: `© 2018 - ${new Date().getFullYear()} rsapkf`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/dracula'),

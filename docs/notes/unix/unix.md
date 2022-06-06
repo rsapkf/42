@@ -88,9 +88,7 @@ vim /etc/default/keyboard
 sudo dpkg-reconfigure -phigh console-setup
 ```
 
-## Suckless
-
-### Patching suckless tools
+## Patching suckless tools
 
 ```shell
 # For tarballs
@@ -99,11 +97,6 @@ patch -p1 < path/to/patch.diff
 # For git repositories
 git apply path/to/patch.diff
 ```
-
-### sent
-
-- Make sure to install [`farbfeld`](https://tools.suckless.org/farbfeld/) to
-  have images show up on slides.
 
 ## Change username and usergroup
 
@@ -245,6 +238,34 @@ $ ls | xargs du -sk 2> /dev/null
 # Redirecting stderr to the `/dev/null` device
 ```
 
+## File-system permissions
+
+### Modes
+
+| Octal | Description                            |
+| ----- | -------------------------------------- |
+| 0     | None                                   |
+| 1     | sticky bit is set                      |
+| 2     | setgid are set                         |
+| 3     | setgid and sticky bit are set          |
+| 4     | setuid is set                          |
+| 5     | setgid and sticky bit are set          |
+| 6     | setgid and setgid are set              |
+| 7     | setuid, setgid, and sticky bit are set |
+
+### Permissions
+
+| Octal | Binary (rwx) | Description              |
+| ----- | ------------ | ------------------------ |
+| 0     | 000          | None                     |
+| 1     | 001          | Execute                  |
+| 2     | 010          | Write                    |
+| 3     | 011          | Write and execute        |
+| 4     | 100          | Read                     |
+| 5     | 101          | Read and execute         |
+| 6     | 110          | Read and write           |
+| 7     | 111          | Read, write, and execute |
+
 ## Useful programs
 
 ### `tr`
@@ -346,6 +367,28 @@ Print a sequence of numbers.
 0 1 2 3 4 5 6 7 8 9
 ```
 
+### `split`
+
+```shell
+# Generates files named `xaa`, `xab`, `xac`, etc
+split file # Split `file` into 1000-line files
+split -l 10 file # Split `file` into 10-line files (except the last line)
+split -n 5 file # Split `file`, each split with equal size (except the last line)
+split -b 512 file # Split `file` with 512 bytes in each split (except the last line) (512k for kilbobytes, 512m for megabytes)
+split -C 512 file # Split `file` with at most 512 bytes in each split without breaking lines
+```
+
+### `csplit`
+
+```shell
+# Generates files named `xx00`, `xx01`, `xx02`, etc and prints size of each split in bytes to stdout
+csplit file 5 23 # Split a file at lines 5 and 23
+csplit file 5 {*} # Split a file every 5 lines (this will fail if the total number of lines is not divisible by 5)
+csplit -k file 5 {*} # Split a file every 5 lines, ignoring exact-division error
+csplit file 5 -f prefix # Split a file at line 5 and use a custom prefix for the output files
+csplit file /regex/ # Split a file at a line matching a regular expression
+```
+
 ### System monitoring
 
 - `ps`: Report a snapshot of the current processes.
@@ -372,16 +415,21 @@ Print a sequence of numbers.
 - `ip`: Show/Manipulate routing, network devices, interfaces and tunnels.
   - `ip addr`: Display IP addresses and property information.
 - `ss`: Investigate sockets.
+- `dig`: DNS lookup utility.
 
 ### Misc
 
 - `man [program]`: View man pages for programs.
 - `apropos`: Search the manual page names and descriptions.
 - `[program] --help/-h`
+- `true`: Do nothing, successfully.
+- `false`: Do nothing, unsuccessfully.
+- `test`: Check file types and compare values.
 - `cat`
 - `tac`
 - `less`
 - `echo`
+- `bc`: An arbitrary precision calculator language.
 - `head <file>`: Output the first 10 lines of file.
   - `head -N <file>`: Output the first N lines of file.
   - `cat <file> | sed Nq`: Output the first N lines of file.
@@ -411,6 +459,7 @@ Print a sequence of numbers.
   - `<space>man man`: Don't add `man man` command to history.
   - `fc`: Fix a long command that you messed up.
   - `!666`: Run 666th command in history.
+  - `!!:s/start/status`: Replace `start` in previous command with `status`.
   - `!-n`: Refer to the command _n_ lines back.
   - `!-1` / `!!`: Refer to the previous command.
   - `sudo !!`: Run previous command but append `sudo` at the beginning.
@@ -434,8 +483,9 @@ Print a sequence of numbers.
 - `tree`: List contents of directories in a tree-like format.
 - `xev`: Print contents of X events.
 - `yes`: Output a string repeatedly until killed.
-- `split`: Split a file into pieces.
-- `csplit`: Split a file into sections determined by context lines.
+- `column`: Columnate lists.
+- `shuf file.txt` - Get random lines from `file.txt`.
+- `man ascii`: ASCII character set encoded in octal, decimal, and hexadecimal.
 
 ## Easter eggs
 

@@ -31,7 +31,7 @@ title: Poems
 
 - [Do not go gentle into that good night](https://poets.org/poem/do-not-go-gentle-good-night) (1947)
 
-## Miscellaneous
+## Misc
 
 - [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias) (1977) - Percy Bysshe Shelley
 - [Jabberwocky](https://en.wikipedia.org/wiki/Jabberwocky) (1871) - Lewis Carroll

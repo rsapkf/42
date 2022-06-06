@@ -51,7 +51,7 @@ orange
 ```shell
 bindkey -v # vi mode in zsh shell
 bindkey '^R' history-incremental-search-backward # Backward reverse search in zsh
-take <dir_name> # Create a new directory `dir_name` and changes to it
+take <dir_name> # Create a new directory `dir_name` and change to it
 
 # Batch rename files with `zmv`
 autoload zmv

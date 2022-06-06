@@ -259,9 +259,40 @@ title: Chess
 - Hillbilly Attack `1.e4 c6 2.Bc4`
 - [Hippopotamus Defense](https://en.wikipedia.org/wiki/Hippopotamus_Defence)
 
-## Checkmate patterns
+See also: [List of chess traps](https://en.wikipedia.org/wiki/List_of_chess_traps)
+
+## Endgames
+
+### Basic checkmates
+
+- Queen mate
+  - Queen and rook mate
+  - Queen and bishop mate
+  - Queen and knight mate
+- Rook mate
+  - Two rooks mate
+- Two bishops mate
+- Bishop and knight mate
+
+### Other important checkmates
+
+- Queen vs bishop mate
+- Queen vs knight mate
+- Queen vs rook mate
+- [Rook and pawn vs rook endgames](https://en.wikipedia.org/wiki/Rook_and_pawn_versus_rook_endgame)
+  - [Lucena position](https://en.wikipedia.org/wiki/Lucena_position) (good for attacking side)
+  - [Philidor position](https://en.wikipedia.org/wiki/Philidor_position) (good for defending side)
+  - [Vancura position](https://en.wikipedia.org/wiki/Rook_and_pawn_versus_rook_endgame#Van%C4%8Dura_position)
+- Two knights vs pawn
+- Three knights mate
+
+See also:
+
+- [Pawnless chess endgame](https://en.wikipedia.org/wiki/Pawnless_chess_endgame)
+- [Tarrasch rule](https://en.wikipedia.org/wiki/Tarrasch_rule)
+
+### Checkmate patterns
 
 - [Checkmate patterns - Wikipedia](https://en.wikipedia.org/wiki/Checkmate_pattern)
-- [List of chess traps - Wikipedia](https://en.wikipedia.org/wiki/List_of_chess_traps)
 - Scholar's mate `1.e4 e5 2.Qh5 Nc6 3.Bc4 Nf6?? 4.Qxf7#`
 - Fool's mate (two-move checkmate) `1.(f3, f4 or g4) (e6 or e5) 2.(g4 if 1.f3 or 1.f4, or either f3 or f4 if 1.g4) Qh4#`
