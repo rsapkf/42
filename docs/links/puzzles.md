@@ -30,7 +30,7 @@ title: Cubing, puzzles, and magic
   - [Herbert Kociemba's Homepage](http://kociemba.org/)
   - [Lars Petrus Portal](https://lar5.com/)
   - [Erich Friedman](https://erich-friedman.github.io/) - Prof. Erich Friedman's webpage.
-  - [Bob Burton's Cubewhiz.com](http://www.cubewhiz.com/)
+  - [Cubewhiz.com](http://www.cubewhiz.com/) - Bob Burton.
 - Fun
   - [You know you've been cubing too long when ...](https://cube.garron.us/misc/too_long.htm)
   - [Frank Morris Facts](https://cube.garron.us/misc/frank_morris.htm)
@@ -66,6 +66,7 @@ title: Cubing, puzzles, and magic
 
 - [BoardGameGeek](https://boardgamegeek.com/) - Gaming Unplugged Since 2000.
 - [Pagat.com](https://www.pagat.com/)
+- [Futility Closet](https://www.futilitycloset.com/)- An idler's miscellany of compendious amusements.
 - [Mahjong](https://en.wikipedia.org/wiki/Mahjong)
 - [Bingo](<https://en.wikipedia.org/wiki/Bingo_(American_version)>)
 - [Jenga](https://en.wikipedia.org/wiki/Jenga)

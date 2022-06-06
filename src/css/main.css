@@ -15,8 +15,8 @@ h2,
 h3,
 h4,
 .footer__title {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
-    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .header-github-link:hover {
@@ -24,7 +24,7 @@ h4,
 }
 
 .header-github-link:before {
-  content: '';
+  content: "";
   width: 24px;
   height: 24px;
   display: flex;
@@ -46,15 +46,15 @@ h4,
   color: #19bb2e;
 }
 
-html[data-theme='light'] {
+html[data-theme="light"] {
   --ifm-background-color: #edeff3;
 }
 
-html[data-theme='dark'] {
+html[data-theme="dark"] {
   --ifm-background-color: #161923;
 }
 
-html[data-theme='dark'] table tr:nth-child(even),
-html[data-theme='dark'] code {
+html[data-theme="dark"] table tr:nth-child(even),
+html[data-theme="dark"] code {
   background-color: #282a36;
 }

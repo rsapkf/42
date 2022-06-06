@@ -37,7 +37,7 @@ title: Books
   - [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) - Debian Project
 - Vim
   - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) - Steve Losh
-- [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted](https://sarabander.github.io/sicp/html/index.xhtml) ([GitHub](https://github.com/sarabander/sicp)))
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Harold Abelson, Gerald Jay Sussman with Julie Sussman. ([reformatted](https://sarabander.github.io/sicp/html/index.xhtml))
 - [Structure and Interpretation of Computer Programs, JavaScript Adaptation](https://source-academy.github.io/sicp/)
 - [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/html/) - Eric S. Raymond. ([reformatted](https://www.arp242.net/the-art-of-unix-programming/))
 - [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/) - Machtelt Garrels
@@ -56,7 +56,7 @@ title: Books
 - [Essential Image Optimization](https://images.guide/) - Addy Osmani ([GitHub](https://github.com/GoogleChrome/essential-image-optimization))
 - [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google
 - [Building Secure and Reliable Systems](https://landing.google.com/sre/static/pdf/SRS.pdf) - Google
-- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - authors of four dozen open source applications
+- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - Authors of four dozen open source applications
 - [Enterprise Open Source: A Practical Introduction](https://www.linuxfoundation.org/open-source-management/2018/08/enterprise-open-source-practical-introduction/) - The Linux Foundation
 - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed/index.html) - Stephen Wolfram
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) ([GitHub](http://github.com/pomax/BezierInfo-2))
@@ -69,6 +69,10 @@ title: Books
 - [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus Thompson. ([reformatted](http://calculusmadeeasy.org/) ([GitHub](https://github.com/nadvornix/calculus-made-easy)))
 - [Immersive Linear Algebra](http://immersivemath.com/ila/tableofcontents.html) - J. Ström, K. Åström, T. Akenine-Möller
 - [Mathematics All-in-One Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf) - Alex Spartalis
+
+### Physics
+
+- [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman, Jack Wisdom ([reformatted](https://tgvaughan.github.io/sicm/))
 
 ### Philosophy
 
@@ -94,168 +98,7 @@ title: Books
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - Brian Hall
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) - collection of lectures and Linux kernel topics
 
-## Misc
-
-### Physics and non-fiction
-
-- Carl Sagan
-  - [Cosmos](<https://en.wikipedia.org/wiki/Cosmos_(Carl_Sagan_book)>)
-  - [Pale Blue Dot](<https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book)>)
-- Stephen Hawking
-  - [A Brief History of Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
-  - [The Universe in a Nutshell](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
-  - [God Created the Integers](https://en.wikipedia.org/wiki/God_Created_the_Integers)
-  - [Brief Answers to the Big Questions](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions)
-  - [A Briefer History of Time](<https://en.wikipedia.org/wiki/A_Briefer_History_of_Time_(Hawking_and_Mlodinow_book)>)
-  - [The Grand Design](https://en.wikipedia.org/wiki/The_Grand_Design_%28book%29)
-  - [The Theory of Everything: The Origin and Fate of the Universe](https://www.goodreads.com/book/show/449573.The_Theory_of_Everything)
-- Max Tegmark
-  - [Our Mathematical Universe](https://en.wikipedia.org/wiki/Our_Mathematical_Universe)
-  - [Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
-- Brian Greene
-  - [The Elegant Universe](https://en.wikipedia.org/wiki/The_Elegant_Universe)
-  - [The Fabric of the Cosmos](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
-  - [The Hidden Reality](https://en.wikipedia.org/wiki/The_Hidden_Reality)
-- Richard Dawkins
-  - [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)
-  - [The God Delusion](https://en.wikipedia.org/wiki/The_God_Delusion)
-  - [The Extended Phenotype](https://en.wikipedia.org/wiki/The_Extended_Phenotype)
-  - [The Blind Watchmaker](https://en.wikipedia.org/wiki/The_Blind_Watchmaker)
-- Neil deGrasse Tyson
-  - [Astrophysics for People in a Hurry](https://en.wikipedia.org/wiki/Astrophysics_for_People_in_a_Hurry)
-  - [The Pluto Files](https://en.wikipedia.org/wiki/The_Pluto_Files)
-  - [Death by Black Hole](https://en.wikipedia.org/wiki/Death_by_Black_Hole)
-  - [Welcome to the Universe](https://en.wikipedia.org/wiki/Welcome_to_the_Universe)
-- Michio Kaku
-  - [Hyperspace](<https://en.wikipedia.org/wiki/Hyperspace_(book)>)
-  - [Parallel Worlds](<https://en.wikipedia.org/wiki/Parallel_Worlds_(book)>)
-  - [Physics of the Impossible](https://en.wikipedia.org/wiki/Physics_of_the_Impossible)
-  - [Physics of the Future](https://en.wikipedia.org/wiki/Physics_of_the_Future)
-  - [The Future of the Mind](https://en.wikipedia.org/wiki/The_Future_of_the_Mind)
-  - [The Future of Humanity](https://en.wikipedia.org/wiki/The_Future_of_Humanity)
-  - [Beyond Einstein](<https://en.wikipedia.org/wiki/Beyond_Einstein_(book)>)
-- Leonard Susskind
-  - [The Theoretical Minimum](https://en.wikipedia.org/wiki/The_Theoretical_Minimum)
-  - [The Black Hole War](https://en.wikipedia.org/wiki/The_Black_Hole_War)
-  - [The Cosmic Landscape](https://en.wikipedia.org/wiki/The_Cosmic_Landscape)
-- [The Character of Physical Law](https://en.wikipedia.org/wiki/The_Character_of_Physical_Law) - Richard Feynman
-- [On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) - Charles Darwin
-- [Relativity: The Special and the General Theory](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory) - Albert Einstein
-- [Superintelligence: Paths, Dangers, Strategies](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) - Nick Bostrom
-- [Fads and Fallacies in the Name of Science](https://en.wikipedia.org/wiki/Fads_and_Fallacies_in_the_Name_of_Science) - Martin gardner
-- [The End of Faith](https://en.wikipedia.org/wiki/The_End_of_Faith) - Sam Harris
-- [Just Six Numbers: The Deep Forces That Shape the Universe](https://www.goodreads.com/book/show/81884.Just_Six_Numbers) - Martin J. Rees
-- [Structures: Or Why Things Don't Fall Down](https://www.goodreads.com/book/show/245344.Structures) - J.E. Gordon
-- [Ignition!: An informal history of liquid rocket propellants](https://www.goodreads.com/book/show/677285.Ignition_) - John Drury Clark
-- [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
-
-### Novels
-
-- Sci-Fi
-  - Isaac Asimov
-    - [Foundation series](https://en.wikipedia.org/wiki/Foundation_series)
-    - [Robot series](https://en.wikipedia.org/wiki/Robot_series)
-    - [Galactic Empire series](<https://en.wikipedia.org/wiki/Galactic_Empire_(series)>)
-  - Arthur C. Clarke
-    - [Space Odyssey](https://en.wikipedia.org/wiki/Space_Odyssey)
-    - [Rendezvous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama)
-  - Robert A. Heinlein
-    - [Stranger in a Strange Land](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land)
-    - [Starship Troopers](https://en.wikipedia.org/wiki/Starship_Troopers)
-  - Neal Stephenson
-    - [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
-    - [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon)
-    - [Reamde](https://en.wikipedia.org/wiki/Reamde)
-    - [Seveneves](https://en.wikipedia.org/wiki/Seveneves)
-  - Douglas Adams
-    - [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
-    - [Dirk Gently](https://en.wikipedia.org/wiki/Dirk_Gently)
-  - Philip K. Dick
-    - [Ubik](https://en.wikipedia.org/wiki/Ubik)
-    - [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly)
-    - [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
-  - Orson Scott Card
-    - [Ender's Game](<https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)>)
-  - Frank Herbert
-    - [Dune](<https://en.wikipedia.org/wiki/Dune_(novel)>)
-  - Jules Verne
-    - [Twenty Thousand Leagues Under the Sea](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
-    - [Around the World in Eighty Days](https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days)
-    - [Journey to the Center of the Earth](https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
-  - Andy Weir
-    - [The Martian](<https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)>)
-    - [Artemis](<https://en.wikipedia.org/wiki/Artemis_(novel)>)
-    - [Project Hail Mary](https://en.wikipedia.org/wiki/Project_Hail_Mary)
-  - [Contact](<https://en.wikipedia.org/wiki/Contact_(novel)>) - Carl Sagan
-  - [Fahrenheit 451](https://en.wikipedia.org/wiki/Fahrenheit_451) - Ray Bradbury
-  - [Slaughterhouse-Five](https://en.wikipedia.org/wiki/Slaughterhouse-Five) - Kurt Vonnegut
-  - [The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds) - H.G. Wells
-  - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson
-  - [Shutter Island](https://en.wikipedia.org/wiki/Shutter_Island) - Dennis Lehane
-  - [The Expanse](<https://en.wikipedia.org/wiki/The_Expanse_(novel_series)>) - James S. A. Corey (Daniel Abraham, Ty Franck)
-  - [The Nix](https://en.wikipedia.org/wiki/The_Nix) - Nathan Hill
-- [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) - J.R.R. Tolkien
-- [The Witcher](https://en.wikipedia.org/wiki/The_Witcher) - Andrzej Sapkowski
-- [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) - George Orwell
-- [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick) - Herman Melville
-- [The Hunger Games](https://en.wikipedia.org/wiki/The_Hunger_Games) - Suzanne Collins
-- [Cloud Atlas](<https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)>) - David Mitchell
-- [The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) - J. D. Salinger
-- [Bobiverse Series](https://www.goodreads.com/series/192752-bobiverse) - Dennis E. Taylor
-
-### Biography
-
-- Walter Isaacson
-  - [Einstein: His Life and Universe](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe)
-  - [Benjamin Franklin: An American Life](https://en.wikipedia.org/wiki/Benjamin_Franklin:_An_American_Life)
-  - [Steve Jobs](<https://en.wikipedia.org/wiki/Steve_Jobs_(book)>)
-  - [The Innovators](<https://en.wikipedia.org/wiki/The_Innovators_(book)>)
-  - [Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)
-  - [The Code Breaker](https://en.wikipedia.org/wiki/The_Code_Breaker)
-- [Hackers & Painters](https://en.wikipedia.org/wiki/Hackers_%26_Painters) - Paul Graham
-- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future) - Ashlee Vance
-- [The Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg) - Clifford Stoll
-- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) - Richard Feynman, Ralph Leighton
-- [My Inventions: The Autobiography of Nikola Tesla](https://en.wikipedia.org/wiki/My_Inventions:_The_Autobiography_of_Nikola_Tesla) - Nikola Tesla
-- [Mud, Sweat, and Tears](https://en.wikipedia.org/wiki/Mud,_Sweat,_and_Tears) - Bear Grylls
-- [iWoz](https://en.wikipedia.org/wiki/IWoz) - Steve Wozniak
-- [Permanent Record](<https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)>) - Edward Snowden
-
-### Mathematics
-
-- [Fermat's Last Theorem](<https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem_(book)>) - Simon Singh
-- [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book) - Simon Singh
-- [Infinity and the Mind](https://en.wikipedia.org/wiki/Infinity_and_the_Mind) - Rudy Rucker
-- [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown) - Ian Stewart
-- Textbooks
-  - [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics) - Princeton University Press
-  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Sheldon Axler
-  - [Disquisitiones Arithmeticae](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae) - Carl Friedrich Gauss
-
-### Recreational mathematics
-
-- Martin Gardner
-  - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
-  - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
-  - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
-  - [Mathematics, Magic and Mystery](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
-  - [The Unexpected Hanging and Other Mathematical Diversions](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
-  - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
-  - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
-  - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
-- Ian Stewart
-  - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
-  - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
-  - [Professor Stewart's Cabinet of Mathematical Curiosities](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
-  - [Nature's Numbers: The Unreal Reality Of Mathematics](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
-  - [Professor Stewart's Incredible Numbers](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
-- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math) - Arthur T. Benjamin
-- [536 Puzzles & Curious Problems](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems) - Henry Ernest Dudeney
-- [Magic Squares And Cubes](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes) - William Symes Andrews
-- [More Puzzles to Puzzle You](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you) - Shakuntala Devi
-- [Remember It!](https://www.goodreads.com/book/show/38657042-remember-it) - Nelson Dellis
-
-### Programming and CS
+## CS
 
 - AI, ML
   - [Artificial Intelligence: A Modern Approach](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) - Stuart J. Russell, Peter Norvig
@@ -316,7 +159,176 @@ title: Books
 - [Founders at Work: Stories of Startups' Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) - Jessica Livingston
 - [The Elements of Typographic Style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style) - Robert Bringhurst
 
-### Entrepreneurship and life
+## Mathematics
+
+- [Fermat's Last Theorem](<https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem_(book)>) - Simon Singh
+- [The Code Book](https://en.wikipedia.org/wiki/The_Code_Book) - Simon Singh
+- [Infinity and the Mind](https://en.wikipedia.org/wiki/Infinity_and_the_Mind) - Rudy Rucker
+- [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown) - Ian Stewart
+- Textbooks
+  - [The Princeton Companion to Mathematics](https://en.wikipedia.org/wiki/The_Princeton_Companion_to_Mathematics) - Princeton University Press
+  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Sheldon Axler
+  - [Disquisitiones Arithmeticae](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae) - Carl Friedrich Gauss
+
+## Recreational mathematics
+
+- Martin Gardner
+  - [The Colossal Book of Mathematics](https://www.goodreads.com/book/show/415052.The_Colossal_Book_of_Mathematics)
+  - [Hexaflexagons and Other Mathematical Diversions](https://www.goodreads.com/book/show/415056.Hexaflexagons_and_Other_Mathematical_Diversions)
+  - [The Second Scientific American Book of Mathematical Puzzles and Diversions](https://www.goodreads.com/book/show/415054.The_Second_Scientific_American_Book_of_Mathematical_Puzzles_and_Diversions)
+  - [Mathematics, Magic and Mystery](https://www.goodreads.com/book/show/715585.Mathematics_Magic_and_Mystery)
+  - [The Unexpected Hanging and Other Mathematical Diversions](https://www.goodreads.com/book/show/415062.The_Unexpected_Hanging_and_Other_Mathematical_Diversions)
+  - [Mathematical Circus](https://www.goodreads.com/book/show/1416988.Mathematical_Circus)
+  - [Mathematical Magic Show](https://www.goodreads.com/book/show/1206345.Mathematical_Magic_Show)
+  - [New Mathematical Diversions](https://www.goodreads.com/book/show/415064.New_Mathematical_Diversions)
+- Ian Stewart
+  - [In Pursuit of the Unknown](https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown)
+  - [Visions of Infinity: The Great Mathematical Problems](https://www.goodreads.com/book/show/15843078-visions-of-infinity)
+  - [Professor Stewart's Cabinet of Mathematical Curiosities](https://www.goodreads.com/book/show/6061491-professor-stewart-s-cabinet-of-mathematical-curiosities)
+  - [Nature's Numbers: The Unreal Reality Of Mathematics](https://www.goodreads.com/book/show/287896.Nature_s_Numbers)
+  - [Professor Stewart's Incredible Numbers](https://www.goodreads.com/book/show/23360044-professor-stewart-s-incredible-numbers)
+- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.goodreads.com/book/show/83585.Secrets_of_Mental_Math) - Arthur T. Benjamin
+- [536 Puzzles & Curious Problems](https://www.goodreads.com/book/show/3241628-536-puzzles-curious-problems) - Henry Ernest Dudeney
+- [Magic Squares And Cubes](https://www.goodreads.com/book/show/4569595-magic-squares-and-cubes) - William Symes Andrews
+- [More Puzzles to Puzzle You](https://www.goodreads.com/book/show/18069480-more-puzzles-to-puzzle-you) - Shakuntala Devi
+- [Remember It!](https://www.goodreads.com/book/show/38657042-remember-it) - Nelson Dellis
+
+## Physics and non-fiction
+
+- Carl Sagan
+  - [Cosmos](<https://en.wikipedia.org/wiki/Cosmos_(Carl_Sagan_book)>)
+  - [Pale Blue Dot](<https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book)>)
+- Stephen Hawking
+  - [A Brief History of Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
+  - [The Universe in a Nutshell](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
+  - [God Created the Integers](https://en.wikipedia.org/wiki/God_Created_the_Integers)
+  - [Brief Answers to the Big Questions](https://en.wikipedia.org/wiki/Brief_Answers_to_the_Big_Questions)
+  - [A Briefer History of Time](<https://en.wikipedia.org/wiki/A_Briefer_History_of_Time_(Hawking_and_Mlodinow_book)>)
+  - [The Grand Design](https://en.wikipedia.org/wiki/The_Grand_Design_%28book%29)
+  - [The Theory of Everything: The Origin and Fate of the Universe](https://www.goodreads.com/book/show/449573.The_Theory_of_Everything)
+- Max Tegmark
+  - [Our Mathematical Universe](https://en.wikipedia.org/wiki/Our_Mathematical_Universe)
+  - [Life 3.0](https://en.wikipedia.org/wiki/Life_3.0)
+- Brian Greene
+  - [The Elegant Universe](https://en.wikipedia.org/wiki/The_Elegant_Universe)
+  - [The Fabric of the Cosmos](https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos)
+  - [The Hidden Reality](https://en.wikipedia.org/wiki/The_Hidden_Reality)
+- Richard Dawkins
+  - [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)
+  - [The God Delusion](https://en.wikipedia.org/wiki/The_God_Delusion)
+  - [The Extended Phenotype](https://en.wikipedia.org/wiki/The_Extended_Phenotype)
+  - [The Blind Watchmaker](https://en.wikipedia.org/wiki/The_Blind_Watchmaker)
+- Neil deGrasse Tyson
+  - [Astrophysics for People in a Hurry](https://en.wikipedia.org/wiki/Astrophysics_for_People_in_a_Hurry)
+  - [The Pluto Files](https://en.wikipedia.org/wiki/The_Pluto_Files)
+  - [Death by Black Hole](https://en.wikipedia.org/wiki/Death_by_Black_Hole)
+  - [Welcome to the Universe](https://en.wikipedia.org/wiki/Welcome_to_the_Universe)
+- Michio Kaku
+  - [Hyperspace](<https://en.wikipedia.org/wiki/Hyperspace_(book)>)
+  - [Parallel Worlds](<https://en.wikipedia.org/wiki/Parallel_Worlds_(book)>)
+  - [Physics of the Impossible](https://en.wikipedia.org/wiki/Physics_of_the_Impossible)
+  - [Physics of the Future](https://en.wikipedia.org/wiki/Physics_of_the_Future)
+  - [The Future of the Mind](https://en.wikipedia.org/wiki/The_Future_of_the_Mind)
+  - [The Future of Humanity](https://en.wikipedia.org/wiki/The_Future_of_Humanity)
+  - [Beyond Einstein](<https://en.wikipedia.org/wiki/Beyond_Einstein_(book)>)
+- Leonard Susskind
+  - [The Theoretical Minimum](https://en.wikipedia.org/wiki/The_Theoretical_Minimum)
+  - [The Black Hole War](https://en.wikipedia.org/wiki/The_Black_Hole_War)
+  - [The Cosmic Landscape](https://en.wikipedia.org/wiki/The_Cosmic_Landscape)
+- Textbooks
+  - [Gravitation](<https://en.wikipedia.org/wiki/Gravitation_(book)>) - Charles W. Misner, Kip S. Thorne, John Archibald Wheeler
+  - [A First Course in General Relativity](https://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity) - Bernard Schutz
+  - [Fundamentals of Astrodynamics](https://www.goodreads.com/book/show/901329.Fundamentals_of_Astrodynamics) - Roger R. Bate
+  - [Spacetime and Geometry: An Introduction to General Relativity](https://www.goodreads.com/book/show/259680.Spacetime_and_Geometry) - Sean Carroll
+  - [General Relativity](https://www.goodreads.com/book/show/53522.General_Relativity) - Robert M. Wald
+  - [Rocket Propulsion Elements](https://www.goodreads.com/book/show/7682536-rocket-propulsion-elements) - George P. Sutton
+  - [Elements of Propulsion: Gas Turbines and Rockets](https://www.goodreads.com/book/show/1604170.Elements_of_Propulsion) - Jack D. Mattingly
+- [The Character of Physical Law](https://en.wikipedia.org/wiki/The_Character_of_Physical_Law) - Richard Feynman
+- [On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species) - Charles Darwin
+- [Relativity: The Special and the General Theory](https://en.wikipedia.org/wiki/Relativity:_The_Special_and_the_General_Theory) - Albert Einstein
+- [Superintelligence: Paths, Dangers, Strategies](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) - Nick Bostrom
+- [Fads and Fallacies in the Name of Science](https://en.wikipedia.org/wiki/Fads_and_Fallacies_in_the_Name_of_Science) - Martin gardner
+- [The End of Faith](https://en.wikipedia.org/wiki/The_End_of_Faith) - Sam Harris
+- [Just Six Numbers: The Deep Forces That Shape the Universe](https://www.goodreads.com/book/show/81884.Just_Six_Numbers) - Martin J. Rees
+- [Structures: Or Why Things Don't Fall Down](https://www.goodreads.com/book/show/245344.Structures) - J.E. Gordon
+- [Ignition!: An informal history of liquid rocket propellants](https://www.goodreads.com/book/show/677285.Ignition_) - John Drury Clark
+- [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
+- [What If?](<https://en.wikipedia.org/wiki/What_If%3F_(book)>) - Randall Munroe
+- [Thing Explainer](https://en.wikipedia.org/wiki/Thing_Explainer) - Randall Munroe
+
+## Novels
+
+- Sci-Fi
+  - Isaac Asimov
+    - [Foundation series](https://en.wikipedia.org/wiki/Foundation_series)
+    - [Robot series](https://en.wikipedia.org/wiki/Robot_series)
+    - [Galactic Empire series](<https://en.wikipedia.org/wiki/Galactic_Empire_(series)>)
+  - Arthur C. Clarke
+    - [Space Odyssey](https://en.wikipedia.org/wiki/Space_Odyssey)
+    - [Rendezvous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama)
+  - Robert A. Heinlein
+    - [Stranger in a Strange Land](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land)
+    - [Starship Troopers](https://en.wikipedia.org/wiki/Starship_Troopers)
+  - Neal Stephenson
+    - [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
+    - [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon)
+    - [Reamde](https://en.wikipedia.org/wiki/Reamde)
+    - [Seveneves](https://en.wikipedia.org/wiki/Seveneves)
+  - Douglas Adams
+    - [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+    - [Dirk Gently](https://en.wikipedia.org/wiki/Dirk_Gently)
+  - Philip K. Dick
+    - [Ubik](https://en.wikipedia.org/wiki/Ubik)
+    - [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly)
+    - [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+  - Orson Scott Card
+    - [Ender's Game](<https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)>)
+  - Frank Herbert
+    - [Dune](<https://en.wikipedia.org/wiki/Dune_(novel)>)
+  - Jules Verne
+    - [Twenty Thousand Leagues Under the Sea](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
+    - [Around the World in Eighty Days](https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days)
+    - [Journey to the Center of the Earth](https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
+  - Andy Weir
+    - [The Martian](<https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)>)
+    - [Artemis](<https://en.wikipedia.org/wiki/Artemis_(novel)>)
+    - [Project Hail Mary](https://en.wikipedia.org/wiki/Project_Hail_Mary)
+  - [Contact](<https://en.wikipedia.org/wiki/Contact_(novel)>) - Carl Sagan
+  - [Fahrenheit 451](https://en.wikipedia.org/wiki/Fahrenheit_451) - Ray Bradbury
+  - [Slaughterhouse-Five](https://en.wikipedia.org/wiki/Slaughterhouse-Five) - Kurt Vonnegut
+  - [The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds) - H.G. Wells
+  - [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) - William Gibson
+  - [Shutter Island](https://en.wikipedia.org/wiki/Shutter_Island) - Dennis Lehane
+  - [The Expanse](<https://en.wikipedia.org/wiki/The_Expanse_(novel_series)>) - James S. A. Corey (Daniel Abraham, Ty Franck)
+  - [The Nix](https://en.wikipedia.org/wiki/The_Nix) - Nathan Hill
+- [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) - J.R.R. Tolkien
+- [The Witcher](https://en.wikipedia.org/wiki/The_Witcher) - Andrzej Sapkowski
+- [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) - George Orwell
+- [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick) - Herman Melville
+- [The Hunger Games](https://en.wikipedia.org/wiki/The_Hunger_Games) - Suzanne Collins
+- [Cloud Atlas](<https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)>) - David Mitchell
+- [The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye) - J. D. Salinger
+- [Bobiverse Series](https://www.goodreads.com/series/192752-bobiverse) - Dennis E. Taylor
+
+## Biography
+
+- Walter Isaacson
+  - [Einstein: His Life and Universe](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe)
+  - [Benjamin Franklin: An American Life](https://en.wikipedia.org/wiki/Benjamin_Franklin:_An_American_Life)
+  - [Steve Jobs](<https://en.wikipedia.org/wiki/Steve_Jobs_(book)>)
+  - [The Innovators](<https://en.wikipedia.org/wiki/The_Innovators_(book)>)
+  - [Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)
+  - [The Code Breaker](https://en.wikipedia.org/wiki/The_Code_Breaker)
+- [Hackers & Painters](https://en.wikipedia.org/wiki/Hackers_%26_Painters) - Paul Graham
+- [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future) - Ashlee Vance
+- [The Cuckoo's Egg](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg) - Clifford Stoll
+- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) - Richard Feynman, Ralph Leighton
+- [My Inventions: The Autobiography of Nikola Tesla](https://en.wikipedia.org/wiki/My_Inventions:_The_Autobiography_of_Nikola_Tesla) - Nikola Tesla
+- [Mud, Sweat, and Tears](https://en.wikipedia.org/wiki/Mud,_Sweat,_and_Tears) - Bear Grylls
+- [iWoz](https://en.wikipedia.org/wiki/IWoz) - Steve Wozniak
+- [Permanent Record](<https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)>) - Edward Snowden
+
+## Entrepreneurship and life
 
 - Malcolm Gladwell
   - [Blink: The Power of Thinking Without Thinking](https://en.wikipedia.org/wiki/Blink:_The_Power_of_Thinking_Without_Thinking)
@@ -336,7 +348,7 @@ title: Books
 - [Rich Dad Poor Dad](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad) - Robert Kiyosaki, Sharon Lechter
 - [12 Rules for Life](https://en.wikipedia.org/wiki/12_Rules_for_Life) - Jordan Peterson
 
-### Philosophy and religion
+## Philosophy
 
 - Friedrich Nietzsche
   - [Thus Spoke Zarathustra](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra)
@@ -346,37 +358,34 @@ title: Books
   - [The Idiot](https://en.wikipedia.org/wiki/The_Idiot)
 - Marcus Aurelius
   - [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
-- [The Bhagavad Gita](https://www.goodreads.com/book/show/358540.The_Bhagavad_Gita) - Eknath Easwaran
 - [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - Viktor E. Frankl
 - [Letters from a Stoic](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic) - Seneca
 - [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) - Epictetus
 - [The Discourses](https://www.goodreads.com/book/show/1045017.The_Discourses) - Epictetus
 - [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) - Sun Tzu
 - [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) - Lao Tzu
+
+## Religion
+
 - [Why I Am Not a Christian and Other Essays on Religion and Related Subjects](https://www.goodreads.com/book/show/472025.Why_I_Am_Not_a_Christian_and_Other_Essays_on_Religion_and_Related_Subjects) - Bertrand Russell
+- [The Bhagavad Gita](https://www.goodreads.com/book/show/358540.The_Bhagavad_Gita) - Eknath Easwaran
 - [Why There Is No God](https://www.goodreads.com/book/show/23346140-why-there-is-no-god) - Armin Navabi
 
-### History
+## History
 
 - [The Rise and Fall of the Third Reich](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich) - William L. Shirer
 
-### Fantasy
+## Fantasy
 
 - [Perfume](<https://en.wikipedia.org/wiki/Perfume_(novel)>) - Patrick Süskind
 - [The Heroes of Olympus](https://en.wikipedia.org/wiki/The_Heroes_of_Olympus) - Rick Riordan
 - [Shadow and Bone](https://en.wikipedia.org/wiki/Shadow_and_Bone) - Leigh Bardugo
 
-### Physics textbooks
+## Children
 
-- [Gravitation](<https://en.wikipedia.org/wiki/Gravitation_(book)>) - Charles W. Misner, Kip S. Thorne, John Archibald Wheeler
-- [A First Course in General Relativity](https://www.goodreads.com/book/show/53520.A_First_Course_in_General_Relativity) - Bernard Schutz
-- [Fundamentals of Astrodynamics](https://www.goodreads.com/book/show/901329.Fundamentals_of_Astrodynamics) - Roger R. Bate
-- [Spacetime and Geometry: An Introduction to General Relativity](https://www.goodreads.com/book/show/259680.Spacetime_and_Geometry) - Sean Carroll
-- [General Relativity](https://www.goodreads.com/book/show/53522.General_Relativity) - Robert M. Wald
-- [Rocket Propulsion Elements](https://www.goodreads.com/book/show/7682536-rocket-propulsion-elements) - George P. Sutton
-- [Elements of Propulsion: Gas Turbines and Rockets](https://www.goodreads.com/book/show/1604170.Elements_of_Propulsion) - Jack D. Mattingly
+- [The Wind in the Willows](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows) - Kenneth Grahame
 
-### Misc
+## Misc
 
 - [Diary of a Wimpy Kid](https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid) - Jeff Kinney
 - [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) - Bill Bryson
@@ -385,15 +394,9 @@ title: Books
 - [Paradise Lost](https://www.goodreads.com/book/show/15997.Paradise_Lost) - John Milton
 - [Zen and the Art of Motorcycle Maintenance](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) - Robert M. Pirsig
 - [One Hundred Years of Solitude](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude)
-- [What If?](<https://en.wikipedia.org/wiki/What_If%3F_(book)>) - Randall Munroe
-- [Thing Explainer](https://en.wikipedia.org/wiki/Thing_Explainer) - Randall Munroe
 - [Bourne](<https://en.wikipedia.org/wiki/Bourne_(novel_series)>) - Robert Ludlum
 
-### Children
-
-- [The Wind in the Willows](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows) - Kenneth Grahame
-
-### Papers
+## Papers
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto (2008)
 - [Properties of Expanding Universes](https://archive.org/details/PropertiesOfExpandingUniverses/page/n23/mode/2up) - Stephen Hawking (1965)

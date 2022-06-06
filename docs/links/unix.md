@@ -1,6 +1,6 @@
 ---
 id: unix
-title: '*nix configuration'
+title: "*nix configuration"
 ---
 
 ### Browser customization
@@ -46,13 +46,12 @@ title: '*nix configuration'
   - [kernel.org](https://www.kernel.org/) - The Linux Kernel Archives.
   - [Linux Journal](https://www.linuxjournal.com/) `discontinued`
 - Vim
-  - Sites
-    - [VimDocs](http://vimdoc.sourceforge.net/)
-    - [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
-    - [Vimcasts.org](http://vimcasts.org/categories/) - Vim screencasts.
-    - [Best of Vim Tips by ZZapper](http://zzapper.co.uk/vimtips.html)
-    - [Derek Wyatt's Vim Videos](http://derekwyatt.org/vim/tutorials/)
-    - [Vim.zeef.com](https://vim.zeef.com/patrick.schanen)
+  - [VimDocs](http://vimdoc.sourceforge.net/)
+  - [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
+  - [Vimcasts.org](http://vimcasts.org/categories/) - Vim screencasts.
+  - [Best of Vim Tips by ZZapper](http://zzapper.co.uk/vimtips.html)
+  - [Derek Wyatt's Vim Videos](http://derekwyatt.org/vim/tutorials/)
+  - [Vim.zeef.com](https://vim.zeef.com/patrick.schanen)
   - Games
     - [Vim Adventures](https://vim-adventures.com/)
 - Emacs

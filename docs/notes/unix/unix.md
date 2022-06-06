@@ -1,6 +1,6 @@
 ---
 id: unix
-title: '*nix'
+title: "*nix"
 ---
 
 ## Some useful commands
@@ -346,6 +346,28 @@ Print a sequence of numbers.
 0 1 2 3 4 5 6 7 8 9
 ```
 
+### `split`
+
+```shell
+# Generates files named `xaa`, `xab`, `xac`, etc
+split file # Split `file` into 1000-line files
+split -l 10 file # Split `file` into 10-line files (except the last line)
+split -n 5 file # Split `file`, each split with equal size (except the last line)
+split -b 512 file # Split `file` with 512 bytes in each split (except the last line) (512k for kilbobytes, 512m for megabytes)
+split -C 512 file # Split `file` with at most 512 bytes in each split without breaking lines
+```
+
+### `csplit`
+
+```shell
+# Generates files named `xx00`, `xx01`, `xx02`, etc and prints size of each split in bytes to stdout
+csplit file 5 23 # Split a file at lines 5 and 23
+csplit file 5 {*} # Split a file every 5 lines (this will fail if the total number of lines is not divisible by 5)
+csplit -k file 5 {*} # Split a file every 5 lines, ignoring exact-division error
+csplit file 5 -f prefix # Split a file at line 5 and use a custom prefix for the output files
+csplit file /regex/ # Split a file at a line matching a regular expression
+```
+
 ### System monitoring
 
 - `ps`: Report a snapshot of the current processes.
@@ -434,8 +456,8 @@ Print a sequence of numbers.
 - `tree`: List contents of directories in a tree-like format.
 - `xev`: Print contents of X events.
 - `yes`: Output a string repeatedly until killed.
-- `split`: Split a file into pieces.
-- `csplit`: Split a file into sections determined by context lines.
+- `shuf file.txt` - Get random lines from `file.txt`.
+- `man ascii`: ASCII character set encoded in octal, decimal, and hexadecimal.
 
 ## Easter eggs
 

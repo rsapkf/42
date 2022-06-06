@@ -1,18 +1,13 @@
-import React from 'react'
-import Layout from '@theme/Layout'
-import Link from '@docusaurus/Link'
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
+import React from 'react';
+import Layout from '@theme/Layout';
 
-import styles from './index.module.css'
+import styles from './index.module.css';
 
 function Home() {
-  const context = useDocusaurusContext()
-  const { siteConfig = {} } = context
   return (
-    <Layout title={`${siteConfig.title}`} description="@rsapkf\'s wiki.">
+    <Layout title='/' description="@rsapkf\'s wiki.">
       <main className={styles.main}>
         <div className='container'>
-          <h1 className='hero__title'>[rsapkf/42]</h1>
           <p className='hero__subtitle'>Hi, welcome to @rsapkf's wiki.</p>
           <p>
             <strong>
@@ -36,15 +31,6 @@ function Home() {
             *nix utilities, mathematics, mathemagics, poems, notes from books
             I've read, etc.
           </p>
-          <h2 id='inspiration'>Inspiration</h2>
-          <blockquote>
-            <p>
-              I'm writing this down. This is good stuff. -{' '}
-              <a href='https://www.youtube.com/watch?v=yGzCAV3S1Vc'>
-                George McFly
-              </a>
-            </p>
-          </blockquote>
           <img
             className={styles.takingNotes}
             src='img/undraw/taking-notes.svg'
@@ -53,7 +39,7 @@ function Home() {
         </div>
       </main>
     </Layout>
-  )
+  );
 }
 
-export default Home
+export default Home;

@@ -5,29 +5,29 @@ title: STEM
 
 ## Science, mostly
 
-- [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
 - [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration.
 - [ESA](https://www.esa.int/) - European Space Agency.
 - [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization.
-- [The Newton Project](http://www.newtonproject.ox.ac.uk/) - a comprehensive edition of all of Newton’s printed and unpublished writings.
+- [What If Apollo 11 Failed?](https://www.archives.gov/files/presidential-libraries/events/centennials/nixon/images/exhibit/rn100-6-1-2.pdf) - An Undelivered Nixon Speech.
+- [Digital Einstein Papers](https://einsteinpapers.press.princeton.edu/)
+- [The Newton Project](http://www.newtonproject.ox.ac.uk/) - A comprehensive edition of all of Newton’s printed and unpublished writings.
+- [Newton Papers](http://cudl.lib.cam.ac.uk/collections/newton/1)
 - [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/)
 - [Quantum Country](https://quantum.country/)
-- [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/)
-- [Newton Papers](http://cudl.lib.cam.ac.uk/collections/newton/1)
-- [Seeing Theory](https://seeing-theory.brown.edu/index.html)
 - [The Encyclopedia of Science Fiction](http://sf-encyclopedia.com/)
-- [Digital Einstein Papers](https://einsteinpapers.press.princeton.edu/)
+- [Periodic Table of Elements - LANL](https://periodic.lanl.gov)
+- [How to become a Good Theoretical Physicist](https://www.goodtheorist.science/) - Gerard 't Hooft.
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [Scientific American](https://www.scientificamerican.com/)
 - [Space.com](https://www.space.com/)
 - [ScienceMag](https://www.sciencemag.org/)
 - [iflscience](https://www.iflscience.com/)
 - [CURIOSITY](https://curiosity.com/)
 - [phys.org](https://phys.org/)
-- [Quanta Magazine](https://www.quantamagazine.org/)
 - [New Scientist](https://www.newscientist.com/)
 - [ScienceAlert](https://www.sciencealert.com/)
 - [Futurism](https://futurism.com/)
 - [Popular Science](https://www.popsci.com/)
-- [Scientific American](https://www.scientificamerican.com/)
 - [JunkScience](https://junkscience.com/)
 - [Quillette](https://quillette.com/)
 - People
@@ -58,10 +58,10 @@ title: STEM
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
 - [Paul's Online Notes](http://tutorial.math.lamar.edu/) - Notes for classes that Prof. Paul Dawkins teaches at Lamar University.
 - [Real Not Complex](https://realnotcomplex.com/) - Discover incredible free resources to study mathematics.
-- [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [Cool Math Games](https://www.coolmathgames.com/)
 - [The Fibonacci Quarterly](https://www.fq.math.ca/)
 - [Gravity and Levity](https://gravityandlevity.wordpress.com/)
+- [Plus magazine](https://plus.maths.org/)
 - People
   - [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) ([Martin Gardner Centennial - Gathering 4 Gardner](http://martin-gardner.org/))
   - [Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller)
@@ -118,6 +118,7 @@ title: STEM
   - [Sindre Sorhus](https://medium.com/@sindresorhus)
   - [basecs](https://medium.com/basecs) - Exploring the basics of computer science.
   - [Mike Bostock](https://medium.com/@mbostock) - Creator of D3js.
+  - [Amelia Wattenberge](https://wattenberger.com/)
   - [Evan You](https://medium.com/@youyuxi) - Creator and project lead of Vue.js.
   - [Brian Armstrong](https://blog.coinbase.com/@barmstrong) - Co-Founder and CEO at Coinbase.
   - [Steve Yegge](https://medium.com/@steve.yegge) ([old blog](https://steve-yegge.blogspot.com/))

@@ -87,7 +87,7 @@ find -maxdepth <num>
 
 ### Execute commands on `find` results
 
-Other commands can be executed on results returned by `find` using the `-exec`/`-delete` options or by piping the output to the [`xargs`](./xargs) command or [GNU Parallel](<https://en.wikipedia.org/wiki/Parallel_(software)>).
+Other commands can be executed on results returned by `find` using the `-exec`/`-delete` options or by piping the output to the [`xargs`](/notes/unix/xargs) command or [GNU Parallel](<https://en.wikipedia.org/wiki/Parallel_(software)>).
 
 ```shell
 find <find_parameters> -exec <command_and_options> {} \;

@@ -75,6 +75,7 @@ title: Lists, articles, and essays
   - [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
   - [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
   - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon's_law)
+  - [Longest word in English](https://en.wikipedia.org/wiki/Longest_word_in_English)
 
 ### Misc
 

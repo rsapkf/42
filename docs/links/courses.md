@@ -1,6 +1,6 @@
 ---
 id: courses
-title: Massive open online courses
+title: MOOCs
 ---
 
 ### Platforms

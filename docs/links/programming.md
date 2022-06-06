@@ -21,7 +21,7 @@ title: Programming
 - [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 - [GitKraken Git Tutorials](https://www.gitkraken.com/learn-git)
 - GitHub
-  - [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=label%3A%22good+first+issue%22+language%3APython+state%3Aopen&type=Issues&ref=advsearch&l=Python&l=) - opportunities for contributing to open projects on GitHub
+  - [good first issues](https://github.com/search?q=good+first+issues+is%3Aissue&state=open&type=Issues) - opportunities for contributing to open projects on GitHub
 - Git clients
   - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows `closed-source`
   - [Sublime Merge](https://www.sublimemerge.com/) - Git Client, done Sublime `freemium`
@@ -46,9 +46,9 @@ title: Programming
   - [Box-shadow generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Box-shadow_generator) - This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects.
   - [Codrops](https://tympanus.net/codrops/) - Web Dev and Design News.
 - JavaScript
-  - [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [The Modern JavaScript Tutorial](https://javascript.info/) ([GitHub](https://github.com/javascript-tutorial/en.javascript.info))
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
-  - [JavaScript30](https://www.javascript30.com)(GitHub - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30))
+  - [JavaScript30](https://www.javascript30.com) ([GitHub](https://github.com/wesbos/JavaScript30))
   - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
   - [William Vincent's JavaScript Guide](https://wsvincent.com/javascript-guide/)
   - [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) - Kyle Cook.
@@ -152,18 +152,18 @@ See also: [HotFrameworks](https://hotframeworks.com/)
 
 ### Data visualization
 
-- D3js
+- D3.js
   - [ObservableHQ D3.js Tutorial](https://observablehq.com/@d3/learn-d3) - Mike Bostock, Creator of D3.js.
+  - [How to learn D3.js - Amelia Wattenberger](https://wattenberger.com/blog/d3)
 
 ### Static site generators
 
-- Sites
-  - [Jamstack.org](https://jamstack.org)
-  - [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators.
-  - [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
-  - [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
-  - [Forestry](https://forestry.io/) - A static CMS that commits.
-  - [GatsbyGuides](https://gatsbyguides.com/) - Build blazing fast web applications with Gatsby 101.
+- [Jamstack.org](https://jamstack.org)
+- [StaticGen](https://www.staticgen.com/) - Top Open Source Static Site Generators.
+- [headlessCMS](https://headlesscms.org/) - Top Content Management Systems for JAMstack sites.
+- [NetlifyCMS](https://www.netlifycms.org/) - Open source content management for your Git workflow.
+- [Forestry](https://forestry.io/) - A static CMS that commits.
+- [GatsbyGuides](https://gatsbyguides.com/) - Build blazing fast web applications with Gatsby 101.
 
 ### Databases
 
@@ -188,8 +188,9 @@ See also: [HotFrameworks](https://hotframeworks.com/)
 
 ### Regular expressions
 
-- [pythex.org](https://pythex.org/)
+- [RegExr](http://regexr.com/) ([Source](https://github.com/gskinner/regexr/))
 - [Regex101](https://regex101.com/)
+- [pythex.org](https://pythex.org/)
 - [Regular-Expressions.info](https://www.regular-expressions.info/)
 - [RexEgg](https://www.rexegg.com/)
 - [Regex Crossword](https://regexcrossword.com/)

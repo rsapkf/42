@@ -57,8 +57,8 @@ module.exports = {
               href: 'https://github.com/rsapkf/config/',
             },
             {
-              label: 'CFOP algs',
-              href: 'https://github.com/rsapkf/20/',
+              label: '?',
+              href: "https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy",
             },
           ],
         },
@@ -144,17 +144,8 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'Etc',
-          items: [
-            {
-              label: '?',
-              href: "https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy",
-            },
-          ],
-        },
       ],
-      copyright: `© ${new Date().getFullYear()} <a href="https://rsapkf.xyz/">rsapkf</a>`,
+      copyright: `© 2018 - ${new Date().getFullYear()} rsapkf`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/dracula'),

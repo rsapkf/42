@@ -139,7 +139,7 @@ title: Quotes
 
 ---
 
-## Miscellaneous
+## Misc
 
 ### Douglas Adams
 
