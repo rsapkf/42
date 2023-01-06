@@ -626,6 +626,7 @@ title: Open source software
 - Feed readers
   - (Gogs) [fox/tt-rss](https://git.tt-rss.org/fox/tt-rss) - Tiny Tiny RSS: Self-hosted feed reader. `self-hosted`
   - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
+  - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Podcast player.
   - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals.
   - [miniflux/miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader.
   - [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader.

@@ -412,8 +412,8 @@ moving around:
 | `<N>@@`                             | Repeat previous @{a-z} (N times)                                                                   |
 | `:@{a-z}`                           | Execute the contents of register {a-z} as an Ex command                                            |
 | `:@@`                               | Repeat previous :@{a-z}                                                                            |
-| `:[range]g[lobal]/{pattern}/[cmd]`  | Execute Ex command [cmd](default: ":p") on the lines within [range] where {pattern} matches        |
-| `:[range]g[lobal]!/{pattern}/[cmd]` | Execute Ex command [cmd](default: ":p") on the lines within [range] where {pattern} does NOT match |
+| `:[range]g[lobal]/{pattern}/[cmd]`  | Execute Ex command [cmd](default: ':p') on the lines within [range] where {pattern} matches        |
+| `:[range]g[lobal]!/{pattern}/[cmd]` | Execute Ex command [cmd](default: ':p') on the lines within [range] where {pattern} does NOT match |
 | `:so[urce] {file}`                  | Read Ex commands from {file}                                                                       |
 | `:so[urce]! {file}`                 | Read Vim commands from {file}                                                                      |
 | `:sl[eep][sec]`                     | Don't do anything for [sec] seconds                                                                |
@@ -544,6 +544,28 @@ Note: Pressing `Ctrl-f` in commandline mode opens the commandline window.
 | `]z`                         | Move to the end of the current open fold                                                                    |
 | `zj`                         | Move downwards to the start of the next fold                                                                |
 | `zk`                         | Move upwards to the end of the previous fold                                                                |
+
+### File explorer
+
+| Command       | Description                                                       |
+| ------------- | ----------------------------------------------------------------- |
+| `:e.`         | Open file explorer at current working directory                   |
+| `:sp.`        | Open file explorer in split at current working directory          |
+| `:vs.`        | Open file explorer in vertical split at current working directory |
+| `:E`          | Open file explorer at directory of current file                   |
+| `:Se`         | Open file explorer in split at directory of current file          |
+| `:Vex`        | Open file explorer in vertical split at directory of current file |
+| `:Lex`        | Toggle left file explorer                                         |
+| `:help netrw` |                                                                   |
+
+Exploring the file system:
+
+| Command | Description                                |
+| ------- | ------------------------------------------ |
+| `%`     | Create a new file                          |
+| `d`     | Create a new directory                     |
+| `R`     | Rename the file/directory under the cursor |
+| `D`     | Delete the file/directory under the cursor |
 
 ### Options
 

@@ -299,7 +299,7 @@ title: STEM
 ### Miscellaneous
 
 - [Feedly Discover](https://feedly.com/i/discover/)
-- [Hacker News](https://news.ycombinator.com/) ([Submit to HN bookmarklet](https://news.ycombinator.com/bookmarklet.html))
+- [Hacker News](https://news.ycombinator.com/)
   - [Y Combinator Company List](https://yclist.com/)
   - [Hacker Newsletter](https://www.hackernewsletter.com/)
   - [n-gate.com](http://n-gate.com/) - We can't both be right.
@@ -307,7 +307,7 @@ title: STEM
   - [Best of Show HN](https://bestofshowhn.com/)
 - [Reddit](https://reddit.com/)
   - [redditlist.com](http://redditlist.com/)
-- [Lobsters](https://lobste.rs/) ([Submit to Lobste.rs bookmarklet](https://lobste.rs/stories/new))
+- [Lobsters](https://lobste.rs/)
 - [YouTube](https://www.youtube.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Slashdot](https://www.slashdot.org/)

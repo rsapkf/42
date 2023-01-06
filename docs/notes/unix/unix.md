@@ -399,7 +399,7 @@ csplit file /regex/ # Split a file at a line matching a regular expression
 - `uptime`: Tell how long the system has been running.
 - `w`: See who is logged on and what they are doing.
 - `acpi`: Shows battery status and other ACPI information.
-  - (upower -i \`upower -e | grep 'BAT'\`): Battery information.
+- `upower`: Battery information.
 - `pidof [program]`: Find the process ID of a running program.
 
 ### System info
@@ -486,6 +486,7 @@ csplit file /regex/ # Split a file at a line matching a regular expression
 - `column`: Columnate lists.
 - `shuf file.txt` - Get random lines from `file.txt`.
 - `man ascii`: ASCII character set encoded in octal, decimal, and hexadecimal.
+- `stat` - Display file or file system status.
 
 ## Easter eggs
 

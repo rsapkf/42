@@ -29,7 +29,7 @@ sed -n '1~2p' <file> # Print every other line
 ## Deleting text
 
 ```shell
-sed '5p' <file> # Delete line 5
+sed '5d' <file> # Delete line 5
 sed '1~2d' <file> # Delete every other line starting from the first
 sed '6,$d' <file> # Delete from line 6 to end of file
 sed -i '1~2d' <file> # Change file in-place

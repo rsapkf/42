@@ -21,6 +21,7 @@ title: Poems
 - [8 count](https://www.poetryfoundation.org/poems/49699/8-count)
 - [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
 - [Bluebird](https://allpoetry.com/poem/8509539-Bluebird-by-Charles-Bukowski)
+- [Roll the Dice](https://hellopoetry.com/poem/68266/roll-the-dice/)
 
 ## Rudyard Kipling
 
@@ -33,7 +34,10 @@ title: Poems
 
 ## Misc
 
+- [Trees](<https://en.wikipedia.org/wiki/Trees_(poem)>) (1913) - Joyce Kilmer
+- [Ode on a Grecian Urn](https://en.wikipedia.org/wiki/Ode_on_a_Grecian_Urn) (1819) - John Keats
 - [Ozymandias](https://www.poetryfoundation.org/poems/46565/ozymandias) (1977) - Percy Bysshe Shelley
 - [Jabberwocky](https://en.wikipedia.org/wiki/Jabberwocky) (1871) - Lewis Carroll
 - [The Quiet World](https://www.poetryfoundation.org/poems/49238/the-quiet-world) (1998) - Jeffrey McDaniel
+- [Those Winterer Sundays](https://www.poetryfoundation.org/poems/46461/those-winter-sundays) - Robert Hayden
 - [Catullus 16](https://en.wikipedia.org/wiki/Catullus_16) - Gaius Valerius Catullus

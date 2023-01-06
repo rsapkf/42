@@ -55,8 +55,8 @@ title: Books
 - [Adopting Erlang](https://adoptingerlang.org/) - Tristan Sloughter, Fred Hebert, Evan Vigil-McClanahan
 - [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/) ([GitHub](https://github.com/happi/theBeamBook))
 - [Essential Image Optimization](https://images.guide/) - Addy Osmani ([GitHub](https://github.com/GoogleChrome/essential-image-optimization))
-- [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) - Google
-- [Building Secure and Reliable Systems](https://landing.google.com/sre/static/pdf/SRS.pdf) - Google
+- [Site Reliability Engineering](https://sre.google/books/) - Google
+- [Building Secure and Reliable Systems](https://sre.google/books/) - Google
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - Authors of four dozen open source applications
 - [Enterprise Open Source: A Practical Introduction](https://www.linuxfoundation.org/open-source-management/2018/08/enterprise-open-source-practical-introduction/) - The Linux Foundation
 - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed/index.html) - Stephen Wolfram
@@ -199,6 +199,7 @@ title: Books
 - Carl Sagan
   - [Cosmos](<https://en.wikipedia.org/wiki/Cosmos_(Carl_Sagan_book)>)
   - [Pale Blue Dot](<https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book)>)
+  - [The Demon-Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
 - Stephen Hawking
   - [A Brief History of Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
   - [The Universe in a Nutshell](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
@@ -218,6 +219,7 @@ title: Books
   - [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)
   - [The God Delusion](https://en.wikipedia.org/wiki/The_God_Delusion)
   - [The Extended Phenotype](https://en.wikipedia.org/wiki/The_Extended_Phenotype)
+  - [The Greatest Show on Earth: The Evidence for Evolution](https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth:_The_Evidence_for_Evolution)
   - [The Blind Watchmaker](https://en.wikipedia.org/wiki/The_Blind_Watchmaker)
 - Neil deGrasse Tyson
   - [Astrophysics for People in a Hurry](https://en.wikipedia.org/wiki/Astrophysics_for_People_in_a_Hurry)
@@ -250,6 +252,7 @@ title: Books
 - [Superintelligence: Paths, Dangers, Strategies](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) - Nick Bostrom
 - [Fads and Fallacies in the Name of Science](https://en.wikipedia.org/wiki/Fads_and_Fallacies_in_the_Name_of_Science) - Martin gardner
 - [The End of Faith](https://en.wikipedia.org/wiki/The_End_of_Faith) - Sam Harris
+- [Letter to a Christian Nation](https://en.wikipedia.org/wiki/Letter_to_a_Christian_Nation) - Sam Harris
 - [Just Six Numbers: The Deep Forces That Shape the Universe](https://www.goodreads.com/book/show/81884.Just_Six_Numbers) - Martin J. Rees
 - [Structures: Or Why Things Don't Fall Down](https://www.goodreads.com/book/show/245344.Structures) - J.E. Gordon
 - [Ignition!: An informal history of liquid rocket propellants](https://www.goodreads.com/book/show/677285.Ignition_) - John Drury Clark
@@ -275,6 +278,7 @@ title: Books
     - [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon)
     - [Reamde](https://en.wikipedia.org/wiki/Reamde)
     - [Seveneves](https://en.wikipedia.org/wiki/Seveneves)
+    - [The Baroque Cycle](https://en.wikipedia.org/wiki/The_Baroque_Cycle)
   - Douglas Adams
     - [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
     - [Dirk Gently](https://en.wikipedia.org/wiki/Dirk_Gently)
@@ -335,18 +339,19 @@ title: Books
   - [Blink: The Power of Thinking Without Thinking](https://en.wikipedia.org/wiki/Blink:_The_Power_of_Thinking_Without_Thinking)
   - [Outliers](<https://en.wikipedia.org/wiki/Outliers_(book)>)
   - [The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point)
+- [Creativity, Inc.](https://en.wikipedia.org/wiki/Creativity,_Inc.) - Amy Wallace, Edwin Catmull
 - [Zero to One](https://en.wikipedia.org/wiki/Zero_to_One) - Peter Thiel
 - [Our Final Invention](https://en.wikipedia.org/wiki/Our_Final_Invention) - James Barrat
 - [Start With Why](https://en.wikipedia.org/wiki/Start_With_Why) - Simon Sinek
 - [The Age of Surveillance Capitalism](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism) - Shoshana Zuboff
-- [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) - Dale Carnegie
 - [The 33 Strategies of War](https://en.wikipedia.org/wiki/The_33_Strategies_of_War) - Robert Greene
 - [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) - Napoleon Hill
 - [The Law of Success](https://en.wikipedia.org/wiki/The_Law_of_Success) - Napoleon Hill
-- [Creativity, Inc.](https://en.wikipedia.org/wiki/Creativity,_Inc.) - Amy Wallace, Edwin Catmull
 - [The Subtle Art of Not Giving a F ck](https://en.wikipedia.org/wiki/The_Subtle_Art_of_Not_Giving_a_Fuck) - Mark Manson
 - [Everything Is F cked](https://en.wikipedia.org/wiki/Everything_Is_Fucked) - Mark Manson
 - [Rich Dad Poor Dad](https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad) - Robert Kiyosaki, Sharon Lechter
+- [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) - Dale Carnegie
+- [How to Stop Worrying and Start Living](https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living) - Dale Carnegie
 - [12 Rules for Life](https://en.wikipedia.org/wiki/12_Rules_for_Life) - Jordan Peterson
 
 ## Philosophy
@@ -359,7 +364,7 @@ title: Books
   - [The Idiot](https://en.wikipedia.org/wiki/The_Idiot)
 - Marcus Aurelius
   - [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
-- [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - Viktor E. Frankl
+- [Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) - Viktor E. Frankl
 - [Letters from a Stoic](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic) - Seneca
 - [Enchiridion](https://www.goodreads.com/book/show/24615.Enchiridion) - Epictetus
 - [The Discourses](https://www.goodreads.com/book/show/1045017.The_Discourses) - Epictetus

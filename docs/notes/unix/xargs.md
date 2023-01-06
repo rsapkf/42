@@ -5,7 +5,7 @@ title: xargs
 
 ## `xargs`
 
-`xargs` (short for "eXtended ARGuments") converts input from stdin into arguments to a command.
+`xargs` (short for "eXtended ARGumentS") converts input from stdin into arguments to a command.
 
 Unlike `grep` or `awk` which can take input either as command-line arguments or stdin, commands like `rm`, `cp` or `echo` can only take input as arguments, which is why `xargs` is necessary.
 

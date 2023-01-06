@@ -19,6 +19,7 @@ title: MOOCs
 - [Khan Academy](https://www.khanacademy.org/)
 - [Google CodeLabs](https://codelabs.developers.google.com)
 - [Google Developers Certification](https://developers.google.com/certification) - Demonstrate your proficiency and skill and earn certifications.
+- [Stanford Engineering Everywhere](https://see.stanford.edu/)
 - [MOOC.fi](https://www.mooc.fi/en/)
 - [nand2tetris](https://www.nand2tetris.org/)
 - [Udacity](https://www.udacity.com/)

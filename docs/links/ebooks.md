@@ -19,9 +19,9 @@ title: Ebooks and research papers
 - [Library Genesis](http://en.wikipedia.org/wiki/Library_Genesis)
 - [Global Grey Ebooks](https://www.globalgreyebooks.com/)
 - [Colin Stebbins Gordon](https://csgordon.github.io/books.html)
-- [ZLibrary](https://b-ok.org/)
 - [freecomputerbooks.com](http://freecomputerbooks.com/)
 - [The Pirate Bay](https://en.wikipedia.org/wiki/The_Pirate_Bay)
+- [ZLibrary](https://en.wikipedia.org/wiki/Z-Library)
 - GitHub
   - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - Reddit

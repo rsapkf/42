@@ -54,7 +54,6 @@ title: Websites
   - `!amo`: addons.mozilla.org
   - `!cws`: Chrome Web Store
   - `!wbm`: The Wayback Machine
-  - `tldr tar`: Unix cheatsheets
 - [DuckDuckGo Instant Answers](https://duck.co/ia)
   - [random person](https://duckduckgo.com/?q=random+person+name+generator)
   - [color picker](https://duckduckgo.com/?q=color+picker)
@@ -73,6 +72,7 @@ title: Websites
   - [timer](https://duckduckgo.com/?q=timer)
   - [stopwatch](https://duckduckgo.com/?q=stopwatch)
   - [deal 7 cards](https://duckduckgo.com/?q=deal+7+cards)
+  - [tldr tar](https://duckduckgo.com/?q=tldr+tar): Unix cheatsheets.
 - "I'm Feeling Lucky" for DuckDuckGo: [\reddit](https://duckduckgo.com/?q=\reddit)
 
 ## Google
@@ -89,6 +89,9 @@ title: Websites
 - [google in 1998](https://www.google.com/search?q=google+in+1998)
 - [chess](https://www.google.com/search?q=chess)
 - [wizard of oz](https://www.google.com/search?q=wizard+of+oz)
+- [dog](https://www.google.com/search?q=dog)
+- [cat](https://www.google.com/search?q=cat)
+- [joey tribbiani](https://www.google.com/search?q=joey+tribbiani)
 
 ### YouTube
 

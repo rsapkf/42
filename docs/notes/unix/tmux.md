@@ -46,10 +46,10 @@ bind-key - split-window -v
 # Panes
 <prefix> q # Briefly display pane indexes
 <prefix> x # Kill the current pane
-<prefix> C-a " # Split vertically
-<prefix> C-a % # Split horizontally
+<prefix> " # Split vertically
+<prefix> % # Split horizontally
 
-# Windows
+# Window
 <prefix> c # Create a new window
 <prefix> & # Kill the current window
 <prefix> n # Move to the next window
@@ -69,7 +69,7 @@ bind-key - split-window -v
 ## Miscellaneous
 
 ```shell
-tmux list-sessions # List all sessions
+tmux ls # List all sessions
 <prefix> d # Detach from a session
 tmux attach -t <session_name> # Re-attach to a session
 tmux kill-server # Kill the tmux server and clients and destroy all sessions

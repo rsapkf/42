@@ -27,6 +27,14 @@ title: Quotes
 
 > He who has a why to live for can bear almost any how.
 
+> He who fights with monsters should look to it that he himself does not become a monster . . . when you gaze long into the abyss the abyss also gazes into you.
+
+> And those who were seen dancing were thought to be insane by those who could not hear the music.
+
+> I'm not upset that you lied to me, I'm upset that from now on I can't believe you.
+
+> The thought of suicide is a great consolation: by means of it one gets through many a dark night.
+
 ### Rashi
 
 > Receive with simplicity everything that happens to you.
@@ -40,6 +48,10 @@ title: Quotes
 ### Pierre-Simon Laplace
 
 > I had no need of that hypothesis. [[\*](https://en.wikipedia.org/wiki/Pierre-SimonLaplace#Ihadnoneedofthathypothesis)]
+
+### Voltaire
+
+> The best is the enemy of good.
 
 ---
 
@@ -106,6 +118,10 @@ title: Quotes
 ### Night In The Woods
 
 > I believe in a universe that doesn't care and people who do.
+
+### Paarthurnax [Skyrim]
+
+> What is better? To be born good, or to overcome your evil nature through great effort?
 
 ## Science
 
@@ -221,6 +237,14 @@ title: Quotes
 
 > Unless someone like you cares a whole awful lot, Nothing is going to get better. It's not. [[The Lorax](https://en.wikipedia.org/wiki/The_Lorax)]
 
+### Philip K. Dick
+
+> Reality is that which, when you stop believing in it, doesn't go away.
+
+### Thomas Jefferson
+
+> When injustice becomes law, resistance becomes duty.
+
 ---
 
 ## Catchphrases
@@ -326,6 +350,10 @@ title: Quotes
 ### The IT Crowd
 
 > 0118 999 881 999 119 725 3
+
+### American Psycho
+
+> I have to return some video tapes.
 
 ### The Big Bang Theory
 

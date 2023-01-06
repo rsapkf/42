@@ -15,11 +15,6 @@ title: Lists, articles, and essays
 - [Ask HN: Mind bending books to read and never be the same as before?](https://news.ycombinator.com/item?id=23151144)
 - [Ask HN: Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739)
 
-### Reddit
-
-- [What is the coolest website you’ve visited that no one knows about?](https://old.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)
-- [What's the scariest space fact/mystery in your opinion?](https://old.reddit.com/r/AskReddit/comments/h0ijze/whats_the_scariest_space_factmystery_in_your/)
-
 ### Stack Overflow
 
 - [vi - Your problem with Vim is that you don't grok vi.](https://stackoverflow.com/a/1220118)

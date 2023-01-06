@@ -354,7 +354,6 @@ title: YouTube subscriptions
 - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 - [Motherboard](https://www.youtube.com/channel/UCB6PV0cvJpzlcXRG7nz6PpQ)
 - [Strange Parts](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw)
-- [Altcoin Daily](https://www.youtube.com/channel/UCbLhGKVY-bJPcawebgtNfbw)
 - [Snazzy Labs](https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w)
 
 ### Podcasts

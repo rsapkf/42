@@ -8,8 +8,8 @@ title: Compression and archival
 - Extension: `.zip`
 
 ```shell
-zip -r file.zip file dir1 dir2 # Package and compress files and directories (r)ecursively
-zip -r file.zip dir -x path/to/exclude # E(x)clude unwanted files from being added to the compressed archive
+zip -r file.zip file.txt dir1 dir2 # Package and compress files and directories (r)ecursively
+zip -r file.zip dir1 -x path/to/exclude # E(x)clude unwanted files from being added to the compressed archive
 zip -r -9 file.zip path/to/directory # Archive a directory and its contents with the highest level(9) of compression
 zip -e -r file.zip path/to/directory # Create an encrypted archive
 zip file.zip path/to/file # Add files to an existing archive

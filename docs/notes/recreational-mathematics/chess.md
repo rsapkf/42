@@ -52,6 +52,7 @@ title: Chess
   - Max Lange Defense `2...Nc6`
   - Anderssen Defense `2...Bc5`
   - Frankenstein–Dracula Variation `2...Nf6 3.Bc4 Nxe4`
+- Danish Gambit `1.e4 e5 2.d4 exd4 3.c3`
 
 ### Semi-open games `1.e4`
 
@@ -122,7 +123,7 @@ title: Chess
     - Modern Line, Quiet Variation `2...c6 3.Nf3 Nf6 4.e3 e6 5.Bd3 Nbd7 6.Nbd2`
     - Chameleon `2...c6 3.Nf3 Nf6 4.Nc3 a6 5.c5`
   - Queen's Gambit Declined `2...e6`
-    - Elephant Trap `3. Nc3 Nf6 4. Bg5 Nbd7`
+    - Elephant Trap `3.Nc3 Nf6 4.Bg5 Nbd7`
   - Queen's Gambit Accepted `2...dxc4`
   - Albin Countergambit `1.d4 d5 2.c4 e5`
     - Lasker Trap `1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3? Bb4+ 5.Bd2 dxe3! 6.Bxb4?? exf2+ 7.Ke2 fxg1=N+! 8.Ke1 Qh4+ 9.Kd2 Nc6 (or 9.g3 Qe4+) 10.Bc3 Bg4`
@@ -283,6 +284,7 @@ See also: [List of chess traps](https://en.wikipedia.org/wiki/List_of_chess_trap
   - [Lucena position](https://en.wikipedia.org/wiki/Lucena_position) (good for attacking side)
   - [Philidor position](https://en.wikipedia.org/wiki/Philidor_position) (good for defending side)
   - [Vancura position](https://en.wikipedia.org/wiki/Rook_and_pawn_versus_rook_endgame#Van%C4%8Dura_position)
+  - [Saavedra position](https://en.wikipedia.org/wiki/Saavedra_position)
 - Two knights vs pawn
 - Three knights mate
 

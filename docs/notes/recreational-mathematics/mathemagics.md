@@ -287,5 +287,6 @@ If you divide 1 by 999,999,999,999,999,999,999,998,999,999,999,999,999,999,999,9
 - [Look-and-say sequence](https://en.wikipedia.org/wiki/Look-and-say_sequence): 1, 11, 21, 1211, 111221, 312211, 13112221, 1113213211, ...
 - [Belphegor's Prime](https://en.wikipedia.org/wiki/Belphegor%27s_prime): 1000000000000066600000000000001
 - [Sheldon prime](https://math.dartmouth.edu/~carlp/sheldon02132019.pdf)
+- [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 - ["I don't know the numbers": a math puzzle](https://alexanderell.is/posts/numbers-game/)
 - Trinity Hall prime [[\*](https://www.youtube.com/watch?v=fQQ8IiTWHhg), [\*](https://www.futilitycloset.com/2020/01/12/more-prime-images/), [\*](http://www.gef.free.fr/oulipo34.html#date060120)]
