@@ -70,11 +70,6 @@ module.exports = {
         },
       ],
     },
-    algolia: {
-      appId: '96LFYP4M12',
-      apiKey: '31823bbcd19fa56e277ef11691789679',
-      indexName: 'rsapkf',
-    },
     footer: {
       style: 'dark',
       links: [

@@ -1,7 +1,7 @@
-import React from "react";
-import Layout from "@theme/Layout";
+import React from 'react'
+import Layout from '@theme/Layout'
 
-import styles from "./index.module.css";
+import styles from './index.module.css'
 
 function Home() {
   return (
@@ -12,7 +12,7 @@ function Home() {
           <p>
             <strong>
               <u>~/links</u>
-            </strong>{" "}
+            </strong>{' '}
             is an ongoing attempt to organize my links, a directory of 5000+
             bookmarks that I use or have used in the past to learn programming,
             puzzle solving, web development and other intellectually stimulating
@@ -23,9 +23,9 @@ function Home() {
           <p>
             <strong>
               <u>~/notes</u>
-            </strong>{" "}
-            directory contains companion notes to my{" "}
-            <a href="https://github.com/rsapkf/config/">dotfiles</a> and{" "}
+            </strong>{' '}
+            directory contains companion notes to my{' '}
+            <a href="https://github.com/rsapkf/config/">dotfiles</a> and{' '}
             <a href="https://rsapkf.org/weblog">weblog</a> where I keep short
             snippets of code, shell scripts, tricks and tips related to common
             *nix utilities, mathematics, mathemagics, poems, notes from books
@@ -39,7 +39,7 @@ function Home() {
         </div>
       </main>
     </Layout>
-  );
+  )
 }
 
-export default Home;
+export default Home

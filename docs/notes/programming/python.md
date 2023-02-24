@@ -45,6 +45,8 @@ Hello world!
 SyntaxError: not a chance
 ```
 
+- [Secret code in Ex Machina (2014)](https://www.reddit.com/r/movies/comments/365f9b/secret_code_in_ex_machina/)
+
 ## Snippets
 
 ```python
